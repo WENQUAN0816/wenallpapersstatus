@@ -15,7 +15,9 @@
 | 📝 With Editor | 4 |
 | 📋 Editorial Assignment | 1 |
 | 🔄 Transfer Completed | 1 |
-| 📦 Not Currently Submitted | 6 |
+| 📝 Submitted / Under review | 2 |
+| ❌ Rejected | 1 |
+| 📦 Not Currently Submitted | 4 |
 
 ---
 
@@ -39,16 +41,25 @@
 
 ---
 
-## 📦 Previously Submitted Papers (Not Currently in Active Submission Tracking)
+## 📬 Gmail-Discovered Submissions (Status Found via Email Search)
+
+| # | Paper Title | Journal | Status | Date | GitHub Repo |
+|---|-------------|---------|--------|------|-------------|
+| 2 | Multimodal Emotion Analysis for Early Detection of Dementia Based on Attention Mechanisms and Cross-Modal Feature Fusion | Computers in Biology and Medicine | 📝 Submitted (CIBM-D-26-00934) | 2026-02-20 | [paper-2](https://github.com/WENQUAN0816/paper-2-Multimodal-Emotion-Analysis-for-Early-Detection-of-Dementia) |
+| 4 | Emotion Analysis-based Evaluation and Optimization of Elderly Care Policy Effects Using Deep Learning Framework | Computers in Human Behavior | ❌ **Rejected** (CHB-D-26-01370) | 2026-02-28 | [paper-4](https://github.com/WENQUAN0816/paper-4-Emotion-Analysis-Evaluation-and-Optimization-of-Elderly-Care-Policy-Using-Deep-Learning) |
+| 7 | Meta-Learning Framework for Healthy Aging Assessment with Attentive Neural Processes | Scientific Reports | 📝 Submitted (receipt confirmed) | 2025-06-26 | [paper-7](https://github.com/WENQUAN0816/paper-7-Meta-Learning-Framework-for-Healthy-Aging-Assessment-with-Attentive-Neural-Processes) |
+
+> Paper 4 was desk-rejected by CHB on 2026-02-28 — contribution deemed too limited for broad readership; recommended to submit to a more specialized journal.
+
+---
+
+## 📦 Previously Submitted Papers (No Submission Record Found in Gmail)
 
 | # | Paper Title | GitHub Repo |
 |---|-------------|-------------|
-| 2 | Multimodal Emotion Analysis for Early Detection of Dementia Based on Attention Mechanisms and Cross-Modal Feature Fusion | [paper-2](https://github.com/WENQUAN0816/paper-2-Multimodal-Emotion-Analysis-for-Early-Detection-of-Dementia) |
 | 3 | Multi-Source Data Integration with cGAN-Random Forest for Community Resilience Assessment | [paper-3](https://github.com/WENQUAN0816/paper-3-Multi-Source-Data-Integration-with-cGAN-Random-Forest-for-Community-Resilience) |
-| 4 | Emotion Analysis-based Evaluation and Optimization of Elderly Care Policy Effects Using Deep Learning Framework | [paper-4](https://github.com/WENQUAN0816/paper-4-Emotion-Analysis-Evaluation-and-Optimization-of-Elderly-Care-Policy-Using-Deep-Learning) |
 | 5 | Dual-Channel Attention Mechanisms for Intelligent Emotion Monitoring and Intervention in Smart Elderly Care Systems | [paper-5](https://github.com/WENQUAN0816/paper-5-Dual-Channel-Attention-for-Intelligent-Emotion-Monitoring-in-Smart-Elderly-Care) |
 | 6 | Social-Emotional Network and Loneliness Prevention in Elderly Care Based on GNN | [paper-6](https://github.com/WENQUAN0816/paper-6-Social-Emotional-Network-and-Loneliness-Prevention-in-Elderly-Care-Based-on-GNN) |
-| 7 | Meta-Learning Framework for Healthy Aging Assessment with Attentive Neural Processes | [paper-7](https://github.com/WENQUAN0816/paper-7-Meta-Learning-Framework-for-Healthy-Aging-Assessment-with-Attentive-Neural-Processes) |
 | 9 | Age-Friendly Living Environment Factors for EPLHIV: Fuzzy DEMATEL and Regional Comparison | [paper-9](https://github.com/WENQUAN0816/paper-9-Age-Friendly-Living-Environment-Factors-EPLHIV-Fuzzy-DEMATEL-Regional-Comparison) |
 
 ---
@@ -71,3 +82,4 @@
 | 📋 | Editorial Assignment | Paper being assigned to handling editor |
 | 🔄 | Transfer Completed | Paper transferred to another journal |
 | 📦 | Not Submitted | Paper not currently in active submission |
+| ❌ | Rejected | Paper rejected by journal |
