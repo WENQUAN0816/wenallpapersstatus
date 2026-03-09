@@ -1,6 +1,6 @@
 # All Papers Submission Status
 
-> **Last updated:** 2026-03-09
+> **Last updated:** 2026-03-10
 >
 > This repository tracks the submission status of all academic papers by WENQUAN0816.
 
@@ -17,7 +17,7 @@
 | Transfer Completed | 1 |
 | Submitted / Under review | 4 |
 | Rejected | 1 |
-| Not Currently Submitted | 2 |
+| Not Currently Submitted | 9 |
 
 ---
 
@@ -25,8 +25,6 @@
 
 | # | Paper Title | Journal | Status | Last Updated | GitHub Repo |
 |---|-------------|---------|--------|-------------|-------------|
-| 18 | Real-World Energy Efficiency of Refrigeration Systems in Grain Storage Facilities: A Large-Scale Field Study in Henan Province, China | Journal of Cleaner Production | With editor | 2026-03-06 | [paper-18](https://github.com/WENQUAN0816/paper-18-Real-World-Energy-Efficiency-Refrigeration-Systems-Grain-Storage-Henan) |
-| 19 | Dual-Mode Radiative Cooling and Solar Heating Roof Panel System for Year-Round Energy Management in Grain Warehouses | Energy and Buildings | With editor | 2026-03-05 | [paper-19](https://github.com/WENQUAN0816/paper-19-Dual-Mode-Radiative-Cooling-Solar-Heating-Roof-Panel-Grain-Warehouses) |
 | 1 | Bayesian Meta-Learning Framework for Temporal Age-Friendly Community Assessment | BMC Medical Research Methodology | With editor | 2026-03-07 | [paper-1](https://github.com/WENQUAN0816/paper-1-Bayesian-Meta-Learning-Framework-for-Temporal-Age-Friendly-Community-Assessment) |
 | 10 | An Elderly HIV-Infected Individual-Centric Framework for Age-Friendly Living Environment Assessment in China | BMC Geriatrics | With editor | 2026-03-03 | [paper-10](https://github.com/WENQUAN0816/paper-10-Elderly-HIV-Centric-Framework-Topic-Modeling-Delphi-Hierarchical-Needs) |
 | 11 | AFLE-HIV: Developing an Age-Friendly Living Environment Assessment Framework for Elderly HIV-Infected Individuals in China | BMC Public Health | Peer review | 2026-03-02 | [paper-11](https://github.com/WENQUAN0816/paper-11-AFLE-HIV-Assessment-Framework-Elderly-HIV-Infected-Individuals-China) |
@@ -59,12 +57,26 @@
 
 ---
 
-## Previously Submitted Papers (No Submission Record Found in Gmail)
+## Not Currently Submitted
 
-| # | Paper Title | GitHub Repo |
-|---|-------------|-------------|
-| 6 | Social Emotional Network Analysis and Loneliness Prevention in Elderly Care Communities Based on Graph Neural Networks and Attention Mechanisms | [paper-6](https://github.com/WENQUAN0816/paper-6-Social-Emotional-Network-Analysis-Loneliness-Prevention-Elderly-Care-Graph-Neural-Networks) |
-| 9 | A Causality Model of Age-Friendly Living Environment Factors for Elderly People Living with HIV in China: Text Mining, Fuzzy DEMATEL, and Regional Comparison | [paper-9](https://github.com/WENQUAN0816/paper-9-Causality-Model-Age-Friendly-Living-Environment-Factors-Elderly-HIV-China-Fuzzy-DEMATEL) |
+| # | Paper Title | Notes | GitHub Repo |
+|---|-------------|-------|-------------|
+| 6 | Social Emotional Network Analysis and Loneliness Prevention in Elderly Care Communities Based on Graph Neural Networks and Attention Mechanisms | Not submitted, pending journal selection | [paper-6](https://github.com/WENQUAN0816/paper-6-Social-Emotional-Network-Analysis-Loneliness-Prevention-Elderly-Care-Graph-Neural-Networks) |
+| 9 | A Causality Model of Age-Friendly Living Environment Factors for Elderly People Living with HIV in China: Text Mining, Fuzzy DEMATEL, and Regional Comparison | Manuscript ready for Journal of Urban Health, pending submission | [paper-9](https://github.com/WENQUAN0816/paper-9-Causality-Model-Age-Friendly-Living-Environment-Factors-Elderly-HIV-China-Fuzzy-DEMATEL) |
+| 18 | Real-World Energy Efficiency of Refrigeration Systems in Grain Storage Facilities: A Large-Scale Field Study in Henan Province, China | Not submitted | [paper-18](https://github.com/WENQUAN0816/paper-18-Real-World-Energy-Efficiency-Refrigeration-Systems-Grain-Storage-Henan) |
+| 19 | Dual-Mode Radiative Cooling and Solar Heating Roof Panel System for Year-Round Energy Management in Grain Warehouses | Not submitted | [paper-19](https://github.com/WENQUAN0816/paper-19-Dual-Mode-Radiative-Cooling-Solar-Heating-Roof-Panel-Grain-Warehouses) |
+
+### Han Laoshi Papers (5 Papers -- Not Submitted)
+
+All 5 papers from the [Transformer-Blockchain-IoT-Security-Elderly-Care-5-Papers](https://github.com/WENQUAN0816/Transformer-Blockchain-IoT-Security-Elderly-Care-5-Papers) repo:
+
+| # | Paper Title | Notes |
+|---|-------------|-------|
+| H1 | CNN-Transformer Hybrid Architecture with Blockchain-Enabled Trust Management for IoT Intrusion Detection in Smart Elderly Care Environments | Not submitted |
+| H2 | Federated Learning with Blockchain-Based Aggregation for Privacy-Preserving IoT Intrusion Detection in Smart Elderly Care Environments | Not submitted |
+| H3 | GAN-Based Anomaly Detection with Transformer Discriminator and Blockchain Verification for IoT Security in Smart Elderly Care Environments | Not submitted |
+| H4 | Reinforcement Learning with Transformer-Based State Encoding and Blockchain Incentive for Adaptive IoT Security in Smart Elderly Care Environments | Not submitted |
+| H5 | Lightweight Transformer with Knowledge Distillation and Blockchain Coordination for Edge-Based IoT Intrusion Detection in Resource-Constrained Elderly Smart Homes | Not submitted |
 
 ---
 
