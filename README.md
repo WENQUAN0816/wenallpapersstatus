@@ -15,9 +15,9 @@
 | 📝 With Editor | 4 |
 | 📋 Editorial Assignment | 1 |
 | 🔄 Transfer Completed | 1 |
-| 📝 Submitted / Under review | 2 |
+| 📝 Submitted / Under review | 4 |
 | ❌ Rejected | 1 |
-| 📦 Not Currently Submitted | 4 |
+| 📦 Not Currently Submitted | 2 |
 
 ---
 
@@ -45,9 +45,11 @@
 
 | # | Paper Title | Journal | Status | Date | GitHub Repo |
 |---|-------------|---------|--------|------|-------------|
-| 2 | Multimodal Emotion Analysis for Early Detection of Dementia Based on Attention Mechanisms and Cross-Modal Feature Fusion | Computers in Biology and Medicine | 📝 Submitted (CIBM-D-26-00934) | 2026-02-20 | [paper-2](https://github.com/WENQUAN0816/paper-2-Multimodal-Emotion-Analysis-for-Early-Detection-of-Dementia) |
+| 2 | Multimodal Emotion Analysis for Early Detection of Dementia Based on Attention Mechanisms and Cross-Modal Feature Fusion | Computers in Biology and Medicine | 📝 Submitted (CIBM-D-26-00934) | 2026-02-20 | [paper-2](https://github.com/WENQUAN0816/paper-2-Multimodal-Emotion-Analysis-Early-Detection-Dementia-Attention-Cross-Modal-Feature-Fusion) |
+| 3 | Multi-Source Data Integration with Conditional GAN-Random Forest for Community Resilience Assessment: Evidence from Henan Province, China | Sustainable Cities and Society | 📝 Submitted / Sent back (SCSI-D-26-02059) | 2026-02-22 | [paper-3](https://github.com/WENQUAN0816/paper-3-Multi-Source-Data-Integration-Conditional-GAN-Random-Forest-Community-Resilience-Assessment) |
 | 4 | Emotion Analysis-based Evaluation and Optimization of Elderly Care Policy Effects Using Deep Learning Framework | Computers in Human Behavior | ❌ **Rejected** (CHB-D-26-01370) | 2026-02-28 | [paper-4](https://github.com/WENQUAN0816/paper-4-Emotion-Analysis-Evaluation-and-Optimization-of-Elderly-Care-Policy-Using-Deep-Learning) |
-| 7 | Meta-Learning Framework for Healthy Aging Assessment with Attentive Neural Processes | Scientific Reports | 📝 Submitted (receipt confirmed) | 2025-06-26 | [paper-7](https://github.com/WENQUAN0816/paper-7-Meta-Learning-Framework-for-Healthy-Aging-Assessment-with-Attentive-Neural-Processes) |
+| 5 | Dual-Channel Attention Mechanisms for Intelligent Emotion Monitoring and Intervention in Smart Elderly Care Systems | Biomedical Signal Processing and Control | 📝 Submitted (BSPC-D-26-02864) | 2026-02-22 | [paper-5](https://github.com/WENQUAN0816/paper-5-Dual-Channel-Attention-Mechanisms-Intelligent-Emotion-Monitoring-Intervention-Elderly-Care) |
+| 7 | Meta-Learning Framework for Healthy Aging Assessment: Attentive Neural Processes with Cross-Population Generalization | Scientific Reports | 📝 Submitted (receipt confirmed) | 2025-06-26 | [paper-7](https://github.com/WENQUAN0816/paper-7-Meta-Learning-Framework-Healthy-Aging-Assessment-Attentive-Neural-Processes-Cross-Population) |
 
 > Paper 4 was desk-rejected by CHB on 2026-02-28 — contribution deemed too limited for broad readership; recommended to submit to a more specialized journal.
 
@@ -57,10 +59,8 @@
 
 | # | Paper Title | GitHub Repo |
 |---|-------------|-------------|
-| 3 | Multi-Source Data Integration with cGAN-Random Forest for Community Resilience Assessment | [paper-3](https://github.com/WENQUAN0816/paper-3-Multi-Source-Data-Integration-with-cGAN-Random-Forest-for-Community-Resilience) |
-| 5 | Dual-Channel Attention Mechanisms for Intelligent Emotion Monitoring and Intervention in Smart Elderly Care Systems | [paper-5](https://github.com/WENQUAN0816/paper-5-Dual-Channel-Attention-for-Intelligent-Emotion-Monitoring-in-Smart-Elderly-Care) |
-| 6 | Social-Emotional Network and Loneliness Prevention in Elderly Care Based on GNN | [paper-6](https://github.com/WENQUAN0816/paper-6-Social-Emotional-Network-and-Loneliness-Prevention-in-Elderly-Care-Based-on-GNN) |
-| 9 | Age-Friendly Living Environment Factors for EPLHIV: Fuzzy DEMATEL and Regional Comparison | [paper-9](https://github.com/WENQUAN0816/paper-9-Age-Friendly-Living-Environment-Factors-EPLHIV-Fuzzy-DEMATEL-Regional-Comparison) |
+| 6 | Social Emotional Network Analysis and Loneliness Prevention in Elderly Care Communities Based on Graph Neural Networks and Attention Mechanisms | [paper-6](https://github.com/WENQUAN0816/paper-6-Social-Emotional-Network-Analysis-Loneliness-Prevention-Elderly-Care-Graph-Neural-Networks) |
+| 9 | A Causality Model of Age-Friendly Living Environment Factors for Elderly People Living with HIV in China: Text Mining, Fuzzy DEMATEL, and Regional Comparison | [paper-9](https://github.com/WENQUAN0816/paper-9-Causality-Model-Age-Friendly-Living-Environment-Factors-Elderly-HIV-China-Fuzzy-DEMATEL) |
 
 ---
 
