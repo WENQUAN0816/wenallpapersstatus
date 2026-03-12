@@ -1,6 +1,6 @@
 # All Papers Submission Status
 
-> **Last updated:** 2026-03-10
+> **Last updated:** 2026-03-13
 >
 > This repository tracks the submission status of all academic papers by WENQUAN0816.
 
@@ -16,8 +16,9 @@
 | Editorial Assignment / Editor Invited | 2 |
 | Transfer Completed | 1 |
 | Submitted / Under review | 4 |
-| Rejected | 1 |
-| Not Currently Submitted | 9 |
+| Rejected | 0 |
+| Not Currently Submitted | 8 |
+| 待投稿 (Rejected → Pending Resubmission) | 2 |
 
 ---
 
@@ -51,7 +52,7 @@
 |---|-------------|---------|--------|------|-------------|
 | 2 | Multimodal Emotion Analysis for Early Detection of Dementia Based on Attention Mechanisms and Cross-Modal Feature Fusion | Computers in Biology and Medicine | Submitted (CIBM-D-26-00934) | 2026-02-20 | [paper-2](https://github.com/WENQUAN0816/paper-2-Multimodal-Emotion-Analysis-Early-Detection-Dementia-Attention-Cross-Modal-Feature-Fusion) |
 | 3 | Multi-Source Data Integration with Conditional GAN-Random Forest for Community Resilience Assessment: Evidence from Henan Province, China | Sustainable Cities and Society | Submitted / Sent back (SCSI-D-26-02059) | 2026-02-22 | [paper-3](https://github.com/WENQUAN0816/paper-3-Multi-Source-Data-Integration-Conditional-GAN-Random-Forest-Community-Resilience-Assessment) |
-| 4 | Emotion Analysis-based Evaluation and Optimization of Elderly Care Policy Effects Using Deep Learning Framework | Computers in Human Behavior | **Rejected** (CHB-D-26-01370) | 2026-02-28 | [paper-4](https://github.com/WENQUAN0816/paper-4-Emotion-Analysis-Evaluation-and-Optimization-of-Elderly-Care-Policy-Using-Deep-Learning) |
+| 4 | Emotion Analysis-based Evaluation and Optimization of Elderly Care Policy Effects Using Deep Learning Framework | Computers in Human Behavior | **待投稿** (CHB-D-26-01370 rejected) | 2026-02-28 | [paper-4](https://github.com/WENQUAN0816/paper-4-Emotion-Analysis-Evaluation-and-Optimization-of-Elderly-Care-Policy-Using-Deep-Learning) |
 
 > Paper 4 was desk-rejected by CHB on 2026-02-28 - contribution deemed too limited for broad readership; recommended to submit to a more specialized journal.
 
@@ -63,7 +64,7 @@
 |---|-------------|-------|-------------|
 | 6 | Social Emotional Network Analysis and Loneliness Prevention in Elderly Care Communities Based on Graph Neural Networks and Attention Mechanisms | Not submitted, pending journal selection | [paper-6](https://github.com/WENQUAN0816/paper-6-Social-Emotional-Network-Analysis-Loneliness-Prevention-Elderly-Care-Graph-Neural-Networks) |
 | 9 | A Causality Model of Age-Friendly Living Environment Factors for Elderly People Living with HIV in China: Text Mining, Fuzzy DEMATEL, and Regional Comparison | Manuscript ready for Journal of Urban Health, pending submission | [paper-9](https://github.com/WENQUAN0816/paper-9-Causality-Model-Age-Friendly-Living-Environment-Factors-Elderly-HIV-China-Fuzzy-DEMATEL) |
-| 18 | Real-World Energy Efficiency of Refrigeration Systems in Grain Storage Facilities: A Large-Scale Field Study in Henan Province, China | Not submitted | [paper-18](https://github.com/WENQUAN0816/paper-18-Real-World-Energy-Efficiency-Refrigeration-Systems-Grain-Storage-Henan) |
+| 18 | 粮食仓储设施制冷系统实际能效：中国河南省大规模实地研究 (Real-World Energy Efficiency of Refrigeration Systems in Grain Storage Facilities: A Large-Scale Field Study in Henan Province, China) | **待投稿** (Journal of Cleaner Production rejected) | [paper-18](https://github.com/WENQUAN0816/paper-18-Real-World-Energy-Efficiency-Refrigeration-Systems-Grain-Storage-Henan) |
 | 19 | Dual-Mode Radiative Cooling and Solar Heating Roof Panel System for Year-Round Energy Management in Grain Warehouses | Not submitted | [paper-19](https://github.com/WENQUAN0816/paper-19-Dual-Mode-Radiative-Cooling-Solar-Heating-Roof-Panel-Grain-Warehouses) |
 
 ### Han Laoshi Papers (5 Papers -- Not Submitted)
@@ -98,4 +99,5 @@ All 5 papers from the [Transformer-Blockchain-IoT-Security-Elderly-Care-5-Papers
 | Editorial Assignment / Editor Invited | Paper being assigned to handling editor |
 | Transfer Completed | Paper transferred to another journal |
 | Not Submitted | Paper not currently in active submission |
+| 待投稿 | Paper rejected, pending resubmission to another journal |
 | Rejected | Paper rejected by journal |
