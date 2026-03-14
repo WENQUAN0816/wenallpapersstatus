@@ -1,6 +1,6 @@
 # All Papers Submission Status
 
-> **Last updated:** 2026-03-13
+> **Last updated:** 2026-03-15
 >
 > This repository tracks the submission status of all academic papers by WENQUAN0816.
 
@@ -11,8 +11,8 @@
 | Status | Count |
 |--------|-------|
 | Peer Review | 4 |
-| Pre-Review (With Editor / Editorial Assignment / Submitted) | 10 |
-| Pending Submission | 10 |
+| Pre-Review (With Editor / Editorial Assignment / Submitted) | 9 |
+| Pending Submission | 11 |
 
 ---
 
@@ -44,11 +44,14 @@
 
 | # | Paper Title | Journal | Status | Date | GitHub Repo |
 |---|-------------|---------|--------|------|-------------|
-| 2 | Multimodal Emotion Analysis for Early Detection of Dementia Based on Attention Mechanisms and Cross-Modal Feature Fusion | Computers in Biology and Medicine | Submitted (CIBM-D-26-00934) | 2026-02-20 | [paper-2](https://github.com/WENQUAN0816/paper-2-Multimodal-Emotion-Analysis-Early-Detection-Dementia-Attention-Cross-Modal-Feature-Fusion) |
+| 2 | Multimodal Emotion Analysis for Early Detection of Dementia Based on Attention Mechanisms and Cross-Modal Feature Fusion | Computers in Biology and Medicine | **Rejected** → Pending Submission (CIBM-D-26-00934) | 2026-03-14 | [paper-2](https://github.com/WENQUAN0816/paper-2-Multimodal-Emotion-Analysis-Early-Detection-Dementia-Attention-Cross-Modal-Feature-Fusion) |
 | 3 | Multi-Source Data Integration with Conditional GAN-Random Forest for Community Resilience Assessment: Evidence from Henan Province, China | Sustainable Cities and Society | Submitted / Sent back (SCSI-D-26-02059) | 2026-02-22 | [paper-3](https://github.com/WENQUAN0816/paper-3-Multi-Source-Data-Integration-Conditional-GAN-Random-Forest-Community-Resilience-Assessment) |
 | 4 | Emotion Analysis-based Evaluation and Optimization of Elderly Care Policy Effects Using Deep Learning Framework | Computers in Human Behavior | **Rejected** → Pending Submission (CHB-D-26-01370) | 2026-02-28 | [paper-4](https://github.com/WENQUAN0816/paper-4-Emotion-Analysis-Evaluation-and-Optimization-of-Elderly-Care-Policy-Using-Deep-Learning) |
 
 > Paper 4 was desk-rejected by CHB on 2026-02-28 - contribution deemed too limited for broad readership; recommended to submit to a more specialized journal.
+> Paper 2 was rejected by Computers in Biology and Medicine on 2026-03-14 - manuscript did not meet required quality standards.
+>
+> Paper 18 was rejected again by Journal of Cleaner Production (JCLEPRO-D-26-07569) on 2026-03-12 - not the right fit for the journal.
 
 ---
 
@@ -56,10 +59,11 @@
 
 | # | Paper Title | Notes | GitHub Repo |
 |---|-------------|-------|-------------|
+| 2 | Multimodal Emotion Analysis for Early Detection of Dementia Based on Attention Mechanisms and Cross-Modal Feature Fusion | Rejected by Computers in Biology and Medicine (CIBM-D-26-00934, 2026-03-14) - quality standards not met; pending resubmission | [paper-2](https://github.com/WENQUAN0816/paper-2-Multimodal-Emotion-Analysis-Early-Detection-Dementia-Attention-Cross-Modal-Feature-Fusion) |
 | 4 | Emotion Analysis-based Evaluation and Optimization of Elderly Care Policy Effects Using Deep Learning Framework | Rejected by Computers in Human Behavior (CHB-D-26-01370), pending resubmission | [paper-4](https://github.com/WENQUAN0816/paper-4-Emotion-Analysis-Evaluation-and-Optimization-of-Elderly-Care-Policy-Using-Deep-Learning) |
 | 6 | Social Emotional Network Analysis and Loneliness Prevention in Elderly Care Communities Based on Graph Neural Networks and Attention Mechanisms | Not submitted, pending journal selection | [paper-6](https://github.com/WENQUAN0816/paper-6-Social-Emotional-Network-Analysis-Loneliness-Prevention-Elderly-Care-Graph-Neural-Networks) |
 | 9 | A Causality Model of Age-Friendly Living Environment Factors for Elderly People Living with HIV in China: Text Mining, Fuzzy DEMATEL, and Regional Comparison | Manuscript ready for Journal of Urban Health, pending submission | [paper-9](https://github.com/WENQUAN0816/paper-9-Causality-Model-Age-Friendly-Living-Environment-Factors-Elderly-HIV-China-Fuzzy-DEMATEL) |
-| 18 | Real-World Energy Efficiency of Refrigeration Systems in Grain Storage Facilities: A Large-Scale Field Study in Henan Province, China | Rejected by Journal of Cleaner Production, pending resubmission | [paper-18](https://github.com/WENQUAN0816/paper-18-Real-World-Energy-Efficiency-Refrigeration-Systems-Grain-Storage-Henan) |
+| 18 | Real-World Energy Efficiency of Refrigeration Systems in Grain Storage Facilities: A Large-Scale Field Study in Henan Province, China | Rejected twice by Journal of Cleaner Production (JCLEPRO-D-26-07569, 2026-03-12), pending resubmission | [paper-18](https://github.com/WENQUAN0816/paper-18-Real-World-Energy-Efficiency-Refrigeration-Systems-Grain-Storage-Henan) |
 | 19 | Dual-Mode Radiative Cooling and Solar Heating Roof Panel System for Year-Round Energy Management in Grain Warehouses | Not submitted | [paper-19](https://github.com/WENQUAN0816/paper-19-Dual-Mode-Radiative-Cooling-Solar-Heating-Roof-Panel-Grain-Warehouses) |
 
 ### Han Laoshi Papers (5 Papers -- Not Submitted)
