@@ -1,6 +1,6 @@
 # All Papers Submission Status
 
-> **Last updated:** 2026-03-15
+> **Last updated:** 2026-03-18
 >
 > This repository tracks the submission status of all academic papers by WENQUAN0816.
 
@@ -11,8 +11,8 @@
 | Status | Count |
 |--------|-------|
 | Peer Review | 4 |
-| Pre-Review (With Editor / Editorial Assignment / Submitted) | 9 |
-| Pending Submission | 11 |
+| Pre-Review (With Editor / Editorial Assignment / Submitted) | 10 |
+| Pending Submission | 12 |
 
 ---
 
@@ -33,10 +33,13 @@
 | 15 | An Evidence-Based Fire Resilience Assessment Framework for Elderly Residents in Hong Kong High-Rise Communities | Humanities and Social Sciences Communications | With editor | 2026-01-30 | [paper-15](https://github.com/WENQUAN0816/paper-15-Fire-Resilience-Assessment-Elderly-Hong-Kong-High-Rise) |
 | 16 | A LSTM-based Model Predictive Control Method for Unlocking the Potential of Building Energy Flexibility in Malaysian Commercial Buildings | Scientific Reports | Peer review | 2026-01-13 | [paper-16](https://github.com/WENQUAN0816/paper-16-LSTM-Model-Predictive-Control-Building-Energy-Flexibility-Malaysia) |
 | 17 | Transforming Vacant Rural School Buildings into Age-Friendly Facilities under China Aging and Low-Fertility Context: A Natural Language Processing Based Evaluation Framework | BMC Geriatrics | **Accepted** | 2026-01-08 | [paper-17](https://github.com/WENQUAN0816/paper-17-Transforming-Vacant-Rural-School-Buildings-Age-Friendly-NLP-Framework) |
+| 20 | Transferable Deep Learning Network for Indoor Point Cloud Semantic Segmentation in Age-Friendly Home Environment Assessment | ISPRS Journal of Photogrammetry and Remote Sensing | Waiting for Author Approval (PDF built, pending Mazran Ismail approval) | 2026-03-18 | — |
 
 > Paper 13 was transferred from Journal of Health, Population and Nutrition to Archives of Public Health on 2026-02-15.
 
 > Paper 7 was previously submitted to Scientific Reports (2025-06-26), now resubmitted to Neural Networks (2026-02-22).
+
+> Paper 20 (ISPRS, 3D点云居家适老化) submitted 2026-03-18. PDF built and awaiting approval by corresponding author Mazran Ismail at editorialmanager.com/photo/.
 
 ---
 
@@ -47,11 +50,19 @@
 | 2 | Multimodal Emotion Analysis for Early Detection of Dementia Based on Attention Mechanisms and Cross-Modal Feature Fusion | Computers in Biology and Medicine | **Rejected** → Pending Submission (CIBM-D-26-00934) | 2026-03-14 | [paper-2](https://github.com/WENQUAN0816/paper-2-Multimodal-Emotion-Analysis-Early-Detection-Dementia-Attention-Cross-Modal-Feature-Fusion) |
 | 3 | Multi-Source Data Integration with Conditional GAN-Random Forest for Community Resilience Assessment: Evidence from Henan Province, China | Sustainable Cities and Society | Submitted / Sent back (SCSI-D-26-02059) | 2026-02-22 | [paper-3](https://github.com/WENQUAN0816/paper-3-Multi-Source-Data-Integration-Conditional-GAN-Random-Forest-Community-Resilience-Assessment) |
 | 4 | Emotion Analysis-based Evaluation and Optimization of Elderly Care Policy Effects Using Deep Learning Framework | Computers in Human Behavior | **Rejected** → Pending Submission (CHB-D-26-01370) | 2026-02-28 | [paper-4](https://github.com/WENQUAN0816/paper-4-Emotion-Analysis-Evaluation-and-Optimization-of-Elderly-Care-Policy-Using-Deep-Learning) |
+| — | Phase-Change Material-Based Adaptive Multi-Zone Temperature Control for Multi-Story Grain Warehouses | Applied Thermal Engineering | **Rejected** (ATE-D-26-03583, desk rejection) | 2026-03-17 | — |
+| — | Developing a Sustainable Assessment Framework for Community Resilience to Public Health Emergencies: Integrating Contrastive Learning with Hyperspherical Embedding | Springer Nature (journal TBD) | **Withdrawn** (no revised version received) | 2026-03-17 | — |
+| 13 | Building Age-Friendly Community Resilience in Post-Pandemic China: An Evidence-Based Multi-Criteria Assessment Framework for Public Health Emergency Preparedness | iScience | Incomplete submission (action required) | 2026-03-17 | [paper-13](https://github.com/WENQUAN0816/paper-13-Building-Age-Friendly-Community-Resilience-Post-Pandemic-China) |
+| 20 | Transferable Deep Learning Network for Indoor Point Cloud Semantic Segmentation in Age-Friendly Home Environment Assessment | npj Aging | Submission started (not yet completed) | 2026-03-17 | — |
 
 > Paper 4 was desk-rejected by CHB on 2026-02-28 - contribution deemed too limited for broad readership; recommended to submit to a more specialized journal.
 > Paper 2 was rejected by Computers in Biology and Medicine on 2026-03-14 - manuscript did not meet required quality standards.
 >
 > Paper 18 was rejected again by Journal of Cleaner Production (JCLEPRO-D-26-07569) on 2026-03-12 - not the right fit for the journal.
+>
+> ATE paper (Phase-Change Material grain warehouse) desk-rejected 2026-03-17 - not in top 15-20% of submissions.
+> Springer Nature paper (Contrastive Learning + Hyperspherical Embedding) withdrawn 2026-03-17 - no revised version received.
+> Paper 13 has an incomplete iScience submission requiring action at editorialmanager.com/iScience/.
 
 ---
 
@@ -65,6 +76,7 @@
 | 9 | A Causality Model of Age-Friendly Living Environment Factors for Elderly People Living with HIV in China: Text Mining, Fuzzy DEMATEL, and Regional Comparison | Manuscript ready for Journal of Urban Health, pending submission | [paper-9](https://github.com/WENQUAN0816/paper-9-Causality-Model-Age-Friendly-Living-Environment-Factors-Elderly-HIV-China-Fuzzy-DEMATEL) |
 | 18 | Real-World Energy Efficiency of Refrigeration Systems in Grain Storage Facilities: A Large-Scale Field Study in Henan Province, China | Rejected twice by Journal of Cleaner Production (JCLEPRO-D-26-07569, 2026-03-12), pending resubmission | [paper-18](https://github.com/WENQUAN0816/paper-18-Real-World-Energy-Efficiency-Refrigeration-Systems-Grain-Storage-Henan) |
 | 19 | Dual-Mode Radiative Cooling and Solar Heating Roof Panel System for Year-Round Energy Management in Grain Warehouses | Not submitted | [paper-19](https://github.com/WENQUAN0816/paper-19-Dual-Mode-Radiative-Cooling-Solar-Heating-Roof-Panel-Grain-Warehouses) |
+| — | Phase-Change Material-Based Adaptive Multi-Zone Temperature Control for Multi-Story Grain Warehouses | Rejected by Applied Thermal Engineering (ATE-D-26-03583, 2026-03-17) - desk rejection; pending resubmission | — |
 
 ### Han Laoshi Papers (5 Papers -- Not Submitted)
 
