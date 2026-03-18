@@ -1,6 +1,6 @@
 # All Papers Submission Status
 
-> **Last updated:** 2026-03-18
+> **Last updated:** 2026-03-19
 >
 > This repository tracks the submission status of all academic papers by WENQUAN0816.
 
@@ -11,8 +11,8 @@
 | Status | Count |
 |--------|-------|
 | Peer Review | 4 |
-| Pre-Review (With Editor / Editorial Assignment / Submitted) | 10 |
-| Pending Submission | 12 |
+| Pre-Review (With Editor / Editorial Assignment / Submitted) | 12 |
+| Pending Submission | 11 |
 
 ---
 
@@ -34,12 +34,18 @@
 | 16 | A LSTM-based Model Predictive Control Method for Unlocking the Potential of Building Energy Flexibility in Malaysian Commercial Buildings | Scientific Reports | Peer review | 2026-01-13 | [paper-16](https://github.com/WENQUAN0816/paper-16-LSTM-Model-Predictive-Control-Building-Energy-Flexibility-Malaysia) |
 | 17 | Transforming Vacant Rural School Buildings into Age-Friendly Facilities under China Aging and Low-Fertility Context: A Natural Language Processing Based Evaluation Framework | BMC Geriatrics | **Accepted** | 2026-01-08 | [paper-17](https://github.com/WENQUAN0816/paper-17-Transforming-Vacant-Rural-School-Buildings-Age-Friendly-NLP-Framework) |
 | 20 | Transferable Deep Learning Network for Indoor Point Cloud Semantic Segmentation in Age-Friendly Home Environment Assessment | ISPRS Journal of Photogrammetry and Remote Sensing | Submitted (PHOTO-S-26-01327) | 2026-03-18 | [paper-20](https://github.com/WENQUAN0816/paper-20-Transferable-Deep-Learning-Point-Cloud-Semantic-Segmentation-Age-Friendly-Home-Assessment) |
+| 21 | Dependency-Aware 3D Scene Graph Generation for Automated Age-Friendly Home Environment Assessment via Multimodal Feature Learning | Image and Vision Computing | Submitted to Journal | 2026-03-18 | — |
+| 22 | Dual hierarchical attention-enhanced transfer learning for semantic segmentation of point clouds in age-friendly home environment assessment | Journal of Big Data | Technical Check | 2026-03-19 | — |
 
 > Paper 13 was transferred from Journal of Health, Population and Nutrition to Archives of Public Health on 2026-02-15.
 
 > Paper 7 was previously submitted to Scientific Reports (2025-06-26), now resubmitted to Neural Networks (2026-02-22).
 
 > Paper 20 (ISPRS, 3D点云居家适老化) submitted 2026-03-18, manuscript ID PHOTO-S-26-01327. Approved and submitted to editorial office.
+>
+> Paper 21 (AF-SGNet, 3D Scene Graph) submitted to Image and Vision Computing (IMAVIS) 2026-03-18 via Elsevier New Service. Previously rejected by Automation in Construction.
+>
+> Paper 22 (点云语义分割适老化, DHANet) submitted to Journal of Big Data (Springer Nature SNAPP) 2026-03-19. Currently in Technical Check.
 
 ---
 
@@ -78,7 +84,7 @@
 | 18 | Real-World Energy Efficiency of Refrigeration Systems in Grain Storage Facilities: A Large-Scale Field Study in Henan Province, China | Rejected twice by Journal of Cleaner Production (JCLEPRO-D-26-07569, 2026-03-12), pending resubmission | [paper-18](https://github.com/WENQUAN0816/paper-18-Real-World-Energy-Efficiency-Refrigeration-Systems-Grain-Storage-Henan) |
 | 19 | Dual-Mode Radiative Cooling and Solar Heating Roof Panel System for Year-Round Energy Management in Grain Warehouses | Not submitted | [paper-19](https://github.com/WENQUAN0816/paper-19-Dual-Mode-Radiative-Cooling-Solar-Heating-Roof-Panel-Grain-Warehouses) |
 | — | Phase-Change Material-Based Adaptive Multi-Zone Temperature Control for Multi-Story Grain Warehouses | Rejected by Applied Thermal Engineering (ATE-D-26-03583, 2026-03-18) - desk rejection; pending resubmission | — |
-| — | Dependency-Aware 3D Scene Graph Generation for Automated Age-Friendly Home Environment Assessment via Multimodal Feature Learning | Rejected by Automation in Construction (AUTCON-D-26-01453, 2026-03-17) - desk rejection; pending resubmission | — |
+| — | Dependency-Aware 3D Scene Graph Generation for Automated Age-Friendly Home Environment Assessment via Multimodal Feature Learning | Rejected by Automation in Construction (AUTCON-D-26-01453, 2026-03-17) - desk rejection; resubmitted to Image and Vision Computing (2026-03-18) | — |
 
 ### Han Laoshi Papers (5 Papers -- Not Submitted)
 
