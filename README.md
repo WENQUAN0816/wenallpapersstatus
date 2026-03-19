@@ -1,6 +1,6 @@
 # All Papers Submission Status
 
-> **Last updated:** 2026-03-19
+> **Last updated:** 2026-03-20
 >
 > This repository tracks the submission status of all academic papers by WENQUAN0816.
 
@@ -11,7 +11,7 @@
 | Status | Count |
 |--------|-------|
 | Peer Review | 4 |
-| Pre-Review (With Editor / Editorial Assignment / Submitted) | 12 |
+| Pre-Review (With Editor / Editorial Assignment / Submitted) | 15 |
 | Pending Submission | 11 |
 
 ---
@@ -37,6 +37,12 @@
 | 21 | Dependency-Aware 3D Scene Graph Generation for Automated Age-Friendly Home Environment Assessment via Multimodal Feature Learning | Image and Vision Computing | Submitted to Journal | 2026-03-18 | — |
 | 22 | Dual hierarchical attention-enhanced transfer learning for semantic segmentation of point clouds in age-friendly home environment assessment | Journal of Big Data | Technical Check | 2026-03-19 | — |
 
+| 23 | GridMamba-Risk: Grid State Space Model for Whole-House Fall Risk Spatial Prediction from 3D Point Clouds | Virtual Reality (Springer Nature) | Submitted | 2026-03-19 | — |
+| 24 | Diffusion Model-Based Point Cloud Synthesis for Age-Friendly Home Environment Assessment | Remote Sensing (MDPI) | Submitted | 2026-03-19 | — |
+| 25 | GridMamba-Risk: Grid State Space Model for Whole-House Fall Risk Spatial Prediction from 3D Point Clouds | International Journal of Digital Earth (T&F) | Submitted | 2026-03-20 | — |
+| 26 | FRSPTNet: Multiscale Super-Patch Transformer for Fall Risk Zone Segmentation in Elderly Home Point Cloud Environments | IEEE Trans. Neural Systems and Rehabilitation Engineering | Submitted | 2026-03-20 | — |
+| 27 | FRSGraph: Semantic Graph Transformer for Point Cloud-Based Fall Risk Spatial Prediction in Elderly Home Environments | IEEE J-STARS | Submitted | 2026-03-20 | — |
+
 > Paper 13 was transferred from Journal of Health, Population and Nutrition to Archives of Public Health on 2026-02-15.
 
 > Paper 7 was previously submitted to Scientific Reports (2025-06-26), now resubmitted to Neural Networks (2026-02-22).
@@ -46,6 +52,17 @@
 > Paper 21 (AF-SGNet, 3D Scene Graph) submitted to Image and Vision Computing (IMAVIS) 2026-03-18 via Elsevier New Service. Previously rejected by Automation in Construction.
 >
 > Paper 22 (点云语义分割适老化, DHANet) submitted to Journal of Big Data (Springer Nature SNAPP) 2026-03-19. Currently in Technical Check.
+
+
+> Paper 23 (GridMamba-Risk, 跌倒风险空间预测SSM) submitted to Virtual Reality (Springer Nature SNAPP) 2026-03-19.
+>
+> Paper 24 (扩散模型点云合成) submitted to Remote Sensing (MDPI) 2026-03-19.
+>
+> Paper 25 (GridMamba-Risk, same paper as 23 but different journal) submitted to International Journal of Digital Earth (Taylor & Francis) 2026-03-20 via T&F Submission Portal. Format converted from Springer Nature sn-jnl.cls to T&F interact.cls with apacite author-year citations.
+>
+> Paper 26 (FRSPTNet, 跌倒风险区域分割) submitted to IEEE TNSRE 2026-03-20 via IEEE Author Portal. Format converted from Elsevier elsarticle to IEEEtran. LaTeX source uploaded and compiled on server.
+>
+> Paper 27 (FRSGraph, 场景图跌倒风险预测) submitted to IEEE J-STARS 2026-03-20 via IEEE Author Portal. Format converted from Elsevier elsarticle (authoryear) to IEEEtran (numbered). All \citep/\citet converted to \cite.
 
 ---
 
