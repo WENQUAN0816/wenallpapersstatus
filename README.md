@@ -12,7 +12,7 @@
 |--------|-------|
 | Peer Review | 4 |
 | Pre-Review (With Editor / Editorial Assignment / Submitted) | 19 |
-| Pending Submission | 12 |
+| Pending Submission | 15 |
 
 ---
 
@@ -33,24 +33,22 @@
 | 15 | An Evidence-Based Fire Resilience Assessment Framework for Elderly Residents in Hong Kong High-Rise Communities | Humanities and Social Sciences Communications | With editor | 2026-01-30 | [paper-15](https://github.com/WENQUAN0816/paper-15-Fire-Resilience-Assessment-Elderly-Hong-Kong-High-Rise) |
 | 16 | A LSTM-based Model Predictive Control Method for Unlocking the Potential of Building Energy Flexibility in Malaysian Commercial Buildings | Scientific Reports | Peer review | 2026-01-13 | [paper-16](https://github.com/WENQUAN0816/paper-16-LSTM-Model-Predictive-Control-Building-Energy-Flexibility-Malaysia) |
 | 17 | Transforming Vacant Rural School Buildings into Age-Friendly Facilities under China Aging and Low-Fertility Context: A Natural Language Processing Based Evaluation Framework | BMC Geriatrics | **Accepted** | 2026-01-08 | [paper-17](https://github.com/WENQUAN0816/paper-17-Transforming-Vacant-Rural-School-Buildings-Age-Friendly-NLP-Framework) |
-| 20 | Transferable Deep Learning Network for Indoor Point Cloud Semantic Segmentation in Age-Friendly Home Environment Assessment | ISPRS Journal of Photogrammetry and Remote Sensing | With editor (PHOTO-D-26-00934) | 2026-03-18 | [paper-20](https://github.com/WENQUAN0816/paper-20-Transferable-Deep-Learning-Point-Cloud-Semantic-Segmentation-Age-Friendly-Home-Assessment) |
 | 21 | Dependency-Aware 3D Scene Graph Generation for Automated Age-Friendly Home Environment Assessment via Multimodal Feature Learning | Image and Vision Computing | Submitted to Journal | 2026-03-18 | — |
 | 22 | Dual hierarchical attention-enhanced transfer learning for semantic segmentation of point clouds in age-friendly home environment assessment | Journal of Big Data | Technical Check | 2026-03-19 | — |
-| 23 | GridMamba-Risk: Grid State Space Model for Whole-House Fall Risk Spatial Prediction from 3D Point Clouds | Virtual Reality (Springer Nature) | Submitted | 2026-03-19 | — |
+| 23 | GridMamba-Risk: Grid State Space Model for Whole-House Fall Risk Spatial Prediction from 3D Point Clouds | Virtual Reality (Springer Nature) | **Amendment Required** (add funding + informed consent) | 2026-03-20 | — |
 | 24 | Diffusion Model-Based Point Cloud Synthesis for Age-Friendly Home Environment Assessment | Remote Sensing (MDPI) | Submitted | 2026-03-19 | — |
-| 25 | GridMamba-Risk: Grid State Space Model for Whole-House Fall Risk Spatial Prediction from 3D Point Clouds | International Journal of Digital Earth (T&F) | Submitted (ID: 269640903) | 2026-03-20 | — |
-| 26 | FRSPTNet: Multiscale Super-Patch Transformer for Fall Risk Zone Segmentation in Elderly Home Point Cloud Environments | IEEE Trans. Neural Systems and Rehabilitation Engineering | Submitted | 2026-03-20 | — |
-| 27 | FRSGraph: Semantic Graph Transformer for Point Cloud-Based Fall Risk Spatial Prediction in Elderly Home Environments | IEEE J-STARS | Submitted | 2026-03-20 | — |
+| 27 | FRSGraph: Semantic Graph Transformer for Point Cloud-Based Fall Risk Spatial Prediction in Elderly Home Environments | IEEE J-STARS | Submitted (JSTARS-2026-01380) | 2026-03-20 | — |
 | 28 | Spatial fall risk prediction in elderly residential environments using 3D point cloud-derived features and ensemble learning with SHAP interpretability | Egyptian Informatics Journal | Submitted | 2026-03-19 | — |
-| 29 | AccessStairNet: Deep Learning-Based Step and Threshold Detection for Automated Accessibility Assessment in Elderly Home Environments | IEEE Trans. Instrumentation & Measurement | Submitted (TIM-S-26-05051) | 2026-03-21 | — |
+| 29 | AccessStairNet: Deep Learning-Based Step and Threshold Detection for Automated Accessibility Assessment in Elderly Home Environments | IEEE Trans. Instrumentation & Measurement | Submitted (TIM-26-03170) | 2026-03-21 | — |
 | 30 | An Integrated Mixed Reality and Conditional GAN Framework for Age-Friendly Home Renovation: Two-Stage Inpainting with 360-Degree Panoramic Visualization | Automation in Construction | Submitted | 2026-03-21 | — |
 | 31 | Enhancing Aging-Friendly Home Renovation Through Diffusion-Based Generative Design: A Dual-Objective Framework for Safety and Visual Comfort | Automation in Construction | Submitted | 2026-03-21 | — |
+| 32 | AccessPath: Topological Graph-Based Barrier-Free Passage Analysis for Automated Accessibility Assessment in Elderly Home Environments | IEEE Trans. Automation Science and Engineering | Submitted (T-ASE-2026-1359) | 2026-03-21 | — |
 
 > Paper 13 was transferred from Journal of Health, Population and Nutrition to Archives of Public Health on 2026-02-15.
 
 > Paper 7 was previously submitted to Scientific Reports (2025-06-26), now resubmitted to Neural Networks (2026-02-22).
 
-> Paper 20 (ISPRS, 3D点云居家适老化) submitted 2026-03-18, manuscript ID PHOTO-D-26-00934. Editor Clement Mallet assigned 2026-03-17.
+> Paper 20 (ISPRS, 3D点云居家适老化) **REJECTED** 2026-03-19 by Editor-in-Chief Clément Mallet — methodological component too similar to existing literature; recommended transfer to ISPRS Open Journal of Photogrammetry and Remote Sensing. Transfer deadline: 2026-04-18.
 >
 > Paper 21 (AF-SGNet, 3D Scene Graph) submitted to Image and Vision Computing (IMAVIS) 2026-03-18 via Elsevier New Service. Previously rejected by Automation in Construction.
 >
@@ -60,19 +58,21 @@
 >
 > Paper 24 (扩散模型点云合成) submitted to Remote Sensing (MDPI) 2026-03-19.
 >
-> Paper 25 (GridMamba-Risk, same paper as 23 but different journal) submitted to International Journal of Digital Earth (Taylor & Francis) 2026-03-20 via T&F Submission Portal. Submission ID: 269640903.
+> Paper 25 (GridMamba-Risk, Int. J. Digital Earth) **REJECTED** 2026-03-20 — does not meet requirements of the journal.
 >
-> Paper 26 (FRSPTNet, 跌倒风险区域分割) submitted to IEEE TNSRE 2026-03-20 via IEEE Author Portal.
+> Paper 26 (FRSPTNet, 跌倒风险区域分割) **UNSUBMITTED** 2026-03-20 by IEEE TNSRE — table overlapping text; must reduce to ≤10 pages (not counting references) before resubmitting. Manuscript ID: TNSRE-2026-00398.
 >
-> Paper 27 (FRSGraph, 场景图跌倒风险预测) submitted to IEEE J-STARS 2026-03-20 via IEEE Author Portal.
+> Paper 27 (FRSGraph, 场景图跌倒风险预测) submitted to IEEE J-STARS 2026-03-20. Manuscript ID: JSTARS-2026-01380.
 >
 > Paper 28 (跌倒风险空间预测, ensemble learning + SHAP) submitted to Egyptian Informatics Journal 2026-03-19 via Editorial Manager.
 >
-> Paper 29 (AccessStairNet, 居家无障碍通行性检测) submitted to IEEE Trans. Instrumentation & Measurement (TIM) 2026-03-21 via PeerTrack EM. Manuscript ID: TIM-S-26-05051. Authors: Quan Wen, Mazran Ismail, Muhammad Hafeez Abdul Nasir.
+> Paper 29 (AccessStairNet, 居家无障碍通行性检测) submitted to IEEE Trans. Instrumentation & Measurement (TIM) 2026-03-20. Manuscript ID: TIM-26-03170. Authors: Quan Wen, Mazran Ismail, Muhammad Hafeez Abdul Nasir.
 >
 > Paper 30 (cGAN适老化改造方案, Mixed Reality + Conditional GAN) submitted to Automation in Construction 2026-03-21.
 >
 > Paper 31 (扩散模型适老化改造, Diffusion-Based Generative Design) submitted to Automation in Construction 2026-03-21.
+>
+> Paper 32 (AccessPath, 无障碍通道拓扑图分析) submitted to IEEE Trans. Automation Science and Engineering 2026-03-20. Manuscript ID: T-ASE-2026-1359. Authors: Quan Wen, Yanting Wu.
 
 ---
 
@@ -91,6 +91,9 @@
 | — | (unknown title, submitted to Habitat International) | Habitat International | **Rejected** (HABITATINT-D-26-00983) — manuscript did not correspond with submission details | 2026-03-17 | — |
 | — | (unknown title, submitted to npj Urban Sustainability) | npj Urban Sustainability | Submission started (not yet completed) | 2026-03-17 | — |
 | H-A | Emotion Analysis of Literary Works Based on Attention Mechanisms and Dual-Channel Gated Feature Fusion | IEEE Access | **Rejected** — can resubmit once (Access-2026-06790) | 2026-03-19 | — |
+| 20 | Transferable Deep Learning Network for Indoor Point Cloud Semantic Segmentation in Age-Friendly Home Environment Assessment | ISPRS Journal of Photogrammetry and Remote Sensing | **Rejected** (PHOTO-D-26-00934, desk rejection by Editor-in-Chief) | 2026-03-19 | [paper-20](https://github.com/WENQUAN0816/paper-20-Transferable-Deep-Learning-Point-Cloud-Semantic-Segmentation-Age-Friendly-Home-Assessment) |
+| 25 | GridMamba-Risk: Grid State Space Model for Whole-House Fall Risk Spatial Prediction from 3D Point Clouds | International Journal of Digital Earth (T&F) | **Rejected** (ID: 269640903, does not meet journal requirements) | 2026-03-20 | — |
+| 26 | FRSPTNet: Multiscale Super-Patch Transformer for Fall Risk Zone Segmentation in Elderly Home Point Cloud Environments | IEEE Trans. Neural Systems and Rehabilitation Engineering | **Unsubmitted** (TNSRE-2026-00398 — table overlap, must reduce to ≤10 pages) | 2026-03-20 | — |
 
 > Paper 4 was desk-rejected by CHB on 2026-02-28 - contribution deemed too limited for broad readership; recommended to submit to a more specialized journal.
 > Paper 2 was rejected by Computers in Biology and Medicine on 2026-03-14 - manuscript did not meet required quality standards.
@@ -106,6 +109,12 @@
 > npj Urban Sustainability submission started 2026-03-17 but not yet completed.
 >
 > Han Laoshi paper "Emotion Analysis of Literary Works" (IEEE Access, Access-2026-06790) rejected 2026-03-19. Reviewers cited: incremental novelty, asymmetric baseline comparison, single-label formulation for multi-emotion literary texts, proprietary-only dataset, no document-level modeling. One resubmission allowed.
+>
+> Paper 20 (ISPRS, PHOTO-D-26-00934) rejected 2026-03-19 by Editor-in-Chief Clément Mallet — "methodological component is too much based on approaches that have been proposed before." Recommended transfer to ISPRS Open Journal of Photogrammetry and Remote Sensing (deadline: 2026-04-18).
+>
+> Paper 25 (Int. J. Digital Earth, 269640903) rejected 2026-03-20 — "does not meet the requirements of the journal."
+>
+> Paper 26 (IEEE TNSRE, TNSRE-2026-00398) unsubmitted 2026-03-20 — table overlapping text; must reduce to ≤10 pages (not counting references) and resubmit via IEEE Author Portal.
 
 ---
 
@@ -123,6 +132,9 @@
 | — | Dependency-Aware 3D Scene Graph Generation for Automated Age-Friendly Home Environment Assessment via Multimodal Feature Learning | Rejected by Automation in Construction (AUTCON-D-26-01453, 2026-03-17) - desk rejection; resubmitted to Image and Vision Computing (2026-03-18) | — |
 | — | (Habitat International rejected paper) | Rejected by Habitat International (HABITATINT-D-26-00983, 2026-03-17) - manuscript did not match submission details; pending resubmission | — |
 | H-A | Emotion Analysis of Literary Works Based on Attention Mechanisms and Dual-Channel Gated Feature Fusion | Rejected by IEEE Access (Access-2026-06790, 2026-03-19) - one resubmission allowed; pending revision | — |
+| 20 | Transferable Deep Learning Network for Indoor Point Cloud Semantic Segmentation in Age-Friendly Home Environment Assessment | Rejected by ISPRS Journal of Photogrammetry and Remote Sensing (PHOTO-D-26-00934, 2026-03-19) - desk rejection; transfer offer to ISPRS Open Journal available until 2026-04-18 | [paper-20](https://github.com/WENQUAN0816/paper-20-Transferable-Deep-Learning-Point-Cloud-Semantic-Segmentation-Age-Friendly-Home-Assessment) |
+| 25 | GridMamba-Risk: Grid State Space Model for Whole-House Fall Risk Spatial Prediction from 3D Point Clouds | Rejected by International Journal of Digital Earth (269640903, 2026-03-20) - does not meet journal requirements; pending resubmission | — |
+| 26 | FRSPTNet: Multiscale Super-Patch Transformer for Fall Risk Zone Segmentation in Elderly Home Point Cloud Environments | Unsubmitted from IEEE TNSRE (TNSRE-2026-00398, 2026-03-20) - fix table overlap, reduce to ≤10 pages, resubmit via IEEE Author Portal | — |
 
 ### Han Laoshi Papers (5 Papers -- Not Submitted)
 
