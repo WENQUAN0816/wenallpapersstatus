@@ -1,6 +1,6 @@
 # All Papers Submission Status
 
-> **Last updated:** 2026-03-20
+> **Last updated:** 2026-03-21
 >
 > This repository tracks the submission status of all academic papers by WENQUAN0816.
 
@@ -11,7 +11,7 @@
 | Status | Count |
 |--------|-------|
 | Peer Review | 4 |
-| Pre-Review (With Editor / Editorial Assignment / Submitted) | 16 |
+| Pre-Review (With Editor / Editorial Assignment / Submitted) | 17 |
 | Pending Submission | 12 |
 
 ---
@@ -42,6 +42,7 @@
 | 26 | FRSPTNet: Multiscale Super-Patch Transformer for Fall Risk Zone Segmentation in Elderly Home Point Cloud Environments | IEEE Trans. Neural Systems and Rehabilitation Engineering | Submitted | 2026-03-20 | — |
 | 27 | FRSGraph: Semantic Graph Transformer for Point Cloud-Based Fall Risk Spatial Prediction in Elderly Home Environments | IEEE J-STARS | Submitted | 2026-03-20 | — |
 | 28 | Spatial fall risk prediction in elderly residential environments using 3D point cloud-derived features and ensemble learning with SHAP interpretability | Egyptian Informatics Journal | Submitted | 2026-03-19 | — |
+| 29 | AccessStairNet: Deep Learning-Based Step and Threshold Detection for Automated Accessibility Assessment in Elderly Home Environments | IEEE Trans. Instrumentation & Measurement | Submitted (TIM-S-26-05051) | 2026-03-21 | — |
 
 > Paper 13 was transferred from Journal of Health, Population and Nutrition to Archives of Public Health on 2026-02-15.
 
@@ -64,6 +65,8 @@
 > Paper 27 (FRSGraph, 场景图跌倒风险预测) submitted to IEEE J-STARS 2026-03-20 via IEEE Author Portal.
 >
 > Paper 28 (跌倒风险空间预测, ensemble learning + SHAP) submitted to Egyptian Informatics Journal 2026-03-19 via Editorial Manager.
+>
+> Paper 29 (AccessStairNet, 居家无障碍通行性检测) submitted to IEEE Trans. Instrumentation & Measurement (TIM) 2026-03-21 via PeerTrack EM. Manuscript ID: TIM-S-26-05051. Authors: Quan Wen, Mazran Ismail, Muhammad Hafeez Abdul Nasir.
 
 ---
 
