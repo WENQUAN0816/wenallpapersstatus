@@ -11,7 +11,7 @@
 | Status | Count |
 |--------|-------|
 | Peer Review | 4 |
-| Pre-Review (With Editor / Editorial Assignment / Submitted) | 17 |
+| Pre-Review (With Editor / Editorial Assignment / Submitted) | 19 |
 | Pending Submission | 12 |
 
 ---
@@ -43,6 +43,8 @@
 | 27 | FRSGraph: Semantic Graph Transformer for Point Cloud-Based Fall Risk Spatial Prediction in Elderly Home Environments | IEEE J-STARS | Submitted | 2026-03-20 | — |
 | 28 | Spatial fall risk prediction in elderly residential environments using 3D point cloud-derived features and ensemble learning with SHAP interpretability | Egyptian Informatics Journal | Submitted | 2026-03-19 | — |
 | 29 | AccessStairNet: Deep Learning-Based Step and Threshold Detection for Automated Accessibility Assessment in Elderly Home Environments | IEEE Trans. Instrumentation & Measurement | Submitted (TIM-S-26-05051) | 2026-03-21 | — |
+| 30 | An Integrated Mixed Reality and Conditional GAN Framework for Age-Friendly Home Renovation: Two-Stage Inpainting with 360-Degree Panoramic Visualization | Automation in Construction | Submitted | 2026-03-21 | — |
+| 31 | Enhancing Aging-Friendly Home Renovation Through Diffusion-Based Generative Design: A Dual-Objective Framework for Safety and Visual Comfort | Automation in Construction | Submitted | 2026-03-21 | — |
 
 > Paper 13 was transferred from Journal of Health, Population and Nutrition to Archives of Public Health on 2026-02-15.
 
@@ -67,6 +69,10 @@
 > Paper 28 (跌倒风险空间预测, ensemble learning + SHAP) submitted to Egyptian Informatics Journal 2026-03-19 via Editorial Manager.
 >
 > Paper 29 (AccessStairNet, 居家无障碍通行性检测) submitted to IEEE Trans. Instrumentation & Measurement (TIM) 2026-03-21 via PeerTrack EM. Manuscript ID: TIM-S-26-05051. Authors: Quan Wen, Mazran Ismail, Muhammad Hafeez Abdul Nasir.
+>
+> Paper 30 (cGAN适老化改造方案, Mixed Reality + Conditional GAN) submitted to Automation in Construction 2026-03-21.
+>
+> Paper 31 (扩散模型适老化改造, Diffusion-Based Generative Design) submitted to Automation in Construction 2026-03-21.
 
 ---
 
