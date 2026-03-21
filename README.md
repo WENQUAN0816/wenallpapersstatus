@@ -1,6 +1,6 @@
 # All Papers Submission Status
 
-> **Last updated:** 2026-03-21
+> **Last updated:** 2026-03-22
 >
 > This repository tracks the submission status of all academic papers by WENQUAN0816.
 
@@ -11,8 +11,8 @@
 | Status | Count |
 |--------|-------|
 | Peer Review | 4 |
-| Pre-Review (With Editor / Editorial Assignment / Submitted) | 19 |
-| Pending Submission | 15 |
+| Pre-Review (With Editor / Editorial Assignment / Submitted) | 22 |
+| Pending Submission | 12 |
 
 ---
 
@@ -43,6 +43,9 @@
 | 30 | An Integrated Mixed Reality and Conditional GAN Framework for Age-Friendly Home Renovation: Two-Stage Inpainting with 360-Degree Panoramic Visualization | Automation in Construction | Submitted | 2026-03-21 | — |
 | 31 | Enhancing Aging-Friendly Home Renovation Through Diffusion-Based Generative Design: A Dual-Objective Framework for Safety and Visual Comfort | Automation in Construction | Submitted | 2026-03-21 | — |
 | 32 | AccessPath: Topological Graph-Based Barrier-Free Passage Analysis for Automated Accessibility Assessment in Elderly Home Environments | IEEE Trans. Automation Science and Engineering | Submitted (T-ASE-2026-1359) | 2026-03-21 | — |
+| 6 | Social Emotional Network Analysis and Loneliness Prevention in Elderly Care Communities Based on Graph Neural Networks and Attention Mechanisms | The Journal of Nutrition, Health and Aging (JNHA) | Submitted (TJNHA-S-26-00527) | 2026-03-22 | [paper-6](https://github.com/WENQUAN0816/paper-6-Social-Emotional-Network-Analysis-Loneliness-Prevention-Elderly-Care-Graph-Neural-Networks) |
+| 9 | A Causality Model of Age-Friendly Living Environment Factors for Elderly People Living with HIV in China: Text Mining, Fuzzy DEMATEL, and Regional Comparison | Journal of Urban Health | Submitted (JURH-S-26-00249) | 2026-03-22 | [paper-9](https://github.com/WENQUAN0816/paper-9-Causality-Model-Age-Friendly-Living-Environment-Factors-Elderly-HIV-China-Fuzzy-DEMATEL) |
+| 20 | Transferable Deep Learning Network for Indoor Point Cloud Semantic Segmentation in Age-Friendly Home Environment Assessment | Displays (Elsevier) | Submitted | 2026-03-22 | [paper-20](https://github.com/WENQUAN0816/paper-20-Transferable-Deep-Learning-Point-Cloud-Semantic-Segmentation-Age-Friendly-Home-Assessment) |
 
 > Paper 13 was transferred from Journal of Health, Population and Nutrition to Archives of Public Health on 2026-02-15.
 
@@ -115,6 +118,12 @@
 > Paper 25 (Int. J. Digital Earth, 269640903) rejected 2026-03-20 — "does not meet the requirements of the journal."
 >
 > Paper 26 (IEEE TNSRE, TNSRE-2026-00398) unsubmitted 2026-03-20 — table overlapping text; must reduce to ≤10 pages (not counting references) and resubmit via IEEE Author Portal.
+>
+> Paper 6 (社会情感网络分析孤独预防, GNN+Attention) submitted to The Journal of Nutrition, Health and Aging (JNHA) 2026-03-22 via Editorial Manager (editorialmanager.com/tjnha). Manuscript ID: TJNHA-S-26-00527. Gold OA journal. Authors: Quan Wen, Mazran Ismail, Muhammad Hafeez Abdul Nasir, Yanting Wu.
+>
+> Paper 9 (HIV老人适老化居住环境因果模型, Text Mining + Fuzzy DEMATEL) submitted to Journal of Urban Health 2026-03-22 via Editorial Manager (editorialmanager.com/jurh). Manuscript ID: JURH-S-26-00249. Authors: Quan Wen, Yanting Wu.
+>
+> Paper 20 (室内点云语义分割适老化, AgeSegNet) resubmitted to Displays (Elsevier New Service, submit.elsevier.com/DISPLA/) 2026-03-22 after ISPRS rejection. LaTeX source with embedded bbl uploaded individually (not as ZIP).
 
 ---
 
@@ -124,15 +133,13 @@
 |---|-------------|-------|-------------|
 | 2 | Multimodal Emotion Analysis for Early Detection of Dementia Based on Attention Mechanisms and Cross-Modal Feature Fusion | Rejected by Computers in Biology and Medicine (CIBM-D-26-00934, 2026-03-14) - quality standards not met; pending resubmission | [paper-2](https://github.com/WENQUAN0816/paper-2-Multimodal-Emotion-Analysis-Early-Detection-Dementia-Attention-Cross-Modal-Feature-Fusion) |
 | 4 | Emotion Analysis-based Evaluation and Optimization of Elderly Care Policy Effects Using Deep Learning Framework | Rejected by Computers in Human Behavior (CHB-D-26-01370), pending resubmission | [paper-4](https://github.com/WENQUAN0816/paper-4-Emotion-Analysis-Evaluation-and-Optimization-of-Elderly-Care-Policy-Using-Deep-Learning) |
-| 6 | Social Emotional Network Analysis and Loneliness Prevention in Elderly Care Communities Based on Graph Neural Networks and Attention Mechanisms | Not submitted, pending journal selection | [paper-6](https://github.com/WENQUAN0816/paper-6-Social-Emotional-Network-Analysis-Loneliness-Prevention-Elderly-Care-Graph-Neural-Networks) |
-| 9 | A Causality Model of Age-Friendly Living Environment Factors for Elderly People Living with HIV in China: Text Mining, Fuzzy DEMATEL, and Regional Comparison | Manuscript ready for Journal of Urban Health, pending submission | [paper-9](https://github.com/WENQUAN0816/paper-9-Causality-Model-Age-Friendly-Living-Environment-Factors-Elderly-HIV-China-Fuzzy-DEMATEL) |
 | 18 | Real-World Energy Efficiency of Refrigeration Systems in Grain Storage Facilities: A Large-Scale Field Study in Henan Province, China | Rejected twice by Journal of Cleaner Production (JCLEPRO-D-26-07569, 2026-03-12), pending resubmission | [paper-18](https://github.com/WENQUAN0816/paper-18-Real-World-Energy-Efficiency-Refrigeration-Systems-Grain-Storage-Henan) |
 | 19 | Dual-Mode Radiative Cooling and Solar Heating Roof Panel System for Year-Round Energy Management in Grain Warehouses | Not submitted | [paper-19](https://github.com/WENQUAN0816/paper-19-Dual-Mode-Radiative-Cooling-Solar-Heating-Roof-Panel-Grain-Warehouses) |
 | — | Phase-Change Material-Based Adaptive Multi-Zone Temperature Control for Multi-Story Grain Warehouses | Rejected by Applied Thermal Engineering (ATE-D-26-03583, 2026-03-18) - desk rejection; pending resubmission | — |
 | — | Dependency-Aware 3D Scene Graph Generation for Automated Age-Friendly Home Environment Assessment via Multimodal Feature Learning | Rejected by Automation in Construction (AUTCON-D-26-01453, 2026-03-17) - desk rejection; resubmitted to Image and Vision Computing (2026-03-18) | — |
 | — | (Habitat International rejected paper) | Rejected by Habitat International (HABITATINT-D-26-00983, 2026-03-17) - manuscript did not match submission details; pending resubmission | — |
 | H-A | Emotion Analysis of Literary Works Based on Attention Mechanisms and Dual-Channel Gated Feature Fusion | Rejected by IEEE Access (Access-2026-06790, 2026-03-19) - one resubmission allowed; pending revision | — |
-| 20 | Transferable Deep Learning Network for Indoor Point Cloud Semantic Segmentation in Age-Friendly Home Environment Assessment | Rejected by ISPRS Journal of Photogrammetry and Remote Sensing (PHOTO-D-26-00934, 2026-03-19) - desk rejection; transfer offer to ISPRS Open Journal available until 2026-04-18 | [paper-20](https://github.com/WENQUAN0816/paper-20-Transferable-Deep-Learning-Point-Cloud-Semantic-Segmentation-Age-Friendly-Home-Assessment) |
+| 20 | Transferable Deep Learning Network for Indoor Point Cloud Semantic Segmentation in Age-Friendly Home Environment Assessment | Rejected by ISPRS (PHOTO-D-26-00934, 2026-03-19); resubmitted to Displays (Elsevier) 2026-03-22; transfer offer to ISPRS Open Journal available until 2026-04-18 | [paper-20](https://github.com/WENQUAN0816/paper-20-Transferable-Deep-Learning-Point-Cloud-Semantic-Segmentation-Age-Friendly-Home-Assessment) |
 | 25 | GridMamba-Risk: Grid State Space Model for Whole-House Fall Risk Spatial Prediction from 3D Point Clouds | Rejected by International Journal of Digital Earth (269640903, 2026-03-20) - does not meet journal requirements; pending resubmission | — |
 | 26 | FRSPTNet: Multiscale Super-Patch Transformer for Fall Risk Zone Segmentation in Elderly Home Point Cloud Environments | Unsubmitted from IEEE TNSRE (TNSRE-2026-00398, 2026-03-20) - fix table overlap, reduce to ≤10 pages, resubmit via IEEE Author Portal | — |
 
