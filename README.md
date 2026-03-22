@@ -11,8 +11,8 @@
 | Status | Count |
 |--------|-------|
 | Peer Review | 4 |
-| Pre-Review (With Editor / Editorial Assignment / Submitted) | 22 |
-| Pending Submission | 12 |
+| Pre-Review (With Editor / Editorial Assignment / Submitted) | 23 |
+| Pending Submission | 11 |
 
 ---
 
@@ -93,7 +93,7 @@
 | 20 | Transferable Deep Learning Network for Indoor Point Cloud Semantic Segmentation in Age-Friendly Home Environment Assessment | npj Aging | Submission started (not yet completed) | 2026-03-17 | — |
 | — | (unknown title, submitted to Habitat International) | Habitat International | **Rejected** (HABITATINT-D-26-00983) — manuscript did not correspond with submission details | 2026-03-17 | — |
 | — | (unknown title, submitted to npj Urban Sustainability) | npj Urban Sustainability | Submission started (not yet completed) | 2026-03-17 | — |
-| H-A | Emotion Analysis of Literary Works Based on Attention Mechanisms and Dual-Channel Gated Feature Fusion | IEEE Access | **Rejected** — can resubmit once (Access-2026-06790) | 2026-03-19 | — |
+| H-A | Emotion Analysis of Literary Works Based on Attention Mechanisms and Dual-Channel Gated Feature Fusion | IEEE Access | **Rejected** → **Resubmitted** (Access-2026-06790, Submission 2) | 2026-03-22 | — |
 | 20 | Transferable Deep Learning Network for Indoor Point Cloud Semantic Segmentation in Age-Friendly Home Environment Assessment | ISPRS Journal of Photogrammetry and Remote Sensing | **Rejected** (PHOTO-D-26-00934, desk rejection by Editor-in-Chief) | 2026-03-19 | [paper-20](https://github.com/WENQUAN0816/paper-20-Transferable-Deep-Learning-Point-Cloud-Semantic-Segmentation-Age-Friendly-Home-Assessment) |
 | 25 | GridMamba-Risk: Grid State Space Model for Whole-House Fall Risk Spatial Prediction from 3D Point Clouds | International Journal of Digital Earth (T&F) | **Rejected** (ID: 269640903, does not meet journal requirements) | 2026-03-20 | — |
 | 26 | FRSPTNet: Multiscale Super-Patch Transformer for Fall Risk Zone Segmentation in Elderly Home Point Cloud Environments | IEEE Trans. Neural Systems and Rehabilitation Engineering | **Unsubmitted** (TNSRE-2026-00398 — table overlap, must reduce to ≤10 pages) | 2026-03-20 | — |
@@ -124,6 +124,8 @@
 > Paper 9 (HIV老人适老化居住环境因果模型, Text Mining + Fuzzy DEMATEL) submitted to Journal of Urban Health 2026-03-22 via Editorial Manager (editorialmanager.com/jurh). Manuscript ID: JURH-S-26-00249. Authors: Quan Wen, Yanting Wu.
 >
 > Paper 20 (室内点云语义分割适老化, AgeSegNet) resubmitted to Displays (Elsevier New Service, submit.elsevier.com/DISPLA/) 2026-03-22 after ISPRS rejection. LaTeX source with embedded bbl uploaded individually (not as ZIP).
+>
+> Han Laoshi paper "Emotion Analysis of Literary Works" (IEEE Access, Access-2026-06790) **resubmitted** 2026-03-22 as Submission 2. Revisions addressed all 9 reviewer comments: added Domain-Adapted RoBERTa baseline, multi-label emotion experiment, GoEmotions/ISEAR cross-domain validation, sequence length impact analysis, expanded Related Work with 3 reviewer-recommended references (MedVLM, Skin-Former, AG-CLIP), rewrote contributions. Response to reviewers (4 pages) + highlighted PDF uploaded.
 
 ---
 
@@ -138,7 +140,7 @@
 | — | Phase-Change Material-Based Adaptive Multi-Zone Temperature Control for Multi-Story Grain Warehouses | Rejected by Applied Thermal Engineering (ATE-D-26-03583, 2026-03-18) - desk rejection; pending resubmission | — |
 | — | Dependency-Aware 3D Scene Graph Generation for Automated Age-Friendly Home Environment Assessment via Multimodal Feature Learning | Rejected by Automation in Construction (AUTCON-D-26-01453, 2026-03-17) - desk rejection; resubmitted to Image and Vision Computing (2026-03-18) | — |
 | — | (Habitat International rejected paper) | Rejected by Habitat International (HABITATINT-D-26-00983, 2026-03-17) - manuscript did not match submission details; pending resubmission | — |
-| H-A | Emotion Analysis of Literary Works Based on Attention Mechanisms and Dual-Channel Gated Feature Fusion | Rejected by IEEE Access (Access-2026-06790, 2026-03-19) - one resubmission allowed; pending revision | — |
+| H-A | Emotion Analysis of Literary Works Based on Attention Mechanisms and Dual-Channel Gated Feature Fusion | Resubmitted to IEEE Access (Access-2026-06790, Submission 2) 2026-03-22; all reviewer comments addressed | — |
 | 20 | Transferable Deep Learning Network for Indoor Point Cloud Semantic Segmentation in Age-Friendly Home Environment Assessment | Rejected by ISPRS (PHOTO-D-26-00934, 2026-03-19); resubmitted to Displays (Elsevier) 2026-03-22; transfer offer to ISPRS Open Journal available until 2026-04-18 | [paper-20](https://github.com/WENQUAN0816/paper-20-Transferable-Deep-Learning-Point-Cloud-Semantic-Segmentation-Age-Friendly-Home-Assessment) |
 | 25 | GridMamba-Risk: Grid State Space Model for Whole-House Fall Risk Spatial Prediction from 3D Point Clouds | Rejected by International Journal of Digital Earth (269640903, 2026-03-20) - does not meet journal requirements; pending resubmission | — |
 | 26 | FRSPTNet: Multiscale Super-Patch Transformer for Fall Risk Zone Segmentation in Elderly Home Point Cloud Environments | Unsubmitted from IEEE TNSRE (TNSRE-2026-00398, 2026-03-20) - fix table overlap, reduce to ≤10 pages, resubmit via IEEE Author Portal | — |
