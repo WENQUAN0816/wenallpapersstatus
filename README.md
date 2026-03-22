@@ -1,6 +1,6 @@
 # All Papers Submission Status
 
-> **Last updated:** 2026-03-22
+> **Last updated:** 2026-03-23
 >
 > This repository tracks the submission status of all academic papers by WENQUAN0816.
 
@@ -12,7 +12,7 @@
 |--------|-------|
 | Peer Review | 4 |
 | Pre-Review (With Editor / Editorial Assignment / Submitted) | 23 |
-| Pending Submission | 15 |
+| Pending Submission | 12 |
 
 ---
 
@@ -126,6 +126,8 @@
 > Paper 20 (室内点云语义分割适老化, AgeSegNet) resubmitted to Displays (Elsevier New Service, submit.elsevier.com/DISPLA/) 2026-03-22 after ISPRS rejection. LaTeX source with embedded bbl uploaded individually (not as ZIP).
 >
 > Han Laoshi paper "Emotion Analysis of Literary Works" (IEEE Access, Access-2026-06790) **resubmitted** 2026-03-22 as Submission 2. Revisions addressed all 9 reviewer comments: added Domain-Adapted RoBERTa baseline, multi-label emotion experiment, GoEmotions/ISEAR cross-domain validation, sequence length impact analysis, expanded Related Work with 3 reviewer-recommended references (MedVLM, Skin-Former, AG-CLIP), rewrote contributions. Response to reviewers (4 pages) + highlighted PDF uploaded.
+>
+> Gmail re-check completed on 2026-03-23 for the recent 3-day window (2026-03-20 to 2026-03-23) in the accessible `wenquan6328@gmail.com` mailbox. No additional rejection emails were found beyond the entries already logged above.
 
 ---
 
@@ -142,10 +144,7 @@
 | LRL-3 | Gradient Nanostructured Aerogel Composite Insulation for Multi-Story Grain Warehouse Envelopes | 刘瑞丽项目, pending submission (target: Construction and Building Materials) | [paper-LRL3](https://github.com/WENQUAN0816/paper-LRL3-Gradient-Nanostructured-Aerogel-Composite-Insulation-Grain-Warehouse-Envelopes) |
 | LRL-4 | Real-World Energy Efficiency Assessment of Refrigeration Systems in Grain Storage Warehouses: Evidence from 65 Facilities in Henan Province, China | 刘瑞丽项目, pending submission (target: Energy) | [paper-LRL4](https://github.com/WENQUAN0816/paper-LRL4-Real-World-Energy-Efficiency-Refrigeration-Systems-Grain-Storage-Henan) |
 | — | Phase-Change Material-Based Adaptive Multi-Zone Temperature Control for Multi-Story Grain Warehouses | Rejected by Applied Thermal Engineering (ATE-D-26-03583, 2026-03-18) - desk rejection; pending resubmission | — |
-| — | Dependency-Aware 3D Scene Graph Generation for Automated Age-Friendly Home Environment Assessment via Multimodal Feature Learning | Rejected by Automation in Construction (AUTCON-D-26-01453, 2026-03-17) - desk rejection; resubmitted to Image and Vision Computing (2026-03-18) | — |
 | — | (Habitat International rejected paper) | Rejected by Habitat International (HABITATINT-D-26-00983, 2026-03-17) - manuscript did not match submission details; pending resubmission | — |
-| H-A | Emotion Analysis of Literary Works Based on Attention Mechanisms and Dual-Channel Gated Feature Fusion | Resubmitted to IEEE Access (Access-2026-06790, Submission 2) 2026-03-22; all reviewer comments addressed | [paper-HA](https://github.com/WENQUAN0816/paper-HA-Emotion-Analysis-Literary-Works-Attention-Mechanisms-Dual-Channel-Gated-Feature-Fusion) |
-| 20 | Transferable Deep Learning Network for Indoor Point Cloud Semantic Segmentation in Age-Friendly Home Environment Assessment | Rejected by ISPRS (PHOTO-D-26-00934, 2026-03-19); resubmitted to Displays (Elsevier) 2026-03-22; transfer offer to ISPRS Open Journal available until 2026-04-18 | [paper-20](https://github.com/WENQUAN0816/paper-20-Transferable-Deep-Learning-Point-Cloud-Semantic-Segmentation-Age-Friendly-Home-Assessment) |
 | 25 | GridMamba-Risk: Grid State Space Model for Whole-House Fall Risk Spatial Prediction from 3D Point Clouds | Rejected by International Journal of Digital Earth (269640903, 2026-03-20) - does not meet journal requirements; pending resubmission | — |
 | 26 | FRSPTNet: Multiscale Super-Patch Transformer for Fall Risk Zone Segmentation in Elderly Home Point Cloud Environments | Unsubmitted from IEEE TNSRE (TNSRE-2026-00398, 2026-03-20) - fix table overlap, reduce to ≤10 pages, resubmit via IEEE Author Portal | — |
 
