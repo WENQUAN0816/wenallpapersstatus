@@ -12,7 +12,7 @@
 |--------|-------|
 | Peer Review | 4 |
 | Pre-Review (With Editor / Editorial Assignment / Submitted) | 23 |
-| Pending Submission | 11 |
+| Pending Submission | 15 |
 
 ---
 
@@ -137,6 +137,10 @@
 | 4 | Emotion Analysis-based Evaluation and Optimization of Elderly Care Policy Effects Using Deep Learning Framework | Rejected by Computers in Human Behavior (CHB-D-26-01370), pending resubmission | [paper-4](https://github.com/WENQUAN0816/paper-4-Emotion-Analysis-Evaluation-and-Optimization-of-Elderly-Care-Policy-Using-Deep-Learning) |
 | 18 | Real-World Energy Efficiency of Refrigeration Systems in Grain Storage Facilities: A Large-Scale Field Study in Henan Province, China | Rejected twice by Journal of Cleaner Production (JCLEPRO-D-26-07569, 2026-03-12), pending resubmission | [paper-18](https://github.com/WENQUAN0816/paper-18-Real-World-Energy-Efficiency-Refrigeration-Systems-Grain-Storage-Henan) |
 | 19 | Dual-Mode Radiative Cooling and Solar Heating Roof Panel System for Year-Round Energy Management in Grain Warehouses | Not submitted | [paper-19](https://github.com/WENQUAN0816/paper-19-Dual-Mode-Radiative-Cooling-Solar-Heating-Roof-Panel-Grain-Warehouses) |
+| LRL-1 | Dual-Mode Radiative Cooling and Solar Heating for Year-Round Energy Optimization in Multi-Story Grain Warehouses | 刘瑞丽项目, pending submission (target: Energy and Buildings) | [paper-LRL1](https://github.com/WENQUAN0816/paper-LRL1-Dual-Mode-Radiative-Cooling-Solar-Heating-Year-Round-Energy-Grain-Warehouses) |
+| LRL-2 | Adaptive Multi-Zone Temperature Control for Multi-Story Grain Warehouses Enabled by Phase-Change Materials: A Combined Experimental and Numerical Study | 刘瑞丽项目, pending submission (target: Applied Energy) | [paper-LRL2](https://github.com/WENQUAN0816/paper-LRL2-Adaptive-Multi-Zone-Temperature-Control-Phase-Change-Materials-Grain-Warehouses) |
+| LRL-3 | Gradient Nanostructured Aerogel Composite Insulation for Multi-Story Grain Warehouse Envelopes | 刘瑞丽项目, pending submission (target: Construction and Building Materials) | [paper-LRL3](https://github.com/WENQUAN0816/paper-LRL3-Gradient-Nanostructured-Aerogel-Composite-Insulation-Grain-Warehouse-Envelopes) |
+| LRL-4 | Real-World Energy Efficiency Assessment of Refrigeration Systems in Grain Storage Warehouses: Evidence from 65 Facilities in Henan Province, China | 刘瑞丽项目, pending submission (target: Energy) | [paper-LRL4](https://github.com/WENQUAN0816/paper-LRL4-Real-World-Energy-Efficiency-Refrigeration-Systems-Grain-Storage-Henan) |
 | — | Phase-Change Material-Based Adaptive Multi-Zone Temperature Control for Multi-Story Grain Warehouses | Rejected by Applied Thermal Engineering (ATE-D-26-03583, 2026-03-18) - desk rejection; pending resubmission | — |
 | — | Dependency-Aware 3D Scene Graph Generation for Automated Age-Friendly Home Environment Assessment via Multimodal Feature Learning | Rejected by Automation in Construction (AUTCON-D-26-01453, 2026-03-17) - desk rejection; resubmitted to Image and Vision Computing (2026-03-18) | — |
 | — | (Habitat International rejected paper) | Rejected by Habitat International (HABITATINT-D-26-00983, 2026-03-17) - manuscript did not match submission details; pending resubmission | — |
