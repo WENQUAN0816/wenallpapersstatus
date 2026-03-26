@@ -1,6 +1,6 @@
 # All Papers Submission Status
 
-> **Last updated:** 2026-03-24
+> **Last updated:** 2026-03-27
 >
 > This repository tracks the submission status of all academic papers by WENQUAN0816.
 
@@ -35,7 +35,7 @@
 | 17 | Transforming Vacant Rural School Buildings into Age-Friendly Facilities under China Aging and Low-Fertility Context: A Natural Language Processing Based Evaluation Framework | BMC Geriatrics | **Accepted** | 2026-01-08 | [paper-17](https://github.com/WENQUAN0816/paper-17-Transforming-Vacant-Rural-School-Buildings-Age-Friendly-NLP-Framework) |
 | 21 | Dependency-Aware 3D Scene Graph Generation for Automated Age-Friendly Home Environment Assessment via Multimodal Feature Learning | Image and Vision Computing | Submitted to Journal | 2026-03-18 | — |
 | 22 | Dual hierarchical attention-enhanced transfer learning for semantic segmentation of point clouds in age-friendly home environment assessment | Journal of Big Data | Technical Check | 2026-03-19 | — |
-| 23 | GridMamba-Risk: Grid State Space Model for Whole-House Fall Risk Spatial Prediction from 3D Point Clouds | Virtual Reality (Springer Nature) | **Amendment Required** (add funding + informed consent) | 2026-03-20 | — |
+| 23 | GridMamba-Risk: Grid State Space Model for Whole-House Fall Risk Spatial Prediction from 3D Point Clouds | Virtual Reality (Springer Nature) | Submitted (Technical Check) — resubmitted 2026-03-26 with funding statement + ethics declaration | 2026-03-26 | — |
 | 24 | Diffusion Model-Based Point Cloud Synthesis for Age-Friendly Home Environment Assessment | Remote Sensing (MDPI) | ❌ **Rejected** (remotesensing-4237527) | 2026-03-21 | — |
 | 27 | FRSGraph: Semantic Graph Transformer for Point Cloud-Based Fall Risk Spatial Prediction in Elderly Home Environments | IEEE J-STARS | Submitted (JSTARS-2026-01380) | 2026-03-20 | — |
 | 28 | Spatial fall risk prediction in elderly residential environments using 3D point cloud-derived features and ensemble learning with SHAP interpretability | Egyptian Informatics Journal | Submitted | 2026-03-19 | — |
