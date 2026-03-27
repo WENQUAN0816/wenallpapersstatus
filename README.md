@@ -1,6 +1,6 @@
 # All Papers Submission Status
 
-> **Last updated:** 2026-03-27
+> **Last updated:** 2026-03-28
 >
 > This repository tracks the submission status of all academic papers by WENQUAN0816.
 
@@ -29,7 +29,7 @@
 | 5 | Dual-Channel Attention Mechanisms for Intelligent Emotion Monitoring and Intervention in Smart Elderly Care Systems | Biomedical Signal Processing and Control | Submitted to Journal | 2026-02-22 | [paper-5](https://github.com/WENQUAN0816/paper-5-Dual-Channel-Attention-Mechanisms-Intelligent-Emotion-Monitoring-Intervention-Elderly-Care) |
 | 8 | Public Trust in AI-Using Care Providers in Elderly Care: A Conceptual Review through the Lens of Ability, Benevolence, and Integrity | Universal Access in the Information Society | Editorial assignment | 2026-02-21 | [paper-8](https://github.com/WENQUAN0816/paper-8-Public-Trust-in-AI-Using-Care-Providers-in-Elderly-Care) |
 | 13* | Building Age-Friendly Community Resilience in Post-Pandemic China (transferred from JHPN) | Archives of Public Health | Transfer completed | 2026-02-15 | same as paper-13 |
-| 14 | A Comprehensive Evaluation Framework for Rural School-to-Elderly Care Facility Conversions in Aging China | BMC Health Services Research | Peer review | 2026-02-01 | [paper-14](https://github.com/WENQUAN0816/paper-14-Evaluation-Framework-Converting-Rural-Schools-Elderly-Care-Facilities) |
+| 14 | A Comprehensive Evaluation Framework for Rural School-to-Elderly Care Facility Conversions in Aging China | BMC Health Services Research | **Resubmitted** (Technical Check) — resubmitted 2026-03-27 after rejection; 4 authors, 23 pages (compressed from 44), addressed all reviewer comments | 2026-03-27 | [paper-11](https://github.com/WENQUAN0816/paper-11-Evaluation-Framework-Rural-School-Elderly-Care-Facility-Conversions-China) |
 | 15 | An Evidence-Based Fire Resilience Assessment Framework for Elderly Residents in Hong Kong High-Rise Communities | Humanities and Social Sciences Communications | With editor | 2026-01-30 | [paper-15](https://github.com/WENQUAN0816/paper-15-Fire-Resilience-Assessment-Elderly-Hong-Kong-High-Rise) |
 | 16 | A LSTM-based Model Predictive Control Method for Unlocking the Potential of Building Energy Flexibility in Malaysian Commercial Buildings | Scientific Reports | Peer review | 2026-01-13 | [paper-16](https://github.com/WENQUAN0816/paper-16-LSTM-Model-Predictive-Control-Building-Energy-Flexibility-Malaysia) |
 | 17 | Transforming Vacant Rural School Buildings into Age-Friendly Facilities under China Aging and Low-Fertility Context: A Natural Language Processing Based Evaluation Framework | BMC Geriatrics | **Accepted** | 2026-01-08 | [paper-17](https://github.com/WENQUAN0816/paper-17-Transforming-Vacant-Rural-School-Buildings-Age-Friendly-NLP-Framework) |
@@ -76,6 +76,8 @@
 > Paper 31 (扩散模型适老化改造, Diffusion-Based Generative Design) submitted to Automation in Construction 2026-03-21.
 >
 > Paper 32 (AccessPath, 无障碍通道拓扑图分析) submitted to IEEE Trans. Automation Science and Engineering 2026-03-20. Manuscript ID: T-ASE-2026-1359. Authors: Quan Wen, Yanting Wu.
+>
+> **Paper 14 (农村学校改造养老设施评估框架) RESUBMITTED** 2026-03-27 to BMC Health Services Research after initial rejection. Major revisions: (1) expanded from 1 to 4 authors (Quan Wen, Mazran Ismail, Muhammad Hafeez Abdul Nasir, Yanting Wu); (2) compressed from 44 pages to 23 pages (>40% reduction); (3) restructured sections (Background/Methods/Results/Discussion/Conclusions); (4) reduced tables from 8 to 5; (5) added baseline vs GAN-augmented model comparison (Table 4: 73.3% vs 86.7%, p=0.023); (6) rewrote Abstract/Introduction/Conclusion with Health Services Research focus; (7) added cover letter addressing all reviewer comments from Editor Feng. Currently in Technical Check stage. GitHub: [paper-11](https://github.com/WENQUAN0816/paper-11-Evaluation-Framework-Rural-School-Elderly-Care-Facility-Conversions-China).
 
 ---
 
