@@ -11,8 +11,8 @@
 | Status | Count |
 |--------|-------|
 | Peer Review | 4 |
-| Pre-Review (With Editor / Editorial Assignment / Submitted) | 20 |
-| Pending Submission | 16 |
+| Pre-Review (With Editor / Editorial Assignment / Submitted) | 19 |
+| Pending Submission | 17 |
 
 ---
 
@@ -43,7 +43,7 @@
 | 30 | An Integrated Mixed Reality and Conditional GAN Framework for Age-Friendly Home Renovation: Two-Stage Inpainting with 360-Degree Panoramic Visualization | Automation in Construction | Submitted | 2026-03-21 | — |
 | 31 | Enhancing Aging-Friendly Home Renovation Through Diffusion-Based Generative Design: A Dual-Objective Framework for Safety and Visual Comfort | Automation in Construction | Submitted | 2026-03-21 | — |
 | 32 | AccessPath: Topological Graph-Based Barrier-Free Passage Analysis for Automated Accessibility Assessment in Elderly Home Environments | IEEE Trans. Automation Science and Engineering | ⚠️ **Unsubmitted** (T-ASE-2026-1359) — must anonymize for double-blind review + fix grammar | 2026-03-23 | — |
-| 6 | Social Emotional Network Analysis and Loneliness Prevention in Elderly Care Communities Based on Graph Neural Networks and Attention Mechanisms | The Journal of Nutrition, Health and Aging (JNHA) | Submitted (TJNHA-S-26-00527) | 2026-03-22 | [paper-6](https://github.com/WENQUAN0816/paper-6-Social-Emotional-Network-Analysis-Loneliness-Prevention-Elderly-Care-Graph-Neural-Networks) |
+| 6 | Social Emotional Network Analysis and Loneliness Prevention in Elderly Care Communities Based on Graph Neural Networks and Attention Mechanisms | The Journal of Nutrition, Health and Aging (JNHA) | **Rejected** (TJNHA-D-26-00396, scope mismatch) → Pending Submission | 2026-03-27 | [paper-6](https://github.com/WENQUAN0816/paper-6-Social-Emotional-Network-Analysis-Loneliness-Prevention-Elderly-Care-Graph-Neural-Networks) |
 | 9 | A Causality Model of Age-Friendly Living Environment Factors for Elderly People Living with HIV in China: Text Mining, Fuzzy DEMATEL, and Regional Comparison | Journal of Urban Health | Submitted (JURH-S-26-00249) | 2026-03-22 | [paper-9](https://github.com/WENQUAN0816/paper-9-Causality-Model-Age-Friendly-Living-Environment-Factors-Elderly-HIV-China-Fuzzy-DEMATEL) |
 | 20 | Transferable Deep Learning Network for Indoor Point Cloud Semantic Segmentation in Age-Friendly Home Environment Assessment | Displays (Elsevier) | ❌ **Rejected** (DISPLA-D-26-00542) | 2026-03-22 | [paper-20](https://github.com/WENQUAN0816/paper-20-Transferable-Deep-Learning-Point-Cloud-Semantic-Segmentation-Age-Friendly-Home-Assessment) |
 
@@ -123,6 +123,8 @@
 >
 > Paper 26 (IEEE TNSRE, TNSRE-2026-00398) unsubmitted 2026-03-20 — table overlapping text; must reduce to ≤10 pages (not counting references) and resubmit via IEEE Author Portal.
 >
+> Paper 6 (社会情感网络分析孤独预防, GNN+Attention) **REJECTED** 2026-03-27 by The Journal of Nutrition, Health and Aging (TJNHA-D-26-00396) — scope mismatch; editor commented "better suited for a Journal on Geriatric Psychiatry or Social Sciences". Pending resubmission to a more suitable journal.
+>
 > Paper 6 (社会情感网络分析孤独预防, GNN+Attention) submitted to The Journal of Nutrition, Health and Aging (JNHA) 2026-03-22 via Editorial Manager (editorialmanager.com/tjnha). Manuscript ID: TJNHA-S-26-00527. Gold OA journal. Authors: Quan Wen, Mazran Ismail, Muhammad Hafeez Abdul Nasir, Yanting Wu.
 >
 > Paper 9 (HIV老人适老化居住环境因果模型, Text Mining + Fuzzy DEMATEL) submitted to Journal of Urban Health 2026-03-22 via Editorial Manager (editorialmanager.com/jurh). Manuscript ID: JURH-S-26-00249. Authors: Quan Wen, Yanting Wu.
@@ -151,6 +153,7 @@
 
 | # | Paper Title | Notes | GitHub Repo |
 |---|-------------|-------|-------------|
+| 6 | Social Emotional Network Analysis and Loneliness Prevention in Elderly Care Communities Based on Graph Neural Networks and Attention Mechanisms | Rejected by The Journal of Nutrition, Health and Aging (TJNHA-D-26-00396, 2026-03-27) - scope mismatch (editor suggested Geriatric Psychiatry or Social Sciences journal); pending resubmission | [paper-6](https://github.com/WENQUAN0816/paper-6-Social-Emotional-Network-Analysis-Loneliness-Prevention-Elderly-Care-Graph-Neural-Networks) |
 | 2 | Multimodal Emotion Analysis for Early Detection of Dementia Based on Attention Mechanisms and Cross-Modal Feature Fusion | Rejected by Computers in Biology and Medicine (CIBM-D-26-00934, 2026-03-14) - quality standards not met; pending resubmission | [paper-2](https://github.com/WENQUAN0816/paper-2-Multimodal-Emotion-Analysis-Early-Detection-Dementia-Attention-Cross-Modal-Feature-Fusion) |
 | 4 | Emotion Analysis-based Evaluation and Optimization of Elderly Care Policy Effects Using Deep Learning Framework | Rejected by Computers in Human Behavior (CHB-D-26-01370), pending resubmission | [paper-4](https://github.com/WENQUAN0816/paper-4-Emotion-Analysis-Evaluation-and-Optimization-of-Elderly-Care-Policy-Using-Deep-Learning) |
 | 18 | Real-World Energy Efficiency of Refrigeration Systems in Grain Storage Facilities: A Large-Scale Field Study in Henan Province, China | Rejected twice by Journal of Cleaner Production (JCLEPRO-D-26-07569, 2026-03-12), pending resubmission | [paper-18](https://github.com/WENQUAN0816/paper-18-Real-World-Energy-Efficiency-Refrigeration-Systems-Grain-Storage-Henan) |
