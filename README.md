@@ -1,6 +1,6 @@
 # All Papers Submission Status
 
-> **Last updated:** 2026-03-30
+> **Last updated:** 2026-04-01
 >
 > This repository tracks the submission status of all academic papers by WENQUAN0816.
 
@@ -11,8 +11,8 @@
 | Status | Count |
 |--------|-------|
 | Peer Review | 4 |
-| Pre-Review (With Editor / Editorial Assignment / Submitted) | 19 |
-| Pending Submission | 17 |
+| Pre-Review (With Editor / Editorial Assignment / Submitted) | 18 |
+| Pending Submission | 18 |
 
 ---
 
@@ -29,7 +29,7 @@
 | 5 | Dual-Channel Attention Mechanisms for Intelligent Emotion Monitoring and Intervention in Smart Elderly Care Systems | Biomedical Signal Processing and Control | Submitted to Journal | 2026-02-22 | [paper-5](https://github.com/WENQUAN0816/paper-5-Dual-Channel-Attention-Mechanisms-Intelligent-Emotion-Monitoring-Intervention-Elderly-Care) |
 | 8 | Public Trust in AI-Using Care Providers in Elderly Care: A Conceptual Review through the Lens of Ability, Benevolence, and Integrity | Universal Access in the Information Society | Editorial assignment | 2026-02-21 | [paper-8](https://github.com/WENQUAN0816/paper-8-Public-Trust-in-AI-Using-Care-Providers-in-Elderly-Care) |
 | 13* | Building Age-Friendly Community Resilience in Post-Pandemic China (transferred from JHPN) | Archives of Public Health | Transfer completed | 2026-02-15 | same as paper-13 |
-| 14 | A Comprehensive Evaluation Framework for Rural School-to-Elderly Care Facility Conversions in Aging China | BMC Health Services Research | **Amendment Submitted** — fixed figure citation issues (Figures 4 and 6), amendment submitted 2026-03-30 | 2026-03-30 | [paper-11](https://github.com/WENQUAN0816/paper-11-Evaluation-Framework-Rural-School-Elderly-Care-Facility-Conversions-China) |
+| 14 | A Comprehensive Evaluation Framework for Rural School-to-Elderly Care Facility Conversions in Aging China | BMC Health Services Research | **Rejected** - resubmission removed from system on 2026-04-01; journal does not allow resubmission of previously rejected manuscripts without explicit invitation; appeal form pending | 2026-04-01 | [paper-11](https://github.com/WENQUAN0816/paper-11-Evaluation-Framework-Rural-School-Elderly-Care-Facility-Conversions-China) |
 | 15 | An Evidence-Based Fire Resilience Assessment Framework for Elderly Residents in Hong Kong High-Rise Communities | Humanities and Social Sciences Communications | With editor | 2026-01-30 | [paper-15](https://github.com/WENQUAN0816/paper-15-Fire-Resilience-Assessment-Elderly-Hong-Kong-High-Rise) |
 | 16 | A LSTM-based Model Predictive Control Method for Unlocking the Potential of Building Energy Flexibility in Malaysian Commercial Buildings | Scientific Reports | Peer review | 2026-01-13 | [paper-16](https://github.com/WENQUAN0816/paper-16-LSTM-Model-Predictive-Control-Building-Energy-Flexibility-Malaysia) |
 | 17 | Transforming Vacant Rural School Buildings into Age-Friendly Facilities under China Aging and Low-Fertility Context: A Natural Language Processing Based Evaluation Framework | BMC Geriatrics | **Accepted** | 2026-01-08 | [paper-17](https://github.com/WENQUAN0816/paper-17-Transforming-Vacant-Rural-School-Buildings-Age-Friendly-NLP-Framework) |
@@ -77,7 +77,8 @@
 >
 > Paper 32 (AccessPath, 无障碍通道拓扑图分析) submitted to IEEE Trans. Automation Science and Engineering 2026-03-20. Manuscript ID: T-ASE-2026-1359. Authors: Quan Wen, Yanting Wu.
 >
-> **Paper 14 (农村学校改造养老设施评估框架) Amendment Submitted** 2026-03-30 to BMC Health Services Research. Editor requested fix for undefined figure citations (Figures 4 and 6). All figures now properly cited in text. Response to editor uploaded. Previously resubmitted 2026-03-27 after initial rejection with major revisions (4 authors, 23 pages, addressed all reviewer comments). GitHub: [paper-11](https://github.com/WENQUAN0816/paper-11-Evaluation-Framework-Rural-School-Elderly-Care-Facility-Conversions-China).
+> **Paper 14 (rural school conversion framework / paper-11 repo) REJECTED AGAIN** on 2026-04-01 by BMC Health Services Research. The journal stated that previously rejected manuscripts cannot be resubmitted without explicit invitation. The resubmitted manuscript was removed from the system. An appeal form is expected for any further request to carry the resubmission forward. GitHub: [paper-11](https://github.com/WENQUAN0816/paper-11-Evaluation-Framework-Rural-School-Elderly-Care-Facility-Conversions-China).
+> **Paper 20 (ISPRS / PHOTO-D-26-00934) received a revision reminder** on 2026-03-31 via forwarded email to Mazran Ismail. ISPRS stated they had previously invited a revision and have not yet received the revised manuscript; they asked whether a revised version will still be submitted.
 
 ---
 
@@ -159,6 +160,7 @@
 | 2 | Multimodal Emotion Analysis for Early Detection of Dementia Based on Attention Mechanisms and Cross-Modal Feature Fusion | Rejected by Computers in Biology and Medicine (CIBM-D-26-00934, 2026-03-14) - quality standards not met; pending resubmission | [paper-2](https://github.com/WENQUAN0816/paper-2-Multimodal-Emotion-Analysis-Early-Detection-Dementia-Attention-Cross-Modal-Feature-Fusion) |
 | 4 | Emotion Analysis-based Evaluation and Optimization of Elderly Care Policy Effects Using Deep Learning Framework | Rejected by Computers in Human Behavior (CHB-D-26-01370), pending resubmission | [paper-4](https://github.com/WENQUAN0816/paper-4-Emotion-Analysis-Evaluation-and-Optimization-of-Elderly-Care-Policy-Using-Deep-Learning) |
 | 18 | Real-World Energy Efficiency of Refrigeration Systems in Grain Storage Facilities: A Large-Scale Field Study in Henan Province, China | Rejected twice by Journal of Cleaner Production (JCLEPRO-D-26-07569, 2026-03-12), pending resubmission | [paper-18](https://github.com/WENQUAN0816/paper-18-Real-World-Energy-Efficiency-Refrigeration-Systems-Grain-Storage-Henan) |
+| 14 | A Comprehensive Evaluation Framework for Rural School-to-Elderly Care Facility Conversions in Aging China | Rejected again by BMC Health Services Research (2026-04-01) - resubmission removed from system because previously rejected manuscripts require explicit invitation; appeal form pending | [paper-11](https://github.com/WENQUAN0816/paper-11-Evaluation-Framework-Rural-School-Elderly-Care-Facility-Conversions-China) |
 | 19 | Dual-Mode Radiative Cooling and Solar Heating Roof Panel System for Year-Round Energy Management in Grain Warehouses | Not submitted | [paper-19](https://github.com/WENQUAN0816/paper-19-Dual-Mode-Radiative-Cooling-Solar-Heating-Roof-Panel-Grain-Warehouses) |
 | LRL-1 | Dual-Mode Radiative Cooling and Solar Heating for Year-Round Energy Optimization in Multi-Story Grain Warehouses | 刘瑞丽项目, pending submission (target: Energy and Buildings) | [paper-LRL1](https://github.com/WENQUAN0816/paper-LRL1-Dual-Mode-Radiative-Cooling-Solar-Heating-Year-Round-Energy-Grain-Warehouses) |
 | LRL-2 | Adaptive Multi-Zone Temperature Control for Multi-Story Grain Warehouses Enabled by Phase-Change Materials: A Combined Experimental and Numerical Study | 刘瑞丽项目, pending submission (target: Applied Energy) | [paper-LRL2](https://github.com/WENQUAN0816/paper-LRL2-Adaptive-Multi-Zone-Temperature-Control-Phase-Change-Materials-Grain-Warehouses) |
@@ -206,3 +208,5 @@ All 5 papers from the [Transformer-Blockchain-IoT-Security-Elderly-Care-5-Papers
 | Submitted | Paper submitted, awaiting processing |
 | Transfer Completed | Paper transferred to another journal |
 | Pending Submission | Paper not yet submitted or rejected and awaiting resubmission |
+
+
