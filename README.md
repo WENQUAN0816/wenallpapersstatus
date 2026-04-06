@@ -148,6 +148,8 @@
 >
 > AccessGeometry paper (3D点云参数化建模适老化) **REJECTED** 2026-03-24 by Frontiers of Architectural Research (FoAR). Manuscript ID: FOAR-D-26-00269. Initial screening rejection — "may not align closely enough with the current focus and scope of our journal."
 >
+> **2026-04-05 email-first update:** a separate FOAR reminder email was received for **"Toward a BIM-Integrated Spatial World Model for Aging-Friendly Resilience Assessment: A Conceptual Framework and Research Agenda"** stating **"Your revision is past due"**. However, that email is malformed: manuscript ID, expected revision date, and reminder history fields are blank. In the currently accessible mailbox history, no matching FOAR submission-assigned / decision / revision invitation chain for this BIM paper was found. Therefore, the email is recorded as the latest signal, but the exact system status still needs Editorial Manager verification.
+>
 > Paper 32 (AccessPath, 无障碍通道拓扑图分析) **UNSUBMITTED** 2026-03-23 by IEEE T-ASE. Manuscript ID: T-ASE-2026-1359. Must anonymize all uploaded files (double-blind review) and fix grammar before resubmitting.
 
 ---
@@ -174,6 +176,7 @@
 | 20 | Transferable Deep Learning Network for Indoor Point Cloud Semantic Segmentation in Age-Friendly Home Environment Assessment | Rejected by Displays (DISPLA-D-26-00542, 2026-03-22) - EIC rejected; Elsevier suggests transfer via Journal Finder; pending resubmission | [paper-20](https://github.com/WENQUAN0816/paper-20-Transferable-Deep-Learning-Point-Cloud-Semantic-Segmentation-Age-Friendly-Home-Assessment) |
 | 6* | Social Emotional Network Analysis and Loneliness Prevention in Elderly Care Communities (IEEE Access version) | Rejected by IEEE Access (Access-2026-08063, 2026-03-22) - will not accept resubmission; irrelevant references, weak baselines, contradictory figures. Note: JNHA submission (TJNHA-S-26-00527) still under review | [paper-6](https://github.com/WENQUAN0816/paper-6-Social-Emotional-Network-Analysis-Loneliness-Prevention-Elderly-Care-Graph-Neural-Networks) |
 | — | AccessGeometry: Automated Parametric Modeling of Accessibility Features from Point Clouds for Elderly Home Barrier-Free Compliance Assessment | Rejected by Frontiers of Architectural Research (FOAR-D-26-00269, 2026-03-24) - scope mismatch; pending resubmission | — |
+| 25-BIM | Toward a BIM-Integrated Spatial World Model for Aging-Friendly Resilience Assessment: A Conceptual Framework and Research Agenda | Latest accessible email indicates "revision is past due" from Frontiers of Architectural Research on 2026-04-05; however, the reminder email is malformed and omits manuscript ID + due date, so this status still requires verification inside Editorial Manager | [paper-25](https://github.com/WENQUAN0816/paper-25-BIM-Spatial-World-Model-Aging-Friendly-Resilience) |
 | 32 | AccessPath: Topological Graph-Based Barrier-Free Passage Analysis for Automated Accessibility Assessment in Elderly Home Environments | Unsubmitted from IEEE T-ASE (T-ASE-2026-1359, 2026-03-23) - must anonymize for double-blind review + fix grammar; pending resubmission | — |
 
 ### Han Laoshi Papers (5 Papers -- Not Submitted)
