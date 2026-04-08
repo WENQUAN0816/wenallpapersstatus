@@ -1,6 +1,6 @@
 # All Papers Submission Status
 
-> **Last updated:** 2026-04-01
+> **Last updated:** 2026-04-09
 >
 > This repository tracks the submission status of all academic papers by WENQUAN0816.
 
@@ -11,8 +11,8 @@
 | Status | Count |
 |--------|-------|
 | Peer Review | 4 |
-| Pre-Review (With Editor / Editorial Assignment / Submitted) | 18 |
-| Pending Submission | 18 |
+| Pre-Review (With Editor / Editorial Assignment / Submitted) | 22 |
+| Pending Submission | 17 |
 
 ---
 
@@ -33,13 +33,17 @@
 | 15 | An Evidence-Based Fire Resilience Assessment Framework for Elderly Residents in Hong Kong High-Rise Communities | Humanities and Social Sciences Communications | With editor | 2026-01-30 | [paper-15](https://github.com/WENQUAN0816/paper-15-Fire-Resilience-Assessment-Elderly-Hong-Kong-High-Rise) |
 | 16 | A LSTM-based Model Predictive Control Method for Unlocking the Potential of Building Energy Flexibility in Malaysian Commercial Buildings | Scientific Reports | Peer review | 2026-01-13 | [paper-16](https://github.com/WENQUAN0816/paper-16-LSTM-Model-Predictive-Control-Building-Energy-Flexibility-Malaysia) |
 | 17 | Transforming Vacant Rural School Buildings into Age-Friendly Facilities under China Aging and Low-Fertility Context: A Natural Language Processing Based Evaluation Framework | BMC Geriatrics | **Accepted** | 2026-01-08 | [paper-17](https://github.com/WENQUAN0816/paper-17-Transforming-Vacant-Rural-School-Buildings-Age-Friendly-NLP-Framework) |
+| 25-BIM | Toward a BIM-Integrated Spatial World Model for Aging-Friendly Resilience Assessment: A Conceptual Framework and Research Agenda | Humanities and Social Sciences Communications | Technical checks | 2026-04-09 | [paper-25](https://github.com/WENQUAN0816/paper-25-BIM-Spatial-World-Model-Aging-Friendly-Resilience) |
+| 26-Indoor | A Multi-Dimensional Resilience Assessment Framework for Indoor Aging-Friendly Environments: LLM-Driven Indicator Construction Using Google Gemini Pro | Humanities and Social Sciences Communications | Technical checks | 2026-04-09 | [paper-26](https://github.com/WENQUAN0816/paper-26-Multi-Dimensional-Resilience-LLM-Gemini-Indoor-Aging) |
 | 21 | Dependency-Aware 3D Scene Graph Generation for Automated Age-Friendly Home Environment Assessment via Multimodal Feature Learning | Image and Vision Computing | Submitted to Journal | 2026-03-18 | — |
 | 22 | Dual hierarchical attention-enhanced transfer learning for semantic segmentation of point clouds in age-friendly home environment assessment | Journal of Big Data | Technical Check | 2026-03-19 | — |
 | 23 | GridMamba-Risk: Grid State Space Model for Whole-House Fall Risk Spatial Prediction from 3D Point Clouds | Virtual Reality (Springer Nature) | Submitted (Technical Check) — resubmitted 2026-03-26 with funding statement + ethics declaration | 2026-03-26 | — |
 | 24 | Diffusion Model-Based Point Cloud Synthesis for Age-Friendly Home Environment Assessment | Remote Sensing (MDPI) | ❌ **Rejected** (remotesensing-4237527) | 2026-03-21 | — |
 | 27 | FRSGraph: Semantic Graph Transformer for Point Cloud-Based Fall Risk Spatial Prediction in Elderly Home Environments | IEEE J-STARS | Submitted (JSTARS-2026-01380) | 2026-03-20 | — |
+| 28-Sensors | Elderly Users' Acceptance of Smart Home Sensor Systems for Aging-in-Place: Integrating TAM, Privacy Calculus Theory, and Spatial Autonomy | BMC Psychology | Technical checks | 2026-04-09 | [paper-28](https://github.com/WENQUAN0816/paper-28-Elderly-Smart-Home-Sensors-TAM-Privacy-Aging-in-Place) |
 | 28 | Spatial fall risk prediction in elderly residential environments using 3D point cloud-derived features and ensemble learning with SHAP interpretability | Egyptian Informatics Journal | Submitted | 2026-03-19 | — |
 | 29 | AccessStairNet: Deep Learning-Based Step and Threshold Detection for Automated Accessibility Assessment in Elderly Home Environments | IEEE Trans. Instrumentation & Measurement | Submitted (TIM-26-03170) | 2026-03-21 | — |
+| 30-Urban | Aging in the Cracks: An Intelligent Safety Resilience Assessment Framework for Low-Income Urban Elderly Living Alone in China's Old Residential Communities | BMC Primary Care | Technical checks | 2026-04-09 | [paper-30](https://github.com/WENQUAN0816/paper-30-Aging-in-the-Cracks-Safety-Resilience-Framework-Low-Income-Urban-Elderly-China) |
 | 30 | An Integrated Mixed Reality and Conditional GAN Framework for Age-Friendly Home Renovation: Two-Stage Inpainting with 360-Degree Panoramic Visualization | Automation in Construction | Submitted | 2026-03-21 | — |
 | 31 | Enhancing Aging-Friendly Home Renovation Through Diffusion-Based Generative Design: A Dual-Objective Framework for Safety and Visual Comfort | Automation in Construction | Submitted | 2026-03-21 | — |
 | 32 | AccessPath: Topological Graph-Based Barrier-Free Passage Analysis for Automated Accessibility Assessment in Elderly Home Environments | IEEE Trans. Automation Science and Engineering | ⚠️ **Unsubmitted** (T-ASE-2026-1359) — must anonymize for double-blind review + fix grammar | 2026-03-23 | — |
@@ -150,6 +154,16 @@
 >
 > **2026-04-05 email-first update:** a separate FOAR reminder email was received for **"Toward a BIM-Integrated Spatial World Model for Aging-Friendly Resilience Assessment: A Conceptual Framework and Research Agenda"** stating **"Your revision is past due"**. However, that email is malformed: manuscript ID, expected revision date, and reminder history fields are blank. In the currently accessible mailbox history, no matching FOAR submission-assigned / decision / revision invitation chain for this BIM paper was found. Therefore, the email is recorded as the latest signal, but the exact system status still needs Editorial Manager verification.
 >
+> **--- Updates 2026-04-09 ---**
+>
+> Paper 30-Urban ("Aging in the Cracks") was submitted to **BMC Primary Care** on 2026-04-09 via Springer Nature SNAPP. Current status: **Technical checks**.
+>
+> Paper 28-Sensors ("Elderly Users' Acceptance of Smart Home Sensor Systems for Aging-in-Place") was submitted to **BMC Psychology** on 2026-04-09 via Springer Nature SNAPP. Current status: **Technical checks**.
+>
+> Paper 26-Indoor ("A Multi-Dimensional Resilience Assessment Framework for Indoor Aging-Friendly Environments") was submitted to **Humanities and Social Sciences Communications** on 2026-04-09 via Springer Nature SNAPP. Current status: **Technical checks**.
+>
+> Paper 25-BIM ("Toward a BIM-Integrated Spatial World Model for Aging-Friendly Resilience Assessment") was submitted to **Humanities and Social Sciences Communications** on 2026-04-09 via Springer Nature SNAPP. Current status: **Technical checks**. This supersedes the earlier email-only FOAR reminder note as the latest tracked submission status for this paper.
+>
 > Paper 32 (AccessPath, 无障碍通道拓扑图分析) **UNSUBMITTED** 2026-03-23 by IEEE T-ASE. Manuscript ID: T-ASE-2026-1359. Must anonymize all uploaded files (double-blind review) and fix grammar before resubmitting.
 
 ---
@@ -176,7 +190,6 @@
 | 20 | Transferable Deep Learning Network for Indoor Point Cloud Semantic Segmentation in Age-Friendly Home Environment Assessment | Rejected by Displays (DISPLA-D-26-00542, 2026-03-22) - EIC rejected; Elsevier suggests transfer via Journal Finder; pending resubmission | [paper-20](https://github.com/WENQUAN0816/paper-20-Transferable-Deep-Learning-Point-Cloud-Semantic-Segmentation-Age-Friendly-Home-Assessment) |
 | 6* | Social Emotional Network Analysis and Loneliness Prevention in Elderly Care Communities (IEEE Access version) | Rejected by IEEE Access (Access-2026-08063, 2026-03-22) - will not accept resubmission; irrelevant references, weak baselines, contradictory figures. Note: JNHA submission (TJNHA-S-26-00527) still under review | [paper-6](https://github.com/WENQUAN0816/paper-6-Social-Emotional-Network-Analysis-Loneliness-Prevention-Elderly-Care-Graph-Neural-Networks) |
 | — | AccessGeometry: Automated Parametric Modeling of Accessibility Features from Point Clouds for Elderly Home Barrier-Free Compliance Assessment | Rejected by Frontiers of Architectural Research (FOAR-D-26-00269, 2026-03-24) - scope mismatch; pending resubmission | — |
-| 25-BIM | Toward a BIM-Integrated Spatial World Model for Aging-Friendly Resilience Assessment: A Conceptual Framework and Research Agenda | Latest accessible email indicates "revision is past due" from Frontiers of Architectural Research on 2026-04-05; however, the reminder email is malformed and omits manuscript ID + due date, so this status still requires verification inside Editorial Manager | [paper-25](https://github.com/WENQUAN0816/paper-25-BIM-Spatial-World-Model-Aging-Friendly-Resilience) |
 | 32 | AccessPath: Topological Graph-Based Barrier-Free Passage Analysis for Automated Accessibility Assessment in Elderly Home Environments | Unsubmitted from IEEE T-ASE (T-ASE-2026-1359, 2026-03-23) - must anonymize for double-blind review + fix grammar; pending resubmission | — |
 
 ### Han Laoshi Papers (5 Papers -- Not Submitted)
