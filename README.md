@@ -17,8 +17,8 @@
 | Status / 状态 | Count / 数量 |
 |--------|-------|
 | Peer Review / 外审中 | 4 |
-| Pre-Review (With Editor / Editorial Assignment / Submitted)<br><sub>初审中（编辑处理中 / 编辑分配中 / 已投稿待处理）</sub> | 22 |
-| Pending Submission / 待投稿或待重投 | 17 |
+| Pre-Review (With Editor / Editorial Assignment / Submitted)<br><sub>初审中（编辑处理中 / 编辑分配中 / 已投稿待处理）</sub> | 21 |
+| Pending Submission / 待投稿或待重投 | 18 |
 
 ---
 
@@ -48,7 +48,7 @@
 | 27 | FRSGraph: Semantic Graph Transformer for Point Cloud-Based Fall Risk Spatial Prediction in Elderly Home Environments<br><sub>FRSGraph：面向老年居家环境的语义图 Transformer 跌倒风险空间预测</sub> | IEEE J-STARS | Submitted (JSTARS-2026-01380)<br><sub>已投稿（稿号 JSTARS-2026-01380）</sub> | 2026-03-20 | — |
 | 28-Sensors | Elderly Users' Acceptance of Smart Home Sensor Systems for Aging-in-Place: Integrating TAM, Privacy Calculus Theory, and Spatial Autonomy<br><sub>老年用户对居家养老智能家居传感器系统的接受度：整合技术接受模型、隐私计算理论与空间自主性</sub> | BMC Psychology | Technical checks<br><sub>技术审核中</sub> | 2026-04-09 | [paper-28](https://github.com/WENQUAN0816/paper-28-Elderly-Smart-Home-Sensors-TAM-Privacy-Aging-in-Place) |
 | 28 | Spatial fall risk prediction in elderly residential environments using 3D point cloud-derived features and ensemble learning with SHAP interpretability<br><sub>基于三维点云特征与 SHAP 可解释集成学习的老年住宅环境跌倒风险空间预测</sub> | Egyptian Informatics Journal | Submitted<br><sub>已投稿</sub> | 2026-03-19 | — |
-| 29 | AccessStairNet: Deep Learning-Based Step and Threshold Detection for Automated Accessibility Assessment in Elderly Home Environments<br><sub>AccessStairNet：面向老年居家环境无障碍评估的台阶与门槛深度学习检测</sub> | IEEE Trans. Instrumentation & Measurement | Submitted (TIM-26-03170)<br><sub>已投稿（稿号 TIM-26-03170）</sub> | 2026-03-21 | — |
+| 29 | AccessStairNet: Deep Learning-Based Step and Threshold Detection for Automated Accessibility Assessment in Elderly Home Environments<br><sub>AccessStairNet：面向老年居家环境无障碍评估的台阶与门槛深度学习检测</sub> | IEEE Trans. Instrumentation & Measurement | ❌ **Reject and Resubmit** (TIM-26-03170) — scope/fit concerns; editor pointed authors to TIM scope guidance<br><sub>拒绝并重新提交（TIM-26-03170）；存在选题范围 / 契合度问题，编辑要求参考 TIM 范围说明后再重投</sub> | 2026-04-03 | — |
 | 30-Urban | Aging in the Cracks: An Intelligent Safety Resilience Assessment Framework for Low-Income Urban Elderly Living Alone in China's Old Residential Communities<br><sub>老龄化夹缝：面向中国老旧居住社区低收入独居老人的智能安全韧性评估框架</sub> | BMC Primary Care | Technical checks<br><sub>技术审核中</sub> | 2026-04-09 | [paper-30](https://github.com/WENQUAN0816/paper-30-Aging-in-the-Cracks-Safety-Resilience-Framework-Low-Income-Urban-Elderly-China) |
 | 30 | An Integrated Mixed Reality and Conditional GAN Framework for Age-Friendly Home Renovation: Two-Stage Inpainting with 360-Degree Panoramic Visualization<br><sub>适老住宅改造的混合现实与条件 GAN 集成框架：两阶段修复与 360 度全景可视化</sub> | Automation in Construction | Submitted<br><sub>已投稿</sub> | 2026-03-21 | — |
 | 31 | Enhancing Aging-Friendly Home Renovation Through Diffusion-Based Generative Design: A Dual-Objective Framework for Safety and Visual Comfort<br><sub>通过基于扩散的生成式设计提升适老住宅改造：面向安全与视觉舒适的双目标框架</sub> | Automation in Construction | Submitted<br><sub>已投稿</sub> | 2026-03-21 | — |
@@ -101,9 +101,9 @@
 >
 > 论文 28（跌倒风险空间预测，ensemble learning + SHAP）已于 2026-03-19 通过 Editorial Manager 投稿至 Egyptian Informatics Journal。
 >
-> Paper 29 (AccessStairNet, 居家无障碍通行性检测) submitted to IEEE Trans. Instrumentation & Measurement (TIM) 2026-03-20. Manuscript ID: TIM-26-03170. Authors: Quan Wen, Mazran Ismail, Muhammad Hafeez Abdul Nasir.
+> Paper 29 (AccessStairNet, 居家无障碍通行性检测) received a **Reject and Resubmit** decision from IEEE Trans. Instrumentation & Measurement (TIM) on 2026-04-03. Manuscript ID: TIM-26-03170. The decision email points authors to TIM scope guidance before resubmission.
 >
-> 论文 29（AccessStairNet，居家无障碍通行性检测）已于 2026-03-20 投稿至 IEEE Transactions on Instrumentation and Measurement（TIM）。稿件号：TIM-26-03170。作者：Quan Wen、Mazran Ismail、Muhammad Hafeez Abdul Nasir。
+> 论文 29（AccessStairNet，居家无障碍通行性检测）已于 2026-04-03 收到 IEEE Transactions on Instrumentation and Measurement（TIM）的 **拒绝并重新提交** 决定。稿件号：TIM-26-03170。决定邮件要求作者在重投前参考 TIM 的期刊范围说明。
 >
 > Paper 30 (cGAN适老化改造方案, Mixed Reality + Conditional GAN) submitted to Automation in Construction 2026-03-21.
 >
@@ -262,6 +262,10 @@
 >
 > 论文 25-BIM（“Toward a BIM-Integrated Spatial World Model for Aging-Friendly Resilience Assessment”）已于 2026-04-09 通过 Springer Nature SNAPP 投稿至 **Humanities and Social Sciences Communications**。当前状态：**技术审核中**。这一状态已取代此前仅来自邮件提醒的 FOAR 记录，作为该论文最新的投稿状态。
 >
+> **2026-04-09 email-first update:** Paper 29 (AccessStairNet) received a **Reject and Resubmit** decision from **IEEE Transactions on Instrumentation and Measurement** on 2026-04-03. Manuscript ID: TIM-26-03170. The email cites scope / fit and directs authors to review TIM's scope guidance before resubmitting.
+>
+> **2026-04-09 邮件优先更新：** 论文 29（AccessStairNet）于 2026-04-03 收到 **IEEE Transactions on Instrumentation and Measurement** 的 **拒绝并重新提交** 决定。稿件号：TIM-26-03170。邮件指出问题主要在选题范围 / 期刊契合度，并要求作者在重投前仔细查看 TIM 的期刊范围说明。
+>
 > Paper 32 (AccessPath, 无障碍通道拓扑图分析) **UNSUBMITTED** 2026-03-23 by IEEE T-ASE. Manuscript ID: T-ASE-2026-1359. Must anonymize all uploaded files (double-blind review) and fix grammar before resubmitting.
 >
 > 论文 32（AccessPath，无障碍通道拓扑图分析）已于 2026-03-23 被 IEEE T-ASE 退回未提交。稿件号：T-ASE-2026-1359。重投前需将所有上传文件按双盲要求匿名化，并修正语法问题。
@@ -286,6 +290,7 @@
 | — | (Habitat International rejected paper)<br><sub>（被 Habitat International 拒稿的论文）</sub> | Rejected by Habitat International (HABITATINT-D-26-00983, 2026-03-17) - manuscript did not match submission details; pending resubmission<br><sub>被 Habitat International 拒稿（HABITATINT-D-26-00983，2026-03-17）；稿件与投稿信息不一致；待重新投稿</sub> | — |
 | 25 | GridMamba-Risk: Grid State Space Model for Whole-House Fall Risk Spatial Prediction from 3D Point Clouds<br><sub>GridMamba-Risk：基于网格状态空间模型的整屋三维点云跌倒风险空间预测</sub> | Rejected by International Journal of Digital Earth (269640903, 2026-03-20) - does not meet journal requirements; pending resubmission<br><sub>被 International Journal of Digital Earth 拒稿（269640903，2026-03-20）；不符合期刊要求；待重新投稿</sub> | — |
 | 26 | FRSPTNet: Multiscale Super-Patch Transformer for Fall Risk Zone Segmentation in Elderly Home Point Cloud Environments<br><sub>FRSPTNet：老年居家点云环境跌倒风险区域分割的多尺度超补丁 Transformer</sub> | Unsubmitted from IEEE TNSRE (TNSRE-2026-00398, 2026-03-20) - fix table overlap, reduce to ≤10 pages, resubmit via IEEE Author Portal<br><sub>被 IEEE TNSRE 退回未提交（TNSRE-2026-00398，2026-03-20）；需修复表格重叠、压缩至不超过 10 页，并通过 IEEE Author Portal 重投</sub> | — |
+| 29 | AccessStairNet: Deep Learning-Based Step and Threshold Detection for Automated Accessibility Assessment in Elderly Home Environments<br><sub>AccessStairNet：面向老年居家环境无障碍评估的台阶与门槛深度学习检测</sub> | Reject and resubmit by IEEE Trans. Instrumentation & Measurement (TIM-26-03170, 2026-04-03) - scope/fit concerns; editor referred authors to TIM scope guidance; pending resubmission<br><sub>被 IEEE Transactions on Instrumentation and Measurement 要求拒后重投（TIM-26-03170，2026-04-03）；存在选题范围 / 契合度问题，编辑要求参考 TIM 范围说明后再重投；当前待重新投稿</sub> | — |
 | 24 | Diffusion Model-Based Point Cloud Synthesis for Age-Friendly Home Environment Assessment<br><sub>面向居家适老环境评估的扩散模型点云合成</sub> | Rejected by Remote Sensing/MDPI (remotesensing-4237527, 2026-03-21) - Declined for Publication; pending resubmission<br><sub>被 Remote Sensing / MDPI 拒稿（remotesensing-4237527，2026-03-21）；拒绝发表；待重新投稿</sub> | — |
 | 20 | Transferable Deep Learning Network for Indoor Point Cloud Semantic Segmentation in Age-Friendly Home Environment Assessment<br><sub>面向居家适老环境评估的室内点云语义分割可迁移深度学习网络</sub> | Rejected by Displays (DISPLA-D-26-00542, 2026-03-22) - EIC rejected; Elsevier suggests transfer via Journal Finder; pending resubmission<br><sub>被 Displays 拒稿（DISPLA-D-26-00542，2026-03-22）；主编拒稿；Elsevier 建议通过 Journal Finder 转投；待重新投稿</sub> | [paper-20](https://github.com/WENQUAN0816/paper-20-Transferable-Deep-Learning-Point-Cloud-Semantic-Segmentation-Age-Friendly-Home-Assessment) |
 | 6* | Social Emotional Network Analysis and Loneliness Prevention in Elderly Care Communities (IEEE Access version)<br><sub>养老社区社会情感网络分析与孤独预防（IEEE Access 版本）</sub> | Rejected by IEEE Access (Access-2026-08063, 2026-03-22) - will not accept resubmission; irrelevant references, weak baselines, contradictory figures. Note: JNHA submission (TJNHA-S-26-00527) still under review<br><sub>被 IEEE Access 拒稿（Access-2026-08063，2026-03-22）；不接受重投；存在不相关参考文献、基线薄弱、图文矛盾等问题。备注：JNHA 版本（TJNHA-S-26-00527）仍在审中</sub> | [paper-6](https://github.com/WENQUAN0816/paper-6-Social-Emotional-Network-Analysis-Loneliness-Prevention-Elderly-Care-Graph-Neural-Networks) |
