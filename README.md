@@ -1,6 +1,6 @@
 # All Papers Submission Status
 
-> **Last updated:** 2026-04-09
+> **Last updated:** 2026-04-10
 >
 > This repository tracks the submission status of all academic papers by WENQUAN0816.
 >
@@ -17,8 +17,8 @@
 | Status / 状态 | Count / 数量 |
 |--------|-------|
 | Peer Review / 外审中 | 4 |
-| Pre-Review (With Editor / Editorial Assignment / Submitted)<br><sub>初审中（编辑处理中 / 编辑分配中 / 已投稿待处理）</sub> | 21 |
-| Pending Submission / 待投稿或待重投 | 18 |
+| Pre-Review (With Editor / Editorial Assignment / Submitted)<br><sub>初审中（编辑处理中 / 编辑分配中 / 已投稿待处理）</sub> | 22 |
+| Pending Submission / 待投稿或待重投 | 17 |
 
 ---
 
@@ -26,6 +26,7 @@
 
 | # | Paper Title / 论文标题 | Journal | Status / 状态 | Last Updated | GitHub Repo |
 |---|-------------|---------|--------|-------------|-------------|
+| 4 | Using deep learning-based emotion analysis to evaluate and optimize older adult care policy implementation: a multi-source study<br><sub>使用基于深度学习的情绪分析评估并优化老年照护政策实施：一项多源研究</sub> | Health Research Policy and Systems | Submitted via Springer Nature SNAPP<br><sub>已通过 Springer Nature SNAPP 投稿</sub> | 2026-04-10 | [paper-4](https://github.com/WENQUAN0816/paper-4-Emotion-Analysis-Evaluation-and-Optimization-of-Elderly-Care-Policy-Using-Deep-Learning) |
 | 1 | Bayesian Meta-Learning Framework for Temporal Age-Friendly Community Assessment<br><sub>适老社区时序评估的贝叶斯元学习框架</sub> | BMC Medical Research Methodology | With editor<br><sub>编辑处理中</sub> | 2026-03-07 | [paper-1](https://github.com/WENQUAN0816/paper-1-Bayesian-Meta-Learning-Framework-for-Temporal-Age-Friendly-Community-Assessment) |
 | 10 | An Elderly HIV-Infected Individual-Centric Framework for Age-Friendly Living Environment Assessment in China<br><sub>中国老年 HIV 感染者适老居住环境评估的个体中心框架</sub> | BMC Geriatrics | With editor<br><sub>编辑处理中</sub> | 2026-03-03 | [paper-10](https://github.com/WENQUAN0816/paper-10-Elderly-HIV-Centric-Framework-Topic-Modeling-Delphi-Hierarchical-Needs) |
 | 11 | AFLE-HIV: Developing an Age-Friendly Living Environment Assessment Framework for Elderly HIV-Infected Individuals in China<br><sub>AFLE-HIV：中国老年 HIV 感染者适老居住环境评估框架构建</sub> | BMC Public Health | Peer review<br><sub>外审中</sub> | 2026-03-02 | [paper-11](https://github.com/WENQUAN0816/paper-11-AFLE-HIV-Assessment-Framework-Elderly-HIV-Infected-Individuals-China) |
@@ -132,7 +133,7 @@
 |---|-------------|---------|--------|------|-------------|
 | 2 | Multimodal Emotion Analysis for Early Detection of Dementia Based on Attention Mechanisms and Cross-Modal Feature Fusion<br><sub>基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析</sub> | Computers in Biology and Medicine | **Rejected** → Pending Submission (CIBM-D-26-00934)<br><sub>已拒稿 → 待重新投稿（CIBM-D-26-00934）</sub> | 2026-03-14 | [paper-2](https://github.com/WENQUAN0816/paper-2-Multimodal-Emotion-Analysis-Early-Detection-Dementia-Attention-Cross-Modal-Feature-Fusion) |
 | 3 | Multi-Source Data Integration with Conditional GAN-Random Forest for Community Resilience Assessment: Evidence from Henan Province, China<br><sub>基于条件 GAN 与随机森林的多源数据融合社区韧性评估：来自中国河南的证据</sub> | Sustainable Cities and Society | Submitted / Sent back (SCSI-D-26-02059)<br><sub>已投稿 / 已退回（SCSI-D-26-02059）</sub> | 2026-02-22 | [paper-3](https://github.com/WENQUAN0816/paper-3-Multi-Source-Data-Integration-Conditional-GAN-Random-Forest-Community-Resilience-Assessment) |
-| 4 | Emotion Analysis-based Evaluation and Optimization of Elderly Care Policy Effects Using Deep Learning Framework<br><sub>基于深度学习框架的养老政策效果情绪分析评估与优化</sub> | Computers in Human Behavior | **Rejected** → Pending Submission (CHB-D-26-01370)<br><sub>已拒稿 → 待重新投稿（CHB-D-26-01370）</sub> | 2026-02-28 | [paper-4](https://github.com/WENQUAN0816/paper-4-Emotion-Analysis-Evaluation-and-Optimization-of-Elderly-Care-Policy-Using-Deep-Learning) |
+| 4 | Using deep learning-based emotion analysis to evaluate and optimize older adult care policy implementation: a multi-source study<br><sub>使用基于深度学习的情绪分析评估并优化老年照护政策实施：一项多源研究</sub> | Health Research Policy and Systems | Submitted via Springer Nature SNAPP<br><sub>已通过 Springer Nature SNAPP 投稿</sub> | 2026-04-10 | [paper-4](https://github.com/WENQUAN0816/paper-4-Emotion-Analysis-Evaluation-and-Optimization-of-Elderly-Care-Policy-Using-Deep-Learning) |
 | — | Phase-Change Material-Based Adaptive Multi-Zone Temperature Control for Multi-Story Grain Warehouses<br><sub>基于相变材料的多层粮仓自适应多温区温度控制</sub> | Applied Thermal Engineering | **Rejected** (ATE-D-26-03583, desk rejection)<br><sub>已拒稿（ATE-D-26-03583，编辑初筛拒稿）</sub> | 2026-03-18 | — |
 | — | Dependency-Aware 3D Scene Graph Generation for Automated Age-Friendly Home Environment Assessment via Multimodal Feature Learning<br><sub>基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估</sub> | Automation in Construction | **Rejected** (AUTCON-D-26-01453, desk rejection)<br><sub>已拒稿（AUTCON-D-26-01453，编辑初筛拒稿）</sub> | 2026-03-17 | — |
 | — | Developing a Sustainable Assessment Framework for Community Resilience to Public Health Emergencies: Integrating Contrastive Learning with Hyperspherical Embedding<br><sub>面向公共卫生突发事件社区韧性的可持续评估框架构建：整合对比学习与超球嵌入</sub> | Springer Nature (journal TBD) | **Withdrawn** (no revised version received)<br><sub>已撤稿（未收到修订版本）</sub> | 2026-03-17 | — |
@@ -242,6 +243,14 @@
 >
 > **2026-04-05 邮件优先更新：** 收到一封单独的 FOAR 提醒邮件，对应论文 **“Toward a BIM-Integrated Spatial World Model for Aging-Friendly Resilience Assessment: A Conceptual Framework and Research Agenda”**，邮件中写明 **“Your revision is past due”**。但该邮件存在异常：稿件号、预计修回日期、提醒历史等字段均为空。在当前可访问邮箱记录中，也未找到与该 BIM 论文相匹配的 FOAR 投稿分配、决定或修回邀请链。因此，该邮件暂作为最新信号记录，但准确系统状态仍需在 Editorial Manager 中进一步核实。
 >
+> **--- Updates 2026-04-10 ---**
+>
+> **--- 2026-04-10 更新 ---**
+>
+> Paper 4 ("Using deep learning-based emotion analysis to evaluate and optimize older adult care policy implementation: a multi-source study") was submitted to **Health Research Policy and Systems** on 2026-04-10 via Springer Nature SNAPP. Manuscript ID is pending confirmation.
+>
+> 论文 4（“Using deep learning-based emotion analysis to evaluate and optimize older adult care policy implementation: a multi-source study”）已于 2026-04-10 通过 Springer Nature SNAPP 投稿至 **Health Research Policy and Systems**。稿件号待确认。
+>
 > **--- Updates 2026-04-09 ---**
 >
 > **--- 2026-04-09 更新 ---**
@@ -278,7 +287,6 @@
 |---|-------------|-------|-------------|
 | 6 | Social Emotional Network Analysis and Loneliness Prevention in Elderly Care Communities Based on Graph Neural Networks and Attention Mechanisms<br><sub>基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防</sub> | Rejected by The Journal of Nutrition, Health and Aging (TJNHA-D-26-00396, 2026-03-27) - scope mismatch (editor suggested Geriatric Psychiatry or Social Sciences journal); pending resubmission<br><sub>被 The Journal of Nutrition, Health and Aging 拒稿（TJNHA-D-26-00396，2026-03-27）；选题范围不匹配（编辑建议改投老年精神病学或社会科学期刊）；待重新投稿</sub> | [paper-6](https://github.com/WENQUAN0816/paper-6-Social-Emotional-Network-Analysis-Loneliness-Prevention-Elderly-Care-Graph-Neural-Networks) |
 | 2 | Multimodal Emotion Analysis for Early Detection of Dementia Based on Attention Mechanisms and Cross-Modal Feature Fusion<br><sub>基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析</sub> | Rejected by Computers in Biology and Medicine (CIBM-D-26-00934, 2026-03-14) - quality standards not met; pending resubmission<br><sub>被 Computers in Biology and Medicine 拒稿（CIBM-D-26-00934，2026-03-14）；未达到质量标准；待重新投稿</sub> | [paper-2](https://github.com/WENQUAN0816/paper-2-Multimodal-Emotion-Analysis-Early-Detection-Dementia-Attention-Cross-Modal-Feature-Fusion) |
-| 4 | Emotion Analysis-based Evaluation and Optimization of Elderly Care Policy Effects Using Deep Learning Framework<br><sub>基于深度学习框架的养老政策效果情绪分析评估与优化</sub> | Rejected by Computers in Human Behavior (CHB-D-26-01370), pending resubmission<br><sub>被 Computers in Human Behavior 拒稿（CHB-D-26-01370）；待重新投稿</sub> | [paper-4](https://github.com/WENQUAN0816/paper-4-Emotion-Analysis-Evaluation-and-Optimization-of-Elderly-Care-Policy-Using-Deep-Learning) |
 | 18 | Real-World Energy Efficiency of Refrigeration Systems in Grain Storage Facilities: A Large-Scale Field Study in Henan Province, China<br><sub>粮食储藏设施制冷系统的真实世界能效：来自中国河南的大规模实地研究</sub> | Rejected twice by Journal of Cleaner Production (JCLEPRO-D-26-07569, 2026-03-12), pending resubmission<br><sub>被 Journal of Cleaner Production 两次拒稿（JCLEPRO-D-26-07569，2026-03-12）；待重新投稿</sub> | [paper-18](https://github.com/WENQUAN0816/paper-18-Real-World-Energy-Efficiency-Refrigeration-Systems-Grain-Storage-Henan) |
 | 14 | A Comprehensive Evaluation Framework for Rural School-to-Elderly Care Facility Conversions in Aging China<br><sub>中国老龄化背景下农村学校改造养老设施的综合评估框架</sub> | Rejected again by BMC Health Services Research (2026-04-01) - resubmission removed from system because previously rejected manuscripts require explicit invitation; appeal form pending<br><sub>被 BMC Health Services Research 再次拒稿（2026-04-01）；因已拒稿论文需获明确邀请方可重投，重投稿件已被系统移除；目前等待申诉表</sub> | [paper-11](https://github.com/WENQUAN0816/paper-11-Evaluation-Framework-Rural-School-Elderly-Care-Facility-Conversions-China) |
 | 19 | Dual-Mode Radiative Cooling and Solar Heating Roof Panel System for Year-Round Energy Management in Grain Warehouses<br><sub>用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统</sub> | Not submitted<br><sub>尚未投稿</sub> | [paper-19](https://github.com/WENQUAN0816/paper-19-Dual-Mode-Radiative-Cooling-Solar-Heating-Roof-Panel-Grain-Warehouses) |
