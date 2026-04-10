@@ -18,9 +18,15 @@
 |--------|-------|
 | Peer Review / 外审中 | 4 |
 | Pre-Review (With Editor / Editorial Assignment / Submitted)<br><sub>初审中（编辑处理中 / 编辑分配中 / 已投稿待处理）</sub> | 23 |
-| Pending Submission / 待投稿或待重投 | 16 |
+| Pending Submission / 待投稿或待重投 | 31 |
 
 ---
+
+## Default Rule Update / 默认规则更新
+
+> **Rule / 规则：** Any paper repo that already exists on GitHub but does not yet have an explicitly recorded submission status is now treated as **Pending Submission / 未投** by default until a concrete submission record is added.
+>
+> **规则说明：** 凡是 GitHub 仓库已存在、但尚未明确补录投稿状态的论文，现默认一律按 **Pending Submission / 未投** 处理，直到补入明确投稿记录。
 
 ## Currently Submitted Papers (Tracked in Submission System) / 当前已投论文（投稿系统跟踪）
 
@@ -304,25 +310,25 @@
 | 41 | AccessGeometry: Automated Parametric Modeling of Accessibility Features from Point Clouds for Elderly Home Barrier-Free Compliance Assessment<br><sub>AccessGeometry：面向老年住宅无障碍合规评估的点云自动参数化建模</sub> | Rejected by Frontiers of Architectural Research (FOAR-D-26-00269, 2026-03-24) - scope mismatch; pending resubmission<br><sub>被 Frontiers of Architectural Research 拒稿（FOAR-D-26-00269，2026-03-24）；选题范围不匹配；待重新投稿</sub> | [paper-41](https://github.com/WENQUAN0816/paper-41-AccessGeometry-Parametric-Modeling-Point-Clouds-Barrier-Free-Compliance) |
 | 42 | AccessPath: Topological Graph-Based Barrier-Free Passage Analysis for Automated Accessibility Assessment in Elderly Home Environments<br><sub>AccessPath：面向老年居家环境自动无障碍评估的拓扑图式无障碍通行分析</sub> | Unsubmitted from IEEE T-ASE (T-ASE-2026-1359, 2026-03-23) - must anonymize for double-blind review + fix grammar; pending resubmission<br><sub>被 IEEE T-ASE 退回未提交（T-ASE-2026-1359，2026-03-23）；需按双盲要求匿名化并修正语法；待重新投稿</sub> | [paper-42](https://github.com/WENQUAN0816/paper-42-AccessPath-Topological-Graph-Barrier-Free-Passage-Analysis-Elderly-Home) |
 
-## Tracked Repos Pending Status Entry / 已建仓但状态待补录
+## Tracked Repos Treated as Pending Submission by Default Rule / 按默认规则视为未投的已建仓仓库
 
 | # | Paper Title / 论文标题 | GitHub Repo | Notes / 说明 |
 |---|---|---|---|
-| 23 | Automating age-friendly home compliance assessments using semantic analysis of 3D point clouds<br><sub>基于三维点云语义分析的适老住宅合规自动评估</sub> | [paper-23](https://github.com/WENQUAN0816/paper-23-Automating-Age-Friendly-Home-Compliance-Assessments-3D-Point-Clouds) | GitHub / 本地仓库已存在，但 README 尚未补录投稿状态 |
-| 27 | AI-BIM integrated assessment tools adoption among aging-friendly built environment professionals<br><sub>适老建成环境专业人员对 AI-BIM 评估工具的接受度</sub> | [paper-27](https://github.com/WENQUAN0816/paper-27-AI-BIM-Tools-Acceptance-Aging-Friendly-Professionals-TAM) | GitHub / 本地仓库已存在，但 README 尚未补录投稿状态 |
-| 43 | AgeFriendlyDiff: Conditional Diffusion-Based 3D Visualization of Age-Friendly Home Modifications from Single Indoor Photographs<br><sub>AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化</sub> | [paper-43](https://github.com/WENQUAN0816/paper-43-AgeFriendlyDiff-Conditional-Diffusion-3D-Visualization-Age-Friendly-Home) | GitHub / 本地仓库已存在，但 README 尚未补录投稿状态 |
-| 44 | Generative Artificial Intelligence for Age-Friendly Interior Renovation: Photorealistic Visualization of Accessibility-Compliant Dwelling Environments Using Regulation-Trained Diffusion Models<br><sub>生成式 AI 驱动的适老室内改造可视化</sub> | [paper-44](https://github.com/WENQUAN0816/paper-44-Generative-AI-Age-Friendly-Interior-Renovation-Diffusion-Models) | GitHub / 本地仓库已存在，但 README 尚未补录投稿状态 |
-| 45 | cGAN-Assisted Age-Friendly Home Renovation Design: A Multi-Objective Optimization Framework Integrating Accessibility, Cost, and Spatial Efficiency<br><sub>cGAN 辅助的适老住宅改造多目标优化</sub> | [paper-45](https://github.com/WENQUAN0816/paper-45-cGAN-Age-Friendly-Home-Renovation-Multi-Objective-Optimization) | GitHub / 本地仓库已存在，但 README 尚未补录投稿状态 |
-| 48 | Meta-learning enhanced parallel optimization framework for few-shot home environment safety level classification<br><sub>元学习增强的少样本居家安全等级分类框架</sub> | [paper-48](https://github.com/WENQUAN0816/paper-48-Meta-Learning-Parallel-Optimization-Few-Shot-Home-Safety-Classification) | GitHub / 本地仓库已存在，但 README 尚未补录投稿状态 |
-| 49 | Contrastive learning-enhanced knowledge distillation for RGB-depth home environment safety zone segmentation<br><sub>对比学习增强的 RGB-D 居家安全区域分割知识蒸馏</sub> | [paper-49](https://github.com/WENQUAN0816/paper-49-Contrastive-Learning-Knowledge-Distillation-RGB-Depth-Home-Safety-Segmentation) | GitHub / 本地仓库已存在，但 README 尚未补录投稿状态 |
-| 50 | Flexible semi-supervised meta-learning network for few-shot home environment safety level assessment<br><sub>灵活半监督元学习少样本居家安全评估网络</sub> | [paper-50](https://github.com/WENQUAN0816/paper-50-Semi-Supervised-Meta-Learning-Few-Shot-Home-Safety-Assessment) | GitHub / 本地仓库已存在，但 README 尚未补录投稿状态 |
+| 23 | Automating age-friendly home compliance assessments using semantic analysis of 3D point clouds<br><sub>基于三维点云语义分析的适老住宅合规自动评估</sub> | [paper-23](https://github.com/WENQUAN0816/paper-23-Automating-Age-Friendly-Home-Compliance-Assessments-3D-Point-Clouds) | 按默认规则视为未投，直到补录明确投稿状态 |
+| 27 | AI-BIM integrated assessment tools adoption among aging-friendly built environment professionals<br><sub>适老建成环境专业人员对 AI-BIM 评估工具的接受度</sub> | [paper-27](https://github.com/WENQUAN0816/paper-27-AI-BIM-Tools-Acceptance-Aging-Friendly-Professionals-TAM) | 按默认规则视为未投，直到补录明确投稿状态 |
+| 43 | AgeFriendlyDiff: Conditional Diffusion-Based 3D Visualization of Age-Friendly Home Modifications from Single Indoor Photographs<br><sub>AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化</sub> | [paper-43](https://github.com/WENQUAN0816/paper-43-AgeFriendlyDiff-Conditional-Diffusion-3D-Visualization-Age-Friendly-Home) | 按默认规则视为未投，直到补录明确投稿状态 |
+| 44 | Generative Artificial Intelligence for Age-Friendly Interior Renovation: Photorealistic Visualization of Accessibility-Compliant Dwelling Environments Using Regulation-Trained Diffusion Models<br><sub>生成式 AI 驱动的适老室内改造可视化</sub> | [paper-44](https://github.com/WENQUAN0816/paper-44-Generative-AI-Age-Friendly-Interior-Renovation-Diffusion-Models) | 按默认规则视为未投，直到补录明确投稿状态 |
+| 45 | cGAN-Assisted Age-Friendly Home Renovation Design: A Multi-Objective Optimization Framework Integrating Accessibility, Cost, and Spatial Efficiency<br><sub>cGAN 辅助的适老住宅改造多目标优化</sub> | [paper-45](https://github.com/WENQUAN0816/paper-45-cGAN-Age-Friendly-Home-Renovation-Multi-Objective-Optimization) | 按默认规则视为未投，直到补录明确投稿状态 |
+| 48 | Meta-learning enhanced parallel optimization framework for few-shot home environment safety level classification<br><sub>元学习增强的少样本居家安全等级分类框架</sub> | [paper-48](https://github.com/WENQUAN0816/paper-48-Meta-Learning-Parallel-Optimization-Few-Shot-Home-Safety-Classification) | 按默认规则视为未投，直到补录明确投稿状态 |
+| 49 | Contrastive learning-enhanced knowledge distillation for RGB-depth home environment safety zone segmentation<br><sub>对比学习增强的 RGB-D 居家安全区域分割知识蒸馏</sub> | [paper-49](https://github.com/WENQUAN0816/paper-49-Contrastive-Learning-Knowledge-Distillation-RGB-Depth-Home-Safety-Segmentation) | 按默认规则视为未投，直到补录明确投稿状态 |
+| 50 | Flexible semi-supervised meta-learning network for few-shot home environment safety level assessment<br><sub>灵活半监督元学习少样本居家安全评估网络</sub> | [paper-50](https://github.com/WENQUAN0816/paper-50-Semi-Supervised-Meta-Learning-Few-Shot-Home-Safety-Assessment) | 按默认规则视为未投，直到补录明确投稿状态 |
 | 51 | Multimodal Sensing and Physics-Informed Neural Network for Spatial Thermal Comfort Assessment in Urban Elderly Residences<br><sub>城市老年住宅空间热舒适的多模态感知与物理信息神经网络评估</sub> | [paper-51](https://github.com/WENQUAN0816/paper-51-Multimodal-Sensing-Physics-Informed-Neural-Network-Thermal-Comfort-Elderly) | Submitted to Environmental Health via Springer Nature SNAPP（2026-04-10） |
-| 52 | Spatiotemporal deep learning for multimodal thermal comfort assessment and prediction in community elderly day-care centers<br><sub>社区老年日间照料中心多模态热舒适的时空深度学习评估与预测</sub> | [paper-52](https://github.com/WENQUAN0816/paper-52-Spatiotemporal-Deep-Learning-Multimodal-Thermal-Comfort-Elderly-Day-Care) | GitHub / 本地仓库已存在，但 README 尚未补录投稿状态 |
-| 53 | VLM-driven automated defect assessment and report generation for age-friendly residential environments<br><sub>VLM 驱动的适老住宅缺陷自动评估与报告生成</sub> | [paper-53](https://github.com/WENQUAN0816/paper-53-VLM-Automated-Defect-Assessment-Report-Generation-Age-Friendly-Residential) | GitHub / 本地仓库已存在，但 README 尚未补录投稿状态 |
-| 54 | Vision-language models for age-friendly home defect assessment: A comprehensive review of automated report generation<br><sub>适老住宅缺陷评估中的视觉语言模型综述</sub> | [paper-54](https://github.com/WENQUAN0816/paper-54-Vision-Language-Models-Age-Friendly-Home-Defect-Assessment-Review) | GitHub / 本地仓库已存在，但 README 尚未补录投稿状态 |
-| 55 | Effects of home environment design characteristics on elderly residents' physiological and psychological well-being: A virtual reality experiment<br><sub>住宅环境设计特征对老年人生理心理福祉影响的 VR 实验</sub> | [paper-55](https://github.com/WENQUAN0816/paper-55-Home-Environment-Design-Elderly-Physiological-Psychological-Well-Being-VR) | GitHub / 本地仓库已存在，但 README 尚未补录投稿状态 |
-| 56 | Spatial graph neural network with multi-measure learning for elderly home activity zone functional classification<br><sub>用于老年住宅活动分区功能分类的空间图神经网络</sub> | [paper-56](https://github.com/WENQUAN0816/paper-56-Spatial-Graph-Neural-Network-Elderly-Home-Activity-Zone-Classification) | GitHub / 本地仓库已存在，但 README 尚未补录投稿状态 |
-| 57 | Linear Scheduling Method-Based Multi-Objective Optimization for Age-Friendly Home Renovation Module Manufacturing<br><sub>基于线性调度法的适老改造模块制造多目标优化</sub> | [paper-57](https://github.com/WENQUAN0816/paper-57-Linear-Scheduling-Multi-Objective-Optimization-Age-Friendly-Renovation-Manufacturing) | GitHub / 本地仓库已存在，但 README 尚未补录投稿状态 |
+| 52 | Spatiotemporal deep learning for multimodal thermal comfort assessment and prediction in community elderly day-care centers<br><sub>社区老年日间照料中心多模态热舒适的时空深度学习评估与预测</sub> | [paper-52](https://github.com/WENQUAN0816/paper-52-Spatiotemporal-Deep-Learning-Multimodal-Thermal-Comfort-Elderly-Day-Care) | 按默认规则视为未投，直到补录明确投稿状态 |
+| 53 | VLM-driven automated defect assessment and report generation for age-friendly residential environments<br><sub>VLM 驱动的适老住宅缺陷自动评估与报告生成</sub> | [paper-53](https://github.com/WENQUAN0816/paper-53-VLM-Automated-Defect-Assessment-Report-Generation-Age-Friendly-Residential) | 按默认规则视为未投，直到补录明确投稿状态 |
+| 54 | Vision-language models for age-friendly home defect assessment: A comprehensive review of automated report generation<br><sub>适老住宅缺陷评估中的视觉语言模型综述</sub> | [paper-54](https://github.com/WENQUAN0816/paper-54-Vision-Language-Models-Age-Friendly-Home-Defect-Assessment-Review) | 按默认规则视为未投，直到补录明确投稿状态 |
+| 55 | Effects of home environment design characteristics on elderly residents' physiological and psychological well-being: A virtual reality experiment<br><sub>住宅环境设计特征对老年人生理心理福祉影响的 VR 实验</sub> | [paper-55](https://github.com/WENQUAN0816/paper-55-Home-Environment-Design-Elderly-Physiological-Psychological-Well-Being-VR) | 按默认规则视为未投，直到补录明确投稿状态 |
+| 56 | Spatial graph neural network with multi-measure learning for elderly home activity zone functional classification<br><sub>用于老年住宅活动分区功能分类的空间图神经网络</sub> | [paper-56](https://github.com/WENQUAN0816/paper-56-Spatial-Graph-Neural-Network-Elderly-Home-Activity-Zone-Classification) | 按默认规则视为未投，直到补录明确投稿状态 |
+| 57 | Linear Scheduling Method-Based Multi-Objective Optimization for Age-Friendly Home Renovation Module Manufacturing<br><sub>基于线性调度法的适老改造模块制造多目标优化</sub> | [paper-57](https://github.com/WENQUAN0816/paper-57-Linear-Scheduling-Multi-Objective-Optimization-Age-Friendly-Renovation-Manufacturing) | 按默认规则视为未投，直到补录明确投稿状态 |
 
 ---
 
