@@ -1,6 +1,6 @@
 # All Papers Submission Status
 
-> **Last updated:** 2026-04-10
+> **Last updated:** 2026-04-11
 >
 > This repository tracks the submission status of all academic papers by WENQUAN0816.
 >
@@ -17,8 +17,8 @@
 | Status / 状态 | Count / 数量 |
 |--------|-------|
 | Peer Review / 外审中 | 4 |
-| Pre-Review (With Editor / Editorial Assignment / Submitted)<br><sub>初审中（编辑处理中 / 编辑分配中 / 已投稿待处理）</sub> | 23 |
-| Pending Submission / 待投稿或待重投 | 31 |
+| Pre-Review (With Editor / Editorial Assignment / Submitted)<br><sub>初审中（编辑处理中 / 编辑分配中 / 已投稿待处理）</sub> | 26 |
+| Pending Submission / 待投稿或待重投 | 28 |
 
 ---
 
@@ -32,6 +32,9 @@
 
 | # | Paper Title / 论文标题 | Journal | Status / 状态 | Last Updated | GitHub Repo |
 |---|-------------|---------|--------|-------------|-------------|
+| 49 | Contrastive learning-enhanced knowledge distillation for RGB-depth home environment safety zone segmentation<br><sub>对比学习增强的 RGB-D 居家安全区域分割知识蒸馏</sub> | Sensors | Submitted (sensors-4282340)<br><sub>已投稿（稿号 sensors-4282340）</sub> | 2026-04-11 | [paper-49](https://github.com/WENQUAN0816/paper-49-Contrastive-Learning-Knowledge-Distillation-RGB-Depth-Home-Safety-Segmentation) |
+| 50 | Flexible semi-supervised meta-learning network for few-shot home environment safety level assessment<br><sub>灵活半监督元学习少样本居家安全评估网络</sub> | Sensors | Submitted (sensors-4282374)<br><sub>已投稿（稿号 sensors-4282374）</sub> | 2026-04-11 | [paper-50](https://github.com/WENQUAN0816/paper-50-Semi-Supervised-Meta-Learning-Few-Shot-Home-Safety-Assessment) |
+| 53 | VLM-driven automated defect assessment and report generation for age-friendly residential environments<br><sub>VLM 驱动的适老住宅缺陷自动评估与报告生成</sub> | Sensors | Submitted (sensors-4282378)<br><sub>已投稿（稿号 sensors-4282378）</sub> | 2026-04-11 | [paper-53](https://github.com/WENQUAN0816/paper-53-VLM-Automated-Defect-Assessment-Report-Generation-Age-Friendly-Residential) |
 | 4 | Using deep learning-based emotion analysis to evaluate and optimize older adult care policy implementation: a multi-source study<br><sub>使用基于深度学习的情绪分析评估并优化老年照护政策实施：一项多源研究</sub> | Health Research Policy and Systems | Submitted via Springer Nature SNAPP<br><sub>已通过 Springer Nature SNAPP 投稿</sub> | 2026-04-10 | [paper-4](https://github.com/WENQUAN0816/paper-4-Emotion-Analysis-Evaluation-and-Optimization-of-Elderly-Care-Policy-Using-Deep-Learning) |
 | 1 | Bayesian Meta-Learning Framework for Temporal Age-Friendly Community Assessment<br><sub>适老社区时序评估的贝叶斯元学习框架</sub> | BMC Medical Research Methodology | With editor<br><sub>编辑处理中</sub> | 2026-03-07 | [paper-1](https://github.com/WENQUAN0816/paper-1-Bayesian-Meta-Learning-Framework-for-Temporal-Age-Friendly-Community-Assessment) |
 | 10 | An Elderly HIV-Infected Individual-Centric Framework for Age-Friendly Living Environment Assessment in China<br><sub>中国老年 HIV 感染者适老居住环境评估的个体中心框架</sub> | BMC Geriatrics | With editor<br><sub>编辑处理中</sub> | 2026-03-03 | [paper-10](https://github.com/WENQUAN0816/paper-10-Elderly-HIV-Centric-Framework-Topic-Modeling-Delphi-Hierarchical-Needs) |
@@ -253,6 +256,22 @@
 >
 > **--- 2026-04-10 更新 ---**
 >
+> **--- Updates 2026-04-11 ---**
+>
+> **--- 2026-04-11 更新 ---**
+>
+> Paper 49 ("Contrastive learning-enhanced knowledge distillation for RGB-depth home environment safety zone segmentation") was submitted to **Sensors** on 2026-04-11 via MDPI SuSy. Manuscript ID: `sensors-4282340`.
+>
+> 论文 49（“Contrastive learning-enhanced knowledge distillation for RGB-depth home environment safety zone segmentation”）已于 2026-04-11 通过 MDPI SuSy 投稿至 **Sensors**。稿件号：`sensors-4282340`。
+>
+> Paper 50 ("Flexible semi-supervised meta-learning network for few-shot home environment safety level assessment") was submitted to **Sensors** on 2026-04-11 via MDPI SuSy. Manuscript ID: `sensors-4282374`.
+>
+> 论文 50（“Flexible semi-supervised meta-learning network for few-shot home environment safety level assessment”）已于 2026-04-11 通过 MDPI SuSy 投稿至 **Sensors**。稿件号：`sensors-4282374`。
+>
+> Paper 53 ("VLM-driven automated defect assessment and report generation for age-friendly residential environments") was submitted to **Sensors** on 2026-04-11 via MDPI SuSy. Manuscript ID: `sensors-4282378`.
+>
+> 论文 53（“VLM-driven automated defect assessment and report generation for age-friendly residential environments”）已于 2026-04-11 通过 MDPI SuSy 投稿至 **Sensors**。稿件号：`sensors-4282378`。
+>
 > Paper 4 ("Using deep learning-based emotion analysis to evaluate and optimize older adult care policy implementation: a multi-source study") was submitted to **Health Research Policy and Systems** on 2026-04-10 via Springer Nature SNAPP. Manuscript ID is pending confirmation.
 >
 > 论文 4（“Using deep learning-based emotion analysis to evaluate and optimize older adult care policy implementation: a multi-source study”）已于 2026-04-10 通过 Springer Nature SNAPP 投稿至 **Health Research Policy and Systems**。稿件号待确认。
@@ -320,11 +339,8 @@
 | 44 | Generative Artificial Intelligence for Age-Friendly Interior Renovation: Photorealistic Visualization of Accessibility-Compliant Dwelling Environments Using Regulation-Trained Diffusion Models<br><sub>生成式 AI 驱动的适老室内改造可视化</sub> | [paper-44](https://github.com/WENQUAN0816/paper-44-Generative-AI-Age-Friendly-Interior-Renovation-Diffusion-Models) | 按默认规则视为未投，直到补录明确投稿状态 |
 | 45 | cGAN-Assisted Age-Friendly Home Renovation Design: A Multi-Objective Optimization Framework Integrating Accessibility, Cost, and Spatial Efficiency<br><sub>cGAN 辅助的适老住宅改造多目标优化</sub> | [paper-45](https://github.com/WENQUAN0816/paper-45-cGAN-Age-Friendly-Home-Renovation-Multi-Objective-Optimization) | 按默认规则视为未投，直到补录明确投稿状态 |
 | 48 | Meta-learning enhanced parallel optimization framework for few-shot home environment safety level classification<br><sub>元学习增强的少样本居家安全等级分类框架</sub> | [paper-48](https://github.com/WENQUAN0816/paper-48-Meta-Learning-Parallel-Optimization-Few-Shot-Home-Safety-Classification) | 按默认规则视为未投，直到补录明确投稿状态 |
-| 49 | Contrastive learning-enhanced knowledge distillation for RGB-depth home environment safety zone segmentation<br><sub>对比学习增强的 RGB-D 居家安全区域分割知识蒸馏</sub> | [paper-49](https://github.com/WENQUAN0816/paper-49-Contrastive-Learning-Knowledge-Distillation-RGB-Depth-Home-Safety-Segmentation) | 按默认规则视为未投，直到补录明确投稿状态 |
-| 50 | Flexible semi-supervised meta-learning network for few-shot home environment safety level assessment<br><sub>灵活半监督元学习少样本居家安全评估网络</sub> | [paper-50](https://github.com/WENQUAN0816/paper-50-Semi-Supervised-Meta-Learning-Few-Shot-Home-Safety-Assessment) | 按默认规则视为未投，直到补录明确投稿状态 |
 | 51 | Multimodal Sensing and Physics-Informed Neural Network for Spatial Thermal Comfort Assessment in Urban Elderly Residences<br><sub>城市老年住宅空间热舒适的多模态感知与物理信息神经网络评估</sub> | [paper-51](https://github.com/WENQUAN0816/paper-51-Multimodal-Sensing-Physics-Informed-Neural-Network-Thermal-Comfort-Elderly) | Submitted to Environmental Health via Springer Nature SNAPP（2026-04-10） |
 | 52 | Spatiotemporal deep learning for multimodal thermal comfort assessment and prediction in community elderly day-care centers<br><sub>社区老年日间照料中心多模态热舒适的时空深度学习评估与预测</sub> | [paper-52](https://github.com/WENQUAN0816/paper-52-Spatiotemporal-Deep-Learning-Multimodal-Thermal-Comfort-Elderly-Day-Care) | 按默认规则视为未投，直到补录明确投稿状态 |
-| 53 | VLM-driven automated defect assessment and report generation for age-friendly residential environments<br><sub>VLM 驱动的适老住宅缺陷自动评估与报告生成</sub> | [paper-53](https://github.com/WENQUAN0816/paper-53-VLM-Automated-Defect-Assessment-Report-Generation-Age-Friendly-Residential) | 按默认规则视为未投，直到补录明确投稿状态 |
 | 54 | Vision-language models for age-friendly home defect assessment: A comprehensive review of automated report generation<br><sub>适老住宅缺陷评估中的视觉语言模型综述</sub> | [paper-54](https://github.com/WENQUAN0816/paper-54-Vision-Language-Models-Age-Friendly-Home-Defect-Assessment-Review) | 按默认规则视为未投，直到补录明确投稿状态 |
 | 55 | Effects of home environment design characteristics on elderly residents' physiological and psychological well-being: A virtual reality experiment<br><sub>住宅环境设计特征对老年人生理心理福祉影响的 VR 实验</sub> | [paper-55](https://github.com/WENQUAN0816/paper-55-Home-Environment-Design-Elderly-Physiological-Psychological-Well-Being-VR) | 按默认规则视为未投，直到补录明确投稿状态 |
 | 56 | Spatial graph neural network with multi-measure learning for elderly home activity zone functional classification<br><sub>用于老年住宅活动分区功能分类的空间图神经网络</sub> | [paper-56](https://github.com/WENQUAN0816/paper-56-Spatial-Graph-Neural-Network-Elderly-Home-Activity-Zone-Classification) | 按默认规则视为未投，直到补录明确投稿状态 |
