@@ -1,6 +1,6 @@
 # All Papers Submission Status
 
-> **Last updated:** 2026-04-11
+> **Last updated:** 2026-05-03
 >
 > This repository tracks the submission status of all academic papers by WENQUAN0816.
 >
@@ -17,7 +17,7 @@
 | Status / 状态 | Count / 数量 |
 |--------|-------|
 | Peer Review / 外审中 | 4 |
-| Pre-Review (With Editor / Editorial Assignment / Submitted)<br><sub>初审中（编辑处理中 / 编辑分配中 / 已投稿待处理）</sub> | 26 |
+| Pre-Review (With Editor / Editorial Assignment / Submitted)<br><sub>初审中（编辑处理中 / 编辑分配中 / 已投稿待处理）</sub> | 31 |
 | Pending Submission / 待投稿或待重投 | 28 |
 
 ---
@@ -32,6 +32,11 @@
 
 | # | Paper Title / 论文标题 | Journal | Status / 状态 | Last Updated | GitHub Repo |
 |---|-------------|---------|--------|-------------|-------------|
+| ZXJ-1 | From Spatial Symbols to Social Practice: A Dynamic Framework for Meaning Construction in Age-Friendly Culturally Themed Architectural Spaces<br><sub>从空间符号到社会实践：适老文化主题建筑空间意义建构的动态框架</sub> | Buildings | Submitted via MDPI SuSy<br><sub>已通过 MDPI SuSy 投稿</sub> | 2026-05-03 | [zhuxuejia-paper-1](https://github.com/WENQUAN0816/zhuxuejia-paper-1-spatial-symbols-social-practice-age-friendly-cultural-architecture-meaning) |
+| ZXJ-2 | Meaning Construction and Older Adults' Place Attachment in Heritage Districts: A Structural Equation Modeling Framework<br><sub>遗产街区中老年人的意义建构与地方依恋：结构方程模型框架</sub> | Frontiers in Psychology | Submitted via Frontiers submission system<br><sub>已通过 Frontiers 投稿系统投稿</sub> | 2026-05-03 | [zhuxuejia-paper-2](https://github.com/WENQUAN0816/zhuxuejia-paper-2-meaning-construction-older-adults-place-attachment-heritage-districts-sem) |
+| ZXJ-3 | Developing the Spatial Meaning Perception Scale for Older Users of Culturally Themed Public Buildings: A Factor-Analytic Study Design<br><sub>面向文化主题公共建筑老年用户的空间意义感知量表开发：因子分析研究设计</sub> | Frontiers in Psychology | Submitted via Frontiers submission system<br><sub>已通过 Frontiers 投稿系统投稿</sub> | 2026-05-03 | [zhuxuejia-paper-3](https://github.com/WENQUAN0816/zhuxuejia-paper-3-spatial-meaning-perception-scale-older-users-cultural-public-buildings) |
+| ZXJ-4 | Older Visitors' Acceptance of Augmented-Reality Interpretation in Heritage Architecture: An Extended Technology Acceptance Model<br><sub>老年游客对遗产建筑增强现实解说的接受度：扩展技术接受模型</sub> | Applied Sciences | Submitted via MDPI SuSy<br><sub>已通过 MDPI SuSy 投稿</sub> | 2026-05-03 | [zhuxuejia-paper-4](https://github.com/WENQUAN0816/zhuxuejia-paper-4-older-visitors-ar-interpretation-heritage-architecture-extended-tam) |
+| ZXJ-5 | Resident Support for Smart Age-Friendly Retrofit Strategies in Historic Communities: Integrating Place Attachment and Technology Acceptance<br><sub>历史社区智慧适老化改造策略的居民支持：整合地方依恋与技术接受</sub> | Buildings | Submitted via MDPI SuSy<br><sub>已通过 MDPI SuSy 投稿</sub> | 2026-05-03 | [zhuxuejia-paper-5](https://github.com/WENQUAN0816/zhuxuejia-paper-5-smart-age-friendly-retrofit-historic-communities-place-attachment-tech-acceptance) |
 | 49 | Contrastive learning-enhanced knowledge distillation for RGB-depth home environment safety zone segmentation<br><sub>对比学习增强的 RGB-D 居家安全区域分割知识蒸馏</sub> | Sensors | Submitted (sensors-4282340)<br><sub>已投稿（稿号 sensors-4282340）</sub> | 2026-04-11 | [paper-49](https://github.com/WENQUAN0816/paper-49-Contrastive-Learning-Knowledge-Distillation-RGB-Depth-Home-Safety-Segmentation) |
 | 50 | Flexible semi-supervised meta-learning network for few-shot home environment safety level assessment<br><sub>灵活半监督元学习少样本居家安全评估网络</sub> | Sensors | Submitted (sensors-4282374)<br><sub>已投稿（稿号 sensors-4282374）</sub> | 2026-04-11 | [paper-50](https://github.com/WENQUAN0816/paper-50-Semi-Supervised-Meta-Learning-Few-Shot-Home-Safety-Assessment) |
 | 53 | VLM-driven automated defect assessment and report generation for age-friendly residential environments<br><sub>VLM 驱动的适老住宅缺陷自动评估与报告生成</sub> | Sensors | Submitted (sensors-4282378)<br><sub>已投稿（稿号 sensors-4282378）</sub> | 2026-04-11 | [paper-53](https://github.com/WENQUAN0816/paper-53-VLM-Automated-Defect-Assessment-Report-Generation-Age-Friendly-Residential) |
