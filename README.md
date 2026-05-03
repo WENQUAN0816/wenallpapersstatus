@@ -384,7 +384,7 @@
 
 ---
 
-### Han Laoshi Papers (5 Papers -- Not Submitted) / 韩老师论文（5篇，未投稿）
+### Han Laoshi Papers (5 Papers -- In Progress) / 韩老师论文（5篇，投稿处理中）
 
 All 5 papers from the [Transformer-Blockchain-IoT-Security-Elderly-Care-5-Papers](https://github.com/WENQUAN0816/Transformer-Blockchain-IoT-Security-Elderly-Care-5-Papers) repo:
 
@@ -392,8 +392,8 @@ All 5 papers from the [Transformer-Blockchain-IoT-Security-Elderly-Care-5-Papers
 
 | # | Paper Title / 论文标题 | Notes / 说明 |
 |---|-------------|-------|
-| H1 | CNN-Transformer Hybrid Architecture with Blockchain-Enabled Trust Management for IoT Intrusion Detection in Smart Elderly Care Environments<br><sub>CNN-Transformer 混合架构与区块链信任管理用于智慧养老环境物联网入侵检测</sub> | Not submitted<br><sub>尚未投稿</sub> |
-| H2 | Federated Learning with Blockchain-Based Aggregation for Privacy-Preserving IoT Intrusion Detection in Smart Elderly Care Environments<br><sub>基于联邦学习与区块链聚合的隐私保护智慧养老物联网入侵检测</sub> | Not submitted<br><sub>尚未投稿</sub> |
+| H1 | CNN-Transformer Hybrid Architecture with Blockchain-Enabled Trust Management for IoT Intrusion Detection in Smart Elderly Care Environments<br><sub>CNN-Transformer 混合架构与区块链信任管理用于智慧养老环境物联网入侵检测</sub> | 2026-05-04: Computers and Electrical Engineering draft completed in Elsevier Submit; files uploaded and final `Complete your submission` button left for manual click. Repository pushed to latest submission version.<br><sub>2026-05-04：Elsevier Submit 已完成草稿和文件上传，停在最终提交按钮前；论文仓库已推送为当前投稿版本。</sub> |
+| H2 | Federated Learning with Blockchain-Based Aggregation for Privacy-Preserving IoT Intrusion Detection in Smart Elderly Care Environments<br><sub>基于联邦学习与区块链聚合的隐私保护智慧养老物联网入侵检测</sub> | 2026-05-04: Future Generation Computer Systems route checked. Elsevier Submit draft creation returned server 500, so Editorial Manager one-time journal registration is required before submission can continue.<br><sub>2026-05-04：已检查 FGCS 投稿入口；Elsevier Submit 创建草稿返回服务器 500，需要先完成 Editorial Manager 期刊注册后继续投稿。</sub> |
 | H3 | GAN-Based Anomaly Detection with Transformer Discriminator and Blockchain Verification for IoT Security in Smart Elderly Care Environments<br><sub>基于 GAN、Transformer 判别器与区块链验证的智慧养老物联网安全异常检测</sub> | Not submitted<br><sub>尚未投稿</sub> |
 | H4 | Reinforcement Learning with Transformer-Based State Encoding and Blockchain Incentive for Adaptive IoT Security in Smart Elderly Care Environments<br><sub>基于 Transformer 状态编码与区块链激励的智慧养老物联网自适应安全强化学习</sub> | Not submitted<br><sub>尚未投稿</sub> |
 | H5 | Lightweight Transformer with Knowledge Distillation and Blockchain Coordination for Edge-Based IoT Intrusion Detection in Resource-Constrained Elderly Smart Homes<br><sub>基于知识蒸馏与区块链协同的轻量化 Transformer：资源受限老年智能家居边缘物联网入侵检测</sub> | Not submitted<br><sub>尚未投稿</sub> |
