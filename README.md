@@ -15,8 +15,8 @@ table th, table td { vertical-align: top; }
 
 | 状态 | 数量 |
 |---|---:|
-| ⚪ 未投稿 | 14 |
-| 🔴 需处理 | 19 |
+| ⚪ 未投稿 | 9 |
+| 🔴 需处理 | 24 |
 | 🟡 已投稿 | 20 |
 | 🔵 初审中 | 7 |
 | 🟢 外审中 | 10 |
@@ -28,12 +28,12 @@ table th, table td { vertical-align: top; }
 
 | # | 论文标题 | 投稿轨迹 | 状态 | 情况说明 |
 |---|---|---|---|---|
-| 19 | 用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统 | 未投稿 | ⚪ 未投稿 | 尚未投稿 |
+| 19 | 用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统 | Energy and Buildings（已拒稿） | 🔴 需处理 | 邮箱仅找到 Elsevier 转投拒稿通知：稿号 ENB-D-26-01660，未找到正式 decision 邮件正文，待转投 |
 | 27 | 适老建成环境专业人员对 AI-BIM 评估工具的接受度 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
-| 32 | 面向多层粮仓全年能源优化的双模式辐射制冷与太阳能供热 | Energy and Buildings | ⚪ 未投稿 | 待投稿 |
-| 33 | 相变材料赋能的多层粮仓自适应多温区控制：实验与数值结合研究 | Applied Energy | ⚪ 未投稿 | 待投稿 |
-| 34 | 面向多层粮仓围护结构的梯度纳米结构气凝胶复合保温材料 | Construction and Building Materials | ⚪ 未投稿 | 待投稿 |
-| 35 | 粮食储藏仓制冷系统真实世界能效评估：来自中国河南 65 个设施的证据 | Energy | ⚪ 未投稿 | 待投稿 |
+| 32 | 面向多层粮仓全年能源优化的双模式辐射制冷与太阳能供热 | Energy and Buildings（已拒稿） | 🔴 需处理 | 邮箱仅找到 Elsevier 转投拒稿通知：稿号 ENB-D-26-01660，未找到正式 decision 邮件正文，待确认是否与 #19 为同一稿件 |
+| 33 | 相变材料赋能的多层粮仓自适应多温区控制：实验与数值结合研究 | Applied Energy（已拒稿） → Applied Thermal Engineering（已拒稿） | 🔴 需处理 | Applied Energy：不适合期刊读者群；Applied Thermal Engineering：初筛认为影响力、新颖性和整体质量未达门槛，编辑备注“论文内容不足以在该刊发表” |
+| 34 | 面向多层粮仓围护结构的梯度纳米结构气凝胶复合保温材料 | Construction and Building Materials（已拒稿） | 🔴 需处理 | 邮箱仅找到 Elsevier 转投拒稿通知：稿号 CONBUILDMAT-D-26-04279；另有 2026-03-28 状态为 required reviews complete，未找到正式 decision 邮件正文 |
+| 35 | 粮食储藏仓制冷系统真实世界能效评估：来自中国河南 65 个设施的证据 | Journal of Cleaner Production（已拒稿） → Energy（邮箱未找到投稿/拒稿记录） | 🔴 需处理 | Journal of Cleaner Production：编辑初筛认为不适合本刊，且投稿量大，未送外审；Energy 记录待确认 |
 | 43 | AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
 | 44 | 生成式 AI 驱动的适老室内改造可视化 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
 | 45 | cGAN 辅助的适老住宅改造多目标优化 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
@@ -44,7 +44,7 @@ table th, table td { vertical-align: top; }
 | 57 | 基于线性调度法的适老改造模块制造多目标优化 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
 | HAN-EI-5 | 代码漏洞检测深度学习模型的系统评估：具有多种表示策略的模块化框架 | International Journal of Information and Computer Security | 🟡 已投稿 | 已投稿 |
 | — | 面向公共卫生突发事件社区韧性的可持续评估框架构建：整合对比学习与超球嵌入 | Springer Nature (journal TBD) | 🔴 需处理 | 已撤稿，需处理 |
-| 18 | 粮食储藏设施制冷系统的真实世界能效：来自中国河南的大规模实地研究 | Journal of Cleaner Production（已拒稿，两次） | 🔴 需处理 | 已拒稿，待处理 |
+| 18 | 粮食储藏设施制冷系统的真实世界能效：来自中国河南的大规模实地研究 | Journal of Cleaner Production（已拒稿） | 🔴 需处理 | 稿号 JCLEPRO-D-26-07569；编辑初筛认为不适合本刊，且投稿量大，未送外审；邮箱未确认“两次拒稿” |
 | 2 | 基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析 | Computers in Biology and Medicine | 🔴 需处理 | 已拒稿，待处理 |
 | 20 | 面向居家适老环境评估的室内点云语义分割可迁移深度学习网络 | npj Aging（投稿未完成） → ISPRS Journal of Photogrammetry and Remote Sensing（已拒稿） → Displays (Elsevier)（已拒稿） → IEEE Access（退回草稿） | 🔴 需处理 | 退回草稿，需处理 |
 | 24 | 面向居家适老环境评估的扩散模型点云合成 | Remote Sensing (MDPI)（已拒稿） | 🔴 需处理 | 已拒稿，待处理 |
@@ -57,7 +57,7 @@ table th, table td { vertical-align: top; }
 | 51 | 城市老年住宅空间热舒适的多模态感知与物理信息神经网络评估 | Environmental Health（转投完成） → Environmental Monitoring and Assessment（建议转投/需处理） | 🔴 需处理 | 建议转投或需处理 |
 | 6 | 基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防 | IEEE Access（已拒稿） → The Journal of Nutrition, Health and Aging (JNHA)（已拒稿） | 🔴 需处理 | 已拒稿，待重新投稿 |
 | 9 | 中国 HIV 老年人适老居住环境因素因果模型：文本挖掘、模糊 DEMATEL 与区域比较 | Journal of Urban Health（已拒稿） | 🔴 需处理 | 已拒稿，待处理 |
-| — | 基于相变材料的多层粮仓自适应多温区温度控制 | Applied Thermal Engineering（已拒稿） | 🔴 需处理 | 已拒稿，待处理 |
+| — | 基于相变材料的多层粮仓自适应多温区温度控制 | Applied Energy（已拒稿） → Applied Thermal Engineering（已拒稿） | 🔴 需处理 | 与 #33 疑似同一稿件；Applied Energy：不适合读者群；Applied Thermal Engineering：初筛质量/新颖性/影响力未达门槛，内容不足 |
 | — | （被 Habitat International 拒稿的论文） | Habitat International（已拒稿） | 🔴 需处理 | 已拒稿，待处理 |
 | — | 基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估 | Automation in Construction（已拒稿） | 🔴 需处理 | 已拒稿，待处理 |
 | 13* | 后疫情时代中国适老社区韧性建设（由 JHPN 转投） | Journal of Health, Population and Nutrition（外审中） → Archives of Public Health（转投完成） | 🟢 外审中 | 外审中 |
