@@ -1,7 +1,8 @@
 # 全部论文投稿状态
 
 <style>
-table th:nth-child(2), table td:nth-child(2) { min-width: 460px; width: 42%; }
+table th:nth-child(2), table td:nth-child(2) { min-width: 360px; width: 34%; }
+table th:nth-child(3), table td:nth-child(3) { min-width: 360px; width: 34%; }
 table th, table td { vertical-align: top; }
 </style>
 
@@ -15,8 +16,8 @@ table th, table td { vertical-align: top; }
 | 状态 | 数量 |
 |---|---:|
 | ⚪ 未投稿 | 14 |
-| 🔴 需处理 | 21 |
-| 🟡 已投稿 | 21 |
+| 🔴 需处理 | 19 |
+| 🟡 已投稿 | 20 |
 | 🔵 初审中 | 7 |
 | 🟢 外审中 | 10 |
 | 🟣 已接收 | 2 |
@@ -25,7 +26,7 @@ table th, table td { vertical-align: top; }
 
 ## 全部论文状态总表
 
-| # | 论文标题 | 期刊 | 状态 | 情况说明 |
+| # | 论文标题 | 投稿轨迹 | 状态 | 情况说明 |
 |---|---|---|---|---|
 | 19 | 用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统 | 未投稿 | ⚪ 未投稿 | 尚未投稿 |
 | 27 | 适老建成环境专业人员对 AI-BIM 评估工具的接受度 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
@@ -43,29 +44,26 @@ table th, table td { vertical-align: top; }
 | 57 | 基于线性调度法的适老改造模块制造多目标优化 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
 | HAN-EI-5 | 代码漏洞检测深度学习模型的系统评估：具有多种表示策略的模块化框架 | International Journal of Information and Computer Security | 🟡 已投稿 | 已投稿 |
 | — | 面向公共卫生突发事件社区韧性的可持续评估框架构建：整合对比学习与超球嵌入 | Springer Nature (journal TBD) | 🔴 需处理 | 已撤稿，需处理 |
-| 18 | 粮食储藏设施制冷系统的真实世界能效：来自中国河南的大规模实地研究 | Journal of Cleaner Production 两次（已拒稿） | 🔴 需处理 | 已拒稿，待处理 |
+| 18 | 粮食储藏设施制冷系统的真实世界能效：来自中国河南的大规模实地研究 | Journal of Cleaner Production（已拒稿，两次） | 🔴 需处理 | 已拒稿，待处理 |
 | 2 | 基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析 | Computers in Biology and Medicine | 🔴 需处理 | 已拒稿，待处理 |
-| 20 | 面向居家适老环境评估的室内点云语义分割可迁移深度学习网络 | ISPRS Journal of Photogrammetry and Remote Sensing | 🔴 需处理 | 已拒稿，待处理 |
-| 20* | 面向居家适老环境评估的室内点云语义分割可迁移深度学习网络 | Displays (Elsevier) | 🔴 需处理 | 已拒稿，待处理 |
-| 24 | 面向居家适老环境评估的扩散模型点云合成 | Remote Sensing (MDPI) | 🔴 需处理 | 已拒稿，待处理 |
-| 24* | 面向居家适老环境评估的扩散模型点云合成 | Remote Sensing (MDPI) | 🔴 需处理 | 已拒稿，待处理 |
-| 30 | 老龄化夹缝：面向中国老旧居住社区低收入独居老人的智能安全韧性评估框架 | Journal of Health, Population and Nutrition | 🔴 需处理 | 建议转投或需处理 |
+| 20 | 面向居家适老环境评估的室内点云语义分割可迁移深度学习网络 | npj Aging（投稿未完成） → ISPRS Journal of Photogrammetry and Remote Sensing（已拒稿） → Displays (Elsevier)（已拒稿） → IEEE Access（退回草稿） | 🔴 需处理 | 退回草稿，需处理 |
+| 24 | 面向居家适老环境评估的扩散模型点云合成 | Remote Sensing (MDPI)（已拒稿） | 🔴 需处理 | 已拒稿，待处理 |
+| 30 | 老龄化夹缝：面向中国老旧居住社区低收入独居老人的智能安全韧性评估框架 | BMC Primary Care（转投完成） → Journal of Health, Population and Nutrition（建议转投/需处理） | 🔴 需处理 | 建议转投或需处理 |
 | 36 | FRSGraph：面向老年居家环境的语义图 Transformer 跌倒风险空间预测 | IEEE J-STARS | 🔴 需处理 | 已拒稿，待处理 |
 | 39 | GridMamba-Risk：基于网格状态空间模型的整屋三维点云跌倒风险空间预测 | International Journal of Digital Earth (T&F) | 🔴 需处理 | 已拒稿，待处理 |
 | 4 | 使用基于深度学习的情绪分析评估并优化老年照护政策实施：一项多源研究 | Health Research Policy and Systems | 🔴 需处理 | 投稿已撤回，待处理 |
 | 41 | AccessGeometry：面向老年住宅无障碍合规评估的点云自动参数化建模 | Frontiers of Architectural Research (FoAR) | 🔴 需处理 | 已拒稿，待处理 |
 | 42 | AccessPath：面向老年居家环境自动无障碍评估的拓扑图式无障碍通行分析 | IEEE Trans. Automation Science and Engineering | 🔴 需处理 | 退回草稿，需处理 |
-| 51 | 城市老年住宅空间热舒适的多模态感知与物理信息神经网络评估 | Environmental Health | 🔴 需处理 | 建议转投或需处理 |
-| 6 | 基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防 | The Journal of Nutrition, Health and Aging (JNHA) | 🔴 需处理 | 已拒稿，待处理 |
-| 6* | 基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防 | IEEE Access | 🔴 需处理 | 已拒稿，待处理 |
+| 51 | 城市老年住宅空间热舒适的多模态感知与物理信息神经网络评估 | Environmental Health（转投完成） → Environmental Monitoring and Assessment（建议转投/需处理） | 🔴 需处理 | 建议转投或需处理 |
+| 6 | 基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防 | IEEE Access（已拒稿） → The Journal of Nutrition, Health and Aging (JNHA)（已拒稿） | 🔴 需处理 | 已拒稿，待重新投稿 |
 | 9 | 中国 HIV 老年人适老居住环境因素因果模型：文本挖掘、模糊 DEMATEL 与区域比较 | Journal of Urban Health（已拒稿） | 🔴 需处理 | 已拒稿，待处理 |
 | — | 基于相变材料的多层粮仓自适应多温区温度控制 | Applied Thermal Engineering（已拒稿） | 🔴 需处理 | 已拒稿，待处理 |
 | — | （被 Habitat International 拒稿的论文） | Habitat International（已拒稿） | 🔴 需处理 | 已拒稿，待处理 |
 | — | 基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估 | Automation in Construction（已拒稿） | 🔴 需处理 | 已拒稿，待处理 |
-| 13* | 后疫情时代中国适老社区韧性建设（由 JHPN 转投） | Archives of Public Health | 🟡 已投稿 | 已投稿 |
+| 13* | 后疫情时代中国适老社区韧性建设（由 JHPN 转投） | Journal of Health, Population and Nutrition（外审中） → Archives of Public Health（转投完成） | 🟢 外审中 | 外审中 |
 | 21 | 基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估 | Image and Vision Computing | 🟡 已投稿 | 已投稿 |
-| 28 | 老年用户对居家养老智能家居传感器系统的接受度：整合技术接受模型、隐私计算理论与空间自主性 | PLOS ONE | 🟡 已投稿 | 已投稿 |
-| 3 | 基于条件 GAN 与随机森林的多源数据融合社区韧性评估：来自中国河南的证据 | Sustainable Cities and Society | 🔴 需处理 | 退回草稿，需处理 |
+| 28 | 老年用户对居家养老智能家居传感器系统的接受度：整合技术接受模型、隐私计算理论与空间自主性 | BMC Psychology（转投/需处理，历史记录） → PLOS ONE（已投稿） | 🟡 已投稿 | 已投稿 |
+| 3 | 基于条件 GAN 与随机森林的多源数据融合社区韧性评估：来自中国河南的证据 | Sustainable Cities and Society（已投稿/已退回） | 🔴 需处理 | 退回草稿，需处理 |
 | 38 | 基于三维点云特征与 SHAP 可解释集成学习的老年住宅环境跌倒风险空间预测 | Egyptian Informatics Journal | 🟡 已投稿 | 已投稿 |
 | 46 | 适老住宅改造的混合现实与条件 GAN 集成框架：两阶段修复与 360 度全景可视化 | Automation in Construction | 🟡 已投稿 | 已投稿 |
 | 47 | 通过基于扩散的生成式设计提升适老住宅改造：面向安全与视觉舒适的双目标框架 | Automation in Construction | 🟡 已投稿 | 已投稿 |
@@ -97,10 +95,9 @@ table th, table td { vertical-align: top; }
 | 13 | 后疫情时代中国适老社区韧性建设：循证多准则评估框架 | Journal of Health, Population and Nutrition | 🟢 外审中 | 外审中 |
 | 15 | 香港高层社区老年居民火灾韧性的循证评估框架 | Humanities and Social Sciences Communications | 🟢 外审中 | 外审中 |
 | 16 | 挖掘马来西亚商业建筑能源灵活性的基于 LSTM 的模型预测控制方法 | Scientific Reports | 🟢 外审中 | 外审中 |
-| 37 | FRSPTNet：老年居家点云环境跌倒风险区域分割的多尺度超补丁 Transformer | IEEE Access | 🟢 外审中 | 外审中 |
-| 40 | AccessStairNet：面向老年居家环境无障碍评估的台阶与门槛深度学习检测 | IEEE Access | 🟢 外审中 | 外审中 |
+| 37 | FRSPTNet：老年居家点云环境跌倒风险区域分割的多尺度超补丁 Transformer | IEEE TNSRE（退回未提交） → IEEE Access（外审中） | 🟢 外审中 | 外审中 |
+| 40 | AccessStairNet：面向老年居家环境无障碍评估的台阶与门槛深度学习检测 | IEEE Transactions on Instrumentation and Measurement（拒后重投） → IEEE Access（已拒稿，不接受重投） | 🔴 需处理 | 已拒稿，待处理 |
 | 7 | 健康老龄化评估的元学习框架：具有人群泛化能力的注意力神经过程 | Neural Networks | 🟢 外审中 | 外审中 |
 | 17 | 中国老龄化与低生育背景下闲置农村校舍改造适老设施：基于自然语言处理的评估框架 | BMC Geriatrics | 🟣 已接收 | 已接收 |
 | 31 | 基于注意力机制与双通道门控特征融合的文学作品情绪分析 | IEEE Access | 🟣 已接收 | 已接收 |
-
 
