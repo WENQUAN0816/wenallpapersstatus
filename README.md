@@ -15,7 +15,7 @@ table th, table td { vertical-align: top; }
 | 状态 | 数量 |
 |---|---:|
 | ⚪ 未投稿 | 14 |
-| 🔴 需处理 | 23 |
+| 🔴 需处理 | 21 |
 | 🟡 已投稿 | 21 |
 | 🔵 初审中 | 7 |
 | 🟢 外审中 | 10 |
@@ -43,7 +43,6 @@ table th, table td { vertical-align: top; }
 | 57 | 基于线性调度法的适老改造模块制造多目标优化 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
 | HAN-EI-5 | 代码漏洞检测深度学习模型的系统评估：具有多种表示策略的模块化框架 | International Journal of Information and Computer Security | 🟡 已投稿 | 已投稿 |
 | — | 面向公共卫生突发事件社区韧性的可持续评估框架构建：整合对比学习与超球嵌入 | Springer Nature (journal TBD) | 🔴 需处理 | 已撤稿，需处理 |
-| — | （题目未知，曾投稿至 npj Urban Sustainability） | npj Urban Sustainability | 🔴 需处理 | 投稿未完成，需处理 |
 | 18 | 粮食储藏设施制冷系统的真实世界能效：来自中国河南的大规模实地研究 | Journal of Cleaner Production 两次（已拒稿） | 🔴 需处理 | 已拒稿，待处理 |
 | 2 | 基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析 | Computers in Biology and Medicine | 🔴 需处理 | 已拒稿，待处理 |
 | 20 | 面向居家适老环境评估的室内点云语义分割可迁移深度学习网络 | ISPRS Journal of Photogrammetry and Remote Sensing | 🔴 需处理 | 已拒稿，待处理 |
@@ -63,7 +62,6 @@ table th, table td { vertical-align: top; }
 | — | 基于相变材料的多层粮仓自适应多温区温度控制 | Applied Thermal Engineering（已拒稿） | 🔴 需处理 | 已拒稿，待处理 |
 | — | （被 Habitat International 拒稿的论文） | Habitat International（已拒稿） | 🔴 需处理 | 已拒稿，待处理 |
 | — | 基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估 | Automation in Construction（已拒稿） | 🔴 需处理 | 已拒稿，待处理 |
-| — | （题目未知，曾投稿至 Habitat International） | Habitat International | 🔴 需处理 | 已拒稿，待处理 |
 | 13* | 后疫情时代中国适老社区韧性建设（由 JHPN 转投） | Archives of Public Health | 🟡 已投稿 | 已投稿 |
 | 21 | 基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估 | Image and Vision Computing | 🟡 已投稿 | 已投稿 |
 | 28 | 老年用户对居家养老智能家居传感器系统的接受度：整合技术接受模型、隐私计算理论与空间自主性 | PLOS ONE | 🟡 已投稿 | 已投稿 |
@@ -104,4 +102,5 @@ table th, table td { vertical-align: top; }
 | 7 | 健康老龄化评估的元学习框架：具有人群泛化能力的注意力神经过程 | Neural Networks | 🟢 外审中 | 外审中 |
 | 17 | 中国老龄化与低生育背景下闲置农村校舍改造适老设施：基于自然语言处理的评估框架 | BMC Geriatrics | 🟣 已接收 | 已接收 |
 | 31 | 基于注意力机制与双通道门控特征融合的文学作品情绪分析 | IEEE Access | 🟣 已接收 | 已接收 |
+
 
