@@ -31,9 +31,9 @@ table th, table td { vertical-align: top; }
 |---|---|---|---|---|
 | 19 | 用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统 | Energy and Buildings（已拒稿） | 🔴 需处理 | 邮箱仅找到 Elsevier 转投拒稿通知：稿号 ENB-D-26-01660，未找到正式 decision 邮件正文，待转投 |
 | 27 | 适老建成环境专业人员对 AI-BIM 评估工具的接受度 | Buildings（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交） |
-| 32 | 面向多层粮仓全年能源优化的双模式辐射制冷与太阳能供热 | Energy and Buildings（已拒稿） → Energy（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；邮箱仅找到 Elsevier 转投拒稿通知：稿号 ENB-D-26-01660，未找到正式 decision 邮件正文，待确认是否与 #19 为同一稿件 |
+| 32 | 面向多层粮仓全年能源优化的双模式辐射制冷与太阳能供热 | Energy and Buildings（已拒稿） → Energy（上传包已准备，等待门户登录/草稿上传） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；Energy 上传包已编译、引用审计并推送至论文仓库，当前 Editorial Manager 停在登录页；邮箱仅找到 Elsevier 转投拒稿通知：稿号 ENB-D-26-01660，未找到正式 decision 邮件正文，待确认是否与 #19 为同一稿件 |
 | 33 | 相变材料赋能的多层粮仓自适应多温区控制：实验与数值结合研究 | Applied Energy（已拒稿） → Applied Thermal Engineering（已拒稿） → Physics of Fluids（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；Applied Energy：不适合期刊读者群；Applied Thermal Engineering：初筛认为影响力、新颖性和整体质量未达门槛，编辑备注“论文内容不足以在该刊发表” |
-| 34 | 面向多层粮仓围护结构的梯度纳米结构气凝胶复合保温材料 | Construction and Building Materials（已拒稿） → Journal of Materials Research and Technology-JMR&T（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；稿号 CONBUILDMAT-D-26-04279；2026-03-30 外审后拒稿，投稿系统已查到 4 位审稿人意见；核心问题是数据/图表不一致、实验细节和统计不足、SEM/界面证据不足、多尺度模型耦合和验证不充分、能耗与经济性计算错误、结论过度 |
+| 34 | 面向多层粮仓围护结构的梯度纳米结构气凝胶复合保温材料 | Construction and Building Materials（已拒稿） → Journal of Materials Research and Technology-JMR&T（上传包已准备，等待 Elsevier 登录/草稿上传） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；JMR&T 上传包已编译、引用审计并推送至论文仓库，当前 Elsevier 新投稿服务停在密码/一次性链接登录页；稿号 CONBUILDMAT-D-26-04279；2026-03-30 外审后拒稿，投稿系统已查到 4 位审稿人意见；核心问题是数据/图表不一致、实验细节和统计不足、SEM/界面证据不足、多尺度模型耦合和验证不充分、能耗与经济性计算错误、结论过度 |
 | 35 | 粮食储藏仓制冷系统真实世界能效评估：来自中国河南 65 个设施的证据 | Journal of Cleaner Production（已拒稿） → Energy（邮箱未找到投稿/拒稿记录） → Scientific Reports（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；Journal of Cleaner Production：编辑初筛认为不适合本刊，且投稿量大，未送外审；Energy 记录待确认 |
 | 43 | AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
 | 44 | 生成式 AI 驱动的适老室内改造可视化 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
