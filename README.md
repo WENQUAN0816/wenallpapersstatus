@@ -40,7 +40,7 @@ table th, table td { vertical-align: top; }
 | 45 | cGAN 辅助的适老住宅改造多目标优化 | Buildings（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；Buildings 上传包已按 MDPI 模板编译、cover letter 已生成、引用审计并推送；SuSy 已上传 manuscript ZIP 和 cover letter 到同一草稿 token，但因 #44/#45 token 串联风险已停止，需确认后再继续 |
 | 48 | 元学习增强的少样本居家安全等级分类框架 | IEEE Transactions on Instrumentation and Measurement（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；IEEE TIM 已新建 Regular Article 草稿并上传 manuscript.pdf 和 cover_letter.pdf；当前停在 Additional Information 问卷页，需人工确认利益冲突、重复发表、作者同意、OA/页费等声明 |
 | 52 | 社区老年日间照料中心多模态热舒适的时空深度学习评估与预测 | Energy（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；Energy 已新建 Full length article 草稿并上传 manuscript.pdf、cover_letter.pdf、highlights.txt 和 LaTeX source ZIP；当前缺 Elsevier Declaration of Interests 官方表单，需人工生成/确认后上传 |
-| 54 | 适老住宅缺陷评估中的视觉语言模型综述 | Electronics（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；MDPI Electronics 上传包已按模板编译、打包并推送至论文仓库，包提交 d162c34；当前等待进入 SuSy 上传并停在最终 Confirm and Send 前 |
+| 54 | 适老住宅缺陷评估中的视觉语言模型综述 | Electronics（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；MDPI Electronics 上传包提交 d162c34，SuSy 已上传 source ZIP 与 cover letter，并已填写题名、摘要、关键词、作者和建议审稿人；当前停在 Step 5 Statements，需作者手动完成利益冲突、GenAI、数据、开放评审、经费/APC 等声明，最终 Confirm and Send 未点击 |
 | 56 | 用于老年住宅活动分区功能分类的空间图神经网络 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
 | 57 | 基于线性调度法的适老改造模块制造多目标优化 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
 | HAN-EI-5 | 代码漏洞检测深度学习模型的系统评估：具有多种表示策略的模块化框架 | International Journal of Information and Computer Security | 🟡 已投稿 | 已投稿 |
@@ -56,12 +56,12 @@ table th, table td { vertical-align: top; }
 | 41 | AccessGeometry：面向老年住宅无障碍合规评估的点云自动参数化建模 | Frontiers of Architectural Research (FoAR) | 🔴 需处理 | 已拒稿，待处理 |
 | 42 | AccessPath：面向老年居家环境自动无障碍评估的拓扑图式无障碍通行分析 | IEEE Trans. Automation Science and Engineering | 🔴 需处理 | 退回草稿，需处理 |
 | 51 | 城市老年住宅空间热舒适的多模态感知与物理信息神经网络评估 | Environmental Health（转投完成） → Environmental Monitoring and Assessment（建议转投/需处理） | 🔴 需处理 | 建议转投或需处理 |
-| 6 | 基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防 | IEEE Access（已拒稿） → The Journal of Nutrition, Health and Aging (JNHA)（已拒稿） → PLOS ONE（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；PLOS ONE 上传包已按模板编译、打包并推送至论文仓库，包提交 ec46f96；当前等待进入 Editorial Manager 上传并停在最终 Submit 前 |
-| 9 | 中国 HIV 老年人适老居住环境因素因果模型：文本挖掘、模糊 DEMATEL 与区域比较 | Journal of Urban Health（已拒稿） → Frontiers in Public Health（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；Frontiers in Public Health 上传包已按模板编译、打包并推送至论文仓库，包提交 a5f84c0；当前等待进入 Frontiers 系统上传并停在最终 Submit 前 |
+| 6 | 基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防 | IEEE Access（已拒稿） → The Journal of Nutrition, Health and Aging (JNHA)（已拒稿） → PLOS ONE（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；PLOS ONE 上传包提交 ec46f96，Editorial Manager 已上传 cover letter 与 manuscript PDF，并填写 Article Type 与 Medicine and Health Sciences 分类；当前停在 Additional Information/Questionnaire，需作者手动完成伦理、数据、作者同意、利益冲突、经费等声明，最终 Submit 未点击 |
+| 9 | 中国 HIV 老年人适老居住环境因素因果模型：文本挖掘、模糊 DEMATEL 与区域比较 | Journal of Urban Health（已拒稿） → Frontiers in Public Health（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；Frontiers in Public Health 上传包提交 a5f84c0，Frontiers 草稿 10081331 已选择 Public Health - Aging and Public Health、Original Research，并上传 manuscript.tex、references.bib、manuscript.pdf，Submission details 与 Manuscript information 已完成；当前停在 Authors/Statements/Payment，需作者补第一作者电话、第二作者邮箱、机构/贡献确认及伦理/数据/COI/APC 声明，最终 Submit 未点击 |
 | — | 基于相变材料的多层粮仓自适应多温区温度控制 | Applied Energy（已拒稿） → Applied Thermal Engineering（已拒稿） | 🔴 需处理 | 与 #33 疑似同一稿件；Applied Energy：不适合读者群；Applied Thermal Engineering：初筛质量/新颖性/影响力未达门槛，内容不足 |
 | — | 基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估 | Automation in Construction（已拒稿） | 🔴 需处理 | 已拒稿，待处理 |
 | 13* | 后疫情时代中国适老社区韧性建设（由 JHPN 转投） | Journal of Health, Population and Nutrition（外审中） → Archives of Public Health（转投完成） | 🟢 外审中 | 外审中 |
-| 21 | 基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估 | Image and Vision Computing（历史记录） → IEEE Access（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；IEEE Access 上传包已按模板编译、打包并推送至论文仓库，包提交 3bc3ef9；当前等待进入 IEEE Author Portal / Research Exchange 上传并停在最终 Complete Submission 前 |
+| 21 | 基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估 | Image and Vision Computing（历史记录） → IEEE Access（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；IEEE Access 更正上传包提交 6325cf7，Research Exchange 已上传主稿 LaTeX source ZIP、manuscript.pdf 与 cover_letter.pdf，并选定 manuscript.tex 为主文件；当前停在 Upload Manuscript 的 Conflict of Interest 必填声明，需作者手动选择/确认 COI，最终 Complete Submission 未点击 |
 | 28 | 老年用户对居家养老智能家居传感器系统的接受度：整合技术接受模型、隐私计算理论与空间自主性 | BMC Psychology（转投/需处理，历史记录） → PLOS ONE（已投稿） | 🟡 已投稿 | 已投稿 |
 | 3 | 基于条件 GAN 与随机森林的多源数据融合社区韧性评估：来自中国河南的证据 | Sustainable Cities and Society（已投稿/已退回） | 🔴 需处理 | 退回草稿，需处理 |
 | 38 | 基于三维点云特征与 SHAP 可解释集成学习的老年住宅环境跌倒风险空间预测 | Egyptian Informatics Journal | 🟡 已投稿 | 已投稿 |
