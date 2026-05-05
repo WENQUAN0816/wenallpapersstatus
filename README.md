@@ -16,7 +16,8 @@ table th, table td { vertical-align: top; }
 | 状态 | 数量 |
 |---|---:|
 | ⚪ 未投稿 | 9 |
-| 🔴 需处理 | 24 |
+| 🟠 投稿准备中 | 5 |
+| 🔴 需处理 | 19 |
 | 🟡 已投稿 | 20 |
 | 🔵 初审中 | 7 |
 | 🟢 外审中 | 10 |
@@ -29,11 +30,11 @@ table th, table td { vertical-align: top; }
 | # | 论文标题 | 投稿轨迹 | 状态 | 情况说明 |
 |---|---|---|---|---|
 | 19 | 用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统 | Energy and Buildings（已拒稿） | 🔴 需处理 | 邮箱仅找到 Elsevier 转投拒稿通知：稿号 ENB-D-26-01660，未找到正式 decision 邮件正文，待转投 |
-| 27 | 适老建成环境专业人员对 AI-BIM 评估工具的接受度 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
-| 32 | 面向多层粮仓全年能源优化的双模式辐射制冷与太阳能供热 | Energy and Buildings（已拒稿） | 🔴 需处理 | 邮箱仅找到 Elsevier 转投拒稿通知：稿号 ENB-D-26-01660，未找到正式 decision 邮件正文，待确认是否与 #19 为同一稿件 |
-| 33 | 相变材料赋能的多层粮仓自适应多温区控制：实验与数值结合研究 | Applied Energy（已拒稿） → Applied Thermal Engineering（已拒稿） | 🔴 需处理 | Applied Energy：不适合期刊读者群；Applied Thermal Engineering：初筛认为影响力、新颖性和整体质量未达门槛，编辑备注“论文内容不足以在该刊发表” |
-| 34 | 面向多层粮仓围护结构的梯度纳米结构气凝胶复合保温材料 | Construction and Building Materials（已拒稿） | 🔴 需处理 | 稿号 CONBUILDMAT-D-26-04279；2026-03-30 外审后拒稿，投稿系统已查到 4 位审稿人意见；核心问题是数据/图表不一致、实验细节和统计不足、SEM/界面证据不足、多尺度模型耦合和验证不充分、能耗与经济性计算错误、结论过度 |
-| 35 | 粮食储藏仓制冷系统真实世界能效评估：来自中国河南 65 个设施的证据 | Journal of Cleaner Production（已拒稿） → Energy（邮箱未找到投稿/拒稿记录） | 🔴 需处理 | Journal of Cleaner Production：编辑初筛认为不适合本刊，且投稿量大，未送外审；Energy 记录待确认 |
+| 27 | 适老建成环境专业人员对 AI-BIM 评估工具的接受度 | Buildings（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交） |
+| 32 | 面向多层粮仓全年能源优化的双模式辐射制冷与太阳能供热 | Energy and Buildings（已拒稿） → Energy（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；邮箱仅找到 Elsevier 转投拒稿通知：稿号 ENB-D-26-01660，未找到正式 decision 邮件正文，待确认是否与 #19 为同一稿件 |
+| 33 | 相变材料赋能的多层粮仓自适应多温区控制：实验与数值结合研究 | Applied Energy（已拒稿） → Applied Thermal Engineering（已拒稿） → Physics of Fluids（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；Applied Energy：不适合期刊读者群；Applied Thermal Engineering：初筛认为影响力、新颖性和整体质量未达门槛，编辑备注“论文内容不足以在该刊发表” |
+| 34 | 面向多层粮仓围护结构的梯度纳米结构气凝胶复合保温材料 | Construction and Building Materials（已拒稿） → Journal of Materials Research and Technology-JMR&T（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；稿号 CONBUILDMAT-D-26-04279；2026-03-30 外审后拒稿，投稿系统已查到 4 位审稿人意见；核心问题是数据/图表不一致、实验细节和统计不足、SEM/界面证据不足、多尺度模型耦合和验证不充分、能耗与经济性计算错误、结论过度 |
+| 35 | 粮食储藏仓制冷系统真实世界能效评估：来自中国河南 65 个设施的证据 | Journal of Cleaner Production（已拒稿） → Energy（邮箱未找到投稿/拒稿记录） → Scientific Reports（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；Journal of Cleaner Production：编辑初筛认为不适合本刊，且投稿量大，未送外审；Energy 记录待确认 |
 | 43 | AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
 | 44 | 生成式 AI 驱动的适老室内改造可视化 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
 | 45 | cGAN 辅助的适老住宅改造多目标优化 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
@@ -58,7 +59,6 @@ table th, table td { vertical-align: top; }
 | 6 | 基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防 | IEEE Access（已拒稿） → The Journal of Nutrition, Health and Aging (JNHA)（已拒稿） | 🔴 需处理 | 已拒稿，待重新投稿 |
 | 9 | 中国 HIV 老年人适老居住环境因素因果模型：文本挖掘、模糊 DEMATEL 与区域比较 | Journal of Urban Health（已拒稿） | 🔴 需处理 | 已拒稿，待处理 |
 | — | 基于相变材料的多层粮仓自适应多温区温度控制 | Applied Energy（已拒稿） → Applied Thermal Engineering（已拒稿） | 🔴 需处理 | 与 #33 疑似同一稿件；Applied Energy：不适合读者群；Applied Thermal Engineering：初筛质量/新颖性/影响力未达门槛，内容不足 |
-| — | （被 Habitat International 拒稿的论文） | Habitat International（已拒稿） | 🔴 需处理 | 已拒稿，待处理 |
 | — | 基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估 | Automation in Construction（已拒稿） | 🔴 需处理 | 已拒稿，待处理 |
 | 13* | 后疫情时代中国适老社区韧性建设（由 JHPN 转投） | Journal of Health, Population and Nutrition（外审中） → Archives of Public Health（转投完成） | 🟢 外审中 | 外审中 |
 | 21 | 基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估 | Image and Vision Computing | 🟡 已投稿 | 已投稿 |
