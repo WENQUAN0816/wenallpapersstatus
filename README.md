@@ -15,8 +15,8 @@ table th, table td { vertical-align: top; }
 
 | 状态 | 数量 |
 |---|---:|
-| ⚪ 未投稿 | 9 |
-| 🟠 投稿准备中 | 5 |
+| ⚪ 未投稿 | 4 |
+| 🟠 投稿准备中 | 10 |
 | 🔴 需处理 | 19 |
 | 🟡 已投稿 | 20 |
 | 🔵 初审中 | 7 |
@@ -35,11 +35,11 @@ table th, table td { vertical-align: top; }
 | 33 | 相变材料赋能的多层粮仓自适应多温区控制：实验与数值结合研究 | Applied Energy（已拒稿） → Applied Thermal Engineering（已拒稿） → Physics of Fluids（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；Physics of Fluids 上传包已按 AIP/REVTeX 编译、打包并推送；PeerX 当前停在注册资料/条款确认页面，尚未最终提交；Applied Energy：不适合期刊读者群；Applied Thermal Engineering：初筛认为影响力、新颖性和整体质量未达门槛，编辑备注“论文内容不足以在该刊发表” |
 | 34 | 面向多层粮仓围护结构的梯度纳米结构气凝胶复合保温材料 | Construction and Building Materials（已拒稿） → Journal of Materials Research and Technology-JMR&T（上传包已准备，等待 Elsevier 登录/草稿上传） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；JMR&T 上传包已编译、引用审计并推送至论文仓库；Elsevier 新投稿服务已完成 authors 页，已补 Ruili Liu/Quan Wen/Mazran Ismail 并设置 Quan Wen 为通讯作者，当前停在 article publishing option/OA-APC 选择页；稿号 CONBUILDMAT-D-26-04279；2026-03-30 外审后拒稿，投稿系统已查到 4 位审稿人意见；核心问题是数据/图表不一致、实验细节和统计不足、SEM/界面证据不足、多尺度模型耦合和验证不充分、能耗与经济性计算错误、结论过度 |
 | 35 | 粮食储藏仓制冷系统真实世界能效评估：来自中国河南 65 个设施的证据 | Journal of Cleaner Production（已拒稿） → Energy（邮箱未找到投稿/拒稿记录） → Scientific Reports（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；Scientific Reports 上传包已按 Springer Nature 模板编译、打包并推送，SNAPP 已上传 manuscript zip 和 cover letter，详情页已填写；Authors 页已补齐 Quan Wen、Ruili Liu、Mazran Ismail、机构和通讯作者，已填写 author contributions；当前停在 Declarations 页，需作者确认 APC、竞争利益、双重发表、作者责任、数据可用性、基金等声明；Journal of Cleaner Production：编辑初筛认为不适合本刊，且投稿量大，未送外审；Energy 记录待确认 |
-| 43 | AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
-| 44 | 生成式 AI 驱动的适老室内改造可视化 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
-| 45 | cGAN 辅助的适老住宅改造多目标优化 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
-| 48 | 元学习增强的少样本居家安全等级分类框架 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
-| 52 | 社区老年日间照料中心多模态热舒适的时空深度学习评估与预测 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
+| 43 | AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化 | IEEE Access（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；IEEE Access 上传包已按 IEEE Access 模板编译、补入作者 biography、引用审计并推送，等待门户上传与最终人工确认 |
+| 44 | 生成式 AI 驱动的适老室内改造可视化 | Applied Sciences（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；Applied Sciences 上传包已按 MDPI 模板编译、cover letter 已生成、引用审计并推送，等待 SuSy 上传与最终人工确认 |
+| 45 | cGAN 辅助的适老住宅改造多目标优化 | Buildings（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；Buildings 上传包已按 MDPI 模板编译、cover letter 已生成、引用审计并推送，等待 SuSy 上传与最终人工确认 |
+| 48 | 元学习增强的少样本居家安全等级分类框架 | IEEE Transactions on Instrumentation and Measurement（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；IEEE TIM 上传包已按 IEEEtran 模板编译、备用 cover letter 已生成、引用审计并推送，等待 Editorial Manager 上传与最终人工确认 |
+| 52 | 社区老年日间照料中心多模态热舒适的时空深度学习评估与预测 | Energy（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；Energy 上传包已按 Elsevier elsarticle 模板编译、cover letter 和 highlights 已生成、引用审计并推送，等待 Editorial Manager 上传与最终人工确认 |
 | 54 | 适老住宅缺陷评估中的视觉语言模型综述 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
 | 56 | 用于老年住宅活动分区功能分类的空间图神经网络 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
 | 57 | 基于线性调度法的适老改造模块制造多目标优化 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
