@@ -47,6 +47,9 @@ table th, table td { vertical-align: top; }
 ## 状态统计
 
 <table>
+<tr>
+<td valign="top" width="34%">
+<table>
 <tr><th>状态</th><th>数量</th></tr>
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 未投稿/待投稿</td><td>2</td></tr>
 <tr bgcolor="#fff1db" style="background-color:#fff1db;"><td>&#128992; 投稿准备中</td><td>2</td></tr>
@@ -56,6 +59,12 @@ table th, table td { vertical-align: top; }
 <tr bgcolor="#e8f1ff" style="background-color:#e8f1ff;"><td>&#128309; 初审中</td><td>6</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>10</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>68</strong></td></tr>
+</table>
+</td>
+<td valign="top" width="66%">
+<img src="status_bar_chart.svg" alt="状态统计柱状图" width="100%">
+</td>
+</tr>
 </table>
 
 [查看 Plotly 状态统计图](status_chart.html)
