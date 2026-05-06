@@ -44,6 +44,20 @@ table th, table td { vertical-align: top; }
 
 > **说明：** 表格已按状态分组排序，顺序为：未投稿/待投稿 → 投稿准备中 → 需处理 → 需修订 → 完成提交未进入初审 → 初审中 → 外审中；状态列用彩色圆点区分。已接收论文不再纳入本表统计。
 
+## 状态统计
+
+<table>
+<tr><th>状态</th><th>数量</th></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 未投稿/待投稿</td><td>2</td></tr>
+<tr bgcolor="#fff1db" style="background-color:#fff1db;"><td>&#128992; 投稿准备中</td><td>2</td></tr>
+<tr bgcolor="#ffe5e5" style="background-color:#ffe5e5;"><td>&#128308; 需处理</td><td>18</td></tr>
+<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 完成提交未进入初审</td><td>29</td></tr>
+<tr bgcolor="#e8f1ff" style="background-color:#e8f1ff;"><td>&#128309; 初审中</td><td>6</td></tr>
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>10</td></tr>
+<tr><td><strong>合计</strong></td><td><strong>68</strong></td></tr>
+</table>
+
 [查看 Plotly 状态统计图](status_chart.html)
 
 
