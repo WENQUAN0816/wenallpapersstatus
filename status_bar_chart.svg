@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="430" viewBox="0 0 760 430" role="img" aria-labelledby="title desc">
   <title id="title">论文状态统计柱状图</title>
-  <desc id="desc">未投稿待投稿2，投稿准备中2，需处理18，需修订1，完成提交未进入初审29，初审中6，外审中10。</desc>
+  <desc id="desc">待投稿2，准备中2，需处理18，需修订1，待初审29，初审中6，外审中10。</desc>
   <rect width="760" height="430" fill="#ffffff"/>
   <text x="30" y="34" fill="#111827" font-family="Arial, Microsoft YaHei, sans-serif" font-size="22" font-weight="700">论文状态统计</text>
   <text x="30" y="58" fill="#6b7280" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13">共 68 篇/项；已接收论文不纳入统计</text>
@@ -40,14 +40,11 @@
   </g>
 
   <g font-family="Arial, Microsoft YaHei, sans-serif" font-size="12" fill="#374151" text-anchor="middle">
-    <text x="118" y="346">未投稿/</text>
-    <text x="118" y="363">待投稿</text>
-    <text x="207" y="346">投稿</text>
-    <text x="207" y="363">准备中</text>
+    <text x="118" y="346">待投稿</text>
+    <text x="207" y="346">准备中</text>
     <text x="296" y="346">需处理</text>
     <text x="385" y="346">需修订</text>
-    <text x="474" y="346">完成提交</text>
-    <text x="474" y="363">未进初审</text>
+    <text x="474" y="346">待初审</text>
     <text x="563" y="346">初审中</text>
     <text x="652" y="346">外审中</text>
   </g>
