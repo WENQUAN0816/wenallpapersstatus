@@ -57,9 +57,9 @@ table th, table td { vertical-align: top; }
 <tr bgcolor="#fff1db" style="background-color:#fff1db;"><td>&#128992; 准备中</td><td>2</td></tr>
 <tr bgcolor="#ffe5e5" style="background-color:#ffe5e5;"><td>&#128308; 需处理</td><td>18</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 待初审</td><td>29</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 待初审</td><td>32</td></tr>
 <tr bgcolor="#e8f1ff" style="background-color:#e8f1ff;"><td>&#128309; 初审中</td><td>6</td></tr>
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>10</td></tr>
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>7</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>68</strong></td></tr>
 </table>
 </td>
@@ -286,13 +286,6 @@ table th, table td { vertical-align: top; }
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993; 待初审</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">粮食储藏仓制冷系统真实世界能效评估：来自中国河南 65 个设施的证据</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Cleaner Production → Energy → Scientific Reports</td>
-<!-- 后台情况说明：Scientific Reports / SNAPP 显示 Submission received，进入 Technical Check；corrected main-tex-only ZIP 已上传，生成 review PDF 为 27 页且正文完整。 -->
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993; 待初审</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">生成式 AI 驱动的适老室内改造可视化</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Applied Sciences</td>
 <!-- 后台情况说明：MDPI SuSy 显示 All steps completed，稿号 applsci-4331900；已上传 source ZIP 和 cover letter，完成题名、摘要、关键词、作者、建议审稿人、无利益冲突、基金和数据可用性填写。 -->
@@ -439,6 +432,37 @@ table th, table td { vertical-align: top; }
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Frontiers in Psychology</td>
 </tr>
 
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993; 待初审</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">养老照护中公众对使用 AI 的照护提供者的信任：基于能力、仁爱与诚信视角的概念综述</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Universal Access in the Information Society</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993; 待初审</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">后疫情时代中国适老社区韧性建设（由 JHPN 转投）</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Health, Population and Nutrition → Archives of Public Health</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993; 待初审</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">FRSPTNet：老年居家点云环境跌倒风险区域分割的多尺度超补丁 Transformer</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE TNSRE → IEEE Access</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993; 待初审</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">健康老龄化评估的元学习框架：具有人群泛化能力的注意力神经过程</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Neural Networks</td>
+</tr>
+
+<tr bgcolor="#e8f1ff" style="background-color:#e8f1ff;">
+<td bgcolor="#e8f1ff" style="background-color:#e8f1ff; vertical-align: top; white-space: nowrap;">&#128309; 初审中</td>
+<td bgcolor="#e8f1ff" style="background-color:#e8f1ff; vertical-align: top;">粮食储藏仓制冷系统真实世界能效评估：来自中国河南 65 个设施的证据</td>
+<td bgcolor="#e8f1ff" style="background-color:#e8f1ff; vertical-align: top;">Journal of Cleaner Production → Energy → Scientific Reports</td>
+<!-- 后台情况说明：Scientific Reports / SNAPP 显示 Submission received，进入 Technical Check；corrected main-tex-only ZIP 已上传，生成 review PDF 为 27 页且正文完整。 -->
+</tr>
+
 <tr bgcolor="#e8f1ff" style="background-color:#e8f1ff;">
 <td bgcolor="#e8f1ff" style="background-color:#e8f1ff; vertical-align: top; white-space: nowrap;">&#128309; 初审中</td>
 <td bgcolor="#e8f1ff" style="background-color:#e8f1ff; vertical-align: top;">中国老龄化背景下农村学校改造养老设施的公平导向服务就绪框架</td>
@@ -469,22 +493,10 @@ table th, table td { vertical-align: top; }
 <td bgcolor="#e8f1ff" style="background-color:#e8f1ff; vertical-align: top;">BMC Geriatrics</td>
 </tr>
 
-<tr bgcolor="#e8f1ff" style="background-color:#e8f1ff;">
-<td bgcolor="#e8f1ff" style="background-color:#e8f1ff; vertical-align: top; white-space: nowrap;">&#128309; 初审中</td>
-<td bgcolor="#e8f1ff" style="background-color:#e8f1ff; vertical-align: top;">养老照护中公众对使用 AI 的照护提供者的信任：基于能力、仁爱与诚信视角的概念综述</td>
-<td bgcolor="#e8f1ff" style="background-color:#e8f1ff; vertical-align: top;">Universal Access in the Information Society</td>
-</tr>
-
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994; 外审中</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">后疫情时代中国适老社区韧性建设（由 JHPN 转投）</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Journal of Health, Population and Nutrition → Archives of Public Health</td>
-</tr>
-
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994; 外审中</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">适老社区时序评估的贝叶斯元学习框架</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">BMC Medical Research Methodology → Energy</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">BMC Medical Research Methodology</td>
 </tr>
 
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
@@ -521,18 +533,6 @@ table th, table td { vertical-align: top; }
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994; 外审中</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">挖掘马来西亚商业建筑能源灵活性的基于 LSTM 的模型预测控制方法</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Scientific Reports</td>
-</tr>
-
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994; 外审中</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">FRSPTNet：老年居家点云环境跌倒风险区域分割的多尺度超补丁 Transformer</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">IEEE TNSRE → IEEE Access</td>
-</tr>
-
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994; 外审中</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">健康老龄化评估的元学习框架：具有人群泛化能力的注意力神经过程</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Neural Networks</td>
 </tr>
 
 </tbody>
