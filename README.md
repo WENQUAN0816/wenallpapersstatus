@@ -284,35 +284,35 @@ table th, table td { vertical-align: top; }
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">27</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">适老建成环境专业人员对 AI-BIM 评估工具的接受度</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Buildings（已投稿）</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;"></td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">MDPI SuSy 已最终提交；上传主稿包和 cover letter，元数据、作者角色、建议审稿人和 Statements 已完成。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">32</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">面向多层粮仓全年能源优化的双模式辐射制冷与太阳能供热</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Energy and Buildings（已拒稿） → Energy（已投稿）</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;"></td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Energy / Editorial Manager 确认邮件已收到；正式稿号 EGY-D-26-10505；邮件说明稿件已被编辑部收到并 under review。作者审批 PDF 已核验 37 页，论文仓库 commit 38d9aa6。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">33</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">相变材料赋能的多层粮仓自适应多温区控制：实验与数值结合研究</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Applied Energy（已拒稿） → Applied Thermal Engineering（已拒稿） → Physics of Fluids（已投稿）</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;"></td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Physics of Fluids / PeerX 显示 Your manuscript has been submitted；稿件追踪号 POF26-AR-07216。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">34</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">面向多层粮仓围护结构的梯度纳米结构气凝胶复合保温材料</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Construction and Building Materials（已拒稿） → Journal of Materials Research and Technology-JMR&amp;T（已投稿）</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;"></td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier 新投稿服务显示 Your manuscript has now been submitted；提交时间 03:24, May 6, 2026；已提交 cover_letter.pdf、declarationStatement.docx、manuscript.pdf。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">35</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">粮食储藏仓制冷系统真实世界能效评估：来自中国河南 65 个设施的证据</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Cleaner Production（已拒稿） → Energy（邮箱未找到投稿/拒稿记录） → Scientific Reports（已投稿）</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;"></td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Scientific Reports / SNAPP 显示 Submission received，进入 Technical Check；corrected main-tex-only ZIP 已上传，生成 review PDF 为 27 页且正文完整。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
