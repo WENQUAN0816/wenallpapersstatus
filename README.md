@@ -54,8 +54,8 @@ table th, table td { vertical-align: top; }
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>2</td></tr>
-<tr bgcolor="#fff1db" style="background-color:#fff1db;"><td>&#128992; 准备中</td><td>8</td></tr>
-<tr bgcolor="#ffe5e5" style="background-color:#ffe5e5;"><td>&#128308; 需处理</td><td>12</td></tr>
+<tr bgcolor="#fff1db" style="background-color:#fff1db;"><td>&#128992; 准备中</td><td>9</td></tr>
+<tr bgcolor="#ffe5e5" style="background-color:#ffe5e5;"><td>&#128308; 需处理</td><td>11</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 待初审</td><td>32</td></tr>
 <tr bgcolor="#e8f1ff" style="background-color:#e8f1ff;"><td>&#128309; 初审中</td><td>6</td></tr>
@@ -144,11 +144,11 @@ table th, table td { vertical-align: top; }
 <!-- 后台情况说明：已拒稿 -->
 </tr>
 
-<tr bgcolor="#ffe5e5" style="background-color:#ffe5e5;">
-<td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top; white-space: nowrap;">&#128308; 需处理</td>
-<td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">面向居家适老环境评估的室内点云语义分割可迁移深度学习网络</td>
-<td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">npj Aging → ISPRS Journal of Photogrammetry and Remote Sensing → Displays (Elsevier) → IEEE Access</td>
-<!-- 后台情况说明：退回草稿 -->
+<tr bgcolor="#fff1db" style="background-color:#fff1db;">
+<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top; white-space: nowrap;">&#128992; 投稿准备中</td>
+<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">面向居家适老环境评估的室内点云语义分割可迁移深度学习网络</td>
+<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">Journal of Supercomputing（投稿准备中）</td>
+<!-- 后台情况说明：Submission started (not yet completed). Source package prepared and synced to GitHub commit 00cba5fffa77081394e455a251b2360e9554dbdc on 2026-05-07; portal upload/final Submit not completed. 已开始投稿准备（尚未最终提交）；源码包已于 2026-05-07 同步到 GitHub 提交 00cba5fffa77081394e455a251b2360e9554dbdc，尚未门户上传/最终提交。 -->
 </tr>
 
 <tr bgcolor="#fff1db" style="background-color:#fff1db;">
