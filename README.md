@@ -326,7 +326,7 @@ table th, table td { vertical-align: top; }
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">45</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">cGAN 辅助的适老住宅改造多目标优化</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Buildings（已投稿）</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Buildings / Submission Received 已到稿号 buildings-4331653；提交确认邮件已收到。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">MDPI Buildings 仪表盘最新显示稿号 buildings-4331963，状态 Pending review，提交时间 2026-05-06 17:07:56；仪表盘标题为 cGAN-Assisted Age-Friendly Home Renovation Design: A Multi-Objective Optimization Framework Integrating Accessibility, Cost, and Spatial Efficiency。早前记录 buildings-4331653 需与邮件/门户历史进一步核对。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -423,8 +423,8 @@ table th, table td { vertical-align: top; }
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">53</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">VLM 驱动的适老住宅缺陷自动评估与报告生成</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Sensors</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;"></td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Sensors（已投稿） → Buildings（投稿异常/需核对）</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Sensors 已投稿记录保留；2026-05-06 kingtou 检查/继续 Buildings 相关草稿时，MDPI 最终仪表盘显示的是 #45 cGAN 稿件 buildings-4331963 / Pending review，而不是本 VLM 稿题。故本稿不得标记为 Buildings 已投稿；若目标仍为 Buildings，需重新建立并核对正确草稿。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
