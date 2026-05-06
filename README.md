@@ -32,14 +32,6 @@ table th, table td { vertical-align: top; }
 
 <tr>
 
-<td bgcolor="#ffe5e5" style="background-color:#ffe5e5; width: 24px;">&nbsp;</td>
-
-<td>需处理</td>
-
-</tr>
-
-<tr>
-
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; width: 24px;">&nbsp;</td>
 
 <td>未投稿</td>
@@ -56,9 +48,17 @@ table th, table td { vertical-align: top; }
 
 <tr>
 
+<td bgcolor="#ffe5e5" style="background-color:#ffe5e5; width: 24px;">&nbsp;</td>
+
+<td>需处理</td>
+
+</tr>
+
+<tr>
+
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; width: 24px;">&nbsp;</td>
 
-<td>已投稿</td>
+<td>完成提交未进入初审</td>
 
 </tr>
 
@@ -90,7 +90,7 @@ table th, table td { vertical-align: top; }
 
 
 
-> **说明：** 表格已按状态排序，整行底色表示状态。
+> **说明：** 表格已按状态排序，顺序为：未投稿/待投稿、投稿准备中、需处理、完成提交未进入初审、初审中、外审中、已接收；整行底色表示状态。
 
 
 
@@ -111,6 +111,34 @@ table th, table td { vertical-align: top; }
 </thead>
 
 <tbody>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">56</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">用于老年住宅活动分区功能分类的空间图神经网络</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">未投稿</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;"></td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">57</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于线性调度法的适老改造模块制造多目标优化</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">未投稿</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;"></td>
+</tr>
+
+<tr bgcolor="#fff1db" style="background-color:#fff1db;">
+<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">43</td>
+<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化</td>
+<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">IEEE Access（投稿准备中）</td>
+<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">IEEE Access / Research Exchange 草稿仍在 additional information / 政策确认流程，尚未确认最终 Submit；用户已授权 APC、作者声明和 IEEE 政策确认按正常填写，最终投稿状态待复核。</td>
+</tr>
+
+<tr bgcolor="#fff1db" style="background-color:#fff1db;">
+<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">52</td>
+<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">社区老年日间照料中心多模态热舒适的时空深度学习评估与预测</td>
+<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">Energy（投稿准备中）</td>
+<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">#52 的 Energy 正确草稿/提交状态仍需复核；此前打开的 EGY-D-26-10556 对应另一篇贝叶斯元学习稿件，不能作为 #52 投稿完成记录。</td>
+</tr>
 
 <tr bgcolor="#ffe5e5" style="background-color:#ffe5e5;">
 <td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">19</td>
@@ -220,7 +248,7 @@ table th, table td { vertical-align: top; }
 <tr bgcolor="#ffe5e5" style="background-color:#ffe5e5;">
 <td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">3</td>
 <td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">基于条件 GAN 与随机森林的多源数据融合社区韧性评估：来自中国河南的证据</td>
-<td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">Sustainable Cities and Society（已投稿/已退回）</td>
+<td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">Sustainable Cities and Society（完成提交后已退回）</td>
 <td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">退回草稿</td>
 </tr>
 
@@ -252,94 +280,66 @@ table th, table td { vertical-align: top; }
 <td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">已拒稿</td>
 </tr>
 
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">56</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">用于老年住宅活动分区功能分类的空间图神经网络</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">未投稿</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;"></td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">57</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于线性调度法的适老改造模块制造多目标优化</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">未投稿</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;"></td>
-</tr>
-
-<tr bgcolor="#fff1db" style="background-color:#fff1db;">
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">43</td>
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化</td>
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">IEEE Access（投稿准备中）</td>
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">IEEE Access / Research Exchange 草稿仍在 additional information / 政策确认流程，尚未确认最终 Submit；用户已授权 APC、作者声明和 IEEE 政策确认按正常填写，最终投稿状态待复核。</td>
-</tr>
-
-<tr bgcolor="#fff1db" style="background-color:#fff1db;">
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">52</td>
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">社区老年日间照料中心多模态热舒适的时空深度学习评估与预测</td>
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">Energy（投稿准备中）</td>
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">#52 的 Energy 正确草稿/提交状态仍需复核；此前打开的 EGY-D-26-10556 对应另一篇贝叶斯元学习稿件，不能作为 #52 投稿完成记录。</td>
-</tr>
-
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">27</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">适老建成环境专业人员对 AI-BIM 评估工具的接受度</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Buildings（已投稿）</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Buildings（完成提交未进入初审）</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">MDPI SuSy 已最终提交；上传主稿包和 cover letter，元数据、作者角色、建议审稿人和 Statements 已完成。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">32</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">面向多层粮仓全年能源优化的双模式辐射制冷与太阳能供热</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Energy and Buildings（已拒稿） → Energy（已投稿）</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Energy and Buildings（已拒稿） → Energy（完成提交未进入初审）</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Energy / Editorial Manager 确认邮件已收到；正式稿号 EGY-D-26-10505；邮件说明稿件已被编辑部收到并 under review。作者审批 PDF 已核验 37 页，论文仓库 commit 38d9aa6。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">33</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">相变材料赋能的多层粮仓自适应多温区控制：实验与数值结合研究</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Applied Energy（已拒稿） → Applied Thermal Engineering（已拒稿） → Physics of Fluids（已投稿）</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Applied Energy（已拒稿） → Applied Thermal Engineering（已拒稿） → Physics of Fluids（完成提交未进入初审）</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Physics of Fluids / PeerX 显示 Your manuscript has been submitted；稿件追踪号 POF26-AR-07216。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">34</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">面向多层粮仓围护结构的梯度纳米结构气凝胶复合保温材料</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Construction and Building Materials（已拒稿） → Journal of Materials Research and Technology-JMR&amp;T（已投稿）</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Construction and Building Materials（已拒稿） → Journal of Materials Research and Technology-JMR&amp;T（完成提交未进入初审）</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier 新投稿服务显示 Your manuscript has now been submitted；提交时间 03:24, May 6, 2026；已提交 cover_letter.pdf、declarationStatement.docx、manuscript.pdf。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">35</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">粮食储藏仓制冷系统真实世界能效评估：来自中国河南 65 个设施的证据</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Cleaner Production（已拒稿） → Energy（邮箱未找到投稿/拒稿记录） → Scientific Reports（已投稿）</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Cleaner Production（已拒稿） → Energy（邮箱未找到投稿/拒稿记录） → Scientific Reports（完成提交未进入初审）</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Scientific Reports / SNAPP 显示 Submission received，进入 Technical Check；corrected main-tex-only ZIP 已上传，生成 review PDF 为 27 页且正文完整。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">44</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">生成式 AI 驱动的适老室内改造可视化</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Applied Sciences（已投稿）</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Applied Sciences（完成提交未进入初审）</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">MDPI SuSy 显示 All steps completed，稿号 applsci-4331900；已上传 source ZIP 和 cover letter，完成题名、摘要、关键词、作者、建议审稿人、无利益冲突、基金和数据可用性填写。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">45</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">cGAN 辅助的适老住宅改造多目标优化</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Buildings（已投稿）</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Buildings（完成提交未进入初审）</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">MDPI Buildings 仪表盘最新显示稿号 buildings-4331963，状态 Pending review，提交时间 2026-05-06 17:07:56；仪表盘标题为 cGAN-Assisted Age-Friendly Home Renovation Design: A Multi-Objective Optimization Framework Integrating Accessibility, Cost, and Spatial Efficiency。早前记录 buildings-4331653 需与邮件/门户历史进一步核对。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">48</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">元学习增强的少样本居家安全等级分类框架</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Transactions on Instrumentation and Measurement（已投稿）</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Transactions on Instrumentation and Measurement（完成提交未进入初审）</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE TIM 系统显示 Manuscript Submitted，稿号 TIM-26-05228。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">54</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">适老住宅缺陷评估中的视觉语言模型综述</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Electronics（已投稿）</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Electronics（完成提交未进入初审）</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;"></td>
 </tr>
 
@@ -353,28 +353,28 @@ table th, table td { vertical-align: top; }
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">6</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Access（已拒稿） → The Journal of Nutrition, Health and Aging (JNHA)（已拒稿） → PLOS ONE（已投稿）</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Access（已拒稿） → The Journal of Nutrition, Health and Aging (JNHA)（已拒稿） → PLOS ONE（完成提交未进入初审）</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;"></td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">9</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">中国 HIV 老年人适老居住环境因素因果模型：文本挖掘、模糊 DEMATEL 与区域比较</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Urban Health（已拒稿） → Frontiers in Public Health（已投稿）</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Urban Health（已拒稿） → Frontiers in Public Health（完成提交未进入初审）</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;"></td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">21</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Image and Vision Computing（历史记录） → IEEE Access（已投稿）</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Image and Vision Computing（历史记录） → IEEE Access（完成提交未进入初审）</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;"></td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">28</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">老年用户对居家养老智能家居传感器系统的接受度：整合技术接受模型、隐私计算理论与空间自主性</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">BMC Psychology（转投/需处理，历史记录） → PLOS ONE（已投稿）</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">BMC Psychology（转投/需处理，历史记录） → PLOS ONE（完成提交未进入初审）</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;"></td>
 </tr>
 
@@ -423,8 +423,8 @@ table th, table td { vertical-align: top; }
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">53</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">VLM 驱动的适老住宅缺陷自动评估与报告生成</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Sensors（已投稿） → Buildings（投稿异常/需核对）</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Sensors 已投稿记录保留；2026-05-06 kingtou 检查/继续 Buildings 相关草稿时，MDPI 最终仪表盘显示的是 #45 cGAN 稿件 buildings-4331963 / Pending review，而不是本 VLM 稿题。故本稿不得标记为 Buildings 已投稿；若目标仍为 Buildings，需重新建立并核对正确草稿。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Sensors（完成提交未进入初审） → Buildings（投稿异常/需核对）</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Sensors 完成提交记录保留；2026-05-06 kingtou 检查/继续 Buildings 相关草稿时，MDPI 最终仪表盘显示的是 #45 cGAN 稿件 buildings-4331963 / Pending review，而不是本 VLM 稿题。故本稿不得标记为 Buildings 已投稿；若目标仍为 Buildings，需重新建立并核对正确草稿。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -535,7 +535,7 @@ table th, table td { vertical-align: top; }
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">1</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">适老社区时序评估的贝叶斯元学习框架</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">BMC Medical Research Methodology（外审中） → Energy（已投稿）</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">BMC Medical Research Methodology（外审中） → Energy（完成提交未进入初审）</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;"></td>
 </tr>
 
