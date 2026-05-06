@@ -270,14 +270,14 @@ table th, table td { vertical-align: top; }
 <td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">43</td>
 <td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化</td>
 <td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">IEEE Access（投稿准备中）</td>
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;"></td>
+<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">IEEE Access / Research Exchange 草稿仍在 additional information / 政策确认流程，尚未确认最终 Submit；用户已授权 APC、作者声明和 IEEE 政策确认按正常填写，最终投稿状态待复核。</td>
 </tr>
 
 <tr bgcolor="#fff1db" style="background-color:#fff1db;">
 <td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">52</td>
 <td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">社区老年日间照料中心多模态热舒适的时空深度学习评估与预测</td>
 <td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">Energy（投稿准备中）</td>
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;"></td>
+<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">#52 的 Energy 正确草稿/提交状态仍需复核；此前打开的 EGY-D-26-10556 对应另一篇贝叶斯元学习稿件，不能作为 #52 投稿完成记录。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -319,21 +319,21 @@ table th, table td { vertical-align: top; }
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">44</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">生成式 AI 驱动的适老室内改造可视化</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Applied Sciences（已投稿）</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;"></td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">MDPI SuSy 显示 All steps completed，稿号 applsci-4331900；已上传 source ZIP 和 cover letter，完成题名、摘要、关键词、作者、建议审稿人、无利益冲突、基金和数据可用性填写。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">45</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">cGAN 辅助的适老住宅改造多目标优化</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Buildings（已投稿）</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;"></td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Buildings / Submission Received 已到稿号 buildings-4331653；提交确认邮件已收到。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">48</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">元学习增强的少样本居家安全等级分类框架</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Transactions on Instrumentation and Measurement（已投稿）</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;"></td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE TIM 系统显示 Manuscript Submitted，稿号 TIM-26-05228。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
