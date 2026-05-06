@@ -16,9 +16,9 @@ table th, table td { vertical-align: top; }
 | 状态 | 数量 |
 |---|---:|
 | ⚪ 未投稿 | 3 |
-| 🟠 投稿准备中 | 14 |
+| 🟠 投稿准备中 | 12 |
 | 🔴 需处理 | 17 |
-| 🟡 已投稿 | 19 |
+| 🟡 已投稿 | 21 |
 | 🔵 初审中 | 7 |
 | 🟢 外审中 | 10 |
 | 🟣 已接收 | 2 |
@@ -36,9 +36,9 @@ table th, table td { vertical-align: top; }
 | 34 | 面向多层粮仓围护结构的梯度纳米结构气凝胶复合保温材料 | Construction and Building Materials（已拒稿） → Journal of Materials Research and Technology-JMR&T（已投稿） | 🟡 已投稿 | Elsevier 新投稿服务显示 Your manuscript has now been submitted，提交时间 03:24, May 6, 2026；已提交 cover_letter.pdf、declarationStatement.docx、manuscript.pdf，article type 为 Original article，3 位作者为 Ruili Liu、Quan Wen（通讯作者）、Mazran Ismail；稿号 CONBUILDMAT-D-26-04279；2026-03-30 外审后拒稿 |
 | 35 | 粮食储藏仓制冷系统真实世界能效评估：来自中国河南 65 个设施的证据 | Journal of Cleaner Production（已拒稿） → Energy（邮箱未找到投稿/拒稿记录） → Scientific Reports（已投稿） | 🟡 已投稿 | kingtou 批量投稿已完成；Scientific Reports / SNAPP 已用 corrected main-tex-only ZIP 重新上传并生成完整 27 页 review PDF，门户显示 Submission received；本次修正避免压缩包中多个 .tex 导致只编译摘要的问题；Journal of Cleaner Production：编辑初筛认为不适合本刊，且投稿量大，未送外审；Energy 记录待确认 |
 | 43 | AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化 | IEEE Access（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；IEEE Access 草稿已创建（submissionBoard/new/235534a3-4404-4ea0-b322-3d2db7b73361），上传包已按 IEEE Access 模板编译、补入作者 biography、引用审计并推送；当前停在 Article Type 法律/作者责任确认页，需人工确认 APC US$2,160、唯一投稿、作者同意和 IEEE 政策声明 |
-| 44 | 生成式 AI 驱动的适老室内改造可视化 | Applied Sciences（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；Applied Sciences 上传包已按 MDPI 模板编译、cover letter 已生成、引用审计并推送；SuSy 与 #45 出现同一草稿 token，当前同一草稿显示 #45 元数据，已停止避免串稿，需另建独立 MDPI 草稿 |
+| 44 | 生成式 AI 驱动的适老室内改造可视化 | Applied Sciences（已投稿） | 🟡 已投稿 | MDPI SuSy 显示 All steps completed，稿号 applsci-4331900；已上传 source ZIP 和 cover letter，填写题名、摘要、关键词、作者、3 位 Editorial Board 建议审稿人、无利益冲突、基金和数据可用性 |
 | 45 | cGAN 辅助的适老住宅改造多目标优化 | Buildings（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；Buildings 上传包已按 MDPI 模板编译、cover letter 已生成、引用审计并推送；SuSy 已上传 manuscript ZIP 和 cover letter 到同一草稿 token，但因 #44/#45 token 串联风险已停止，需确认后再继续 |
-| 48 | 元学习增强的少样本居家安全等级分类框架 | IEEE Transactions on Instrumentation and Measurement（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；IEEE TIM 已新建 Regular Article 草稿并上传 manuscript.pdf 和 cover_letter.pdf；当前停在 Additional Information 问卷页，需人工确认利益冲突、重复发表、作者同意、OA/页费等声明 |
+| 48 | 元学习增强的少样本居家安全等级分类框架 | IEEE Transactions on Instrumentation and Measurement（已投稿） | 🟡 已投稿 | IEEE TIM 系统显示 Manuscript Submitted，稿号 TIM-26-05228 |
 | 52 | 社区老年日间照料中心多模态热舒适的时空深度学习评估与预测 | Energy（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；Energy 已新建 Full length article 草稿并上传 manuscript.pdf、cover_letter.pdf、highlights.txt 和 LaTeX source ZIP；当前缺 Elsevier Declaration of Interests 官方表单，需人工生成/确认后上传 |
 | 54 | 适老住宅缺陷评估中的视觉语言模型综述 | Electronics（已投稿） | 🟡 已投稿 | MDPI Electronics 已投稿；SuSy 显示 All steps completed，稿件号 electronics-4330805。上传包提交 d162c34，已上传 source ZIP 与 cover letter，并填写题名、摘要、关键词、作者和建议审稿人；最终提交由浏览器会话完成，kingtou 未点击最终 Confirm and Send |
 | 56 | 用于老年住宅活动分区功能分类的空间图神经网络 | 未投稿 | ⚪ 未投稿 | 未投，待补录投稿记录 |
