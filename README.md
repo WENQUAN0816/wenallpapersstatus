@@ -16,10 +16,10 @@ table th, table td { vertical-align: top; }
 | 状态 | 数量 |
 |---|---:|
 | ⚪ 未投稿 | 3 |
-| 🟠 投稿准备中 | 12 |
-| 🔴 需处理 | 17 |
-| 🟡 已投稿 | 21 |
-| 🔵 初审中 | 7 |
+| 🟠 投稿准备中 | 8 |
+| 🔴 需处理 | 20 |
+| 🟡 已投稿 | 23 |
+| 🔵 初审中 | 6 |
 | 🟢 外审中 | 10 |
 | 🟣 已接收 | 2 |
 
@@ -29,7 +29,7 @@ table th, table td { vertical-align: top; }
 
 | # | 论文标题 | 投稿轨迹 | 状态 | 情况说明 |
 |---|---|---|---|---|
-| 19 | 用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统 | Energy and Buildings（已拒稿） | 🔴 需处理 | 邮箱仅找到 Elsevier 转投拒稿通知：稿号 ENB-D-26-01660，未找到正式 decision 邮件正文，待转投 |
+| 19 | 用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统 | Energy and Buildings（已拒稿） → Energy（转投建议） | 🔴 需处理 | 邮箱已找到 Elsevier 转投建议邮件：稿号 ENB-D-26-01660，对应建议转投 Energy；待决定是否继续转投 |
 | 27 | 适老建成环境专业人员对 AI-BIM 评估工具的接受度 | Buildings（已投稿） | 🟡 已投稿 | kingtou 批量投稿已完成；MDPI SuSy 已上传主稿包和 cover letter，元数据、作者角色、3 位建议审稿人和 Statements 已填写；用户已确认最终提交完成 |
 | 32 | 面向多层粮仓全年能源优化的双模式辐射制冷与太阳能供热 | Energy and Buildings（已拒稿） → Energy（已投稿） | 🟡 已投稿 | Energy / Editorial Manager 已投稿成功，确认邮件主题为 “EGY-D-26-10505 - Confirming your submission to Energy”，正式稿号 EGY-D-26-10505，邮件说明稿件已被编辑部收到并 under review；投稿前已上传 manuscript/cover letter/declaration/highlights，填写 Article type、Section、Classifications、问卷、标题、摘要、关键词、作者、通讯作者 ORCID、CRediT、基金和个人邮箱说明；作者审批 PDF 已核验 37 页，论文仓库 commit 38d9aa6；邮箱仅找到 Elsevier 转投拒稿通知：稿号 ENB-D-26-01660，未找到正式 decision 邮件正文，待确认是否与 #19 为同一稿件 |
 | 33 | 相变材料赋能的多层粮仓自适应多温区控制：实验与数值结合研究 | Applied Energy（已拒稿） → Applied Thermal Engineering（已拒稿） → Physics of Fluids（已投稿） | 🟡 已投稿 | Physics of Fluids / PeerX 显示 Your manuscript has been submitted，稿件追踪号 POF26-AR-07216；已提交 manuscript.pdf，填写标题、摘要、作者排序、通讯作者、CRediT、分类、关键词、Publishing Permissions、常规出版、基金、数据可用性，并批准转换后的 manuscript.pdf；Applied Energy：不适合期刊读者群；Applied Thermal Engineering：初筛认为影响力、新颖性和整体质量未达门槛，编辑备注“论文内容不足以在该刊发表” |
@@ -37,7 +37,7 @@ table th, table td { vertical-align: top; }
 | 35 | 粮食储藏仓制冷系统真实世界能效评估：来自中国河南 65 个设施的证据 | Journal of Cleaner Production（已拒稿） → Energy（邮箱未找到投稿/拒稿记录） → Scientific Reports（已投稿） | 🟡 已投稿 | kingtou 批量投稿已完成；Scientific Reports / SNAPP 已用 corrected main-tex-only ZIP 重新上传并生成完整 27 页 review PDF，门户显示 Submission received；本次修正避免压缩包中多个 .tex 导致只编译摘要的问题；Journal of Cleaner Production：编辑初筛认为不适合本刊，且投稿量大，未送外审；Energy 记录待确认 |
 | 43 | AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化 | IEEE Access（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；IEEE Access 草稿已创建（submissionBoard/new/235534a3-4404-4ea0-b322-3d2db7b73361），上传包已按 IEEE Access 模板编译、补入作者 biography、引用审计并推送；当前停在 Article Type 法律/作者责任确认页，需人工确认 APC US$2,160、唯一投稿、作者同意和 IEEE 政策声明 |
 | 44 | 生成式 AI 驱动的适老室内改造可视化 | Applied Sciences（已投稿） | 🟡 已投稿 | MDPI SuSy 显示 All steps completed，稿号 applsci-4331900；已上传 source ZIP 和 cover letter，填写题名、摘要、关键词、作者、3 位 Editorial Board 建议审稿人、无利益冲突、基金和数据可用性 |
-| 45 | cGAN 辅助的适老住宅改造多目标优化 | Buildings（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；Buildings 上传包已按 MDPI 模板编译、cover letter 已生成、引用审计并推送；SuSy 已上传 manuscript ZIP 和 cover letter 到同一草稿 token，但因 #44/#45 token 串联风险已停止，需确认后再继续 |
+| 45 | cGAN 辅助的适老住宅改造多目标优化 | Buildings（已投稿） | 🟡 已投稿 | Buildings / Submission Received 已到稿号 buildings-4331653；提交确认邮件已收到 |
 | 48 | 元学习增强的少样本居家安全等级分类框架 | IEEE Transactions on Instrumentation and Measurement（已投稿） | 🟡 已投稿 | IEEE TIM 系统显示 Manuscript Submitted，稿号 TIM-26-05228 |
 | 52 | 社区老年日间照料中心多模态热舒适的时空深度学习评估与预测 | Energy（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；Energy 已新建 Full length article 草稿并上传 manuscript.pdf、cover_letter.pdf、highlights.txt 和 LaTeX source ZIP；当前缺 Elsevier Declaration of Interests 官方表单，需人工生成/确认后上传 |
 | 54 | 适老住宅缺陷评估中的视觉语言模型综述 | Electronics（已投稿） | 🟡 已投稿 | MDPI Electronics 已投稿；SuSy 显示 All steps completed，稿件号 electronics-4330805。上传包提交 d162c34，已上传 source ZIP 与 cover letter，并填写题名、摘要、关键词、作者和建议审稿人；最终提交由浏览器会话完成，kingtou 未点击最终 Confirm and Send |
@@ -56,12 +56,12 @@ table th, table td { vertical-align: top; }
 | 41 | AccessGeometry：面向老年住宅无障碍合规评估的点云自动参数化建模 | Frontiers of Architectural Research (FoAR) | 🔴 需处理 | 已拒稿，待处理 |
 | 42 | AccessPath：面向老年居家环境自动无障碍评估的拓扑图式无障碍通行分析 | IEEE Trans. Automation Science and Engineering | 🔴 需处理 | 退回草稿，需处理 |
 | 51 | 城市老年住宅空间热舒适的多模态感知与物理信息神经网络评估 | Environmental Health（转投完成） → Environmental Monitoring and Assessment（建议转投/需处理） | 🔴 需处理 | 建议转投或需处理 |
-| 6 | 基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防 | IEEE Access（已拒稿） → The Journal of Nutrition, Health and Aging (JNHA)（已拒稿） → PLOS ONE（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；PLOS ONE 上传包提交 ec46f96，Editorial Manager 已上传 cover letter 与 manuscript PDF，并填写 Article Type 与 Medicine and Health Sciences 分类；当前停在 Additional Information/Questionnaire，需作者手动完成伦理、数据、作者同意、利益冲突、经费等声明，最终 Submit 未点击 |
-| 9 | 中国 HIV 老年人适老居住环境因素因果模型：文本挖掘、模糊 DEMATEL 与区域比较 | Journal of Urban Health（已拒稿） → Frontiers in Public Health（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；Frontiers in Public Health 上传包提交 a5f84c0，草稿 10081331 已选择 Public Health - Aging and Public Health、Original Research，并上传 manuscript.tex、references.bib、manuscript.pdf；Submission details、Manuscript information、Authors and contributors、Editorial、Payment 均显示 Completed。作者页已补 Quan Wen 两个机构、Yanting Wu 邮箱 15093362768@163.com、Kaifeng Central Hospital 机构及 CRediT 贡献；当前 Statements 仍 Incomplete，需作者手动确认 COI、重复投稿、经费、GenAI、伦理、数据可用性等声明；Payment 显示 APC 3,150.00 CHF 且 payer 为 Quan Wen，最终 Submit/授权条款未点击 |
+| 6 | 基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防 | IEEE Access（已拒稿） → The Journal of Nutrition, Health and Aging (JNHA)（已拒稿） → PLOS ONE（已投稿） | 🟡 已投稿 | PLOS ONE / Editorial Manager 已提交完成，稿号 PONE-D-26-22394；Submission Confirmation 和 PDF 生成邮件已收到 |
+| 9 | 中国 HIV 老年人适老居住环境因素因果模型：文本挖掘、模糊 DEMATEL 与区域比较 | Journal of Urban Health（已拒稿） → Frontiers in Public Health（已投稿） | 🟡 已投稿 | Frontiers in Public Health 已提交，稿号 1873646；当前处于 initial validation stage |
 | — | 基于相变材料的多层粮仓自适应多温区温度控制 | Applied Energy（已拒稿） → Applied Thermal Engineering（已拒稿） | 🔴 需处理 | 与 #33 疑似同一稿件；Applied Energy：不适合读者群；Applied Thermal Engineering：初筛质量/新颖性/影响力未达门槛，内容不足 |
 | — | 基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估 | Automation in Construction（已拒稿） | 🔴 需处理 | 已拒稿，待处理 |
 | 13* | 后疫情时代中国适老社区韧性建设（由 JHPN 转投） | Journal of Health, Population and Nutrition（外审中） → Archives of Public Health（转投完成） | 🟢 外审中 | 外审中 |
-| 21 | 基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估 | Image and Vision Computing（历史记录） → IEEE Access（投稿准备中） | 🟠 投稿准备中 | kingtou 已开始投稿（尚未最终提交）；IEEE Access 更正上传包提交 6325cf7，Research Exchange 已上传主稿 LaTeX source ZIP、manuscript.pdf 与 cover_letter.pdf，并选定 manuscript.tex 为主文件；当前停在 Upload Manuscript 的 Conflict of Interest 必填声明，需作者手动选择/确认 COI，最终 Complete Submission 未点击 |
+| 21 | 基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估 | Image and Vision Computing（历史记录） → IEEE Access（已投稿） | 🟡 已投稿 | IEEE Access 已提交并分配稿号 Access-2026-21292；Submission 和编号确认邮件均已收到 |
 | 28 | 老年用户对居家养老智能家居传感器系统的接受度：整合技术接受模型、隐私计算理论与空间自主性 | BMC Psychology（转投/需处理，历史记录） → PLOS ONE（已投稿） | 🟡 已投稿 | 已投稿 |
 | 3 | 基于条件 GAN 与随机森林的多源数据融合社区韧性评估：来自中国河南的证据 | Sustainable Cities and Society（已投稿/已退回） | 🔴 需处理 | 退回草稿，需处理 |
 | 38 | 基于三维点云特征与 SHAP 可解释集成学习的老年住宅环境跌倒风险空间预测 | Egyptian Informatics Journal | 🟡 已投稿 | 已投稿 |
@@ -79,16 +79,16 @@ table th, table td { vertical-align: top; }
 | ZXJ-1 | 从空间符号到社会实践：适老文化主题建筑空间意义建构的动态框架 | Buildings | 🟡 已投稿 | 已投稿 |
 | ZXJ-2 | 遗产街区中老年人的意义建构与地方依恋：结构方程模型框架 | Frontiers in Psychology | 🟡 已投稿 | 已投稿 |
 | ZXJ-3 | 面向文化主题公共建筑老年用户的空间意义感知量表开发：因子分析研究设计 | Frontiers in Psychology | 🟡 已投稿 | 已投稿 |
-| ZXJ-4 | 老年游客对遗产建筑增强现实解说的接受度：扩展技术接受模型 | Applied Sciences | 🟡 已投稿 | 已投稿 |
-| ZXJ-5 | 历史社区智慧适老化改造策略的居民支持：整合地方依恋与技术接受 | Buildings | 🟡 已投稿 | 已投稿 |
+| ZXJ-4 | 老年游客对遗产建筑增强现实解说的接受度：扩展技术接受模型 | Applied Sciences（已拒稿） | 🔴 需处理 | 稿号 applsci-4326225，5月3日已投稿，5月6日拒稿，待处理 |
+| ZXJ-5 | 历史社区智慧适老化改造策略的居民支持：整合地方依恋与技术接受 | Buildings（已拒稿） | 🔴 需处理 | 稿号 buildings-4326224 / buildings-4326137，5月3日已投稿，5月5-6日拒稿，待处理 |
 | 14 | 中国老龄化背景下农村学校改造养老设施的公平导向服务就绪框架 | International Journal for Equity in Health | 🔵 初审中 | 编辑处理中 |
 | 22 | 双层级注意力增强迁移学习用于居家适老环境评估中的点云语义分割 | Journal of Big Data | 🔵 初审中 | 编辑处理中 |
 | 23 | 基于三维点云语义分析的适老住宅合规自动评估 | Virtual Reality | 🔵 初审中 | 编辑处理中 |
 | 25 | 面向适老韧性评估的 BIM 集成空间世界模型：概念框架与研究议程 | Humanities and Social Sciences Communications | 🔵 初审中 | 编辑处理中 |
-| 26 | 室内适老环境多维韧性评估框架：基于 Google Gemini Pro 的大模型指标构建 | Humanities and Social Sciences Communications | 🔵 初审中 | 编辑处理中 |
+| 26 | 室内适老环境多维韧性评估框架：基于 Google Gemini Pro 的大模型指标构建 | Humanities and Social Sciences Communications | 🔴 需处理 | 5月1日收到修回截止提醒，需提交修订稿 |
 | 29 | 被遗忘之外：中国农村独居老人的低成本智能安全韧性框架 | BMC Geriatrics | 🔵 初审中 | 编辑处理中 |
 | 8 | 养老照护中公众对使用 AI 的照护提供者的信任：基于能力、仁爱与诚信视角的概念综述 | Universal Access in the Information Society | 🔵 初审中 | 编辑处理中 |
-| 1 | 适老社区时序评估的贝叶斯元学习框架 | BMC Medical Research Methodology | 🟢 外审中 | 外审中 |
+| 1 | 适老社区时序评估的贝叶斯元学习框架 | BMC Medical Research Methodology（外审中） → Energy（已投稿） | 🟢 外审中 | Energy / Editorial Manager 已提交确认，稿号 EGY-D-26-10556；BMC 轨道仍在外审中 |
 | 10 | 中国老年 HIV 感染者适老居住环境评估的个体中心框架 | BMC Geriatrics | 🟢 外审中 | 外审中 |
 | 11 | AFLE-HIV：中国老年 HIV 感染者适老居住环境评估框架构建 | BMC Public Health | 🟢 外审中 | 外审中 |
 | 12 | 面向老年人的15分钟城市：健康与适老城市化的操作框架 | Scientific Reports | 🟢 外审中 | 外审中 |
