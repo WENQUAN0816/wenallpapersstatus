@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>论文状态统计</title>
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, "Microsoft YaHei", sans-serif;
+      color: #1f2937;
+      background: #f8fafc;
+    }
+
+    main {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 28px 20px 36px;
+    }
+
+    h1 {
+      margin: 0 0 8px;
+      font-size: 26px;
+      font-weight: 700;
+      letter-spacing: 0;
+    }
+
+    p {
+      margin: 0 0 20px;
+      color: #4b5563;
+      line-height: 1.6;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1.35fr) minmax(320px, 0.85fr);
+      gap: 18px;
+    }
+
+    .panel {
+      min-height: 430px;
+      padding: 14px;
+      border: 1px solid #e5e7eb;
+      border-radius: 8px;
+      background: #ffffff;
+    }
+
+    .summary {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(148px, 1fr));
+      gap: 10px;
+      margin: 0 0 18px;
+    }
+
+    .stat {
+      border: 1px solid #e5e7eb;
+      border-left: 8px solid var(--color);
+      border-radius: 8px;
+      padding: 10px 12px;
+      background: #ffffff;
+    }
+
+    .stat strong {
+      display: block;
+      font-size: 22px;
+      line-height: 1.2;
+    }
+
+    .stat span {
+      display: block;
+      margin-top: 4px;
+      color: #4b5563;
+      font-size: 13px;
+      line-height: 1.35;
+    }
+
+    @media (max-width: 860px) {
+      .grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>论文状态统计</h1>
+    <p>按 README 当前状态表统计，共 71 篇/项；状态顺序与表格排序一致。</p>
+
+    <section class="summary" id="summary"></section>
+    <section class="grid">
+      <div class="panel" id="bar"></div>
+      <div class="panel" id="donut"></div>
+    </section>
+  </main>
+
+  <script>
+    const labels = [
+      "未投稿/待投稿",
+      "投稿准备中",
+      "需处理",
+      "需修订",
+      "完成提交未进入初审",
+      "初审中",
+      "外审中",
+      "已接收"
+    ];
+
+    const values = [2, 2, 18, 1, 29, 6, 10, 3];
+    const colors = [
+      "#f2f2f2",
+      "#fff1db",
+      "#ffe5e5",
+      "#ffd9ec",
+      "#fff8d9",
+      "#e8f1ff",
+      "#e8f9ee",
+      "#f1e8ff"
+    ];
+    const markerLines = [
+      "#9ca3af",
+      "#f59e0b",
+      "#ef4444",
+      "#ec4899",
+      "#eab308",
+      "#3b82f6",
+      "#22c55e",
+      "#8b5cf6"
+    ];
+
+    const total = values.reduce((sum, value) => sum + value, 0);
+    const summary = document.getElementById("summary");
+    labels.forEach((label, index) => {
+      const item = document.createElement("div");
+      item.className = "stat";
+      item.style.setProperty("--color", markerLines[index]);
+      item.innerHTML = `<strong>${values[index]}</strong><span>${label}</span>`;
+      summary.appendChild(item);
+    });
+
+    Plotly.newPlot("bar", [{
+      type: "bar",
+      x: labels,
+      y: values,
+      text: values.map(value => `${value} (${(value / total * 100).toFixed(1)}%)`),
+      textposition: "outside",
+      cliponaxis: false,
+      marker: {
+        color: colors,
+        line: { color: markerLines, width: 1.5 }
+      },
+      hovertemplate: "%{x}<br>数量：%{y}<extra></extra>"
+    }], {
+      title: { text: "各状态数量", x: 0, xanchor: "left" },
+      margin: { l: 46, r: 22, t: 54, b: 96 },
+      yaxis: {
+        title: "数量",
+        rangemode: "tozero",
+        gridcolor: "#e5e7eb",
+        zerolinecolor: "#d1d5db"
+      },
+      xaxis: { tickangle: -28 },
+      paper_bgcolor: "#ffffff",
+      plot_bgcolor: "#ffffff",
+      font: { family: "Arial, Microsoft YaHei, sans-serif", color: "#1f2937" }
+    }, { responsive: true, displaylogo: false });
+
+    Plotly.newPlot("donut", [{
+      type: "pie",
+      labels,
+      values,
+      hole: 0.58,
+      marker: { colors, line: { color: "#ffffff", width: 2 } },
+      textinfo: "label+percent",
+      hovertemplate: "%{label}<br>数量：%{value}<br>占比：%{percent}<extra></extra>"
+    }], {
+      title: { text: "状态占比", x: 0, xanchor: "left" },
+      annotations: [{
+        text: `总计<br><b>${total}</b>`,
+        showarrow: false,
+        font: { size: 18, color: "#111827" }
+      }],
+      margin: { l: 18, r: 18, t: 54, b: 18 },
+      paper_bgcolor: "#ffffff",
+      plot_bgcolor: "#ffffff",
+      font: { family: "Arial, Microsoft YaHei, sans-serif", color: "#1f2937" },
+      showlegend: false
+    }, { responsive: true, displaylogo: false });
+  </script>
+</body>
+</html>

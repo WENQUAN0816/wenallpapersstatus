@@ -34,6 +34,7 @@ table th, table td { vertical-align: top; }
 <tr><td>&#9898;</td><td>未投稿/待投稿</td></tr>
 <tr><td>&#128992;</td><td>投稿准备中</td></tr>
 <tr><td>&#128308;</td><td>需处理</td></tr>
+<tr><td>&#128150;</td><td>需修订</td></tr>
 <tr><td>&#128993;</td><td>完成提交未进入初审</td></tr>
 <tr><td>&#128309;</td><td>初审中</td></tr>
 <tr><td>&#128994;</td><td>外审中</td></tr>
@@ -42,7 +43,9 @@ table th, table td { vertical-align: top; }
 
 
 
-> **说明：** 表格已按状态分组排序，顺序为：未投稿/待投稿 → 投稿准备中 → 需处理 → 完成提交未进入初审 → 初审中 → 外审中 → 已接收；状态列用彩色圆点区分。
+> **说明：** 表格已按状态分组排序，顺序为：未投稿/待投稿 → 投稿准备中 → 需处理 → 需修订 → 完成提交未进入初审 → 初审中 → 外审中 → 已接收；状态列用彩色圆点区分。
+
+[查看 Plotly 状态统计图](status_chart.html)
 
 
 
@@ -102,14 +105,6 @@ table th, table td { vertical-align: top; }
 <td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统</td>
 <td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">Energy and Buildings（已拒稿） → Energy（转投建议）</td>
 <td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">建议转投</td>
-</tr>
-
-<tr bgcolor="#ffe5e5" style="background-color:#ffe5e5;">
-<td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">—</td>
-<td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top; white-space: nowrap;">&#128308; 需处理</td>
-<td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">面向公共卫生突发事件社区韧性的可持续评估框架构建：整合对比学习与超球嵌入</td>
-<td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">Springer Nature (journal TBD)</td>
-<td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">已撤稿</td>
 </tr>
 
 <tr bgcolor="#ffe5e5" style="background-color:#ffe5e5;">
@@ -241,19 +236,19 @@ table th, table td { vertical-align: top; }
 </tr>
 
 <tr bgcolor="#ffe5e5" style="background-color:#ffe5e5;">
-<td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">26</td>
-<td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top; white-space: nowrap;">&#128308; 需处理</td>
-<td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">室内适老环境多维韧性评估框架：基于 Google Gemini Pro 的大模型指标构建</td>
-<td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">Humanities and Social Sciences Communications</td>
-<td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">需修订</td>
-</tr>
-
-<tr bgcolor="#ffe5e5" style="background-color:#ffe5e5;">
 <td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">40</td>
 <td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top; white-space: nowrap;">&#128308; 需处理</td>
 <td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">AccessStairNet：面向老年居家环境无障碍评估的台阶与门槛深度学习检测</td>
 <td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">IEEE Transactions on Instrumentation and Measurement（拒后重投） → IEEE Access（已拒稿，不接受重投）</td>
 <td bgcolor="#ffe5e5" style="background-color:#ffe5e5; vertical-align: top;">已拒稿</td>
+</tr>
+
+<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">26</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150; 需修订</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">室内适老环境多维韧性评估框架：基于 Google Gemini Pro 的大模型指标构建</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Humanities and Social Sciences Communications</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">需修订</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -630,6 +625,14 @@ table th, table td { vertical-align: top; }
 <td bgcolor="#f1e8ff" style="background-color:#f1e8ff; vertical-align: top;">基于注意力机制与双通道门控特征融合的文学作品情绪分析</td>
 <td bgcolor="#f1e8ff" style="background-color:#f1e8ff; vertical-align: top;">IEEE Access</td>
 <td bgcolor="#f1e8ff" style="background-color:#f1e8ff; vertical-align: top;"></td>
+</tr>
+
+<tr bgcolor="#f1e8ff" style="background-color:#f1e8ff;">
+<td bgcolor="#f1e8ff" style="background-color:#f1e8ff; vertical-align: top;">—</td>
+<td bgcolor="#f1e8ff" style="background-color:#f1e8ff; vertical-align: top; white-space: nowrap;">&#128995; 已接收</td>
+<td bgcolor="#f1e8ff" style="background-color:#f1e8ff; vertical-align: top;">面向公共卫生突发事件社区韧性的可持续评估框架构建：整合对比学习与超球嵌入</td>
+<td bgcolor="#f1e8ff" style="background-color:#f1e8ff; vertical-align: top;">Springer Nature（已撤稿） → Frontiers in Public Health（已发表）</td>
+<td bgcolor="#f1e8ff" style="background-color:#f1e8ff; vertical-align: top;">与 Frontiers 论文为同一篇；DOI: 10.3389/fpubh.2025.1651331</td>
 </tr>
 
 </tbody>
