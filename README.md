@@ -38,12 +38,11 @@ table th, table td { vertical-align: top; }
 <tr><td>&#128993;</td><td>完成提交未进入初审</td></tr>
 <tr><td>&#128309;</td><td>初审中</td></tr>
 <tr><td>&#128994;</td><td>外审中</td></tr>
-<tr><td>&#128995;</td><td>已接收</td></tr>
 </table>
 
 
 
-> **说明：** 表格已按状态分组排序，顺序为：未投稿/待投稿 → 投稿准备中 → 需处理 → 需修订 → 完成提交未进入初审 → 初审中 → 外审中 → 已接收；状态列用彩色圆点区分。
+> **说明：** 表格已按状态分组排序，顺序为：未投稿/待投稿 → 投稿准备中 → 需处理 → 需修订 → 完成提交未进入初审 → 初审中 → 外审中；状态列用彩色圆点区分。已接收论文不再纳入本表统计。
 
 [查看 Plotly 状态统计图](status_chart.html)
 
@@ -609,30 +608,6 @@ table th, table td { vertical-align: top; }
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">健康老龄化评估的元学习框架：具有人群泛化能力的注意力神经过程</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Neural Networks</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;"></td>
-</tr>
-
-<tr bgcolor="#f1e8ff" style="background-color:#f1e8ff;">
-<td bgcolor="#f1e8ff" style="background-color:#f1e8ff; vertical-align: top;">17</td>
-<td bgcolor="#f1e8ff" style="background-color:#f1e8ff; vertical-align: top; white-space: nowrap;">&#128995; 已接收</td>
-<td bgcolor="#f1e8ff" style="background-color:#f1e8ff; vertical-align: top;">中国老龄化与低生育背景下闲置农村校舍改造适老设施：基于自然语言处理的评估框架</td>
-<td bgcolor="#f1e8ff" style="background-color:#f1e8ff; vertical-align: top;">BMC Geriatrics</td>
-<td bgcolor="#f1e8ff" style="background-color:#f1e8ff; vertical-align: top;"></td>
-</tr>
-
-<tr bgcolor="#f1e8ff" style="background-color:#f1e8ff;">
-<td bgcolor="#f1e8ff" style="background-color:#f1e8ff; vertical-align: top;">31</td>
-<td bgcolor="#f1e8ff" style="background-color:#f1e8ff; vertical-align: top; white-space: nowrap;">&#128995; 已接收</td>
-<td bgcolor="#f1e8ff" style="background-color:#f1e8ff; vertical-align: top;">基于注意力机制与双通道门控特征融合的文学作品情绪分析</td>
-<td bgcolor="#f1e8ff" style="background-color:#f1e8ff; vertical-align: top;">IEEE Access</td>
-<td bgcolor="#f1e8ff" style="background-color:#f1e8ff; vertical-align: top;"></td>
-</tr>
-
-<tr bgcolor="#f1e8ff" style="background-color:#f1e8ff;">
-<td bgcolor="#f1e8ff" style="background-color:#f1e8ff; vertical-align: top;">—</td>
-<td bgcolor="#f1e8ff" style="background-color:#f1e8ff; vertical-align: top; white-space: nowrap;">&#128995; 已接收</td>
-<td bgcolor="#f1e8ff" style="background-color:#f1e8ff; vertical-align: top;">面向公共卫生突发事件社区韧性的可持续评估框架构建：整合对比学习与超球嵌入</td>
-<td bgcolor="#f1e8ff" style="background-color:#f1e8ff; vertical-align: top;">Springer Nature（已撤稿） → Frontiers in Public Health（已发表）</td>
-<td bgcolor="#f1e8ff" style="background-color:#f1e8ff; vertical-align: top;">与 Frontiers 论文为同一篇；DOI: 10.3389/fpubh.2025.1651331</td>
 </tr>
 
 </tbody>
