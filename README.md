@@ -52,9 +52,9 @@ table th, table td { vertical-align: top; }
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>15</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>13</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>45</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>47</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>7</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>68</strong></td></tr>
 </table>
@@ -117,20 +117,6 @@ table th, table td { vertical-align: top; }
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">社区老年日间照料中心多模态热舒适的时空深度学习评估与预测</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Energy</td>
 <!-- 后台情况说明：#52 的 Energy 正确草稿/提交状态仍需复核；此前打开的 EGY-D-26-10556 对应另一篇贝叶斯元学习稿件，不能作为 #52 投稿完成记录。 -->
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">粮食储藏设施制冷系统的真实世界能效：来自中国河南的大规模实地研究</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Journal of Cleaner Production</td>
-<!-- 后台情况说明：已拒稿 -->
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Computers in Biology and Medicine</td>
-<!-- 后台情况说明：已拒稿 -->
 </tr>
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
@@ -201,6 +187,20 @@ table th, table td { vertical-align: top; }
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">室内适老环境多维韧性评估框架：基于 Google Gemini Pro 的大模型指标构建</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Humanities and Social Sciences Communications</td>
 <!-- 后台情况说明：需修订 -->
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">粮食储藏设施制冷系统的真实世界能效：来自中国河南的大规模实地研究</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Cleaner Production → Energy Reports</td>
+<!-- 后台情况说明：已按 Elsevier Transfer Recommendation 转投至 Energy Reports；原稿号 JCLEPRO-D-26-07569。 -->
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Computers in Biology and Medicine → Biomedical Signal Processing and Control</td>
+<!-- 后台情况说明：已按 Elsevier Transfer Recommendation 转投至 Biomedical Signal Processing and Control；原稿号 CIBM-D-26-00934。 -->
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">

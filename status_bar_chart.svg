@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="430" viewBox="0 0 760 430" role="img" aria-labelledby="title desc">
   <title id="title">论文状态统计柱状图</title>
-  <desc id="desc">待投稿15，需修订1，内审中45，外审中7。</desc>
+  <desc id="desc">待投稿13，需修订1，内审中47，外审中7。</desc>
   <rect width="760" height="430" fill="#ffffff"/>
   <text x="30" y="34" fill="#111827" font-family="Arial, Microsoft YaHei, sans-serif" font-size="22" font-weight="700">论文状态统计</text>
   <text x="30" y="58" fill="#6b7280" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13">共 68 篇/项；已接收论文不纳入统计</text>
@@ -21,17 +21,17 @@
   </g>
 
   <g font-family="Arial, Microsoft YaHei, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
-    <rect x="116" y="246" width="80" height="72" rx="4" fill="#f2f2f2" stroke="#9ca3af"/>
+    <rect x="116" y="256" width="80" height="62" rx="4" fill="#f2f2f2" stroke="#9ca3af"/>
 
-    <text x="156" y="238" fill="#111827">15</text>
+    <text x="156" y="248" fill="#111827">13</text>
 
     <rect x="276" y="313" width="80" height="5" rx="4" fill="#ffd9ec" stroke="#ec4899"/>
 
     <text x="316" y="305" fill="#111827">1</text>
 
-    <rect x="436" y="102" width="80" height="216" rx="4" fill="#fff8d9" stroke="#eab308"/>
+    <rect x="436" y="92" width="80" height="226" rx="4" fill="#fff8d9" stroke="#eab308"/>
 
-    <text x="476" y="94" fill="#111827">45</text>
+    <text x="476" y="84" fill="#111827">47</text>
 
     <rect x="596" y="284" width="80" height="34" rx="4" fill="#e8f9ee" stroke="#22c55e"/>
 
