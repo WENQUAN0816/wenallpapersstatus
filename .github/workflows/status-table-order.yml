@@ -23,8 +23,8 @@ jobs:
         run: |
           set -e
           mkdir -p "$HOME/EIlist" "$HOME/ssci-top100-journals"
-          curl -fsSL https://raw.githubusercontent.com/WENQUAN0816/2025journallist/main/journals_db.csv -o "$HOME/cas2025.csv"
-          curl -fsSL https://raw.githubusercontent.com/WENQUAN0816/2026journallist/main/xr2026.csv -o "$HOME/xr2026.csv"
+          curl -fsSL https://raw.githubusercontent.com/WENQUAN0816/2025journallist/master/journals_db.csv -o "$HOME/cas2025.csv"
+          curl -fsSL https://raw.githubusercontent.com/WENQUAN0816/2026journallist/master/xr2026.csv -o "$HOME/xr2026.csv"
           curl -fsSL https://raw.githubusercontent.com/WENQUAN0816/ssci-top100-journals/main/sscitop100.csv -o "$HOME/ssci-top100-journals/sscitop100.csv" || true
           curl -fsSL https://raw.githubusercontent.com/WENQUAN0816/ssci-top100-journals/main/ssci_top100_cas2025_xr2026.csv -o "$HOME/ssci_top100.csv" || true
           curl -fsSL https://raw.githubusercontent.com/WENQUAN0816/EIlist/main/ei_journals_raw.csv -o "$HOME/EIlist/ei_journals_raw.csv" || true
