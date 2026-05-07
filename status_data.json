@@ -16,7 +16,8 @@
     "recommendedJournals": "",
     "authors": "Mazran Ismail；Muhammad Hafeez Abdul Nasir",
     "correspondingAuthors": [
-      "Muhammad Hafeez Abdul Nasir"
+      "Quan Wen",
+      "Mazran Ismail"
     ],
     "updatedAt": "2026-05-08",
     "situation": "",
@@ -85,7 +86,8 @@
     "recommendedJournals": "",
     "authors": "Mazran Ismail；Muhammad Hafeez Abdul Nasir",
     "correspondingAuthors": [
-      "Muhammad Hafeez Abdul Nasir"
+      "Quan Wen",
+      "Mazran Ismail"
     ],
     "updatedAt": "2026-05-08",
     "situation": "#52 的 Energy 正确草稿/提交状态仍需复核；此前打开的 EGY-D-26-10556 对应另一篇贝叶斯元学习稿件，不能作为 #52 投稿完成记录。",
@@ -297,7 +299,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-08",
-    "situation": "Submission started (not yet completed). 2026-05-08 retargeted to International Journal of Human-Computer Interaction; manuscript is being reframed as a mobile accessibility inspection tool / human-centered accessible environment assessment. Portal assigned to CDP 9343; final submission not completed. 已开始转投 IJHCI，按 mobile accessibility inspection / human-centered accessible environment assessment 包装；尚未最终提交。",
+    "situation": "Blocked, not submitted. 2026-05-08 AccessStairNet was intended for International Journal of Human-Computer Interaction, but the IJHCI new-submission route redirected to Indoor and Built Environment / mc.manuscriptcentral.com/ibe, creating a journal-identity mismatch. CDP 9343 was closed to avoid any accidental IBE submission. 未投稿；原计划投 IJHCI，但 IJHCI 新投稿入口跳转到 IBE，存在期刊身份错误，已关闭 9343，避免误投 Indoor。",
     "impactSort": -1
   },
   {
