@@ -12,7 +12,7 @@
 | Social Emotional Network Analysis and Loneliness Prevention in Elderly Care Communities Based on Graph Neural Networks and Attention Mechanisms | title_page.tex(authors) | 未改 | 未提取 | 主稿未提取当前期刊 |
 | Multi-Source Data Integration with Conditional GAN-Random Forest for Community Resilience Assessment: Evidence from Henan Province, China | 未改 | 未改 | Sustainable Cities and Society | 一致 |
 | Meta-Learning Framework for Healthy Aging Assessment: Attentive Neural Processes with Cross-Population Generalization | 未改 | 未改 | Neural Networks | 一致 |
-| Emotion Analysis-based Evaluation and Optimization of Elderly Care Policy Effects Using Deep Learning Framework | 未改 | 未改 | Social Science & Medicine | title_page.tex: Social Science |
+| Emotion Analysis-based Evaluation and Optimization of Elderly Care Policy Effects Using Deep Learning Framework | 未改 | 未改 | Social Science & Medicine | 一致 |
 | Bayesian Meta-Learning Framework for Temporal Age-Friendly Community Assessment | 未改 | 未改 | 未提取 | 主稿未提取当前期刊 |
 | AF-SGNet: A Dependency-Aware 3D Scene Graph Spatial World Model for Automated Age-Friendly Home Environment Assessment | title_page.tex(authors,journal) | 未改 | Image and Vision Computing | 一致 |
 | Dual hierarchical attention-enhanced transfer learning for semantic segmentation of point clouds in age-friendly home environment assessment | title_page.tex(authors) | 未改 | 未提取 | 主稿未提取当前期刊 |
