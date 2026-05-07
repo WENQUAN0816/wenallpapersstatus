@@ -14,8 +14,10 @@
     "impactFactor": "",
     "indexType": "",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": -1
@@ -35,8 +37,10 @@
     "impactFactor": "",
     "indexType": "",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": -1
@@ -80,8 +84,10 @@
     "impactFactor": "",
     "indexType": "",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "#52 的 Energy 正确草稿/提交状态仍需复核；此前打开的 EGY-D-26-10556 对应另一篇贝叶斯元学习稿件，不能作为 #52 投稿完成记录。",
     "impactSort": -1
@@ -171,8 +177,10 @@
     "impactFactor": "",
     "indexType": "",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Ruili Liu；Quan Wen；Mazran Ismail",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "已拒稿",
     "impactSort": -1
@@ -192,8 +200,11 @@
     "impactFactor": "",
     "indexType": "",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "correspondingAuthors": [
+      "Quan Wen",
+      "Mazran Ismail"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "已拒稿",
     "impactSort": -1
@@ -213,8 +224,10 @@
     "impactFactor": "",
     "indexType": "",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "退回草稿",
     "impactSort": -1
@@ -234,8 +247,10 @@
     "impactFactor": "",
     "indexType": "",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "已拒稿",
     "impactSort": -1
@@ -255,8 +270,10 @@
     "impactFactor": "",
     "indexType": "",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "已拒稿",
     "impactSort": -1
@@ -299,8 +316,10 @@
     "impactFactor": "3.6",
     "indexType": "SSCI",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "需修订",
     "impactSort": 3.6
@@ -320,8 +339,10 @@
     "impactFactor": "4.7",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Ruili Liu；Mazran Ismail",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "已拒稿",
     "impactSort": 4.7
@@ -341,8 +362,10 @@
     "impactFactor": "4.9",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Yanting Wu；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "已拒稿",
     "impactSort": 4.9
@@ -362,8 +385,10 @@
     "impactFactor": "6.7",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Ruili Liu；Quan Wen；Mazran Ismail",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "建议转投",
     "impactSort": 6.7
@@ -383,7 +408,7 @@
     "impactFactor": "2.7",
     "indexType": "SCIE",
     "recommendedJournals": "Multimedia Tools and Applications；Soft Computing；Image and Vision Computing；The Journal of Supercomputing",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Nooriati Binti Taib；Jestin Bin Nordin",
     "correspondingAuthors": [
       "Quan Wen",
       "Mazran Ismail"
@@ -407,7 +432,7 @@
     "impactFactor": "2.7",
     "indexType": "SCIE",
     "recommendedJournals": "Multimedia Tools and Applications；Soft Computing；The Visual Computer；Image and Vision Computing",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Nooriati Binti Taib；Jestin Bin Nordin",
     "correspondingAuthors": [
       "Quan Wen",
       "Mazran Ismail"
@@ -431,7 +456,7 @@
     "impactFactor": "4.2",
     "indexType": "SCIE",
     "recommendedJournals": "Environment, Development and Sustainability；International Journal for Equity in Health；BMC Geriatrics",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Nooriati Binti Taib；Jestin Bin Nordin",
     "correspondingAuthors": [
       "Quan Wen",
       "Mazran Ismail"
@@ -455,7 +480,7 @@
     "impactFactor": "2.7",
     "indexType": "SCIE",
     "recommendedJournals": "The Journal of Supercomputing；Cluster Computing；Multimedia Tools and Applications",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Nooriati Binti Taib；Jestin Bin Nordin",
     "correspondingAuthors": [
       "Quan Wen",
       "Mazran Ismail"
@@ -479,7 +504,7 @@
     "impactFactor": "5.0",
     "indexType": "SCIE&SSCI",
     "recommendedJournals": "Social Science & Medicine；Health Research Policy and Systems；BMC Health Services Research",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Nooriati Binti Taib；Jestin Bin Nordin",
     "correspondingAuthors": [
       "Quan Wen",
       "Mazran Ismail"
@@ -503,7 +528,7 @@
     "impactFactor": "4.4",
     "indexType": "SCIE",
     "recommendedJournals": "Environment, Development and Sustainability；Journal of Thermal Analysis and Calorimetry；Building and Environment",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Nooriati Binti Taib；Jestin Bin Nordin",
     "correspondingAuthors": [
       "Quan Wen",
       "Mazran Ismail"
@@ -527,8 +552,10 @@
     "impactFactor": "3.1",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "MDPI SuSy 已最终提交；上传主稿包和 cover letter，元数据、作者角色、建议审稿人和 Statements 已完成。",
     "impactSort": 3.1
@@ -548,8 +575,10 @@
     "impactFactor": "9.0",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Ruili Liu；Quan Wen；Mazran Ismail",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "Energy / Editorial Manager 确认邮件已收到；正式稿号 EGY-D-26-10505；邮件说明稿件已被编辑部收到并 under review。作者审批 PDF 已核验 37 页，论文仓库 commit 38d9aa6。",
     "impactSort": 9.0
@@ -569,8 +598,10 @@
     "impactFactor": "4.1",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Ruili Liu；Quan Wen；Mazran Ismail",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "Physics of Fluids / PeerX 显示 Your manuscript has been submitted；稿件追踪号 POF26-AR-07216。",
     "impactSort": 4.1
@@ -590,8 +621,10 @@
     "impactFactor": "6.2",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Ruili Liu；Quan Wen；Mazran Ismail",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "Elsevier 新投稿服务显示 Your manuscript has now been submitted；提交时间 03:24, May 6, 2026；已提交 cover_letter.pdf、declarationStatement.docx、manuscript.pdf。",
     "impactSort": 6.2
@@ -611,8 +644,10 @@
     "impactFactor": "2.5",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "MDPI SuSy 显示 All steps completed，稿号 applsci-4331900；已上传 source ZIP 和 cover letter，完成题名、摘要、关键词、作者、建议审稿人、无利益冲突、基金和数据可用性填写。",
     "impactSort": 2.5
@@ -632,8 +667,10 @@
     "impactFactor": "3.1",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "MDPI Buildings 仪表盘最新显示稿号 buildings-4331963，状态 Pending review，提交时间 2026-05-06 17:07:56；仪表盘标题为 cGAN-Assisted Age-Friendly Home Renovation Design: A Multi-Objective Optimization Framework Integrating Accessibility, Cost, and Spatial Efficiency。早前记录 buildings-4331653 需与邮件/门户历史进一步核对。",
     "impactSort": 3.1
@@ -653,8 +690,10 @@
     "impactFactor": "5.6",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "IEEE TIM 系统显示 Manuscript Submitted，稿号 TIM-26-05228。",
     "impactSort": 5.6
@@ -674,8 +713,10 @@
     "impactFactor": "2.6",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 2.6
@@ -695,8 +736,10 @@
     "impactFactor": "",
     "indexType": "ESCI+EI",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Xueping Han",
+    "correspondingAuthors": [
+      "Xueping Han"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": -1
@@ -716,8 +759,10 @@
     "impactFactor": "2.9",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 2.9
@@ -737,8 +782,10 @@
     "impactFactor": "3.4",
     "indexType": "SCIE&SSCI",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 3.4
@@ -758,8 +805,11 @@
     "impactFactor": "3.6",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "correspondingAuthors": [
+      "Quan Wen",
+      "Mazran Ismail"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "已拒稿",
     "impactSort": 3.6
@@ -779,8 +829,10 @@
     "impactFactor": "2.9",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 2.9
@@ -800,8 +852,11 @@
     "impactFactor": "5.0",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Nooriati Binti Taib；Jestin Bin Nordin",
+    "correspondingAuthors": [
+      "Quan Wen",
+      "Mazran Ismail"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 5.0
@@ -821,8 +876,10 @@
     "impactFactor": "9.6",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 9.6
@@ -842,8 +899,10 @@
     "impactFactor": "9.6",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 9.6
@@ -863,8 +922,10 @@
     "impactFactor": "3.4",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 3.4
@@ -884,8 +945,10 @@
     "impactFactor": "4.9",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Yanting Wu；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 4.9
@@ -905,8 +968,10 @@
     "impactFactor": "3.4",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 3.4
@@ -926,8 +991,10 @@
     "impactFactor": "3.1",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "Sensors 完成提交记录保留；2026-05-06 kingtou 检查/继续 Buildings 相关草稿时，MDPI 最终仪表盘显示的是 #45 cGAN 稿件 buildings-4331963 / Pending review，而不是本 VLM 稿题。故本稿不得标记为 Buildings 已投稿；若目标仍为 Buildings，需重新建立并核对正确草稿。",
     "impactSort": 3.1
@@ -947,8 +1014,10 @@
     "impactFactor": "2.9",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 2.9
@@ -968,8 +1037,10 @@
     "impactFactor": "2.4",
     "indexType": "SCIE+EI",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Xueping Han",
+    "correspondingAuthors": [
+      "Xueping Han"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 2.4
@@ -989,8 +1060,10 @@
     "impactFactor": "3.5",
     "indexType": "SCIE+EI",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Xueping Han",
+    "correspondingAuthors": [
+      "Xueping Han"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 3.5
@@ -1010,8 +1083,10 @@
     "impactFactor": "3.5",
     "indexType": "SCIE+EI",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Xueping Han",
+    "correspondingAuthors": [
+      "Xueping Han"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 3.5
@@ -1031,8 +1106,10 @@
     "impactFactor": "2.4",
     "indexType": "SCIE+EI",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Xueping Han",
+    "correspondingAuthors": [
+      "Xueping Han"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 2.4
@@ -1052,8 +1129,10 @@
     "impactFactor": "3.1",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 3.1
@@ -1073,8 +1152,10 @@
     "impactFactor": "2.9",
     "indexType": "SSCI",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 2.9
@@ -1094,8 +1175,10 @@
     "impactFactor": "2.9",
     "indexType": "SSCI",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 2.9
@@ -1115,8 +1198,10 @@
     "impactFactor": "2.4",
     "indexType": "SCIE&SSCI",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Qi Liu；Wanbao Ge；Wenjing Xu；Jing Zhang；Yana Zhang；Jiasheng Zhou",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 2.4
@@ -1136,8 +1221,10 @@
     "impactFactor": "3.0",
     "indexType": "SCIE&SSCI",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 3.0
@@ -1157,8 +1244,10 @@
     "impactFactor": "3.6",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 3.6
@@ -1178,8 +1267,11 @@
     "impactFactor": "6.0",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Yanting Wu；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "correspondingAuthors": [
+      "Quan Wen",
+      "Mazran Ismail"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 6.0
@@ -1199,8 +1291,10 @@
     "impactFactor": "3.9",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Ruili Liu；Mazran Ismail",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "Scientific Reports / SNAPP 显示 Submission received，进入 Technical Check；corrected main-tex-only ZIP 已上传，生成 review PDF 为 27 页且正文完整。",
     "impactSort": 3.9
@@ -1220,8 +1314,10 @@
     "impactFactor": "4.1",
     "indexType": "SSCI",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 4.1
@@ -1241,8 +1337,11 @@
     "impactFactor": "8.1",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "correspondingAuthors": [
+      "Quan Wen",
+      "Mazran Ismail"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 8.1
@@ -1262,8 +1361,10 @@
     "impactFactor": "5.3",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 5.3
@@ -1283,8 +1384,10 @@
     "impactFactor": "3.6",
     "indexType": "SSCI",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 3.6
@@ -1304,8 +1407,10 @@
     "impactFactor": "3.8",
     "indexType": "SCIE&SSCI",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 3.8
@@ -1325,8 +1430,11 @@
     "impactFactor": "3.7",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Mazran Ismail；Yanting Wu；Muhammad Hafeez Abdul Nasir",
+    "correspondingAuthors": [
+      "Quan Wen",
+      "Mazran Ismail"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 3.7
@@ -1346,8 +1454,10 @@
     "impactFactor": "3.8",
     "indexType": "SCIE&SSCI",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 3.8
@@ -1367,8 +1477,10 @@
     "impactFactor": "3.5",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 3.5
@@ -1388,8 +1500,10 @@
     "impactFactor": "3.9",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 3.9
@@ -1409,8 +1523,10 @@
     "impactFactor": "3.6",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 3.6
@@ -1430,8 +1546,10 @@
     "impactFactor": "3.6",
     "indexType": "SSCI",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 3.6
@@ -1451,8 +1569,11 @@
     "impactFactor": "3.9",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "",
-    "correspondingAuthors": [],
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "correspondingAuthors": [
+      "Quan Wen",
+      "Mazran Ismail"
+    ],
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 3.9
