@@ -34,8 +34,8 @@
 <tr><th>状态</th><th>数量</th></tr>
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>13</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>46</td></tr>
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>8</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>44</td></tr>
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>10</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>68</strong></td></tr>
 </table>
 </td>
@@ -169,20 +169,6 @@
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">室内适老环境多维韧性评估框架：基于 Google Gemini Pro 的大模型指标构建</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Humanities and Social Sciences Communications</td>
 <!-- 后台情况说明：需修订 -->
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">粮食储藏设施制冷系统的真实世界能效：来自中国河南的大规模实地研究</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Cleaner Production → Energy Reports</td>
-<!-- 后台情况说明：已按 Elsevier Transfer Recommendation 转投至 Energy Reports；原稿号 JCLEPRO-D-26-07569。 -->
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Energy and Buildings → Energy → Journal of Building Engineering</td>
-<!-- 后台情况说明：已转投至 Journal of Building Engineering。 -->
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -462,6 +448,20 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">被遗忘之外：中国农村独居老人的低成本智能安全韧性框架</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">BMC Geriatrics</td>
+</tr>
+
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">粮食储藏设施制冷系统的真实世界能效：来自中国河南的大规模实地研究</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Journal of Cleaner Production → Energy Reports</td>
+<!-- 后台情况说明：2026-05-08 Energy Reports / Editorial Manager 已完成正式投递；此前提交包中所有浮动表格宽度已修复，实名版和匿名版 manuscript 均加入 adjustbox max width 限制，Table 1、Table 2 和宽表已重新编译验证不再超出页面。 -->
+</tr>
+
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Energy and Buildings → Energy → Journal of Building Engineering</td>
+<!-- 后台情况说明：2026-05-08 Journal of Building Engineering / Editorial Manager 已完成正式投递；重新补传 10 个 Figure 文件并重新 Build PDF 后，新下载 PDF 已检查未再出现 This is pdfTeX、LaTeX Warning、figure file not found 等日志/缺图页面。 -->
 </tr>
 
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">

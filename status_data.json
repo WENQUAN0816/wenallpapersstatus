@@ -1,11 +1,11 @@
 [
   {
-    "statusDot": "🟡",
-    "status": "内审中",
-    "statusOrder": 2,
+    "statusDot": "⚪",
+    "status": "待投稿",
+    "statusOrder": 0,
     "title": "用于老年住宅活动分区功能分类的空间图神经网络",
     "journalTrack": "",
-    "bg": "#fff8d9",
+    "bg": "#f2f2f2",
     "currentJournal": "",
     "casXr": "",
     "cas": "",
@@ -322,52 +322,6 @@
     "updatedAt": "2026-05-08",
     "situation": "需修订",
     "impactSort": 3.6
-  },
-  {
-    "statusDot": "🟡",
-    "status": "内审中",
-    "statusOrder": 2,
-    "title": "粮食储藏设施制冷系统的真实世界能效：来自中国河南的大规模实地研究",
-    "journalTrack": "Journal of Cleaner Production → Energy Reports",
-    "bg": "#fff8d9",
-    "currentJournal": "Energy Reports",
-    "casXr": "CAS大3小4；XR大3小3",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q2",
-    "impactFactor": "4.7",
-    "indexType": "SCIE",
-    "recommendedJournals": "",
-    "authors": "Quan Wen；Ruili Liu；Mazran Ismail",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "updatedAt": "2026-05-08",
-    "situation": "Energy Reports / Editorial Manager 转投草稿已建立，EM 内部 docid 56802；已上传 manuscript tex、LaTeX source zip、cover letter、highlights、declaration、title page 和 figures，已完成 Attach Files、General Information、Additional Information、Comments、Manuscript Data，并在 Gold OA Publishing Options/APC 页面停止。2026-05-07 已修复 manuscript.tex 中所有表格超出页面宽度问题，重新编译 manuscript.pdf 成功并推送论文仓库 commit 705fd97；尚无正式稿号，需人工确认 Publishing Options/APC 后继续 Build/Approve PDF，最终 Submit 仍需用户手动。",
-    "impactSort": 4.7
-  },
-  {
-    "statusDot": "🟡",
-    "status": "内审中",
-    "statusOrder": 2,
-    "title": "用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统",
-    "journalTrack": "Energy and Buildings → Energy → Journal of Building Engineering",
-    "bg": "#fff8d9",
-    "currentJournal": "Journal of Building Engineering",
-    "casXr": "CAS大2小2；XR大1小1/2",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q1",
-    "impactFactor": "6.7",
-    "indexType": "SCIE",
-    "recommendedJournals": "",
-    "authors": "Ruili Liu；Quan Wen；Mazran Ismail",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "updatedAt": "2026-05-08",
-    "situation": "Journal of Building Engineering / Editorial Manager 已继续到 Submissions Waiting for Approval by Author；作者缺失信息已补齐，Quan Wen、Ruili Liu、Mazran Ismail 三位作者已完成机构、国家、ORCID/roles 等信息；系统当前停在 Building PDF，尚未出现 View/Edit/Approve 操作链接，未点击最终 Submit / Approve Submission / Complete Submission。待 PDF 生成后需核对题名和作者顺序：当前列表仍显示旧题名 Dual-Mode Radiative Cooling and Solar Heating Roof Panel System for Year-Round Energy Management in Grain Warehouses，作者顺序显示 Quan Wen, Ruili Liu, Mazran Ismail，需改为稿件顺序后再审批。",
-    "impactSort": 6.7
   },
   {
     "statusDot": "🟡",
@@ -1395,6 +1349,52 @@
     "statusDot": "🟢",
     "status": "外审中",
     "statusOrder": 3,
+    "title": "粮食储藏设施制冷系统的真实世界能效：来自中国河南的大规模实地研究",
+    "journalTrack": "Journal of Cleaner Production → Energy Reports",
+    "bg": "#e8f9ee",
+    "currentJournal": "Energy Reports",
+    "casXr": "CAS大3小4；XR大3小3",
+    "cas": "",
+    "xr": "",
+    "jcr": "Q2",
+    "impactFactor": "4.7",
+    "indexType": "SCIE",
+    "recommendedJournals": "",
+    "authors": "Quan Wen；Ruili Liu；Mazran Ismail",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
+    "updatedAt": "2026-05-08",
+    "situation": "2026-05-08 Energy Reports / Editorial Manager 已完成正式投递；此前提交包中所有浮动表格宽度已修复，实名版和匿名版 manuscript 均加入 adjustbox max width 限制，Table 1、Table 2 和宽表已重新编译验证不再超出页面；已导出 EnergyReports-manuscript-tables-fixed-v2.pdf 和 energy_reports_anonymous_latex_source_tables_fixed.zip。",
+    "impactSort": 4.7
+  },
+  {
+    "statusDot": "🟢",
+    "status": "外审中",
+    "statusOrder": 3,
+    "title": "用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统",
+    "journalTrack": "Energy and Buildings → Energy → Journal of Building Engineering",
+    "bg": "#e8f9ee",
+    "currentJournal": "Journal of Building Engineering",
+    "casXr": "CAS大2小2；XR大1小1/2",
+    "cas": "",
+    "xr": "",
+    "jcr": "Q1",
+    "impactFactor": "6.7",
+    "indexType": "SCIE",
+    "recommendedJournals": "",
+    "authors": "Ruili Liu；Quan Wen；Mazran Ismail",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
+    "updatedAt": "2026-05-08",
+    "situation": "2026-05-08 Journal of Building Engineering / Editorial Manager 已完成正式投递；重新补传 10 个 Figure 文件并重新 Build PDF 后，新下载 PDF 已检查未再出现 This is pdfTeX、LaTeX Warning、figure file not found 等日志/缺图页面；题名、摘要、关键词已更新为当前稿件版本。",
+    "impactSort": 6.7
+  },
+  {
+    "statusDot": "🟢",
+    "status": "外审中",
+    "statusOrder": 3,
     "title": "基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析",
     "journalTrack": "Computers in Biology and Medicine → Biomedical Signal Processing and Control",
     "bg": "#e8f9ee",
@@ -1411,7 +1411,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-08",
-    "situation": "2026-05-07 按已投稿状态更新；Biomedical Signal Processing and Control / Elsevier New Service 显示 Your manuscript has now been submitted。",
+    "situation": "2026-05-08 已完成投递；Biomedical Signal Processing and Control / Elsevier New Service 显示 Your manuscript has now been submitted。",
     "impactSort": 4.9
   },
   {
