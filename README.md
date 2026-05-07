@@ -133,7 +133,7 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Multimedia Tools and Applications</td>
-<!-- 后台情况说明：Submission started (not yet completed). 2026-05-07 已按 Springer/Editorial Manager / Multimedia Tools and Applications 准备 LaTeX 源文件包，尚未最终提交。 -->
+<!-- 后台情况说明：Submission started (not yet completed). 2026-05-07 已按 Springer/Editorial Manager / Multimedia Tools and Applications 准备、编译、提交并推送 LaTeX 源文件包至论文仓库 fdc9db3ba68a86b9fb58059a86f604e8f1484523；投稿系统上传和最终提交尚未完成。 -->
 </tr>
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
