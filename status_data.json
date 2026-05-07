@@ -1346,12 +1346,12 @@
     "impactSort": 3.8
   },
   {
-    "statusDot": "🟢",
-    "status": "外审中",
-    "statusOrder": 3,
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
     "title": "粮食储藏设施制冷系统的真实世界能效：来自中国河南的大规模实地研究",
     "journalTrack": "Journal of Cleaner Production → Energy Reports",
-    "bg": "#e8f9ee",
+    "bg": "#fff8d9",
     "currentJournal": "Energy Reports",
     "casXr": "CAS大3小4；XR大3小3",
     "cas": "",
@@ -1365,16 +1365,16 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-08",
-    "situation": "2026-05-08 Energy Reports / Editorial Manager 已完成正式投递；此前提交包中所有浮动表格宽度已修复，实名版和匿名版 manuscript 均加入 adjustbox max width 限制，Table 1、Table 2 和宽表已重新编译验证不再超出页面；已导出 EnergyReports-manuscript-tables-fixed-v2.pdf 和 energy_reports_anonymous_latex_source_tables_fixed.zip。",
+    "situation": "2026-05-08 Energy Reports / Editorial Manager 已完成正式投递；按状态规则记为内审中，需明确进入外审/under review 后再改为外审中；此前提交包中所有浮动表格宽度已修复，实名版和匿名版 manuscript 均加入 adjustbox max width 限制，Table 1、Table 2 和宽表已重新编译验证不再超出页面；已导出 EnergyReports-manuscript-tables-fixed-v2.pdf 和 energy_reports_anonymous_latex_source_tables_fixed.zip。",
     "impactSort": 4.7
   },
   {
-    "statusDot": "🟢",
-    "status": "外审中",
-    "statusOrder": 3,
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
     "title": "用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统",
     "journalTrack": "Energy and Buildings → Energy → Journal of Building Engineering",
-    "bg": "#e8f9ee",
+    "bg": "#fff8d9",
     "currentJournal": "Journal of Building Engineering",
     "casXr": "CAS大2小2；XR大1小1/2",
     "cas": "",
@@ -1388,16 +1388,16 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-08",
-    "situation": "2026-05-08 Journal of Building Engineering / Editorial Manager 已完成正式投递；重新补传 10 个 Figure 文件并重新 Build PDF 后，新下载 PDF 已检查未再出现 This is pdfTeX、LaTeX Warning、figure file not found 等日志/缺图页面；题名、摘要、关键词已更新为当前稿件版本。",
+    "situation": "2026-05-08 Journal of Building Engineering / Editorial Manager 已完成正式投递；按状态规则记为内审中，需明确进入外审/under review 后再改为外审中；重新补传 10 个 Figure 文件并重新 Build PDF 后，新下载 PDF 已检查未再出现 This is pdfTeX、LaTeX Warning、figure file not found 等日志/缺图页面；题名、摘要、关键词已更新为当前稿件版本。",
     "impactSort": 6.7
   },
   {
-    "statusDot": "🟢",
-    "status": "外审中",
-    "statusOrder": 3,
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
     "title": "基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析",
     "journalTrack": "Computers in Biology and Medicine → Biomedical Signal Processing and Control",
-    "bg": "#e8f9ee",
+    "bg": "#fff8d9",
     "currentJournal": "Biomedical Signal Processing and Control",
     "casXr": "CAS大2小3；XR大2小2",
     "cas": "",
@@ -1411,7 +1411,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-08",
-    "situation": "2026-05-08 已完成投递；Biomedical Signal Processing and Control / Elsevier New Service 显示 Your manuscript has now been submitted。",
+    "situation": "2026-05-08 已完成投递；Biomedical Signal Processing and Control / Elsevier New Service 显示 Your manuscript has now been submitted；按状态规则记为内审中，需明确进入外审/under review 后再改为外审中。",
     "impactSort": 4.9
   },
   {
