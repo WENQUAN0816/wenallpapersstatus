@@ -194,8 +194,7 @@ def cas_info(name, cas_index):
         return ""
     major = zone_num(rows[0].get("大类分区"))
     minors = sorted({zone_num(r.get("小类分区")) for r in rows if zone_num(r.get("小类分区"))})
-    cats = "；".join(dict.fromkeys([r.get("小类", "").strip() for r in rows if r.get("小类")]))
-    return f"cas大{major}小{'/'.join(minors)}；{rows[0].get('大类','')}；{cats}"
+    return f"CAS大{major}小{'/'.join(minors)}"
 
 
 def xr_info(name, xr_index):
@@ -204,8 +203,18 @@ def xr_info(name, xr_index):
         return ""
     major = zone_num(rows[0].get("大类学科新锐分区"))
     minors = sorted({zone_num(r.get("小类学科新锐分区")) for r in rows if zone_num(r.get("小类学科新锐分区"))})
-    cats = "；".join(dict.fromkeys([r.get("小类学科英文名", "").strip() for r in rows if r.get("小类学科英文名")]))
-    return f"xr大{major}小{'/'.join(minors)}；{rows[0].get('大类学科中文名','')}；{cats}"
+    return f"XR大{major}小{'/'.join(minors)}"
+
+
+def cas_xr_info(name, cas_index, xr_index):
+    parts = []
+    cas = cas_info(name, cas_index)
+    xr = xr_info(name, xr_index)
+    if cas:
+        parts.append(cas)
+    if xr:
+        parts.append(xr)
+    return "；".join(parts)
 
 
 def index_type(name, cas_index, xr_index, ei_set):
@@ -337,8 +346,9 @@ def enrich_rows(rows):
     for row in rows:
         journal = current_journal(row)
         row["currentJournal"] = journal
-        row["cas"] = cas_info(journal, cas_index) if journal else ""
-        row["xr"] = xr_info(journal, xr_index) if journal else ""
+        row["casXr"] = cas_xr_info(journal, cas_index, xr_index) if journal else ""
+        row["cas"] = ""
+        row["xr"] = ""
         row["jcr"], row["impactFactor"] = metric_info(journal, jcr_index) if journal else ("", "")
         row["indexType"] = index_type(journal, cas_index, xr_index, ei_set) if journal else ""
         row["recommendedJournals"] = RECOMMEND_MAP.get(row["title"], "")
@@ -402,7 +412,7 @@ def render(rows):
     table.paper-status-table th[data-key="title"] {{ z-index:4; }}
     table.paper-status-table td[data-key="currentJournal"] {{ min-width:230px; }}
     table.paper-status-table td[data-key="journalTrack"], table.paper-status-table td[data-key="recommendedJournals"], table.paper-status-table td[data-key="situation"] {{ min-width:320px; }}
-    table.paper-status-table td[data-key="cas"], table.paper-status-table td[data-key="xr"] {{ min-width:320px; }}
+    table.paper-status-table td[data-key="casXr"] {{ min-width:180px; }}
     table.paper-status-table td[data-key="authors"] {{ min-width:260px; }}
     .empty {{ color:#94a3b8; }}
     @media (max-width:900px) {{ main{{padding:16px;}} header{{display:block;}} .updated{{display:block;margin-top:8px;}} .dashboard{{grid-template-columns:1fr;}} }}
@@ -445,8 +455,7 @@ def render(rows):
       ["status", "状态"],
       ["title", "论文标题"],
       ["currentJournal", "当前所在期刊名称"],
-      ["cas", "CAS分区"],
-      ["xr", "XR分区"],
+      ["casXr", "CAS/XR分区"],
       ["jcr", "JCR分区"],
       ["impactFactor", "IF"],
       ["indexType", "收录类型"],
