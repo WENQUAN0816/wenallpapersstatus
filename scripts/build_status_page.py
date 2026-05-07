@@ -99,6 +99,20 @@ AUTHOR_MAP = {
     "城市老年住宅空间热舒适的多模态感知与物理信息神经网络评估": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
 }
 
+CORRESPONDING_AUTHOR_MAP = {
+    "AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化": ["Quan Wen", "Mazran Ismail"],
+    "GridMamba-Risk：基于网格状态空间模型的整屋三维点云跌倒风险空间预测": ["Quan Wen", "Mazran Ismail"],
+    "面向居家适老环境评估的室内点云语义分割可迁移深度学习网络": ["Quan Wen", "Mazran Ismail"],
+    "AccessGeometry：面向老年住宅无障碍合规评估的点云自动参数化建模": ["Wanbao Ge"],
+    "AccessPath：面向老年居家环境自动无障碍评估的拓扑图式无障碍通行分析": ["Quan Wen"],
+    "AccessStairNet：面向老年居家环境无障碍评估的台阶与门槛深度学习检测": ["Quan Wen"],
+    "面向居家适老环境评估的扩散模型点云合成": ["Quan Wen", "Mazran Ismail"],
+    "老龄化夹缝：面向中国老旧居住社区低收入独居老人的智能安全韧性评估框架": ["Quan Wen", "Mazran Ismail"],
+    "FRSGraph：面向老年居家环境的语义图 Transformer 跌倒风险空间预测": ["Quan Wen", "Mazran Ismail"],
+    "使用基于深度学习的情绪分析评估并优化老年照护政策实施：一项多源研究": ["Quan Wen", "Mazran Ismail"],
+    "城市老年住宅空间热舒适的多模态感知与物理信息神经网络评估": ["Quan Wen", "Mazran Ismail"],
+}
+
 
 RECOMMEND_MAP = {
     "AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化": "Multimedia Tools and Applications；The Visual Computer；Image and Vision Computing；Soft Computing",
@@ -353,6 +367,7 @@ def enrich_rows(rows):
         row["indexType"] = index_type(journal, cas_index, xr_index, ei_set) if journal else ""
         row["recommendedJournals"] = RECOMMEND_MAP.get(row["title"], "")
         row["authors"] = AUTHOR_MAP.get(row["title"], "")
+        row["correspondingAuthors"] = CORRESPONDING_AUTHOR_MAP.get(row["title"], [])
         row["updatedAt"] = today
         row["situation"] = situation_by_title.get(row["title"], "")
         row["impactSort"] = float(row["impactFactor"]) if re.fullmatch(r"\d+(\.\d+)?", row["impactFactor"] or "") else -1
@@ -414,6 +429,7 @@ def render(rows):
     table.paper-status-table td[data-key="journalTrack"], table.paper-status-table td[data-key="recommendedJournals"], table.paper-status-table td[data-key="situation"] {{ min-width:320px; }}
     table.paper-status-table td[data-key="casXr"] {{ min-width:180px; }}
     table.paper-status-table td[data-key="authors"] {{ min-width:260px; }}
+    .corresponding-author {{ color:#dc2626; font-weight:800; }}
     .empty {{ color:#94a3b8; }}
     @media (max-width:900px) {{ main{{padding:16px;}} header{{display:block;}} .updated{{display:block;margin-top:8px;}} .dashboard{{grid-template-columns:1fr;}} }}
   </style>
@@ -443,6 +459,7 @@ def render(rows):
         <button type="button" data-title-width="260px">标题列窄</button>
         <button type="button" data-title-width="360px" class="title-width-active">标题列标准</button>
         <button type="button" data-title-width="520px">标题列宽</button>
+        <button type="button" id="showAllColumns">全部显示各列</button>
       </div>
       <div id="columnToggles" class="column-panel" aria-label="选择显示列"></div>
       <table class="paper-status-table">
@@ -489,6 +506,17 @@ def render(rows):
       return String(value).replace(/[&<>"']/g, ch => ({{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}}[ch]));
     }}
 
+    function formatAuthors(row) {{
+      if (!row.authors) return '<span class="empty"></span>';
+      const normalizeAuthorName = name => String(name).replace(/^(Dr\.?|Professor|Prof\.?)\s+/i, "").trim();
+      const corresponding = new Set((row.correspondingAuthors || []).map(name => normalizeAuthorName(name)));
+      return String(row.authors).split("；").map(name => {{
+        const clean = name.trim();
+        const escaped = cell(clean);
+        return corresponding.has(normalizeAuthorName(clean)) ? `<span class="corresponding-author">${{escaped}}</span>` : escaped;
+      }}).join("；");
+    }}
+
     function sortedRows() {{
       const data = [...rows];
       if (currentSort === "impact") {{
@@ -516,13 +544,21 @@ def render(rows):
       }});
     }}
 
+    function showAllColumns() {{
+      hidden.clear();
+      localStorage.setItem("paperStatusHiddenColumns", JSON.stringify([]));
+      renderToggles();
+      renderTable();
+    }}
+
     function renderTable() {{
       const cols = shownColumns();
       document.getElementById("tableHead").innerHTML = cols.map(([key, label]) => `<th data-key="${{key}}">${{label}}</th>`).join("");
       document.getElementById("tableBody").innerHTML = sortedRows().map(row => {{
         return `<tr style="background-color:${{row.bg}};">${{cols.map(([key]) => {{
           const value = key === "status" ? row.statusDot : row[key];
-          return `<td data-key="${{key}}" style="background-color:${{row.bg}};">${{cell(value)}}</td>`;
+          const htmlValue = key === "authors" ? formatAuthors(row) : cell(value);
+          return `<td data-key="${{key}}" style="background-color:${{row.bg}};">${{htmlValue}}</td>`;
         }}).join("")}}</tr>`;
       }}).join("");
     }}
@@ -541,6 +577,7 @@ def render(rows):
         applyTitleWidth();
       }});
     }});
+    document.getElementById("showAllColumns").addEventListener("click", showAllColumns);
     applyTitleWidth();
     renderToggles();
     renderTable();

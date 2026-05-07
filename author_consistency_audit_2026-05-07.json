@@ -1,0 +1,1545 @@
+[
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\1无用期刊\\KeyBERT-AHP适老社区评估框架",
+    "main": "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\1无用期刊\\KeyBERT-AHP适老社区评估框架\\manuscript.tex",
+    "title": "An Integrated KeyBERT-AHP Framework for Age-Friendly Community Assessment: Evidence from Chinese Cities",
+    "main_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "title_authors": [],
+    "cover_authors": [],
+    "title_files": [],
+    "cover_files": [],
+    "missing_title": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "未找到/未提取 title page 作者；cover letter 未列出可核验作者"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\1无用期刊\\NLP-AHP适老社区评估指标权重确定",
+    "main": "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\1无用期刊\\NLP-AHP适老社区评估指标权重确定\\journal_paper.tex",
+    "title": "Integrating Natural Language Processing and Analytic Hierarchy Process for Determining Evaluation Indicator Weights in Age-Friendly Community Assessment",
+    "main_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "title_authors": [],
+    "cover_authors": [],
+    "title_files": [],
+    "cover_files": [],
+    "missing_title": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "未找到/未提取 title page 作者；cover letter 未列出可核验作者"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\1无用期刊\\SciBERT-德尔菲后疫情适老社区评估指标",
+    "main": "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\1无用期刊\\SciBERT-德尔菲后疫情适老社区评估指标\\journal-paper.tex",
+    "title": "An Integrated SciBERT-Delphi Framework for Developing Age-Friendly Community Evaluation Indicators in Post-Pandemic China",
+    "main_authors": [
+      "Quan Wen",
+      "Mohd Yazid Mohd Yunos",
+      "Mohd Hisham Ariffin Nasir"
+    ],
+    "title_authors": [],
+    "cover_authors": [],
+    "title_files": [],
+    "cover_files": [],
+    "missing_title": [
+      "Quan Wen",
+      "Mohd Yazid Mohd Yunos",
+      "Mohd Hisham Ariffin Nasir"
+    ],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "未找到/未提取 title page 作者；cover letter 未列出可核验作者"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\1无用期刊\\对比学习-AHP适老社区循证评估框架",
+    "main": "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\1无用期刊\\对比学习-AHP适老社区循证评估框架\\manuscript.tex",
+    "title": "A Contrastive Learning-AHP Framework for Evidence-Based Age-Friendly Community Assessment: Application to Chinese Urban Communities",
+    "main_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "title_authors": [],
+    "cover_authors": [],
+    "title_files": [],
+    "cover_files": [],
+    "missing_title": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "未找到/未提取 title page 作者；cover letter 未列出可核验作者"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\新年礼包\\双通道注意力智慧养老情感监测与干预",
+    "main": "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\新年礼包\\双通道注意力智慧养老情感监测与干预\\manuscript_corrected.tex",
+    "title": "Dual-Channel Attention Mechanisms for Intelligent Emotion Monitoring and Intervention in Smart Elderly Care Systems",
+    "main_authors": [
+      "Quan Wen",
+      "Yanting Wu",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "title_authors": [
+      "Quan Wen",
+      "Yanting Wu",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\新年礼包\\双通道注意力智慧养老情感监测与干预\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\新年礼包\\双通道注意力智慧养老情感监测与干预\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [
+      "Yanting Wu",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "extra_cover": [],
+    "result": "cover letter 与主稿不一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\新年礼包\\图神经网络养老社区社交情感网络与孤独预防",
+    "main": "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\新年礼包\\图神经网络养老社区社交情感网络与孤独预防\\manuscript.tex",
+    "title": "Social Emotional Network Analysis and Loneliness Prevention in Elderly Care Communities Based on Graph Neural Networks and Attention Mechanisms",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [
+      "Quan Wen",
+      "Yanting Wu",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\新年礼包\\图神经网络养老社区社交情感网络与孤独预防\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\新年礼包\\图神经网络养老社区社交情感网络与孤独预防\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [
+      "Yanting Wu",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "title page 与主稿不一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\新年礼包\\多源数据cGAN随机森林社区韧性评估-河南",
+    "main": "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\新年礼包\\多源数据cGAN随机森林社区韧性评估-河南\\manuscript_final.tex",
+    "title": "Multi-Source Data Integration with Conditional GAN-Random Forest for Community Resilience Assessment: Evidence from Henan Province, China",
+    "main_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "title_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\新年礼包\\多源数据cGAN随机森林社区韧性评估-河南\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\新年礼包\\多源数据cGAN随机森林社区韧性评估-河南\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "extra_cover": [],
+    "result": "cover letter 与主稿不一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\新年礼包\\小样本注意力神经过程健康老龄化评估",
+    "main": "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\新年礼包\\小样本注意力神经过程健康老龄化评估\\manuscript_updated.tex",
+    "title": "Meta-Learning Framework for Healthy Aging Assessment: Attentive Neural Processes with Cross-Population Generalization",
+    "main_authors": [
+      "Quan Wen",
+      "Yanting Wu",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "title_authors": [],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\新年礼包\\小样本注意力神经过程健康老龄化评估\\cover_letter.tex"
+    ],
+    "missing_title": [
+      "Quan Wen",
+      "Yanting Wu",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "extra_title": [],
+    "missing_cover": [
+      "Yanting Wu",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "extra_cover": [],
+    "result": "未找到/未提取 title page 作者；cover letter 与主稿不一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\新年礼包\\深度学习养老政策效果情感分析评估与优化",
+    "main": "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\新年礼包\\深度学习养老政策效果情感分析评估与优化\\manuscript_corrected.tex",
+    "title": "Emotion Analysis-based Evaluation and Optimization of Elderly Care Policy Effects Using Deep Learning Framework",
+    "main_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Nooriati Binti Taib",
+      "Jestin Bin Nordin"
+    ],
+    "title_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Nooriati Binti Taib",
+      "Jestin Bin Nordin"
+    ],
+    "cover_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Nooriati Binti Taib",
+      "Jestin Bin Nordin"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\新年礼包\\深度学习养老政策效果情感分析评估与优化\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\新年礼包\\深度学习养老政策效果情感分析评估与优化\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\新年礼包\\贝叶斯元学习时序社区适老评估模型",
+    "main": "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\新年礼包\\贝叶斯元学习时序社区适老评估模型\\manuscript.tex",
+    "title": "Bayesian Meta-Learning Framework for Temporal Age-Friendly Community Assessment",
+    "main_authors": [
+      "Quan Wen",
+      "Yanting Wu",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "title_authors": [],
+    "cover_authors": [
+      "Quan Wen",
+      "Mazran Ismail"
+    ],
+    "title_files": [],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\2026年论文集中营\\新年礼包\\贝叶斯元学习时序社区适老评估模型\\cover_letter.tex"
+    ],
+    "missing_title": [
+      "Quan Wen",
+      "Yanting Wu",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "extra_title": [],
+    "missing_cover": [
+      "Yanting Wu",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "extra_cover": [],
+    "result": "未找到/未提取 title page 作者；cover letter 与主稿不一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\01-3D场景图居家适老化评估\\Paper1",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\01-3D场景图居家适老化评估\\Paper1\\manuscript.tex",
+    "title": "AF-SGNet: A Dependency-Aware 3D Scene Graph Spatial World Model for Automated Age-Friendly Home Environment Assessment",
+    "main_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\01-3D场景图居家适老化评估\\Paper1\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\01-3D场景图居家适老化评估\\Paper1\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "title page 与主稿不一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\01-3D场景图居家适老化评估\\Paper2",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\01-3D场景图居家适老化评估\\Paper2\\manuscript.tex",
+    "title": "Dual hierarchical attention-enhanced transfer learning for semantic segmentation of point clouds in age-friendly home environment assessment",
+    "main_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\01-3D场景图居家适老化评估\\Paper2\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\01-3D场景图居家适老化评估\\Paper2\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "title page 与主稿不一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\01-3D场景图居家适老化评估\\Paper3",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\01-3D场景图居家适老化评估\\Paper3\\manuscript.tex",
+    "title": "Transferable Deep Learning Network for Indoor Point Cloud Semantic Segmentation in Age-Friendly Home Environment Assessment",
+    "main_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "title_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "cover_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\01-3D场景图居家适老化评估\\Paper3\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\01-3D场景图居家适老化评估\\Paper3\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\01-3D场景图居家适老化评估\\Paper4",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\01-3D场景图居家适老化评估\\Paper4\\manuscript.tex",
+    "title": "Automating age-friendly home compliance assessments using semantic analysis of 3D point clouds",
+    "main_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen",
+      "Mazran Ismail"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\01-3D场景图居家适老化评估\\Paper4\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\01-3D场景图居家适老化评估\\Paper4\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "extra_title": [],
+    "missing_cover": [
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "extra_cover": [],
+    "result": "title page 与主稿不一致；cover letter 与主稿不一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\01-3D场景图居家适老化评估\\Paper5",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\01-3D场景图居家适老化评估\\Paper5\\manuscript.tex",
+    "title": "Paper5",
+    "main_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "title_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "cover_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\01-3D场景图居家适老化评估\\Paper5\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\01-3D场景图居家适老化评估\\Paper5\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\02-点云跌倒风险空间预测\\paper1_SGFormer",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\02-点云跌倒风险空间预测\\paper1_SGFormer\\manuscript.tex",
+    "title": "FRSGraph: Semantic Graph Transformer for Point Cloud-Based Fall Risk Spatial Prediction in Elderly Home Environments",
+    "main_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\02-点云跌倒风险空间预测\\paper1_SGFormer\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\02-点云跌倒风险空间预测\\paper1_SGFormer\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "extra_title": [],
+    "missing_cover": [
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "extra_cover": [],
+    "result": "title page 与主稿不一致；cover letter 与主稿不一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\02-点云跌倒风险空间预测\\paper2_SuperPatch",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\02-点云跌倒风险空间预测\\paper2_SuperPatch\\manuscript.tex",
+    "title": "FRSPTNet: Multiscale Super-Patch Transformer for Fall Risk Zone Segmentation in Elderly Home Point Cloud Environments",
+    "main_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\02-点云跌倒风险空间预测\\paper2_SuperPatch\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\02-点云跌倒风险空间预测\\paper2_SuperPatch\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "extra_title": [],
+    "missing_cover": [
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "extra_cover": [],
+    "result": "title page 与主稿不一致；cover letter 与主稿不一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\02-点云跌倒风险空间预测\\paper3_FallRisk",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\02-点云跌倒风险空间预测\\paper3_FallRisk\\manuscript.tex",
+    "title": "Spatial fall risk prediction in elderly residential environments using 3D point cloud-derived features and ensemble learning with SHAP interpretability",
+    "main_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "title_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\02-点云跌倒风险空间预测\\paper3_FallRisk\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\02-点云跌倒风险空间预测\\paper3_FallRisk\\投稿资料\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "extra_cover": [],
+    "result": "cover letter 与主稿不一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\02-点云跌倒风险空间预测\\paper4_GridMamba",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\02-点云跌倒风险空间预测\\paper4_GridMamba\\manuscript.tex",
+    "title": "GridMamba-Risk: Grid State Space Spatial Intelligence for Whole-House Fall Risk Prediction from 3D Point Clouds",
+    "main_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "title_authors": [],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\02-点云跌倒风险空间预测\\paper4_GridMamba\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "extra_title": [],
+    "missing_cover": [
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "extra_cover": [],
+    "result": "未找到/未提取 title page 作者；cover letter 与主稿不一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\03-居家无障碍通行性检测\\Paper3",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\03-居家无障碍通行性检测\\Paper3\\manuscript.tex",
+    "title": "AccessStairNet: Spatial Intelligence-Based Step and Threshold Detection for Automated Accessibility Assessment in Elderly Home Environments",
+    "main_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "title_authors": [
+      "Quan Wen",
+      "Yanting Wu"
+    ],
+    "cover_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\03-居家无障碍通行性检测\\Paper3\\投稿资料\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\03-居家无障碍通行性检测\\Paper3\\投稿资料\\cover_letter.tex"
+    ],
+    "missing_title": [
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "extra_title": [
+      "Yanting Wu"
+    ],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "title page 与主稿不一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\03-居家无障碍通行性检测\\Paper4",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\03-居家无障碍通行性检测\\Paper4\\manuscript.tex",
+    "title": "AccessGeometry: Spatial Intelligence-Driven Parametric Modeling of Accessibility Features from Point Clouds for Elderly Home Barrier-Free Compliance Assessment",
+    "main_authors": [
+      "Quan Wen",
+      "Wanbao Ge",
+      "Yanting Wu"
+    ],
+    "title_authors": [
+      "Quan Wen",
+      "Yanting Wu"
+    ],
+    "cover_authors": [
+      "Quan Wen",
+      "Yanting Wu",
+      "Wanbao Ge"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\03-居家无障碍通行性检测\\Paper4\\投稿资料\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\03-居家无障碍通行性检测\\Paper4\\投稿资料\\cover_letter.tex"
+    ],
+    "missing_title": [
+      "Wanbao Ge"
+    ],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "title page 与主稿不一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\03-居家无障碍通行性检测\\Paper5",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\03-居家无障碍通行性检测\\Paper5\\manuscript.tex",
+    "title": "AccessPath: A Topological Graph-Based Spatial World Model for Barrier-Free Passage Analysis in Elderly Home Environments",
+    "main_authors": [
+      "Quan Wen",
+      "Yanting Wu"
+    ],
+    "title_authors": [
+      "Quan Wen",
+      "Yanting Wu"
+    ],
+    "cover_authors": [
+      "Quan Wen",
+      "Yanting Wu"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\03-居家无障碍通行性检测\\Paper5\\投稿资料\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\03-居家无障碍通行性检测\\Paper5\\投稿资料\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\04-cGAN适老化改造方案生成\\Paper1",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\04-cGAN适老化改造方案生成\\Paper1\\manuscript.tex",
+    "title": "AgeFriendlyDiff: Conditional Diffusion-Based 3D Spatial World Model for Age-Friendly Home Modification Visualization from Single Indoor Photographs",
+    "main_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "title_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "cover_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\04-cGAN适老化改造方案生成\\Paper1\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\04-cGAN适老化改造方案生成\\Paper1\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\04-cGAN适老化改造方案生成\\Paper2",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\04-cGAN适老化改造方案生成\\Paper2\\manuscript.tex",
+    "title": "Generative Artificial Intelligence for Age-Friendly Interior Renovation: Photorealistic Visualization of Accessibility-Compliant Dwelling Environments Using Regulation-Trained Diffusion Models",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\04-cGAN适老化改造方案生成\\Paper2\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\04-cGAN适老化改造方案生成\\Paper2\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\04-cGAN适老化改造方案生成\\Paper3",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\04-cGAN适老化改造方案生成\\Paper3\\manuscript.tex",
+    "title": "cGAN-Assisted Age-Friendly Home Renovation Design: A Multi-Objective Optimization Framework Integrating Accessibility, Cost, and Spatial Efficiency",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\04-cGAN适老化改造方案生成\\Paper3\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\04-cGAN适老化改造方案生成\\Paper3\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\04-cGAN适老化改造方案生成\\Paper4",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\04-cGAN适老化改造方案生成\\Paper4\\manuscript.tex",
+    "title": "An Integrated Mixed Reality and Conditional GAN Framework for Age-Friendly Home Renovation: Two-Stage Inpainting with 360-Degree Panoramic Visualization",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\04-cGAN适老化改造方案生成\\Paper4\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\04-cGAN适老化改造方案生成\\Paper4\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\04-cGAN适老化改造方案生成\\Paper5",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\04-cGAN适老化改造方案生成\\Paper5\\manuscript.tex",
+    "title": "Enhancing Aging-Friendly Home Renovation Through Diffusion-Based Generative Design: A Dual-Objective Framework for Safety and Visual Comfort",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\04-cGAN适老化改造方案生成\\Paper5\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\04-cGAN适老化改造方案生成\\Paper5\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\05-元学习小样本环境安全评估\\paper1",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\05-元学习小样本环境安全评估\\paper1\\manuscript.tex",
+    "title": "Meta-learning enhanced parallel optimization framework for few-shot home environment safety level classification",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\05-元学习小样本环境安全评估\\paper1\\投稿资料\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\05-元学习小样本环境安全评估\\paper1\\投稿资料\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\05-元学习小样本环境安全评估\\paper2",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\05-元学习小样本环境安全评估\\paper2\\manuscript.tex",
+    "title": "Contrastive learning-enhanced knowledge distillation for RGB-depth home environment safety zone segmentation",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\05-元学习小样本环境安全评估\\paper2\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\05-元学习小样本环境安全评估\\paper2\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\05-元学习小样本环境安全评估\\paper3",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\05-元学习小样本环境安全评估\\paper3\\manuscript.tex",
+    "title": "Flexible semi-supervised meta-learning network for few-shot home environment safety level assessment",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\05-元学习小样本环境安全评估\\paper3\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\05-元学习小样本环境安全评估\\paper3\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\06-多模态热环境舒适度空间分析\\论文4-He2025-老年人热感觉预测",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\06-多模态热环境舒适度空间分析\\论文4-He2025-老年人热感觉预测\\manuscript.tex",
+    "title": "Multimodal Sensing and Physics-Informed Neural Network for Spatial Thermal Comfort Assessment in Urban Elderly Residences",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\06-多模态热环境舒适度空间分析\\论文4-He2025-老年人热感觉预测\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\06-多模态热环境舒适度空间分析\\论文4-He2025-老年人热感觉预测\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\06-多模态热环境舒适度空间分析\\论文5-Lu2025-多模态热舒适建模",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\06-多模态热环境舒适度空间分析\\论文5-Lu2025-多模态热舒适建模\\manuscript.tex",
+    "title": "Spatiotemporal deep learning for multimodal thermal comfort assessment and prediction in community elderly day-care centers",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\06-多模态热环境舒适度空间分析\\论文5-Lu2025-多模态热舒适建模\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\06-多模态热环境舒适度空间分析\\论文5-Lu2025-多模态热舒适建模\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\07-VLM适老化缺陷报告生成\\Paper_A",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\07-VLM适老化缺陷报告生成\\Paper_A\\manuscript.tex",
+    "title": "VLM-driven automated defect assessment and report generation for age-friendly residential environments",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\07-VLM适老化缺陷报告生成\\Paper_A\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\07-VLM适老化缺陷报告生成\\Paper_A\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\07-VLM适老化缺陷报告生成\\Paper_B",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\07-VLM适老化缺陷报告生成\\Paper_B\\manuscript.tex",
+    "title": "Vision-language models for age-friendly home defect assessment: A comprehensive review of automated report generation",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\07-VLM适老化缺陷报告生成\\Paper_B\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\07-VLM适老化缺陷报告生成\\Paper_B\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\08-GNN居家空间功能区活动效率\\paper1_BuildEnv",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\08-GNN居家空间功能区活动效率\\paper1_BuildEnv\\manuscript.tex",
+    "title": "Effects of home environment design characteristics on elderly residents' physiological and psychological well-being: A virtual reality experiment",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\08-GNN居家空间功能区活动效率\\paper1_BuildEnv\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\08-GNN居家空间功能区活动效率\\paper1_BuildEnv\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\08-GNN居家空间功能区活动效率\\paper3_EAAI",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\08-GNN居家空间功能区活动效率\\paper3_EAAI\\manuscript.tex",
+    "title": "Spatial graph neural network with multi-measure learning for elderly home activity zone functional classification",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\08-GNN居家空间功能区活动效率\\paper3_EAAI\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\08-GNN居家空间功能区活动效率\\paper3_EAAI\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\08-GNN居家空间功能区活动效率\\paper4_AutoConstr",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\08-GNN居家空间功能区活动效率\\paper4_AutoConstr\\manuscript.tex",
+    "title": "Linear Scheduling Method-Based Multi-Objective Optimization for Age-Friendly Home Renovation Module Manufacturing",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\08-GNN居家空间功能区活动效率\\paper4_AutoConstr\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\1-适老化居家环境\\08-GNN居家空间功能区活动效率\\paper4_AutoConstr\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\09-数字孪生社区可达性评估",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\09-数字孪生社区可达性评估\\manuscript.tex",
+    "title": "Digital Twin-Enabled Spatial Accessibility Assessment for Aging Communities: An Integrated Framework Coupling Elderly Mobility Modeling with Dynamic Knowledge Graphs",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\09-数字孪生社区可达性评估\\投稿资料\\title_page\\title_page.tex",
+      "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\09-数字孪生社区可达性评估\\paper1_chen2024\\投稿资料\\title_page\\title_page.tex",
+      "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\09-数字孪生社区可达性评估\\paper3_huang2024\\投稿资料\\title_page\\title_page.tex",
+      "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\09-数字孪生社区可达性评估\\paper5_predhumeau2024\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\09-数字孪生社区可达性评估\\投稿资料\\cover_letter\\cover_letter.tex",
+      "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\09-数字孪生社区可达性评估\\paper1_chen2024\\投稿资料\\cover_letter\\cover_letter.tex",
+      "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\09-数字孪生社区可达性评估\\paper3_huang2024\\投稿资料\\cover_letter\\cover_letter.tex",
+      "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\09-数字孪生社区可达性评估\\paper5_predhumeau2024\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\09-数字孪生社区可达性评估\\paper1_chen2024",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\09-数字孪生社区可达性评估\\paper1_chen2024\\manuscript.tex",
+    "title": "Digital twin-driven spatial accessibility assessment for aging communities: An agent-based approach integrating knowledge graphs and multi-source urban data",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\09-数字孪生社区可达性评估\\paper1_chen2024\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\09-数字孪生社区可达性评估\\paper1_chen2024\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\09-数字孪生社区可达性评估\\paper3_huang2024",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\09-数字孪生社区可达性评估\\paper3_huang2024\\manuscript.tex",
+    "title": "Multi-Layer Data Fusion and Digital Twin Modeling for Age-Friendly Spatial Accessibility in Urban Communities: Evidence from Chengdu, China",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\09-数字孪生社区可达性评估\\paper3_huang2024\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\09-数字孪生社区可达性评估\\paper3_huang2024\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\09-数字孪生社区可达性评估\\paper5_predhumeau2024",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\09-数字孪生社区可达性评估\\paper5_predhumeau2024\\manuscript.tex",
+    "title": "Agent-based digital twin simulation for evaluating elderly spatial accessibility in aging communities: A case study of Hangzhou, China",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\09-数字孪生社区可达性评估\\paper5_predhumeau2024\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\09-数字孪生社区可达性评估\\paper5_predhumeau2024\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\11-多源遥感养老设施公平性\\paper1_marlim2024",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\11-多源遥感养老设施公平性\\paper1_marlim2024\\manuscript.tex",
+    "title": "Sequential multi-strategy optimization for enhancing spatial equity of elderly care facilities: A multi-source remote sensing approach in Chengdu, China",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [
+      "Quan Wen"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\11-多源遥感养老设施公平性\\paper1_marlim2024\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\11-多源遥感养老设施公平性\\paper1_marlim2024\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\11-多源遥感养老设施公平性\\paper2_xiong2024",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\11-多源遥感养老设施公平性\\paper2_xiong2024\\manuscript.tex",
+    "title": "Assessing spatial equity of elderly care facilities across multi-scale activity zones using multi-source remote sensing data: Evidence from Guangzhou, China",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [],
+    "cover_authors": [],
+    "title_files": [],
+    "cover_files": [],
+    "missing_title": [
+      "Quan Wen"
+    ],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "未找到/未提取 title page 作者；cover letter 未列出可核验作者"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\11-多源遥感养老设施公平性\\paper3_li2024",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\11-多源遥感养老设施公平性\\paper3_li2024\\manuscript.tex",
+    "title": "Predicting elderly care facility service equity using spatial-temporal graph networks and multi-source remote sensing data",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\11-多源遥感养老设施公平性\\paper3_li2024\\cover_letter.tex"
+    ],
+    "missing_title": [
+      "Quan Wen"
+    ],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "未找到/未提取 title page 作者"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\11-多源遥感养老设施公平性\\paper4_tostado2024",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\11-多源遥感养老设施公平性\\paper4_tostado2024\\manuscript.tex",
+    "title": "Robust Resource Allocation for Cooperative Elderly Care Networks Under Demographic Uncertainty: A Multi-Aggregator Optimization Framework with Remote Sensing Support",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [],
+    "cover_files": [
+      "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\11-多源遥感养老设施公平性\\paper4_tostado2024\\cover_letter.tex"
+    ],
+    "missing_title": [
+      "Quan Wen"
+    ],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "未找到/未提取 title page 作者"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\16-贝叶斯适老化空间不确定性\\paper1_ding2025",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\16-贝叶斯适老化空间不确定性\\paper1_ding2025\\manuscript.tex",
+    "title": "Uncertainty quantification in Bayesian domain-informed deep learning for age-friendly built environment assessment",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [],
+    "cover_authors": [],
+    "title_files": [],
+    "cover_files": [],
+    "missing_title": [
+      "Quan Wen"
+    ],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "未找到/未提取 title page 作者；cover letter 未列出可核验作者"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\16-贝叶斯适老化空间不确定性\\paper2_zheng2024",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\16-贝叶斯适老化空间不确定性\\paper2_zheng2024\\manuscript.tex",
+    "title": "Bayesian deep learning for uncertainty-aware assessment of age-friendly community environments using street view imagery",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [],
+    "cover_authors": [],
+    "title_files": [],
+    "cover_files": [],
+    "missing_title": [
+      "Quan Wen"
+    ],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "未找到/未提取 title page 作者；cover letter 未列出可核验作者"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\16-贝叶斯适老化空间不确定性\\paper3_mengistu2026",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\16-贝叶斯适老化空间不确定性\\paper3_mengistu2026\\manuscript.tex",
+    "title": "Bayesian deep learning for probabilistic age-friendly spatial vulnerability assessment with uncertainty quantification",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [],
+    "cover_authors": [],
+    "title_files": [],
+    "cover_files": [],
+    "missing_title": [
+      "Quan Wen"
+    ],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "未找到/未提取 title page 作者；cover letter 未列出可核验作者"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\16-贝叶斯适老化空间不确定性\\paper4_bashardoost2025",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\16-贝叶斯适老化空间不确定性\\paper4_bashardoost2025\\manuscript.tex",
+    "title": "Bayesian deep learning for uncertainty quantification in spatial assessment of age-friendly environments: A case study of Wuhan, China",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [],
+    "cover_authors": [],
+    "title_files": [],
+    "cover_files": [],
+    "missing_title": [
+      "Quan Wen"
+    ],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "未找到/未提取 title page 作者；cover letter 未列出可核验作者"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\16-贝叶斯适老化空间不确定性\\paper5_peng2025",
+    "main": "C:\\Users\\Administrator\\Desktop\\40大道\\2-社区城市适老环境\\16-贝叶斯适老化空间不确定性\\paper5_peng2025\\manuscript.tex",
+    "title": "Bayesian deep learning for age-friendly built environment risk assessment: a systematic comparison of uncertainty quantification methods in Chengdu, China",
+    "main_authors": [
+      "Quan Wen"
+    ],
+    "title_authors": [],
+    "cover_authors": [],
+    "title_files": [],
+    "cover_files": [],
+    "missing_title": [
+      "Quan Wen"
+    ],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "未找到/未提取 title page 作者；cover letter 未列出可核验作者"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\kingtou-batch\\paper-27-AI-BIM-Tools-Acceptance-Aging-Friendly-Professionals-TAM",
+    "main": "C:\\Users\\Administrator\\kingtou-batch\\paper-27-AI-BIM-Tools-Acceptance-Aging-Friendly-Professionals-TAM\\manuscript.tex",
+    "title": "paper-27-AI-BIM-Tools-Acceptance-Aging-Friendly-Professionals-TAM",
+    "main_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "title_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "cover_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir",
+      "Yanting Wu"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\kingtou-batch\\paper-27-AI-BIM-Tools-Acceptance-Aging-Friendly-Professionals-TAM\\title_page.tex",
+      "C:\\Users\\Administrator\\kingtou-batch\\paper-27-AI-BIM-Tools-Acceptance-Aging-Friendly-Professionals-TAM\\投稿资料\\title_page\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\kingtou-batch\\paper-27-AI-BIM-Tools-Acceptance-Aging-Friendly-Professionals-TAM\\cover_letter.tex",
+      "C:\\Users\\Administrator\\kingtou-batch\\paper-27-AI-BIM-Tools-Acceptance-Aging-Friendly-Professionals-TAM\\投稿资料\\cover_letter\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [],
+    "extra_cover": [],
+    "result": "一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\kingtou-batch\\paper-32-Dual-Mode-Radiative-Cooling-Solar-Heating-Year-Round-Energy-Grain-Warehouses",
+    "main": "C:\\Users\\Administrator\\kingtou-batch\\paper-32-Dual-Mode-Radiative-Cooling-Solar-Heating-Year-Round-Energy-Grain-Warehouses\\manuscript.tex",
+    "title": "Dual-Mode Radiative Cooling and Solar Heating for Year-Round Energy Optimization in Multi-Story Grain Warehouses",
+    "main_authors": [
+      "Ruili Liu",
+      "Quan Wen",
+      "Mazran Ismail"
+    ],
+    "title_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Ruili Liu"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\kingtou-batch\\paper-32-Dual-Mode-Radiative-Cooling-Solar-Heating-Year-Round-Energy-Grain-Warehouses\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\kingtou-batch\\paper-32-Dual-Mode-Radiative-Cooling-Solar-Heating-Year-Round-Energy-Grain-Warehouses\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [
+      "Ruili Liu",
+      "Mazran Ismail"
+    ],
+    "extra_cover": [],
+    "result": "cover letter 与主稿不一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\kingtou-batch\\paper-33-Adaptive-Multi-Zone-Temperature-Control-Phase-Change-Materials-Grain-Warehouses",
+    "main": "C:\\Users\\Administrator\\kingtou-batch\\paper-33-Adaptive-Multi-Zone-Temperature-Control-Phase-Change-Materials-Grain-Warehouses\\manuscript.tex",
+    "title": "Adaptive Multi-Zone Temperature Control for Multi-Story Grain Warehouses Enabled by Phase-Change Materials: A Combined Experimental and Numerical Study",
+    "main_authors": [
+      "Ruili Liu",
+      "Quan Wen",
+      "Mazran Ismail"
+    ],
+    "title_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Ruili Liu"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\kingtou-batch\\paper-33-Adaptive-Multi-Zone-Temperature-Control-Phase-Change-Materials-Grain-Warehouses\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\kingtou-batch\\paper-33-Adaptive-Multi-Zone-Temperature-Control-Phase-Change-Materials-Grain-Warehouses\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [
+      "Ruili Liu",
+      "Mazran Ismail"
+    ],
+    "extra_cover": [],
+    "result": "cover letter 与主稿不一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\kingtou-batch\\paper-34-Gradient-Nanostructured-Aerogel-Composite-Insulation-Grain-Warehouse-Envelopes",
+    "main": "C:\\Users\\Administrator\\kingtou-batch\\paper-34-Gradient-Nanostructured-Aerogel-Composite-Insulation-Grain-Warehouse-Envelopes\\manuscript.tex",
+    "title": "Gradient Nanostructured Aerogel Composite Insulation for Multi-Story Grain Warehouse Envelopes",
+    "main_authors": [
+      "Ruili Liu",
+      "Quan Wen",
+      "Mazran Ismail"
+    ],
+    "title_authors": [
+      "Quan Wen",
+      "Mazran Ismail"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\kingtou-batch\\paper-34-Gradient-Nanostructured-Aerogel-Composite-Insulation-Grain-Warehouse-Envelopes\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\kingtou-batch\\paper-34-Gradient-Nanostructured-Aerogel-Composite-Insulation-Grain-Warehouse-Envelopes\\cover_letter.tex"
+    ],
+    "missing_title": [
+      "Ruili Liu"
+    ],
+    "extra_title": [],
+    "missing_cover": [
+      "Ruili Liu",
+      "Mazran Ismail"
+    ],
+    "extra_cover": [],
+    "result": "title page 与主稿不一致；cover letter 与主稿不一致"
+  },
+  {
+    "dir": "C:\\Users\\Administrator\\kingtou-batch\\paper-35-Real-World-Energy-Efficiency-Refrigeration-Systems-Grain-Storage-Henan",
+    "main": "C:\\Users\\Administrator\\kingtou-batch\\paper-35-Real-World-Energy-Efficiency-Refrigeration-Systems-Grain-Storage-Henan\\manuscript.tex",
+    "title": "Real-World Energy Efficiency Assessment of Refrigeration Systems in Grain Storage Warehouses: Evidence from 65 Facilities in Henan Province, China",
+    "main_authors": [
+      "Quan Wen",
+      "Ruili Liu",
+      "Mazran Ismail"
+    ],
+    "title_authors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Ruili Liu"
+    ],
+    "cover_authors": [
+      "Quan Wen"
+    ],
+    "title_files": [
+      "C:\\Users\\Administrator\\kingtou-batch\\paper-35-Real-World-Energy-Efficiency-Refrigeration-Systems-Grain-Storage-Henan\\title_page.tex"
+    ],
+    "cover_files": [
+      "C:\\Users\\Administrator\\kingtou-batch\\paper-35-Real-World-Energy-Efficiency-Refrigeration-Systems-Grain-Storage-Henan\\cover_letter.tex"
+    ],
+    "missing_title": [],
+    "extra_title": [],
+    "missing_cover": [
+      "Ruili Liu",
+      "Mazran Ismail"
+    ],
+    "extra_cover": [],
+    "result": "cover letter 与主稿不一致"
+  }
+]
