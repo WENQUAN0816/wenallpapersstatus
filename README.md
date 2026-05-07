@@ -54,10 +54,10 @@ table th, table td { vertical-align: top; }
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>2</td></tr>
-<tr bgcolor="#fff1db" style="background-color:#fff1db;"><td>&#128992; 准备中</td><td>9</td></tr>
+<tr bgcolor="#fff1db" style="background-color:#fff1db;"><td>&#128992; 准备中</td><td>3</td></tr>
 <tr bgcolor="#ffe5e5" style="background-color:#ffe5e5;"><td>&#128308; 需处理</td><td>11</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 待初审</td><td>32</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 待初审</td><td>38</td></tr>
 <tr bgcolor="#e8f1ff" style="background-color:#e8f1ff;"><td>&#128309; 初审中</td><td>6</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>7</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>68</strong></td></tr>
@@ -144,32 +144,32 @@ table th, table td { vertical-align: top; }
 <!-- 后台情况说明：已拒稿 -->
 </tr>
 
-<tr bgcolor="#fff1db" style="background-color:#fff1db;">
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top; white-space: nowrap;">&#128992; 投稿准备中</td>
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">面向居家适老环境评估的室内点云语义分割可迁移深度学习网络</td>
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">Journal of Supercomputing（投稿准备中）</td>
-<!-- 后台情况说明：Submission started (not yet completed). Source package prepared and synced to GitHub commit 00cba5fffa77081394e455a251b2360e9554dbdc on 2026-05-07; portal upload/final Submit not completed. 已开始投稿准备（尚未最终提交）；源码包已于 2026-05-07 同步到 GitHub 提交 00cba5fffa77081394e455a251b2360e9554dbdc，尚未门户上传/最终提交。 -->
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993; 待初审</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">面向居家适老环境评估的室内点云语义分割可迁移深度学习网络</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Supercomputing（已投稿）</td>
+<!-- 后台情况说明：2026-05-07 按已投稿状态更新；源码包已同步到 GitHub 提交 00cba5fffa77081394e455a251b2360e9554dbdc。 -->
 </tr>
 
-<tr bgcolor="#fff1db" style="background-color:#fff1db;">
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top; white-space: nowrap;">&#128992; 投稿准备中</td>
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">面向居家适老环境评估的扩散模型点云合成</td>
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">Journal of Supercomputing（投稿准备中）</td>
-<!-- 后台情况说明：Submission started (not yet completed). Source package prepared locally on 2026-05-07; portal upload is paused until the exact prepared package is synced to the corresponding GitHub repository. 已开始投稿准备（尚未最终提交）；2026-05-07 已生成本地源包，待同步到对应 GitHub 仓库后再上传。 -->
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993; 待初审</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">面向居家适老环境评估的扩散模型点云合成</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Supercomputing（已投稿）</td>
+<!-- 后台情况说明：2026-05-07 按已投稿状态更新。 -->
 </tr>
 
-<tr bgcolor="#fff1db" style="background-color:#fff1db;">
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top; white-space: nowrap;">&#128992; 投稿准备中</td>
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">老龄化夹缝：面向中国老旧居住社区低收入独居老人的智能安全韧性评估框架</td>
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">Environment Development and Sustainability（投稿准备中）</td>
-<!-- 后台情况说明：Submission started (not yet completed). Source package prepared locally on 2026-05-07; portal upload is paused until the exact prepared package is synced to the corresponding GitHub repository. 已开始投稿准备（尚未最终提交）；2026-05-07 已生成本地源包，待同步到对应 GitHub 仓库后再上传。 -->
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993; 待初审</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">老龄化夹缝：面向中国老旧居住社区低收入独居老人的智能安全韧性评估框架</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Environment, Development and Sustainability（已投稿）</td>
+<!-- 后台情况说明：2026-05-07 按已投稿状态更新。 -->
 </tr>
 
-<tr bgcolor="#fff1db" style="background-color:#fff1db;">
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top; white-space: nowrap;">&#128992; 投稿准备中</td>
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">FRSGraph：面向老年居家环境的语义图 Transformer 跌倒风险空间预测</td>
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">Journal of Supercomputing（投稿准备中）</td>
-<!-- 后台情况说明：Submission started (not yet completed). Source package prepared locally on 2026-05-07; portal upload is paused until the exact prepared package is synced to the corresponding GitHub repository. 已开始投稿准备（尚未最终提交）；2026-05-07 已生成本地源包，待同步到对应 GitHub 仓库后再上传。 -->
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993; 待初审</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">FRSGraph：面向老年居家环境的语义图 Transformer 跌倒风险空间预测</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Supercomputing（已投稿）</td>
+<!-- 后台情况说明：2026-05-07 按已投稿状态更新。 -->
 </tr>
 
 <tr bgcolor="#fff1db" style="background-color:#fff1db;">
@@ -179,11 +179,11 @@ table th, table td { vertical-align: top; }
 <!-- 后台情况说明：Submission started (not yet completed). Source package prepared locally on 2026-05-07; portal upload is paused until the exact prepared package is synced to the corresponding GitHub repository. 已开始投稿准备（尚未最终提交）；2026-05-07 已生成本地源包，待同步到对应 GitHub 仓库后再上传。 -->
 </tr>
 
-<tr bgcolor="#fff1db" style="background-color:#fff1db;">
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top; white-space: nowrap;">&#128992; 投稿准备中</td>
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">使用基于深度学习的情绪分析评估并优化老年照护政策实施：一项多源研究</td>
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">Social Science &amp; Medicine（投稿准备中）</td>
-<!-- 后台情况说明：Submission started (not yet completed). Source package prepared locally on 2026-05-07; portal upload is paused until the exact prepared package is synced to the corresponding GitHub repository. 已开始投稿准备（尚未最终提交）；2026-05-07 已生成本地源包，待同步到对应 GitHub 仓库后再上传。 -->
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993; 待初审</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">使用基于深度学习的情绪分析评估并优化老年照护政策实施：一项多源研究</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Social Science &amp; Medicine（已投稿；SSM-S-26-05321）</td>
+<!-- 后台情况说明：2026-05-07 按已投稿状态更新；Editorial Manager 稿件号 SSM-S-26-05321，LaTeX Source Files 已上传并生成审批 PDF。 -->
 </tr>
 
 <tr bgcolor="#ffe5e5" style="background-color:#ffe5e5;">
@@ -200,11 +200,11 @@ table th, table td { vertical-align: top; }
 <!-- 后台情况说明：退回草稿 -->
 </tr>
 
-<tr bgcolor="#fff1db" style="background-color:#fff1db;">
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top; white-space: nowrap;">&#128992; 投稿准备中</td>
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">城市老年住宅空间热舒适的多模态感知与物理信息神经网络评估</td>
-<td bgcolor="#fff1db" style="background-color:#fff1db; vertical-align: top;">Journal of Thermal Analysis and Calorimetry（投稿准备中）</td>
-<!-- 后台情况说明：Submission started (not yet completed). JTAC package prepared and synced to GitHub commit b98df6405d90c89d921a4014cec036b47f7778bc on 2026-05-07; portal upload/final Submit not completed. 已开始投稿准备（尚未最终提交）；JTAC 源包已于 2026-05-07 同步到 GitHub 提交 b98df6405d90c89d921a4014cec036b47f7778bc，尚未门户上传/最终提交。 -->
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993; 待初审</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">城市老年住宅空间热舒适的多模态感知与物理信息神经网络评估</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Thermal Analysis and Calorimetry（已投稿）</td>
+<!-- 后台情况说明：2026-05-07 按已投稿状态更新；JTAC 源包已同步到 GitHub 提交 b98df6405d90c89d921a4014cec036b47f7778bc。 -->
 </tr>
 
 <tr bgcolor="#ffe5e5" style="background-color:#ffe5e5;">
