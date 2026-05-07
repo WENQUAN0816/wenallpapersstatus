@@ -70,3 +70,19 @@
 - `C:\Users\Administrator\Desktop\40大道\1-适老化居家环境\02-点云跌倒风险空间预测\paper2_SuperPatch\投稿资料\title_page\title_page.tex`
 - `C:\Users\Administrator\Desktop\40大道\1-适老化居家环境\03-居家无障碍通行性检测\Paper3\投稿资料\title_page.tex`
 - `C:\Users\Administrator\Desktop\40大道\1-适老化居家环境\03-居家无障碍通行性检测\Paper4\投稿资料\title_page.tex`
+
+## 已写入完整作者名单块的 cover letter
+
+- `C:\Users\Administrator\Desktop\2026年论文集中营\新年礼包\双通道注意力智慧养老情感监测与干预\cover_letter.tex`
+- `C:\Users\Administrator\Desktop\2026年论文集中营\新年礼包\多源数据cGAN随机森林社区韧性评估-河南\cover_letter.tex`
+- `C:\Users\Administrator\Desktop\2026年论文集中营\新年礼包\小样本注意力神经过程健康老龄化评估\cover_letter.tex`
+- `C:\Users\Administrator\Desktop\2026年论文集中营\新年礼包\贝叶斯元学习时序社区适老评估模型\cover_letter.tex`
+- `C:\Users\Administrator\Desktop\40大道\1-适老化居家环境\01-3D场景图居家适老化评估\Paper4\投稿资料\cover_letter\cover_letter.tex`
+- `C:\Users\Administrator\Desktop\40大道\1-适老化居家环境\02-点云跌倒风险空间预测\paper1_SGFormer\投稿资料\cover_letter\cover_letter.tex`
+- `C:\Users\Administrator\Desktop\40大道\1-适老化居家环境\02-点云跌倒风险空间预测\paper2_SuperPatch\投稿资料\cover_letter\cover_letter.tex`
+- `C:\Users\Administrator\Desktop\40大道\1-适老化居家环境\02-点云跌倒风险空间预测\paper3_FallRisk\投稿资料\cover_letter.tex`
+- `C:\Users\Administrator\Desktop\40大道\1-适老化居家环境\02-点云跌倒风险空间预测\paper4_GridMamba\投稿资料\cover_letter\cover_letter.tex`
+- `C:\Users\Administrator\kingtou-batch\paper-32-Dual-Mode-Radiative-Cooling-Solar-Heating-Year-Round-Energy-Grain-Warehouses\cover_letter.tex`
+- `C:\Users\Administrator\kingtou-batch\paper-33-Adaptive-Multi-Zone-Temperature-Control-Phase-Change-Materials-Grain-Warehouses\cover_letter.tex`
+- `C:\Users\Administrator\kingtou-batch\paper-34-Gradient-Nanostructured-Aerogel-Composite-Insulation-Grain-Warehouse-Envelopes\cover_letter.tex`
+- `C:\Users\Administrator\kingtou-batch\paper-35-Real-World-Energy-Efficiency-Refrigeration-Systems-Grain-Storage-Henan\cover_letter.tex`
