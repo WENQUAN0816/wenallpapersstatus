@@ -367,7 +367,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-07",
-    "situation": "Biomedical Signal Processing and Control 转投包已本地完成并编译，生成 BSPC_upload_package_20260507.zip；但 BSPC EM Article Type 下拉只有 None，跳转到 Elsevier New Service 后页面明确提示 transferred manuscripts 不能用该服务提交，需期刊/系统开放 EM 转投入口或 article type 后才能上传。",
+    "situation": "Biomedical Signal Processing and Control / Elsevier New Service 草稿已推进到 Review and submit；已选择 Research Paper，上传 manuscript.pdf、cover_letter.pdf、highlights.pdf、declaration_of_interest.docx，完成标题、摘要、关键词、4 位作者、5 个分类、数据可用性和 SSRN 问题，review 页显示 Required sections complete，3 个最终声明复选框已勾选。已停止在最终 Complete your submission 按钮前，尚未最终提交。",
     "impactSort": 4.9
   },
   {
@@ -390,7 +390,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-07",
-    "situation": "Journal of Building Engineering 转投文件和 JBE 上传包已本地完成；9331 端口进入 JBE Editorial Manager 并完成分类弹窗，选择 Building Energy Analysis、Building Envelope、Energy efficiency (building envelope and system)、Renewable energy applications (solar, daylight, wind)、Solar Thermal Energy。当前回到 Main Menu，未确认生成正式草稿号或最终提交，需从 Author Main Menu 继续/核对 incomplete submission。",
+    "situation": "Journal of Building Engineering 转投文件和 JBE 上传包已本地完成；9331 端口进入 JBE Editorial Manager 并完成分类弹窗，选择 Building Energy Analysis、Building Envelope、Energy efficiency (building envelope and system)、Renewable energy applications (solar, daylight, wind)、Solar Thermal Energy。JBE EM 是 Default.aspx 外层 + content iframe 架构，Submit a Manuscript 需在 iframe 内导航；当前 SubSelectArticle.aspx 的 Article Type 只有 None，Proceed disabled，只能走 Elsevier New Service 入口或继续已有 incomplete submission。尚未最终提交。",
     "impactSort": 6.7
   },
   {
