@@ -132,8 +132,8 @@
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Automation in Construction</td>
-<!-- 后台情况说明：已拒稿 -->
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Multimedia Tools and Applications</td>
+<!-- 后台情况说明：Submission started (not yet completed). 2026-05-07 已按 Springer/Editorial Manager / Multimedia Tools and Applications 准备 LaTeX 源文件包，尚未最终提交。 -->
 </tr>
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
@@ -161,7 +161,7 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">AccessStairNet：面向老年居家环境无障碍评估的台阶与门槛深度学习检测</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">IEEE Transactions on Instrumentation and Measurement → IEEE Access</td>
-<!-- 后台情况说明：Submission started (not yet completed) / 已开始投稿（尚未最终提交）；2026-05-07 IEEE Access via IEEE Research Exchange，等待非最终门户填报与用户手动最终提交 -->
+<!-- 后台情况说明：已拒稿 -->
 </tr>
 
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
