@@ -351,29 +351,6 @@
     "statusDot": "🟡",
     "status": "内审中",
     "statusOrder": 2,
-    "title": "基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析",
-    "journalTrack": "Computers in Biology and Medicine → Biomedical Signal Processing and Control",
-    "bg": "#fff8d9",
-    "currentJournal": "Biomedical Signal Processing and Control",
-    "casXr": "CAS大2小3；XR大2小2",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q1",
-    "impactFactor": "4.9",
-    "indexType": "SCIE",
-    "recommendedJournals": "",
-    "authors": "Quan Wen；Yanting Wu；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "updatedAt": "2026-05-07",
-    "situation": "Biomedical Signal Processing and Control / Elsevier New Service 草稿已推进到 Review and submit；已选择 Research Paper，上传 manuscript.pdf、cover_letter.pdf、highlights.pdf、declaration_of_interest.docx，完成标题、摘要、关键词、4 位作者、5 个分类、数据可用性和 SSRN 问题，review 页显示 Required sections complete，3 个最终声明复选框已勾选。已停止在最终 Complete your submission 按钮前，尚未最终提交。",
-    "impactSort": 4.9
-  },
-  {
-    "statusDot": "🟡",
-    "status": "内审中",
-    "statusOrder": 2,
     "title": "用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统",
     "journalTrack": "Energy and Buildings → Energy → Journal of Building Engineering",
     "bg": "#fff8d9",
@@ -1414,6 +1391,29 @@
     "updatedAt": "2026-05-07",
     "situation": "",
     "impactSort": 3.8
+  },
+  {
+    "statusDot": "🟢",
+    "status": "外审中",
+    "statusOrder": 3,
+    "title": "基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析",
+    "journalTrack": "Computers in Biology and Medicine → Biomedical Signal Processing and Control",
+    "bg": "#e8f9ee",
+    "currentJournal": "Biomedical Signal Processing and Control",
+    "casXr": "CAS大2小3；XR大2小2",
+    "cas": "",
+    "xr": "",
+    "jcr": "Q1",
+    "impactFactor": "4.9",
+    "indexType": "SCIE",
+    "recommendedJournals": "",
+    "authors": "Quan Wen；Yanting Wu；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
+    "updatedAt": "2026-05-07",
+    "situation": "2026-05-07 按已投稿状态更新；Biomedical Signal Processing and Control / Elsevier New Service 显示 Your manuscript has now been submitted。",
+    "impactSort": 4.9
   },
   {
     "statusDot": "🟢",
