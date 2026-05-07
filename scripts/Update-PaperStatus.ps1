@@ -16,11 +16,15 @@ $Statuses = @(
 )
 
 $StatusByName = @{}
+$StatusByIcon = @{}
+$StatusByFill = @{}
 for ($i = 0; $i -lt $Statuses.Count; $i++) {
     $StatusByName[$Statuses[$i].Name] = [pscustomobject]@{
         Order = $i
         Meta = $Statuses[$i]
     }
+    $StatusByIcon[$Statuses[$i].Icon] = $Statuses[$i].Name
+    $StatusByFill[$Statuses[$i].Fill] = $Statuses[$i].Name
 }
 
 $LegacyStatus = @{
@@ -52,11 +56,77 @@ function Normalize-StatusRow {
     )
     $Row = [regex]::Replace(
         $Row,
-        '(<td bgcolor="#[0-9A-Fa-f]{6}" style="background-color:#[0-9A-Fa-f]{6}; vertical-align: top; white-space: nowrap;">)&#[0-9]+; [^<]+(</td>)',
-        "`${1}$($Meta.Icon) $Status`${2}",
+        '(<td bgcolor="#[0-9A-Fa-f]{6}" style="background-color:#[0-9A-Fa-f]{6}; vertical-align: top; white-space: nowrap;">)&#[0-9]+;(?:\s*[^<]+)?(</td>)',
+        "`${1}$($Meta.Icon)`${2}",
         1
     )
+    $Row = Clear-TrackCellChinese $Row
     return $Row
+}
+
+function Get-StatusFromRow {
+    param([string]$Row)
+
+    $StatusCellMatch = [regex]::Match($Row, '<td bgcolor="(?<fill>#[0-9A-Fa-f]{6})" style="background-color:#[0-9A-Fa-f]{6}; vertical-align: top; white-space: nowrap;">(?<icon>&#[0-9]+;)(?:\s*(?<status>[^<]+))?</td>')
+    if (-not $StatusCellMatch.Success) {
+        return $null
+    }
+
+    $StatusText = $StatusCellMatch.Groups["status"].Value.Trim()
+    if ($StatusText) {
+        return Get-NormalizedStatus $StatusText
+    }
+
+    $Icon = $StatusCellMatch.Groups["icon"].Value
+    if ($StatusByIcon.ContainsKey($Icon)) {
+        return $StatusByIcon[$Icon]
+    }
+
+    $Fill = $StatusCellMatch.Groups["fill"].Value.ToLowerInvariant()
+    if ($StatusByFill.ContainsKey($Fill)) {
+        return $StatusByFill[$Fill]
+    }
+
+    return $null
+}
+
+function Remove-ChineseText {
+    param([string]$Text)
+
+    if ([string]::IsNullOrWhiteSpace($Text)) {
+        return ""
+    }
+
+    $Text = [System.Net.WebUtility]::HtmlDecode($Text)
+    $Text = $Text.Replace("（", "(").Replace("）", ")").Replace("；", ";").Replace("，", ",").Replace("：", ":").Replace("。", ".")
+    $Text = [regex]::Replace($Text, '[\u3400-\u4DBF\u4E00-\u9FFF\uF900-\uFAFF]+', '')
+    $Text = [regex]::Replace($Text, '\(\s*[;,:\s.-]*\)', '')
+    $Text = [regex]::Replace($Text, '\(\s*[;,:\s]*(?<inner>[^)]*?)\s*\)', {
+        param($Match)
+        $Inner = [regex]::Replace($Match.Groups["inner"].Value, '^[;,:\s]+|[;,:\s]+$', '')
+        if ([string]::IsNullOrWhiteSpace($Inner)) {
+            return ""
+        }
+        return "($Inner)"
+    })
+    $Text = [regex]::Replace($Text, '\s+([,;:)])', '$1')
+    $Text = [regex]::Replace($Text, '([(])\s+', '$1')
+    $Text = [regex]::Replace($Text, '\s{2,}', ' ').Trim()
+    return [System.Net.WebUtility]::HtmlEncode($Text)
+}
+
+function Clear-TrackCellChinese {
+    param([string]$Row)
+
+    $CellMatches = [regex]::Matches($Row, '(?s)<td(?<attrs>[^>]*)>(?<content>.*?)</td>')
+    if ($CellMatches.Count -lt 3) {
+        return $Row
+    }
+
+    $TrackCell = $CellMatches[2]
+    $CleanTrack = Remove-ChineseText $TrackCell.Groups["content"].Value
+    $Replacement = "<td$($TrackCell.Groups["attrs"].Value)>$CleanTrack</td>"
+    return $Row.Substring(0, $TrackCell.Index) + $Replacement + $Row.Substring($TrackCell.Index + $TrackCell.Length)
 }
 
 function Write-StatusBarSvg {
@@ -152,12 +222,11 @@ if ($Rows.Count -eq 0) {
 $ParsedRows = New-Object System.Collections.Generic.List[object]
 for ($i = 0; $i -lt $Rows.Count; $i++) {
     $Row = $Rows[$i].Value
-    $StatusMatch = [regex]::Match($Row, 'white-space:\s*nowrap;">&#[0-9]+;\s*(?<status>[^<]+)</td>')
-    if (-not $StatusMatch.Success) {
+    $Status = Get-StatusFromRow $Row
+    if (-not $Status) {
         throw "第 $($i + 1) 个论文状态行没有找到状态单元格。"
     }
 
-    $Status = Get-NormalizedStatus $StatusMatch.Groups["status"].Value
     if (-not $StatusByName.ContainsKey($Status)) {
         throw "发现未知状态：$Status"
     }
