@@ -5,6 +5,7 @@ $RepoRoot = Split-Path -Parent $PSScriptRoot
 $ReadmePath = Join-Path $RepoRoot "README.md"
 $ChartHtmlPath = Join-Path $RepoRoot "status_chart.html"
 $SvgPath = Join-Path $RepoRoot "status_bar_chart.svg"
+$IndexPath = Join-Path $RepoRoot "index.html"
 $Utf8NoBom = [System.Text.UTF8Encoding]::new($false)
 $NewLine = "`n"
 
@@ -213,6 +214,259 @@ $($Legend -join $NewLine)
     [System.IO.File]::WriteAllText($SvgPath, $Svg, $Utf8NoBom)
 }
 
+function Write-IndexPage {
+    param(
+        [array]$ActiveStatuses,
+        [hashtable]$Counts,
+        [string]$Readme
+    )
+
+    $Total = 0
+    foreach ($Status in $ActiveStatuses) {
+        $Total += $Counts[$Status.Name]
+    }
+
+    $SummaryCards = ($ActiveStatuses | ForEach-Object {
+        $Count = $Counts[$_.Name]
+        $Percent = [math]::Round(($Count / $Total) * 100, 1)
+        @"
+        <article class="stat-card" style="--accent:$($_.ChartFill)">
+          <span class="dot">$($_.Icon)</span>
+          <div>
+            <strong>$Count</strong>
+            <span>$($_.Name) · $Percent%</span>
+          </div>
+        </article>
+"@
+    }) -join $NewLine
+
+    $LegendRows = ($ActiveStatuses | ForEach-Object {
+        "<tr><td>$($_.Icon)</td><td>$($_.Name)</td><td>$($Counts[$_.Name])</td></tr>"
+    }) -join $NewLine
+
+    $PaperTableMatch = [regex]::Match($Readme, '(?s)<table class="paper-status-table".*?</table>')
+    if (-not $PaperTableMatch.Success) {
+        throw "README.md 中没有找到论文状态总表。"
+    }
+    $PaperTable = [regex]::Replace($PaperTableMatch.Value, '(?s)\s*<!--.*?-->', '')
+
+    $Html = @"
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>全部论文投稿状态</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f8fafc;
+      --panel: #ffffff;
+      --text: #111827;
+      --muted: #64748b;
+      --line: #e5e7eb;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Arial, "Microsoft YaHei", sans-serif;
+      color: var(--text);
+      background: var(--bg);
+    }
+
+    main {
+      max-width: 1500px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+
+    header {
+      display: flex;
+      align-items: end;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 18px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 28px;
+      letter-spacing: 0;
+    }
+
+    .updated {
+      color: var(--muted);
+      font-size: 13px;
+      white-space: nowrap;
+    }
+
+    .summary {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 10px;
+      margin-bottom: 16px;
+    }
+
+    .stat-card {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      min-height: 72px;
+      padding: 12px 14px;
+      border: 1px solid var(--line);
+      border-left: 8px solid var(--accent);
+      border-radius: 8px;
+      background: var(--panel);
+    }
+
+    .dot { font-size: 22px; line-height: 1; }
+
+    .stat-card strong {
+      display: block;
+      font-size: 24px;
+      line-height: 1.1;
+    }
+
+    .stat-card span:last-child {
+      display: block;
+      margin-top: 4px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .dashboard {
+      display: grid;
+      grid-template-columns: minmax(320px, 2fr) minmax(220px, 0.8fr);
+      gap: 14px;
+      align-items: stretch;
+      margin-bottom: 18px;
+    }
+
+    .panel {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel);
+      overflow: hidden;
+    }
+
+    .chart-panel {
+      padding: 12px;
+    }
+
+    .chart-panel img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+
+    .legend-panel {
+      padding: 14px;
+    }
+
+    .legend-panel h2,
+    .table-panel h2 {
+      margin: 0 0 12px;
+      font-size: 18px;
+    }
+
+    .legend-panel table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 14px;
+    }
+
+    .legend-panel td {
+      padding: 9px 8px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .table-panel {
+      padding: 14px;
+      overflow-x: auto;
+    }
+
+    table.paper-status-table {
+      width: 100%;
+      min-width: 1160px;
+      border-collapse: collapse;
+      table-layout: auto;
+      font-size: 14px;
+    }
+
+    table.paper-status-table th,
+    table.paper-status-table td {
+      padding: 9px 10px;
+      border: 1px solid var(--line);
+      vertical-align: top;
+    }
+
+    table.paper-status-table th:nth-child(1),
+    table.paper-status-table td:nth-child(1) {
+      width: 6%;
+      min-width: 48px;
+      text-align: center;
+      white-space: nowrap;
+    }
+
+    table.paper-status-table th:nth-child(2),
+    table.paper-status-table td:nth-child(2) {
+      width: 49%;
+      min-width: 520px;
+    }
+
+    table.paper-status-table th:nth-child(3),
+    table.paper-status-table td:nth-child(3) {
+      width: 45%;
+      min-width: 540px;
+    }
+
+    @media (max-width: 900px) {
+      main { padding: 16px; }
+      header { display: block; }
+      .updated { display: block; margin-top: 8px; }
+      .dashboard { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>全部论文投稿状态</h1>
+      <span class="updated">最后更新：2026-05-07</span>
+    </header>
+
+    <section class="summary">
+$SummaryCards
+    </section>
+
+    <section class="dashboard">
+      <div class="panel chart-panel">
+        <img src="status_bar_chart.svg" alt="论文状态统计饼图">
+      </div>
+      <aside class="panel legend-panel">
+        <h2>颜色图例</h2>
+        <table>
+          <tbody>
+$LegendRows
+          </tbody>
+        </table>
+      </aside>
+    </section>
+
+    <section class="panel table-panel">
+      <h2>全部论文状态总表</h2>
+$PaperTable
+    </section>
+  </main>
+</body>
+</html>
+"@
+
+    [System.IO.File]::WriteAllText($IndexPath, $Html, $Utf8NoBom)
+}
+
 $Readme = [System.IO.File]::ReadAllText($ReadmePath, $Utf8NoBom)
 $Readme = [regex]::Replace($Readme, '(?s)\s*<style>.*?</style>\s*', "$NewLine$NewLine", 1)
 $BodyMatch = [regex]::Match($Readme, '(?s)(<tbody>\s*)(.*?)(\s*</tbody>)')
@@ -268,6 +522,12 @@ $Readme = [regex]::Replace($Readme, '(?s)(## 颜色图例\s*)<table width="100%"
 $Readme = [regex]::Replace($Readme, '(?m)^> \*\*说明：\*\*.*\r?\n?', '', 1)
 $Readme = [regex]::Replace($Readme, '(?m)^> \*\*维护规则：\*\*.*\r?\n?', '', 1)
 $Readme = $Readme.Replace('alt="状态统计柱状图"', 'alt="状态统计饼图"')
+if ($Readme -notmatch '\[打开网页状态面板\]\(index\.html\)') {
+    $Readme = $Readme.Replace(
+        '[查看 Plotly 状态统计图](status_chart.html)',
+        "[打开网页状态面板](index.html)$NewLine$NewLine[查看 Plotly 状态统计图](status_chart.html)"
+    )
+}
 
 $StatRows = ($Statuses | ForEach-Object {
     $Count = $Counts[$_.Name]
@@ -294,3 +554,4 @@ $Chart = [regex]::Replace($Chart, '(?s)    const markerLines = \[.*?\];', "    c
 [System.IO.File]::WriteAllText($ChartHtmlPath, $Chart, $Utf8NoBom)
 
 Write-StatusPieSvg $ActiveStatuses $Counts
+Write-IndexPage $ActiveStatuses $Counts $Readme
