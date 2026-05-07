@@ -85,7 +85,7 @@
 <body>
   <main>
     <h1>论文状态统计</h1>
-    <p>按 README 当前状态表统计，共 68 篇/项；状态顺序与表格排序一致。已接收论文不再纳入统计。</p>
+    <p>按 README 当前状态表统计，共 68 篇/项；待投稿包含所有未处于投稿流程中的论文。已接收论文不再纳入统计。</p>
 
     <section class="summary" id="summary"></section>
     <section class="grid">
@@ -97,19 +97,15 @@
   <script>
     const labels = [
       "待投稿",
-      "准备中",
-      "需处理",
       "需修订",
       "待初审",
       "初审中",
       "外审中"
     ];
 
-    const values = [2, 2, 18, 1, 32, 6, 7];
+    const values = [16, 1, 38, 6, 7];
     const colors = [
       "#f2f2f2",
-      "#fff1db",
-      "#ffe5e5",
       "#ffd9ec",
       "#fff8d9",
       "#e8f1ff",
@@ -117,8 +113,6 @@
     ];
     const markerLines = [
       "#9ca3af",
-      "#f59e0b",
-      "#ef4444",
       "#ec4899",
       "#eab308",
       "#3b82f6",

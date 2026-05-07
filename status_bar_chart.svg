@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="430" viewBox="0 0 760 430" role="img" aria-labelledby="title desc">
   <title id="title">论文状态统计柱状图</title>
-  <desc id="desc">待投稿2，准备中2，需处理18，需修订1，待初审32，初审中6，外审中7。</desc>
+  <desc id="desc">待投稿16，需修订1，待初审38，初审中6，外审中7。</desc>
   <rect width="760" height="430" fill="#ffffff"/>
   <text x="30" y="34" fill="#111827" font-family="Arial, Microsoft YaHei, sans-serif" font-size="22" font-weight="700">论文状态统计</text>
   <text x="30" y="58" fill="#6b7280" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13">共 68 篇/项；已接收论文不纳入统计</text>
@@ -19,35 +19,27 @@
   </g>
 
   <g font-family="Arial, Microsoft YaHei, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
-    <rect x="91" y="306" width="54" height="12" rx="4" fill="#f2f2f2" stroke="#9ca3af"/>
-    <text x="118" y="298" fill="#111827">2</text>
+    <rect x="96" y="222" width="70" height="96" rx="4" fill="#f2f2f2" stroke="#9ca3af"/>
+    <text x="131" y="214" fill="#111827">16</text>
 
-    <rect x="180" y="306" width="54" height="12" rx="4" fill="#fff1db" stroke="#f59e0b"/>
-    <text x="207" y="298" fill="#111827">2</text>
+    <rect x="226" y="312" width="70" height="6" rx="4" fill="#ffd9ec" stroke="#ec4899"/>
+    <text x="261" y="304" fill="#111827">1</text>
 
-    <rect x="269" y="210" width="54" height="108" rx="4" fill="#ffe5e5" stroke="#ef4444"/>
-    <text x="296" y="202" fill="#111827">18</text>
+    <rect x="356" y="90" width="70" height="228" rx="4" fill="#fff8d9" stroke="#eab308"/>
+    <text x="391" y="82" fill="#111827">38</text>
 
-    <rect x="358" y="312" width="54" height="6" rx="4" fill="#ffd9ec" stroke="#ec4899"/>
-    <text x="385" y="304" fill="#111827">1</text>
+    <rect x="486" y="282" width="70" height="36" rx="4" fill="#e8f1ff" stroke="#3b82f6"/>
+    <text x="521" y="274" fill="#111827">6</text>
 
-    <rect x="447" y="126" width="54" height="192" rx="4" fill="#fff8d9" stroke="#eab308"/>
-    <text x="474" y="118" fill="#111827">32</text>
-
-    <rect x="536" y="282" width="54" height="36" rx="4" fill="#e8f1ff" stroke="#3b82f6"/>
-    <text x="563" y="274" fill="#111827">6</text>
-
-    <rect x="625" y="276" width="54" height="42" rx="4" fill="#e8f9ee" stroke="#22c55e"/>
-    <text x="652" y="268" fill="#111827">7</text>
+    <rect x="616" y="276" width="70" height="42" rx="4" fill="#e8f9ee" stroke="#22c55e"/>
+    <text x="651" y="268" fill="#111827">7</text>
   </g>
 
   <g font-family="Arial, Microsoft YaHei, sans-serif" font-size="12" fill="#374151" text-anchor="middle">
-    <text x="118" y="346">待投稿</text>
-    <text x="207" y="346">准备中</text>
-    <text x="296" y="346">需处理</text>
-    <text x="385" y="346">需修订</text>
-    <text x="474" y="346">待初审</text>
-    <text x="563" y="346">初审中</text>
-    <text x="652" y="346">外审中</text>
+    <text x="131" y="346">待投稿</text>
+    <text x="261" y="346">需修订</text>
+    <text x="391" y="346">待初审</text>
+    <text x="521" y="346">初审中</text>
+    <text x="651" y="346">外审中</text>
   </g>
 </svg>
