@@ -88,7 +88,7 @@ JCR_MANUAL = {
 AUTHOR_MAP = {
     "用于老年住宅活动分区功能分类的空间图神经网络": "Quan Wen",
     "基于线性调度法的适老改造模块制造多目标优化": "Quan Wen",
-    "AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化": "Dr. Quan Wen；Professor Mazran Ismail；Dr. Muhammad Hafeez Abdul Nasir",
+    "AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Ts. Dr. Jestin bin Nordin；Dr. Nooriati binti Taib",
     "社区老年日间照料中心多模态热舒适的时空深度学习评估与预测": "Quan Wen",
     "GridMamba-Risk：基于网格状态空间模型的整屋三维点云跌倒风险空间预测": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
     "AccessGeometry：面向老年住宅无障碍合规评估的点云自动参数化建模": "Dr. Quan Wen；Wanbao Ge；Dr. Yanting Wu",
@@ -158,7 +158,7 @@ AUTHOR_MAP = {
 CORRESPONDING_AUTHOR_MAP = {
     "用于老年住宅活动分区功能分类的空间图神经网络": ["Quan Wen"],
     "基于线性调度法的适老改造模块制造多目标优化": ["Quan Wen"],
-    "AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化": ["Quan Wen", "Mazran Ismail"],
+    "AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化": ["Quan Wen"],
     "GridMamba-Risk：基于网格状态空间模型的整屋三维点云跌倒风险空间预测": ["Quan Wen", "Mazran Ismail"],
     "社区老年日间照料中心多模态热舒适的时空深度学习评估与预测": ["Quan Wen"],
     "面向居家适老环境评估的室内点云语义分割可迁移深度学习网络": ["Quan Wen", "Mazran Ismail"],

@@ -50,7 +50,7 @@
     "status": "待投稿",
     "statusOrder": 0,
     "title": "AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化",
-    "journalTrack": "IEEE Access",
+    "journalTrack": "Multimedia Tools and Applications",
     "bg": "#f2f2f2",
     "currentJournal": "",
     "casXr": "",
@@ -60,13 +60,12 @@
     "impactFactor": "",
     "indexType": "",
     "recommendedJournals": "Multimedia Tools and Applications；The Visual Computer；Image and Vision Computing；Soft Computing",
-    "authors": "Dr. Quan Wen；Professor Mazran Ismail；Dr. Muhammad Hafeez Abdul Nasir",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Ts. Dr. Jestin bin Nordin；Dr. Nooriati binti Taib",
     "correspondingAuthors": [
-      "Quan Wen",
-      "Mazran Ismail"
+      "Quan Wen"
     ],
     "updatedAt": "2026-05-07",
-    "situation": "IEEE Access / Research Exchange 草稿仍在 additional information / 政策确认流程，尚未确认最终 Submit；用户已授权 APC、作者声明和 IEEE 政策确认按正常填写，最终投稿状态待复核。",
+    "situation": "Submission started (not yet completed). 2026-05-07 retargeted to Multimedia Tools and Applications / Springer Editorial Manager; Springer Nature LaTeX source package prepared and pushed at manuscript repo commit 0c36fd86dae4998f64b45d3d0e35f5aba8eca752. 已开始投稿（尚未最终提交）；已准备并同步 MTA/Springer Editorial Manager LaTeX 源文件包，等待门户非最终上传/审核。",
     "impactSort": -1
   },
   {
@@ -344,7 +343,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-07",
-    "situation": "Energy Reports / Editorial Manager 转投草稿已建立，EM 内部 docid 56802；已上传 manuscript tex、LaTeX source zip、cover letter、highlights、declaration、title page 和 figures，已完成 Attach Files、General Information、Additional Information、Comments、Manuscript Data，并在 Gold OA Publishing Options/APC 页面停止。尚无正式稿号，需人工确认 Publishing Options/APC 后继续 Build/Approve PDF，最终 Submit 仍需用户手动。",
+    "situation": "Energy Reports / Editorial Manager 转投草稿已建立，EM 内部 docid 56802；已上传 manuscript tex、LaTeX source zip、cover letter、highlights、declaration、title page 和 figures，已完成 Attach Files、General Information、Additional Information、Comments、Manuscript Data，并在 Gold OA Publishing Options/APC 页面停止。2026-05-07 已修复 manuscript.tex 中所有表格超出页面宽度问题，重新编译 manuscript.pdf 成功并推送论文仓库 commit 705fd97；尚无正式稿号，需人工确认 Publishing Options/APC 后继续 Build/Approve PDF，最终 Submit 仍需用户手动。",
     "impactSort": 4.7
   },
   {
@@ -367,7 +366,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-07",
-    "situation": "Journal of Building Engineering 转投文件和 JBE 上传包已本地完成；9331 端口进入 JBE Editorial Manager 并完成分类弹窗，选择 Building Energy Analysis、Building Envelope、Energy efficiency (building envelope and system)、Renewable energy applications (solar, daylight, wind)、Solar Thermal Energy。JBE EM 是 Default.aspx 外层 + content iframe 架构，Submit a Manuscript 需在 iframe 内导航；当前 SubSelectArticle.aspx 的 Article Type 只有 None，Proceed disabled，只能走 Elsevier New Service 入口或继续已有 incomplete submission。尚未最终提交。",
+    "situation": "Journal of Building Engineering / Editorial Manager 已继续到 Submissions Waiting for Approval by Author；作者缺失信息已补齐，Quan Wen、Ruili Liu、Mazran Ismail 三位作者已完成机构、国家、ORCID/roles 等信息；系统当前停在 Building PDF，尚未出现 View/Edit/Approve 操作链接，未点击最终 Submit / Approve Submission / Complete Submission。待 PDF 生成后需核对题名和作者顺序：当前列表仍显示旧题名 Dual-Mode Radiative Cooling and Solar Heating Roof Panel System for Year-Round Energy Management in Grain Warehouses，作者顺序显示 Quan Wen, Ruili Liu, Mazran Ismail，需改为稿件顺序后再审批。",
     "impactSort": 6.7
   },
   {
