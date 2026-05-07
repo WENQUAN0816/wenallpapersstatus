@@ -1,0 +1,532 @@
+import csv
+import datetime as dt
+import html
+import json
+import os
+import re
+from pathlib import Path
+
+
+ROOT = Path(__file__).resolve().parents[1]
+HOME = Path.home()
+
+
+STATUS_META = {
+    "⚪": {"label": "待投稿", "order": 0, "color": "#64748b", "bg": "#f2f2f2"},
+    "💖": {"label": "需修订", "order": 1, "color": "#f43f5e", "bg": "#ffd9ec"},
+    "🟡": {"label": "内审中", "order": 2, "color": "#f59e0b", "bg": "#fff8d9"},
+    "🟢": {"label": "外审中", "order": 3, "color": "#22c55e", "bg": "#e8f9ee"},
+}
+
+
+ALIASES = {
+    "APPLIED SCIENCES": "APPLIED SCIENCES-BASEL",
+    "JOURNAL OF SUPERCOMPUTING": "JOURNAL OF SUPERCOMPUTING",
+    "THE JOURNAL OF SUPERCOMPUTING": "JOURNAL OF SUPERCOMPUTING",
+    "IEEE TRANS. AUTOMATION SCIENCE AND ENGINEERING": "IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING",
+    "IEEE TNSRE": "IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING",
+    "JOURNAL OF MATERIALS RESEARCH AND TECHNOLOGY": "Journal of Materials Research and Technology-JMR&T",
+    "JOURNAL OF MATERIALS RESEARCH AND TECHNOLOGY-JMR&T": "Journal of Materials Research and Technology-JMR&T",
+    "JOURNAL OF MATERIALS RESEARCH AND TECHNOLOGY-JMR&amp;T": "Journal of Materials Research and Technology-JMR&T",
+    "FRONTIERS OF ARCHITECTURAL RESEARCH (FOAR)": "FRONTIERS OF ARCHITECTURAL RESEARCH",
+    "SOCIAL SCIENCE & MEDICINE(SSM-S-26-05321)": "SOCIAL SCIENCE & MEDICINE",
+    "SOCIAL SCIENCE AND MEDICINE": "SOCIAL SCIENCE & MEDICINE",
+    "BMC MEDICAL RESEARCH METHODOLOGY": "BMC MEDICAL RESEARCH METHODOLOGY",
+    "JOURNAL OF THERMAL ANALYSIS AND CALORIMETRY": "JOURNAL OF THERMAL ANALYSIS AND CALORIMETRY",
+    "HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS": "HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS",
+    "IEEE TRANS AUTOMATION SCIENCE AND ENGINEERING": "IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING",
+}
+
+
+JCR_MANUAL = {
+    "APPLIED SCIENCES": ("2.5", "Q2"),
+    "APPLIED SCIENCES-BASEL": ("2.5", "Q2"),
+    "ARCHIVES OF PUBLIC HEALTH": ("3.0", "Q2"),
+    "AUTOMATION IN CONSTRUCTION": ("9.6", "Q1"),
+    "BMC GERIATRICS": ("3.8", "Q1"),
+    "BMC MEDICAL RESEARCH METHODOLOGY": ("3.7", "Q1"),
+    "BMC PUBLIC HEALTH": ("3.5", "Q1"),
+    "BIOMEDICAL SIGNAL PROCESSING AND CONTROL": ("4.9", "Q1"),
+    "BUILDINGS": ("3.1", "Q2"),
+    "COMPUTERS IN BIOLOGY AND MEDICINE": ("7.0", "Q1"),
+    "CONSTRUCTION AND BUILDING MATERIALS": ("7.4", "Q1"),
+    "EGYPTIAN INFORMATICS JOURNAL": ("5.0", "Q1"),
+    "ELECTRONICS": ("2.6", "Q2"),
+    "ENERGY": ("9.0", "Q1"),
+    "ENERGY REPORTS": ("4.7", "Q2"),
+    "ENVIRONMENT DEVELOPMENT AND SUSTAINABILITY": ("4.2", "Q2"),
+    "ENVIRONMENT, DEVELOPMENT AND SUSTAINABILITY": ("4.2", "Q2"),
+    "FRONTIERS IN PUBLIC HEALTH": ("3.4", "Q1"),
+    "FRONTIERS IN PSYCHOLOGY": ("2.9", "Q1"),
+    "HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS": ("3.6", "Q1"),
+    "IEEE ACCESS": ("3.6", "Q2"),
+    "IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT": ("5.6", "Q1"),
+    "IMAGE AND VISION COMPUTING": ("4.7", "Q2"),
+    "INTERNATIONAL JOURNAL FOR EQUITY IN HEALTH": ("4.0", "Q1"),
+    "JOURNAL OF BIG DATA": ("8.1", "Q1"),
+    "JOURNAL OF BUILDING ENGINEERING": ("6.7", "Q1"),
+    "JOURNAL OF CLEANER PRODUCTION": ("9.7", "Q1"),
+    "JOURNAL OF HEALTH, POPULATION AND NUTRITION": ("3.6", "Q2"),
+    "JOURNAL OF MATERIALS RESEARCH AND TECHNOLOGY": ("6.2", "Q1"),
+    "JOURNAL OF MATERIALS RESEARCH AND TECHNOLOGY-JMR&T": ("6.2", "Q1"),
+    "JOURNAL OF THERMAL ANALYSIS AND CALORIMETRY": ("4.4", "Q1"),
+    "JOURNAL OF SUPERCOMPUTING": ("2.7", "Q2"),
+    "NEURAL NETWORKS": ("6.0", "Q1"),
+    "PHYSICS OF FLUIDS": ("4.1", "Q1"),
+    "PLOS ONE": ("2.9", "Q1"),
+    "SCIENTIFIC REPORTS": ("3.9", "Q1"),
+    "SENSORS": ("3.4", "Q2"),
+    "SOCIAL SCIENCE & MEDICINE": ("5.0", "Q1"),
+    "SUSTAINABLE CITIES AND SOCIETY": ("10.5", "Q1"),
+    "SOFTWARE TESTING, VERIFICATION AND RELIABILITY": ("2.4", "Q2"),
+    "SOFTWARE: PRACTICE AND EXPERIENCE": ("3.5", "Q2"),
+    "UNIVERSAL ACCESS IN THE INFORMATION SOCIETY": ("2.4", "Q3"),
+    "VIRTUAL REALITY": ("5.3", "Q1"),
+}
+
+
+AUTHOR_MAP = {
+    "AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化": "Dr. Quan Wen；Professor Mazran Ismail；Dr. Muhammad Hafeez Abdul Nasir",
+    "GridMamba-Risk：基于网格状态空间模型的整屋三维点云跌倒风险空间预测": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "面向居家适老环境评估的室内点云语义分割可迁移深度学习网络": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "AccessGeometry：面向老年住宅无障碍合规评估的点云自动参数化建模": "Dr. Quan Wen；Wanbao Ge；Dr. Yanting Wu",
+    "AccessPath：面向老年居家环境自动无障碍评估的拓扑图式无障碍通行分析": "Quan Wen；Yanting Wu",
+    "AccessStairNet：面向老年居家环境无障碍评估的台阶与门槛深度学习检测": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "面向居家适老环境评估的扩散模型点云合成": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "老龄化夹缝：面向中国老旧居住社区低收入独居老人的智能安全韧性评估框架": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "FRSGraph：面向老年居家环境的语义图 Transformer 跌倒风险空间预测": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "使用基于深度学习的情绪分析评估并优化老年照护政策实施：一项多源研究": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "城市老年住宅空间热舒适的多模态感知与物理信息神经网络评估": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+}
+
+
+RECOMMEND_MAP = {
+    "AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化": "Multimedia Tools and Applications；The Visual Computer；Image and Vision Computing；Soft Computing",
+    "GridMamba-Risk：基于网格状态空间模型的整屋三维点云跌倒风险空间预测": "The Journal of Supercomputing；Cluster Computing；Multimedia Tools and Applications；Soft Computing",
+    "面向居家适老环境评估的室内点云语义分割可迁移深度学习网络": "Multimedia Tools and Applications；Soft Computing；Image and Vision Computing；The Journal of Supercomputing",
+    "AccessGeometry：面向老年住宅无障碍合规评估的点云自动参数化建模": "Environment, Development and Sustainability；International Journal of Human-Computer Interaction；Journal of Building Engineering",
+    "AccessPath：面向老年居家环境自动无障碍评估的拓扑图式无障碍通行分析": "Environment, Development and Sustainability；International Journal of Human-Computer Interaction；Disability and Rehabilitation",
+    "AccessStairNet：面向老年居家环境无障碍评估的台阶与门槛深度学习检测": "Environment, Development and Sustainability；International Journal of Human-Computer Interaction；Multimedia Tools and Applications",
+    "面向居家适老环境评估的扩散模型点云合成": "Multimedia Tools and Applications；Soft Computing；The Visual Computer；Image and Vision Computing",
+    "老龄化夹缝：面向中国老旧居住社区低收入独居老人的智能安全韧性评估框架": "Environment, Development and Sustainability；International Journal for Equity in Health；BMC Geriatrics",
+    "FRSGraph：面向老年居家环境的语义图 Transformer 跌倒风险空间预测": "The Journal of Supercomputing；Cluster Computing；Multimedia Tools and Applications",
+    "使用基于深度学习的情绪分析评估并优化老年照护政策实施：一项多源研究": "Social Science & Medicine；Health Research Policy and Systems；BMC Health Services Research",
+    "城市老年住宅空间热舒适的多模态感知与物理信息神经网络评估": "Environment, Development and Sustainability；Journal of Thermal Analysis and Calorimetry；Building and Environment",
+}
+
+
+def norm_name(value):
+    value = html.unescape(value or "")
+    value = re.sub(r"\([^)]*\)", "", value)
+    value = value.replace("&", " AND ")
+    value = re.sub(r"[^A-Za-z0-9]+", " ", value.upper()).strip()
+    value = re.sub(r"^THE ", "", value)
+    return value
+
+
+def display_norm(value):
+    raw = html.unescape(value or "").strip()
+    raw = re.sub(r"\s+", " ", raw)
+    key = raw.upper()
+    return ALIASES.get(key, raw)
+
+
+def clean_cell(value):
+    value = re.sub(r"<br\s*/?>", "；", value, flags=re.I)
+    value = re.sub(r"<[^>]+>", "", value)
+    return html.unescape(value).strip()
+
+
+def load_csv(path):
+    if not path.exists():
+        return []
+    with path.open("r", encoding="utf-8-sig", newline="") as f:
+        return list(csv.DictReader(f))
+
+
+def zone_num(text):
+    m = re.search(r"([1-4])", text or "")
+    return m.group(1) if m else ""
+
+
+def build_cas_index():
+    rows = load_csv(HOME / "cas2025.csv")
+    out = {}
+    for row in rows:
+        key = norm_name(row.get("刊名"))
+        out.setdefault(key, []).append(row)
+    return out
+
+
+def build_xr_index():
+    rows = load_csv(HOME / "xr2026.csv")
+    out = {}
+    for row in rows:
+        key = norm_name(row.get("刊名"))
+        out.setdefault(key, []).append(row)
+    return out
+
+
+def build_ei_set():
+    path = HOME / "EIlist" / "ei_journals_raw.csv"
+    rows = load_csv(path)
+    return {norm_name(r.get("Journal_Name") or r.get("Journal") or r.get("Source title")) for r in rows}
+
+
+def build_jcr_index():
+    out = {}
+    for path in [HOME / "ssci-top100-journals" / "sscitop100.csv", HOME / "ssci_top100.csv"]:
+        for row in load_csv(path):
+            name = row.get("期刊名称") or row.get("journal_name_standard") or row.get("journal_name_raw")
+            jif = row.get("JCR_2024JIF") or row.get("jcr_2024_jif")
+            q = row.get("JCR_Quartile") or row.get("jcr_2024_quartile")
+            cat = row.get("JCR_Category") or row.get("cas_2025_minor_category_reference")
+            if name and (jif or q):
+                out[norm_name(name)] = {"if": jif or "", "jcr": q or "", "category": cat or ""}
+    for name, (jif, q) in JCR_MANUAL.items():
+        out.setdefault(norm_name(name), {"if": jif, "jcr": q, "category": ""})
+    return out
+
+
+def cas_info(name, cas_index):
+    rows = cas_index.get(norm_name(name), [])
+    if not rows:
+        return ""
+    major = zone_num(rows[0].get("大类分区"))
+    minors = sorted({zone_num(r.get("小类分区")) for r in rows if zone_num(r.get("小类分区"))})
+    cats = "；".join(dict.fromkeys([r.get("小类", "").strip() for r in rows if r.get("小类")]))
+    return f"cas大{major}小{'/'.join(minors)}；{rows[0].get('大类','')}；{cats}"
+
+
+def xr_info(name, xr_index):
+    rows = xr_index.get(norm_name(name), [])
+    if not rows:
+        return ""
+    major = zone_num(rows[0].get("大类学科新锐分区"))
+    minors = sorted({zone_num(r.get("小类学科新锐分区")) for r in rows if zone_num(r.get("小类学科新锐分区"))})
+    cats = "；".join(dict.fromkeys([r.get("小类学科英文名", "").strip() for r in rows if r.get("小类学科英文名")]))
+    return f"xr大{major}小{'/'.join(minors)}；{rows[0].get('大类学科中文名','')}；{cats}"
+
+
+def index_type(name, cas_index, xr_index, ei_set):
+    cas_rows = cas_index.get(norm_name(name), [])
+    xr_rows = xr_index.get(norm_name(name), [])
+    tags = set()
+    for row in cas_rows:
+        ws = row.get("web_science", "")
+        if "SCIE" in ws:
+            tags.add("SCIE")
+        if "SSCI" in ws:
+            tags.add("SSCI")
+    for row in xr_rows:
+        db = row.get("数据库", "")
+        if "SCIE" in db:
+            tags.add("SCIE")
+        if "SSCI" in db:
+            tags.add("SSCI")
+        if "ESCI" in db:
+            tags.add("ESCI")
+    if norm_name(name) in ei_set:
+        tags.add("EI")
+    if "SCIE" in tags and "SSCI" in tags:
+        base = "SCIE&SSCI"
+    elif "SCIE" in tags:
+        base = "SCIE"
+    elif "SSCI" in tags:
+        base = "SSCI"
+    else:
+        base = "ESCI" if "ESCI" in tags else ""
+    if "EI" in tags:
+        return f"{base}+EI" if base else "EI"
+    return base
+
+
+def metric_info(name, jcr_index):
+    info = jcr_index.get(norm_name(name), {})
+    return info.get("jcr", ""), info.get("if", "")
+
+
+def parse_rows():
+    data_path = ROOT / "status_data.json"
+    force_index = os.environ.get("WEN_STATUS_FROM_INDEX") == "1"
+    if data_path.exists() and not force_index:
+        existing = json.loads(data_path.read_text(encoding="utf-8"))
+        if existing:
+            rows = []
+            for row in existing:
+                dot = row.get("statusDot", "⚪")
+                if dot not in STATUS_META:
+                    dot = "⚪"
+                rows.append({
+                    "statusDot": dot,
+                    "status": row.get("status") or STATUS_META[dot]["label"],
+                    "statusOrder": STATUS_META[dot]["order"],
+                    "title": row.get("title", ""),
+                    "journalTrack": row.get("journalTrack", ""),
+                    "bg": row.get("bg") or STATUS_META[dot]["bg"],
+                })
+            return rows
+
+    source = (ROOT / "index.html").read_text(encoding="utf-8")
+    m = re.search(r'<table class="paper-status-table"[\s\S]*?</table>', source, flags=re.I)
+    if not m:
+        raise RuntimeError("paper-status-table not found")
+    table = m.group(0)
+    rows = []
+    for tr in re.findall(r"<tr[^>]*>[\s\S]*?</tr>", table, flags=re.I):
+        cells = re.findall(r"<td[^>]*>([\s\S]*?)</td>", tr, flags=re.I)
+        if len(cells) != 3:
+            continue
+        bgcolor = re.search(r'background-color:\s*(#[0-9A-Fa-f]{6})', tr)
+        status = clean_cell(cells[0])
+        title = clean_cell(cells[1])
+        track = clean_cell(cells[2])
+        dot = status[0] if status else "⚪"
+        if dot not in STATUS_META:
+            dot = "⚪"
+        rows.append({
+            "statusDot": dot,
+            "status": STATUS_META[dot]["label"],
+            "statusOrder": STATUS_META[dot]["order"],
+            "title": title,
+            "journalTrack": track,
+            "bg": bgcolor.group(1) if bgcolor else STATUS_META[dot]["bg"],
+        })
+    return rows
+
+
+def parse_situation_from_readme():
+    out = {}
+    override_path = ROOT / "situation_overrides.json"
+    if override_path.exists():
+        out.update(json.loads(override_path.read_text(encoding="utf-8")))
+
+    path = HOME / "wenallpapersstatus" / "README.md"
+    if not path.exists():
+        return out
+    text = path.read_text(encoding="utf-8")
+    for tr in re.findall(r"<tr[^>]*>[\s\S]*?</tr>", text, flags=re.I):
+        cells = re.findall(r"<td[^>]*>([\s\S]*?)</td>", tr, flags=re.I)
+        if len(cells) >= 5:
+            title = clean_cell(cells[2])
+            situation = clean_cell(cells[4])
+            if title and situation:
+                out[title] = situation
+    return out
+
+
+def current_journal(row):
+    if row["status"] == "待投稿":
+        return ""
+    track = row["journalTrack"]
+    if not track:
+        return ""
+    last = re.split(r"\s*→\s*", track)[-1].strip()
+    last = re.sub(r"（.*?）", "", last).strip()
+    last = re.sub(r"\(.*?\)", "", last).strip()
+    return display_norm(last)
+
+
+def enrich_rows(rows):
+    cas_index = build_cas_index()
+    xr_index = build_xr_index()
+    ei_set = build_ei_set()
+    jcr_index = build_jcr_index()
+    situation_by_title = parse_situation_from_readme()
+    today = dt.date.today().isoformat()
+    for row in rows:
+        journal = current_journal(row)
+        row["currentJournal"] = journal
+        row["cas"] = cas_info(journal, cas_index) if journal else ""
+        row["xr"] = xr_info(journal, xr_index) if journal else ""
+        row["jcr"], row["impactFactor"] = metric_info(journal, jcr_index) if journal else ("", "")
+        row["indexType"] = index_type(journal, cas_index, xr_index, ei_set) if journal else ""
+        row["recommendedJournals"] = RECOMMEND_MAP.get(row["title"], "")
+        row["authors"] = AUTHOR_MAP.get(row["title"], "")
+        row["updatedAt"] = today
+        row["situation"] = situation_by_title.get(row["title"], "")
+        row["impactSort"] = float(row["impactFactor"]) if re.fullmatch(r"\d+(\.\d+)?", row["impactFactor"] or "") else -1
+    return rows
+
+
+def render(rows):
+    counts = {meta["label"]: 0 for meta in STATUS_META.values()}
+    for row in rows:
+        counts[row["status"]] = counts.get(row["status"], 0) + 1
+    today = dt.date.today().isoformat()
+    rows_json = json.dumps(rows, ensure_ascii=False)
+    legend_rows = "\n".join(
+        f'<tr><td>{dot}</td><td>{meta["label"]}</td><td>{counts.get(meta["label"], 0)}</td></tr>'
+        for dot, meta in STATUS_META.items()
+    )
+    return f"""<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>全部论文投稿状态</title>
+  <style>
+    :root {{ color-scheme: light; --bg:#f8fafc; --panel:#fff; --text:#111827; --muted:#64748b; --line:#e5e7eb; }}
+    * {{ box-sizing: border-box; }}
+    body {{ margin:0; font-family: Arial, "Microsoft YaHei", sans-serif; color:var(--text); background:var(--bg); }}
+    main {{ max-width: 1680px; margin:0 auto; padding:24px; }}
+    header {{ display:flex; align-items:end; justify-content:space-between; gap:16px; margin-bottom:18px; }}
+    h1 {{ margin:0; font-size:28px; letter-spacing:0; }}
+    .updated {{ color:var(--muted); font-size:13px; white-space:nowrap; }}
+    .summary {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:10px; margin-bottom:16px; }}
+    .stat-card {{ display:flex; align-items:center; gap:12px; min-height:72px; padding:12px 14px; border:1px solid var(--line); border-left:8px solid var(--accent); border-radius:8px; background:var(--panel); }}
+    .dot {{ font-size:22px; line-height:1; }}
+    .stat-card strong {{ display:block; font-size:24px; line-height:1.1; }}
+    .stat-card span:last-child {{ display:block; margin-top:4px; color:var(--muted); font-size:13px; }}
+    .dashboard {{ display:grid; grid-template-columns:minmax(320px,2fr) minmax(220px,.8fr); gap:14px; align-items:stretch; margin-bottom:18px; }}
+    .panel {{ border:1px solid var(--line); border-radius:8px; background:var(--panel); overflow:hidden; }}
+    .chart-panel {{ padding:12px; }}
+    .chart-panel img {{ display:block; width:100%; height:auto; }}
+    .legend-panel {{ padding:18px; }}
+    .legend-panel h2, .table-panel h2 {{ margin:0 0 12px; font-size:22px; font-weight:800; }}
+    .legend-panel table {{ width:100%; border-collapse:collapse; font-size:18px; font-weight:700; }}
+    .legend-panel td {{ padding:12px 8px; border-bottom:1px solid var(--line); }}
+    .legend-panel td:first-child {{ width:42px; font-size:24px; line-height:1; }}
+    .legend-panel td:last-child {{ text-align:right; font-size:20px; font-weight:800; }}
+    .controls {{ display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin:0 0 12px; }}
+    .controls button {{ border:1px solid var(--line); background:#fff; color:var(--text); border-radius:6px; padding:8px 10px; cursor:pointer; font-weight:700; }}
+    .controls button.active {{ border-color:#2563eb; color:#1d4ed8; background:#eff6ff; }}
+    .column-panel {{ display:flex; flex-wrap:wrap; gap:8px 14px; padding:10px; margin-bottom:12px; border:1px solid var(--line); border-radius:8px; background:#fff; }}
+    .column-panel label {{ font-size:13px; color:#334155; white-space:nowrap; }}
+    .table-panel {{ padding:14px; overflow-x:auto; }}
+    table.paper-status-table {{ width:100%; min-width:1900px; border-collapse:collapse; table-layout:auto; font-size:13px; }}
+    table.paper-status-table th, table.paper-status-table td {{ padding:9px 10px; border:1px solid var(--line); vertical-align:top; }}
+    table.paper-status-table th {{ background:#f8fafc; position:sticky; top:0; z-index:2; text-align:left; }}
+    table.paper-status-table th[data-key="status"], table.paper-status-table td[data-key="status"] {{ min-width:48px; width:54px; text-align:center; white-space:nowrap; position:sticky; left:0; z-index:3; }}
+    table.paper-status-table th[data-key="title"], table.paper-status-table td[data-key="title"] {{ min-width:360px; width:360px; position:sticky; left:54px; z-index:3; }}
+    table.paper-status-table th[data-key="title"] {{ z-index:4; }}
+    table.paper-status-table td[data-key="currentJournal"] {{ min-width:230px; }}
+    table.paper-status-table td[data-key="journalTrack"], table.paper-status-table td[data-key="recommendedJournals"], table.paper-status-table td[data-key="situation"] {{ min-width:320px; }}
+    table.paper-status-table td[data-key="cas"], table.paper-status-table td[data-key="xr"] {{ min-width:320px; }}
+    table.paper-status-table td[data-key="authors"] {{ min-width:260px; }}
+    .empty {{ color:#94a3b8; }}
+    @media (max-width:900px) {{ main{{padding:16px;}} header{{display:block;}} .updated{{display:block;margin-top:8px;}} .dashboard{{grid-template-columns:1fr;}} }}
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>全部论文投稿状态</h1>
+      <span class="updated">最后更新：{today}</span>
+    </header>
+    <section class="summary">
+      <article class="stat-card" style="--accent:#64748b"><span class="dot">⚪</span><div><strong>{counts.get("待投稿", 0)}</strong><span>待投稿</span></div></article>
+      <article class="stat-card" style="--accent:#f43f5e"><span class="dot">💖</span><div><strong>{counts.get("需修订", 0)}</strong><span>需修订</span></div></article>
+      <article class="stat-card" style="--accent:#f59e0b"><span class="dot">🟡</span><div><strong>{counts.get("内审中", 0)}</strong><span>内审中</span></div></article>
+      <article class="stat-card" style="--accent:#22c55e"><span class="dot">🟢</span><div><strong>{counts.get("外审中", 0)}</strong><span>外审中</span></div></article>
+    </section>
+    <section class="dashboard">
+      <div class="panel chart-panel"><img src="status_bar_chart.svg" alt="论文状态统计饼图"></div>
+      <aside class="panel legend-panel"><h2>颜色图例</h2><table><tbody>{legend_rows}</tbody></table></aside>
+    </section>
+    <section class="panel table-panel">
+      <h2>全部论文状态总表</h2>
+      <div class="controls">
+        <button type="button" data-sort="status" class="active">按照投稿状态</button>
+        <button type="button" data-sort="impact">按照影响因子</button>
+        <button type="button" data-sort="updated">按照最近稿件更新时间</button>
+      </div>
+      <div id="columnToggles" class="column-panel" aria-label="选择显示列"></div>
+      <table class="paper-status-table">
+        <thead><tr id="tableHead"></tr></thead>
+        <tbody id="tableBody"></tbody>
+      </table>
+    </section>
+  </main>
+  <script>
+    const rows = {rows_json};
+    const fixedKeys = new Set(["status", "title"]);
+    const columns = [
+      ["status", "状态"],
+      ["title", "论文标题"],
+      ["currentJournal", "当前所在期刊名称"],
+      ["cas", "CAS分区"],
+      ["xr", "XR分区"],
+      ["jcr", "JCR分区"],
+      ["impactFactor", "IF"],
+      ["indexType", "收录类型"],
+      ["recommendedJournals", "推荐期刊"],
+      ["authors", "论文作者"],
+      ["updatedAt", "状态更新时间"],
+      ["journalTrack", "Journal Track"],
+      ["situation", "情况说明"]
+    ];
+    const hidden = new Set(JSON.parse(localStorage.getItem("paperStatusHiddenColumns") || "[]"));
+    let currentSort = "status";
+
+    function shownColumns() {{
+      return columns.filter(([key]) => fixedKeys.has(key) || !hidden.has(key));
+    }}
+
+    function cell(value) {{
+      if (!value) return '<span class="empty"></span>';
+      return String(value).replace(/[&<>"']/g, ch => ({{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}}[ch]));
+    }}
+
+    function sortedRows() {{
+      const data = [...rows];
+      if (currentSort === "impact") {{
+        data.sort((a, b) => (b.impactSort - a.impactSort) || (a.statusOrder - b.statusOrder) || a.title.localeCompare(b.title, "zh-CN"));
+      }} else if (currentSort === "updated") {{
+        data.sort((a, b) => String(b.updatedAt).localeCompare(String(a.updatedAt)) || (a.statusOrder - b.statusOrder));
+      }} else {{
+        data.sort((a, b) => (a.statusOrder - b.statusOrder) || a.title.localeCompare(b.title, "zh-CN"));
+      }}
+      return data;
+    }}
+
+    function renderToggles() {{
+      const el = document.getElementById("columnToggles");
+      el.innerHTML = columns.filter(([key]) => !fixedKeys.has(key)).map(([key, label]) => `
+        <label><input type="checkbox" data-column="${{key}}" ${{hidden.has(key) ? "" : "checked"}}> ${{label}}</label>
+      `).join("");
+      el.querySelectorAll("input").forEach(input => {{
+        input.addEventListener("change", () => {{
+          if (input.checked) hidden.delete(input.dataset.column);
+          else hidden.add(input.dataset.column);
+          localStorage.setItem("paperStatusHiddenColumns", JSON.stringify([...hidden]));
+          renderTable();
+        }});
+      }});
+    }}
+
+    function renderTable() {{
+      const cols = shownColumns();
+      document.getElementById("tableHead").innerHTML = cols.map(([key, label]) => `<th data-key="${{key}}">${{label}}</th>`).join("");
+      document.getElementById("tableBody").innerHTML = sortedRows().map(row => {{
+        return `<tr style="background-color:${{row.bg}};">${{cols.map(([key]) => {{
+          const value = key === "status" ? row.statusDot : row[key];
+          return `<td data-key="${{key}}" style="background-color:${{row.bg}};">${{cell(value)}}</td>`;
+        }}).join("")}}</tr>`;
+      }}).join("");
+    }}
+
+    document.querySelectorAll(".controls button").forEach(button => {{
+      button.addEventListener("click", () => {{
+        currentSort = button.dataset.sort;
+        document.querySelectorAll(".controls button").forEach(b => b.classList.toggle("active", b === button));
+        renderTable();
+      }});
+    }});
+    renderToggles();
+    renderTable();
+  </script>
+</body>
+</html>
+"""
+
+
+def main():
+    rows = enrich_rows(parse_rows())
+    (ROOT / "status_data.json").write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
+    (ROOT / "index.html").write_text(render(rows), encoding="utf-8")
+    print(f"generated {len(rows)} rows")
+
+
+if __name__ == "__main__":
+    main()

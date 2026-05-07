@@ -18,6 +18,17 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
+      - name: Download journal databases
+        shell: bash
+        run: |
+          set -e
+          mkdir -p "$HOME/EIlist" "$HOME/ssci-top100-journals"
+          curl -fsSL https://raw.githubusercontent.com/WENQUAN0816/2025journallist/main/journals_db.csv -o "$HOME/cas2025.csv"
+          curl -fsSL https://raw.githubusercontent.com/WENQUAN0816/2026journallist/main/xr2026.csv -o "$HOME/xr2026.csv"
+          curl -fsSL https://raw.githubusercontent.com/WENQUAN0816/ssci-top100-journals/main/sscitop100.csv -o "$HOME/ssci-top100-journals/sscitop100.csv" || true
+          curl -fsSL https://raw.githubusercontent.com/WENQUAN0816/ssci-top100-journals/main/ssci_top100_cas2025_xr2026.csv -o "$HOME/ssci_top100.csv" || true
+          curl -fsSL https://raw.githubusercontent.com/WENQUAN0816/EIlist/main/ei_journals_raw.csv -o "$HOME/EIlist/ei_journals_raw.csv" || true
+
       - name: Normalize status table
         shell: pwsh
         run: ./scripts/Update-PaperStatus.ps1
@@ -28,7 +39,7 @@ jobs:
           if ! git diff --quiet; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add README.md status_bar_chart.svg status_chart.html
+            git add README.md index.html status_data.json situation_overrides.json status_bar_chart.svg status_chart.html scripts/Update-PaperStatus.ps1 scripts/build_status_page.py
             git commit -m "Normalize status table order"
             git push
           fi

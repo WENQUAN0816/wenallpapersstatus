@@ -565,3 +565,20 @@ $Chart = [regex]::Replace($Chart, '(?s)    const markerLines = \[.*?\];', "    c
 
 Write-StatusPieSvg $ActiveStatuses $Counts
 Write-IndexPage $ActiveStatuses $Counts $Readme
+
+$BuildStatusPage = Join-Path $PSScriptRoot "build_status_page.py"
+if (Test-Path $BuildStatusPage) {
+    $PreviousForceIndex = $env:WEN_STATUS_FROM_INDEX
+    try {
+        $env:WEN_STATUS_FROM_INDEX = "1"
+        python $BuildStatusPage
+    }
+    finally {
+        if ($null -eq $PreviousForceIndex) {
+            Remove-Item Env:\WEN_STATUS_FROM_INDEX -ErrorAction SilentlyContinue
+        }
+        else {
+            $env:WEN_STATUS_FROM_INDEX = $PreviousForceIndex
+        }
+    }
+}
