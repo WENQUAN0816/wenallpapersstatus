@@ -137,7 +137,7 @@
       "Wanbao Ge"
     ],
     "updatedAt": "2026-05-08",
-    "situation": "Submission started (not yet completed). 2026-05-08 retargeted to Indoor and Built Environment; portal assigned to CDP 9344. Final submission not completed. 已开始转投 Indoor and Built Environment；尚未最终提交。",
+    "situation": "Submission started (not yet completed). 2026-05-08 retargeted to Indoor and Built Environment / ScholarOne. IBE package prepared and pushed at repo commit b8fc789; upload derivative figures added and pushed at repo commit 3ad9fc0. Portal remains open at mc.manuscriptcentral.com/ibe; final submission not completed. 已完成 IBE 本地包和上传衍生图，最新 commit 3ad9fc0；门户仍需核查/继续，尚未最终提交。",
     "impactSort": -1
   },
   {
@@ -160,7 +160,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-08",
-    "situation": "Submission started (not yet completed). 2026-05-08 retargeted to Disability and Rehabilitation; portal assigned to CDP 9345. Final submission not completed. 已开始转投 Disability and Rehabilitation；尚未最终提交。",
+    "situation": "Submission started (not yet completed). 2026-05-08 Disability and Rehabilitation / Taylor & Francis draft created, submissionId 264297465. Safe manuscript metadata/declarations were filled; local D&R package prepared and pushed at repo commit 8aa1fd3. File upload is blocked under the standing LaTeX-only rule because the portal requests PDF manuscript plus LaTeX Source Files ZIP rather than portal-side LaTeX compilation/validation. 已建立 D&R 草稿 264297465 并填写安全元数据，本地包 commit 8aa1fd3；因上传流程不是系统编译 LaTeX，暂停在文件上传前，未最终提交。",
     "impactSort": -1
   },
   {
@@ -275,7 +275,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-08",
-    "situation": "Blocked, not submitted. 2026-05-08 AccessStairNet was intended for International Journal of Human-Computer Interaction, but the IJHCI new-submission route redirected to Indoor and Built Environment / mc.manuscriptcentral.com/ibe, creating a journal-identity mismatch. CDP 9343 was closed to avoid any accidental IBE submission. 未投稿；原计划投 IJHCI，但 IJHCI 新投稿入口跳转到 IBE，存在期刊身份错误，已关闭 9343，避免误投 Indoor。",
+    "situation": "Submission started (not yet completed). 2026-05-08 verified IJHCI / International Journal of Human-Computer Interaction route; local manuscript and cover letter retargeted to IJHCI and reframed as a mobile accessibility inspection tool / human-centered accessible environment assessment. Package compiled and pushed at repo commit 507eda5. Portal is at Taylor & Francis login screen; no files uploaded and no final submission. 已完成 IJHCI 本地改稿与包，commit 507eda5；门户仍在登录页，尚未上传/提交。",
     "impactSort": -1
   },
   {
