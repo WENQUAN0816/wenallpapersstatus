@@ -1,11 +1,11 @@
 [
   {
-    "statusDot": "⚪",
-    "status": "待投稿",
-    "statusOrder": 0,
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
     "title": "用于老年住宅活动分区功能分类的空间图神经网络",
     "journalTrack": "",
-    "bg": "#f2f2f2",
+    "bg": "#fff8d9",
     "currentJournal": "",
     "casXr": "",
     "cas": "",
@@ -112,7 +112,7 @@
       "Mazran Ismail"
     ],
     "updatedAt": "2026-05-07",
-    "situation": "Ready for manual final Submit. The Journal of Supercomputing / Springer SNAPP draft c1ee17a9-69a9-4b82-90c4-597d7950f181 reached Review; LaTeX source package jos_snapp_latex_source_20260507.zip and cover_letter_jos.pdf uploaded; generated reviewer PDF verified against title/authors; manual policy/preprint choices and final Run checks and submit remain; paper repo commit a4fd1828200ed02705565d0be66ea813a11d7e2a. 已到最终审核页，等待用户手动提交；SNAPP 草稿 c1ee17a9-69a9-4b82-90c4-597d7950f181 已到 Review，LaTeX 源文件包和 cover letter 已上传，系统生成 PDF 已核对题名/作者；仍需人工确认政策/预印本选项并点击最终 Run checks and submit；论文仓库 commit a4fd1828200ed02705565d0be66ea813a11d7e2a。",
+    "situation": "Submitted / Technical Check. The Journal of Supercomputing / Springer SNAPP success page shows Submission received and Technical Check for draft c1ee17a9-69a9-4b82-90c4-597d7950f181; LaTeX source package jos_snapp_latex_source_20260507.zip and cover_letter_jos.pdf uploaded; generated reviewer PDF verified against title/authors; no manuscript ID visible on the success page; paper repo commit a4fd1828200ed02705565d0be66ea813a11d7e2a. 已最终提交并进入 Technical Check；SNAPP 成功页显示 Submission received，草稿 c1ee17a9-69a9-4b82-90c4-597d7950f181，LaTeX 源文件包和 cover letter 已上传，系统生成 PDF 已核对题名/作者；成功页暂未显示稿号；论文仓库 commit a4fd1828200ed02705565d0be66ea813a11d7e2a。",
     "impactSort": -1
   },
   {
