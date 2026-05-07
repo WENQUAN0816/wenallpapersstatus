@@ -135,7 +135,7 @@
       "Wanbao Ge"
     ],
     "updatedAt": "2026-05-08",
-    "situation": "已拒稿",
+    "situation": "Not completed in the 2026-05-07 kingtou batch. This was the only Access-series paper kept for Environment, Development and Sustainability after the user limited EDS to one paper, but no confirmed final submission/Submitted status has been recorded. 本轮 kingtou 未完成正式投稿；尚无可确认的 Submitted/稿号记录。",
     "impactSort": -1
   },
   {
@@ -158,7 +158,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-08",
-    "situation": "退回草稿",
+    "situation": "Paused, not submitted in the 2026-05-07 kingtou batch. User instructed not to submit this paper in the current round after limiting Environment, Development and Sustainability to one Access-series paper. Local BMC Geriatrics preparation package was saved and pushed at manuscript repo commit f0a6fef. 已暂停且未投稿；本地准备稿和 BMC Geriatrics 源文件包已保存推送，但没有进入门户正式提交。",
     "impactSort": -1
   },
   {
@@ -205,7 +205,7 @@
       "Mazran Ismail"
     ],
     "updatedAt": "2026-05-08",
-    "situation": "Submission started (not yet completed). 2026-05-08 retargeted to Multimedia Tools and Applications / Springer Editorial Manager; Springer Nature LaTeX source package corrected to the approved three-author baseline (Quan Wen; Mazran Ismail; Muhammad Hafeez Abdul Nasir), compiled, committed, and pushed at manuscript repo commit f47b1697b95afe1e0b0de44fb7bd1620571e9810. EM draft MTAP-S-26-02910 had been created earlier, but portal authors/generated PDF must be re-audited before any final approval; final submission is not completed. 已开始投稿（尚未最终提交）；本地 MTAP LaTeX 源文件包已按三作者基线修正、编译并推送；EM 草稿仍需重新核对门户作者和系统生成 PDF，尚未最终提交。",
+    "situation": "Submission not completed. 2026-05-08 MTAP / Editorial Manager account showed no editable AF-SGNet draft: Incomplete Submissions (0), Submissions Waiting for Author's Approval (0); only AgeFriendlyDiff MTAP-D-26-02294 appeared under Submissions Being Processed. Local MTAP LaTeX source package was corrected to the approved three-author baseline (Quan Wen; Mazran Ismail; Muhammad Hafeez Abdul Nasir), compiled, committed, and pushed at manuscript repo commit f47b1697b95afe1e0b0de44fb7bd1620571e9810. 未完成投稿；MTAP 门户未找到可编辑 AF-SGNet 草稿，仅本地三作者修正版包已推送。",
     "impactSort": -1
   },
   {
@@ -297,7 +297,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-08",
-    "situation": "已拒稿",
+    "situation": "Paused, not submitted in the 2026-05-07 kingtou batch. User instructed not to submit this paper in the current round after limiting Environment, Development and Sustainability to one Access-series paper. Local IEEE Access preparation package was saved and pushed at manuscript repo commit 66b9323. 已暂停且未投稿；本地 IEEE Access 准备稿和源文件包已保存推送，但没有进入门户正式提交。",
     "impactSort": -1
   },
   {
@@ -741,7 +741,7 @@
       "Mazran Ismail"
     ],
     "updatedAt": "2026-05-08",
-    "situation": "Submission started (not yet completed). 2026-05-08 retargeted to Multimedia Tools and Applications / Springer Editorial Manager; Springer Nature LaTeX source package corrected to the approved three-author baseline (Quan Wen; Mazran Ismail; Muhammad Hafeez Abdul Nasir), compiled, committed, and pushed at manuscript repo commit f47b1697b95afe1e0b0de44fb7bd1620571e9810. EM draft MTAP-S-26-02910 had been created earlier, but portal authors/generated PDF must be re-audited before any final approval; final submission is not completed. 已开始投稿（尚未最终提交）；本地 MTAP LaTeX 源文件包已按三作者基线修正、编译并推送；EM 草稿仍需重新核对门户作者和系统生成 PDF，尚未最终提交。",
+    "situation": "Submission not completed. 2026-05-08 MTAP / Editorial Manager account showed no editable AF-SGNet draft: Incomplete Submissions (0), Submissions Waiting for Author's Approval (0); only AgeFriendlyDiff MTAP-D-26-02294 appeared under Submissions Being Processed. Local MTAP LaTeX source package was corrected to the approved three-author baseline (Quan Wen; Mazran Ismail; Muhammad Hafeez Abdul Nasir), compiled, committed, and pushed at manuscript repo commit f47b1697b95afe1e0b0de44fb7bd1620571e9810. 未完成投稿；MTAP 门户未找到可编辑 AF-SGNet 草稿，仅本地三作者修正版包已推送。",
     "impactSort": 3.6
   },
   {
