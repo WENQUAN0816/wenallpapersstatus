@@ -90,8 +90,8 @@
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">IEEE Access</td>
-<!-- 后台情况说明：IEEE Access / Research Exchange 草稿仍在 additional information / 政策确认流程，尚未确认最终 Submit；用户已授权 APC、作者声明和 IEEE 政策确认按正常填写，最终投稿状态待复核。 -->
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Multimedia Tools and Applications</td>
+<!-- 后台情况说明：Submission started (not yet completed). 2026-05-07 已改投 Springer/Editorial Manager / Multimedia Tools and Applications；LaTeX 源文件包已准备、编译、提交并推送至论文仓库 0c36fd86dae4998f64b45d3d0e35f5aba8eca752，投稿系统上传和最终提交尚未完成。 -->
 </tr>
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
