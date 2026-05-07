@@ -190,7 +190,7 @@ $LegendRows = ($Statuses | ForEach-Object {
 $Legend = "<table width=""100%"">$NewLine$LegendRows$NewLine</table>"
 $Readme = [regex]::Replace($Readme, '(?s)(## 颜色图例\s*)<table width="100%">.*?</table>', "`${1}$Legend", 1)
 
-$MaintenanceRule = '> **维护规则：** 修改论文状态后运行 `pwsh -File scripts/Update-PaperStatus.ps1`；GitHub Actions 会在推送后自动按状态顺序规范化 README 和图表。'
+$MaintenanceRule = '> **维护规则：** 本仓库已启用提交前自动排序；修改论文状态后，pre-commit 会运行 `pwsh -File scripts/Update-PaperStatus.ps1` 并同步 README 和图表，GitHub Actions 会在推送后再次兜底规范化。'
 if ($Readme -match [regex]::Escape("> **维护规则：**")) {
     $Readme = [regex]::Replace($Readme, '(?m)^> \*\*维护规则：\*\*.*$', [System.Text.RegularExpressions.MatchEvaluator]{ param($m) $MaintenanceRule }, 1)
 }

@@ -1,0 +1,7 @@
+#!/bin/sh
+set -e
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+pwsh -File "$REPO_ROOT/scripts/Update-PaperStatus.ps1"
+
+git add README.md status_bar_chart.svg status_chart.html

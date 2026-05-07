@@ -43,7 +43,7 @@ table th, table td { vertical-align: top; }
 
 > **说明：** 待投稿包含所有未处于投稿流程中的论文；已接收论文不再纳入本表统计。状态列用彩色圆点区分。
 
-> **维护规则：** 修改论文状态后运行 `pwsh -File scripts/Update-PaperStatus.ps1`；GitHub Actions 会在推送后自动按状态顺序规范化 README 和图表。
+> **维护规则：** 本仓库已启用提交前自动排序；修改论文状态后，pre-commit 会运行 `pwsh -File scripts/Update-PaperStatus.ps1` 并同步 README 和图表，GitHub Actions 会在推送后再次兜底规范化。
 
 ## 状态统计
 
