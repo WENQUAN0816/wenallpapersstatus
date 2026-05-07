@@ -105,7 +105,7 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">GridMamba-Risk：基于网格状态空间模型的整屋三维点云跌倒风险空间预测</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Journal of Supercomputing</td>
-<!-- 后台情况说明：Submission started (not yet completed). The Journal of Supercomputing / Springer SNAPP source package prepared, compiled, committed, and pushed at paper repo commit da9b43c53597423aa1ae117f61223f8ba0e4fbdb; portal upload/final submission not yet completed. 已开始投稿（尚未最终提交）；The Journal of Supercomputing / Springer SNAPP 源文件包已准备、编译、提交并推送至论文仓库 da9b43c53597423aa1ae117f61223f8ba0e4fbdb，投稿系统上传和最终提交尚未完成。 -->
+<!-- 后台情况说明：Submission started (not yet completed). The Journal of Supercomputing / Springer SNAPP draft c1ee17a9-69a9-4b82-90c4-597d7950f181 created; LaTeX source package jos_snapp_latex_source_20260507.zip uploaded; title/details/authors and factual declarations saved; stopped on manual publishing/authorship policy attestations before final review; paper repo commit a4fd1828200ed02705565d0be66ea813a11d7e2a. 已开始投稿（尚未最终提交）；Springer SNAPP 草稿 c1ee17a9-69a9-4b82-90c4-597d7950f181 已建立，LaTeX 源文件包已上传，题名/详情/作者和事实性声明已保存；在出版/作者责任政策确认处停止，尚未进入最终审核/提交；论文仓库 commit a4fd1828200ed02705565d0be66ea813a11d7e2a。 -->
 </tr>
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
