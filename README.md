@@ -105,7 +105,7 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">GridMamba-Risk：基于网格状态空间模型的整屋三维点云跌倒风险空间预测</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Journal of Supercomputing</td>
-<!-- 后台情况说明：Submission started (not yet completed). Source package prepared locally on 2026-05-07; portal upload is paused until the exact prepared package is synced to the corresponding GitHub repository. 已开始投稿准备（尚未最终提交）；2026-05-07 已生成本地源包，待同步到对应 GitHub 仓库后再上传。 -->
+<!-- 后台情况说明：Submission started (not yet completed). The Journal of Supercomputing / Springer SNAPP source package prepared, compiled, committed, and pushed at paper repo commit da9b43c53597423aa1ae117f61223f8ba0e4fbdb; portal upload/final submission not yet completed. 已开始投稿（尚未最终提交）；The Journal of Supercomputing / Springer SNAPP 源文件包已准备、编译、提交并推送至论文仓库 da9b43c53597423aa1ae117f61223f8ba0e4fbdb，投稿系统上传和最终提交尚未完成。 -->
 </tr>
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
@@ -161,7 +161,7 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">AccessStairNet：面向老年居家环境无障碍评估的台阶与门槛深度学习检测</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">IEEE Transactions on Instrumentation and Measurement → IEEE Access</td>
-<!-- 后台情况说明：已拒稿 -->
+<!-- 后台情况说明：Submission started (not yet completed) / 已开始投稿（尚未最终提交）；2026-05-07 IEEE Access via IEEE Research Exchange，等待非最终门户填报与用户手动最终提交 -->
 </tr>
 
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
