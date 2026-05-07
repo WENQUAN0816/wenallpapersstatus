@@ -111,8 +111,8 @@
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">AccessGeometry：面向老年住宅无障碍合规评估的点云自动参数化建模</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Frontiers of Architectural Research (FoAR)</td>
-<!-- 后台情况说明：已拒稿 -->
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Environment, Development and Sustainability</td>
+<!-- 后台情况说明：Submission started (not yet completed). Retargeted from Frontiers of Architectural Research to Environment, Development and Sustainability on 2026-05-07; preparing Springer/Editorial Manager LaTeX source package and portal draft. 已开始投稿（尚未最终提交）；2026-05-07 从 Frontiers of Architectural Research 改投 Environment, Development and Sustainability，正在准备 Springer/Editorial Manager LaTeX 源文件包和投稿系统草稿。 -->
 </tr>
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
