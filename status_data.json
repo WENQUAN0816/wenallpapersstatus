@@ -344,7 +344,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-07",
-    "situation": "已拒稿",
+    "situation": "Energy Reports / Editorial Manager 转投草稿已建立，EM 内部 docid 56802；已上传 manuscript tex、LaTeX source zip、cover letter、highlights、declaration、title page 和 figures，已完成 Attach Files、General Information、Additional Information、Comments、Manuscript Data，并在 Gold OA Publishing Options/APC 页面停止。尚无正式稿号，需人工确认 Publishing Options/APC 后继续 Build/Approve PDF，最终 Submit 仍需用户手动。",
     "impactSort": 4.7
   },
   {
@@ -367,7 +367,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-07",
-    "situation": "已拒稿",
+    "situation": "Biomedical Signal Processing and Control 转投包已本地完成并编译，生成 BSPC_upload_package_20260507.zip；但 BSPC EM Article Type 下拉只有 None，跳转到 Elsevier New Service 后页面明确提示 transferred manuscripts 不能用该服务提交，需期刊/系统开放 EM 转投入口或 article type 后才能上传。",
     "impactSort": 4.9
   },
   {
@@ -390,7 +390,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-07",
-    "situation": "建议转投",
+    "situation": "Journal of Building Engineering 转投文件和 JBE 上传包已本地完成；9331 端口进入 JBE Editorial Manager 并完成分类弹窗，选择 Building Energy Analysis、Building Envelope、Energy efficiency (building envelope and system)、Renewable energy applications (solar, daylight, wind)、Solar Thermal Energy。当前回到 Main Menu，未确认生成正式草稿号或最终提交，需从 Author Main Menu 继续/核对 incomplete submission。",
     "impactSort": 6.7
   },
   {
