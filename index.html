@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>全部论文投稿状态</title>
   <style>
-    :root { color-scheme: light; --bg:#f8fafc; --panel:#fff; --text:#111827; --muted:#64748b; --line:#e5e7eb; }
+    :root { color-scheme: light; --bg:#f8fafc; --panel:#fff; --text:#111827; --muted:#64748b; --line:#e5e7eb; --title-width:360px; }
     * { box-sizing: border-box; }
     body { margin:0; font-family: Arial, "Microsoft YaHei", sans-serif; color:var(--text); background:var(--bg); }
     main { max-width: 1680px; margin:0 auto; padding:24px; }
@@ -37,7 +37,7 @@
     table.paper-status-table th, table.paper-status-table td { padding:9px 10px; border:1px solid var(--line); vertical-align:top; }
     table.paper-status-table th { background:#f8fafc; position:sticky; top:0; z-index:2; text-align:left; }
     table.paper-status-table th[data-key="status"], table.paper-status-table td[data-key="status"] { min-width:48px; width:54px; text-align:center; white-space:nowrap; position:sticky; left:0; z-index:3; }
-    table.paper-status-table th[data-key="title"], table.paper-status-table td[data-key="title"] { min-width:360px; width:360px; position:sticky; left:54px; z-index:3; }
+    table.paper-status-table th[data-key="title"], table.paper-status-table td[data-key="title"] { min-width:var(--title-width); width:var(--title-width); position:sticky; left:54px; z-index:3; }
     table.paper-status-table th[data-key="title"] { z-index:4; }
     table.paper-status-table td[data-key="currentJournal"] { min-width:230px; }
     table.paper-status-table td[data-key="journalTrack"], table.paper-status-table td[data-key="recommendedJournals"], table.paper-status-table td[data-key="situation"] { min-width:320px; }
@@ -72,6 +72,9 @@
         <button type="button" data-sort="status" class="active">按照投稿状态</button>
         <button type="button" data-sort="impact">按照影响因子</button>
         <button type="button" data-sort="updated">按照最近稿件更新时间</button>
+        <button type="button" data-title-width="260px">标题列窄</button>
+        <button type="button" data-title-width="360px" class="title-width-active">标题列标准</button>
+        <button type="button" data-title-width="520px">标题列宽</button>
       </div>
       <div id="columnToggles" class="column-panel" aria-label="选择显示列"></div>
       <table class="paper-status-table">
@@ -99,6 +102,15 @@
     ];
     const hidden = new Set(JSON.parse(localStorage.getItem("paperStatusHiddenColumns") || "[]"));
     let currentSort = "status";
+    let titleWidth = localStorage.getItem("paperStatusTitleWidth") || "360px";
+
+    function applyTitleWidth() {
+      document.documentElement.style.setProperty("--title-width", titleWidth);
+      document.querySelectorAll(".controls button[data-title-width]").forEach(button => {
+        button.classList.toggle("title-width-active", button.dataset.titleWidth === titleWidth);
+        button.classList.toggle("active", button.dataset.titleWidth === titleWidth);
+      });
+    }
 
     function shownColumns() {
       return columns.filter(([key]) => fixedKeys.has(key) || !hidden.has(key));
@@ -147,13 +159,21 @@
       }).join("");
     }
 
-    document.querySelectorAll(".controls button").forEach(button => {
+    document.querySelectorAll(".controls button[data-sort]").forEach(button => {
       button.addEventListener("click", () => {
         currentSort = button.dataset.sort;
-        document.querySelectorAll(".controls button").forEach(b => b.classList.toggle("active", b === button));
+        document.querySelectorAll(".controls button[data-sort]").forEach(b => b.classList.toggle("active", b === button));
         renderTable();
       });
     });
+    document.querySelectorAll(".controls button[data-title-width]").forEach(button => {
+      button.addEventListener("click", () => {
+        titleWidth = button.dataset.titleWidth;
+        localStorage.setItem("paperStatusTitleWidth", titleWidth);
+        applyTitleWidth();
+      });
+    });
+    applyTitleWidth();
     renderToggles();
     renderTable();
   </script>
