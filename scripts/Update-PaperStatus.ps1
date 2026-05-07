@@ -9,10 +9,10 @@ $Utf8NoBom = [System.Text.UTF8Encoding]::new($false)
 $NewLine = "`n"
 
 $Statuses = @(
-    [pscustomobject]@{ Name = "待投稿"; Icon = "&#9898;"; Fill = "#f2f2f2"; Stroke = "#9ca3af" },
-    [pscustomobject]@{ Name = "需修订"; Icon = "&#128150;"; Fill = "#ffd9ec"; Stroke = "#ec4899" },
-    [pscustomobject]@{ Name = "内审中"; Icon = "&#128993;"; Fill = "#fff8d9"; Stroke = "#eab308" },
-    [pscustomobject]@{ Name = "外审中"; Icon = "&#128994;"; Fill = "#e8f9ee"; Stroke = "#22c55e" }
+    [pscustomobject]@{ Name = "待投稿"; Icon = "&#9898;"; Fill = "#f2f2f2"; Stroke = "#9ca3af"; ChartFill = "#64748b" },
+    [pscustomobject]@{ Name = "需修订"; Icon = "&#128150;"; Fill = "#ffd9ec"; Stroke = "#ec4899"; ChartFill = "#f43f5e" },
+    [pscustomobject]@{ Name = "内审中"; Icon = "&#128993;"; Fill = "#fff8d9"; Stroke = "#eab308"; ChartFill = "#f59e0b" },
+    [pscustomobject]@{ Name = "外审中"; Icon = "&#128994;"; Fill = "#e8f9ee"; Stroke = "#22c55e"; ChartFill = "#22c55e" }
 )
 
 $StatusByName = @{}
@@ -129,7 +129,22 @@ function Clear-TrackCellChinese {
     return $Row.Substring(0, $TrackCell.Index) + $Replacement + $Row.Substring($TrackCell.Index + $TrackCell.Length)
 }
 
-function Write-StatusBarSvg {
+function Get-PiePoint {
+    param(
+        [double]$CenterX,
+        [double]$CenterY,
+        [double]$Radius,
+        [double]$Angle
+    )
+
+    $Radians = ($Angle - 90) * [math]::PI / 180
+    return [pscustomobject]@{
+        X = [math]::Round($CenterX + ($Radius * [math]::Cos($Radians)), 3)
+        Y = [math]::Round($CenterY + ($Radius * [math]::Sin($Radians)), 3)
+    }
+}
+
+function Write-StatusPieSvg {
     param(
         [array]$ActiveStatuses,
         [hashtable]$Counts
@@ -140,67 +155,57 @@ function Write-StatusBarSvg {
         $Total += $Counts[$Status.Name]
     }
 
-    $MaxValue = ($ActiveStatuses | ForEach-Object { $Counts[$_.Name] } | Measure-Object -Maximum).Maximum
-    if ($null -eq $MaxValue -or $MaxValue -lt 10) {
-        $MaxValue = 10
-    }
-    $MaxAxis = [int]([math]::Ceiling($MaxValue / 10) * 10)
-    $Bottom = 318
-    $Top = 78
-    $Height = $Bottom - $Top
-    $Scale = $Height / $MaxAxis
-    $BarWidth = 80
-    $FirstX = 116
-    $StepX = 160
-
     $Desc = ($ActiveStatuses | ForEach-Object { "$($_.Name)$($Counts[$_.Name])" }) -join "，"
-    $Grid = New-Object System.Collections.Generic.List[string]
-    for ($Tick = 0; $Tick -le $MaxAxis; $Tick += 10) {
-        $Y = [int][math]::Round($Bottom - ($Tick * $Scale))
-        $Stroke = if ($Tick -eq 0) { "#d1d5db" } else { "#e5e7eb" }
-        $Grid.Add("    <line x1=""64"" y1=""$Y"" x2=""720"" y2=""$Y"" stroke=""$Stroke"" stroke-width=""1""/>")
-    }
-    for ($Tick = 0; $Tick -le $MaxAxis; $Tick += 10) {
-        $Y = [int][math]::Round($Bottom - ($Tick * $Scale) + 4)
-        $Grid.Add("    <text x=""42"" y=""$Y"" text-anchor=""end"">$Tick</text>")
-    }
-
-    $Bars = New-Object System.Collections.Generic.List[string]
-    $Labels = New-Object System.Collections.Generic.List[string]
+    $CenterX = 258
+    $CenterY = 232
+    $Radius = 132
+    $Slices = New-Object System.Collections.Generic.List[string]
+    $Legend = New-Object System.Collections.Generic.List[string]
+    $Angle = 0.0
     for ($i = 0; $i -lt $ActiveStatuses.Count; $i++) {
         $Status = $ActiveStatuses[$i]
         $Count = [int]$Counts[$Status.Name]
-        $BarHeight = [int][math]::Round($Count * $Scale)
-        if ($Count -gt 0 -and $BarHeight -lt 5) {
-            $BarHeight = 5
+        if ($Count -le 0) {
+            continue
         }
-        $Y = $Bottom - $BarHeight
-        $X = $FirstX + ($i * $StepX)
-        $TextX = $X + ($BarWidth / 2)
-        $TextY = $Y - 8
-        $Bars.Add("    <rect x=""$X"" y=""$Y"" width=""$BarWidth"" height=""$BarHeight"" rx=""4"" fill=""$($Status.Fill)"" stroke=""$($Status.Stroke)""/>")
-        $Bars.Add("    <text x=""$TextX"" y=""$TextY"" fill=""#111827"">$Count</text>")
-        $Labels.Add("    <text x=""$TextX"" y=""346"">$($Status.Name)</text>")
+        $Sweep = 360 * $Count / $Total
+        $Start = Get-PiePoint $CenterX $CenterY $Radius $Angle
+        $EndAngle = $Angle + $Sweep
+        $End = Get-PiePoint $CenterX $CenterY $Radius $EndAngle
+        $LargeArc = if ($Sweep -gt 180) { 1 } else { 0 }
+        $Slices.Add("    <path d=""M $CenterX $CenterY L $($Start.X) $($Start.Y) A $Radius $Radius 0 $LargeArc 1 $($End.X) $($End.Y) Z"" fill=""$($Status.ChartFill)"" stroke=""#ffffff"" stroke-width=""3""/>")
+
+        $LabelAngle = $Angle + ($Sweep / 2)
+        $LabelPoint = Get-PiePoint $CenterX $CenterY 82 $LabelAngle
+        $Percent = [math]::Round(($Count / $Total) * 100, 1)
+        if ($Percent -ge 5) {
+            $Slices.Add("    <text x=""$($LabelPoint.X)"" y=""$($LabelPoint.Y)"" fill=""#ffffff"" font-size=""15"" font-weight=""700"" text-anchor=""middle"" dominant-baseline=""middle"">$Percent%</text>")
+        }
+
+        $LegendY = 128 + ($i * 58)
+        $Legend.Add("    <rect x=""492"" y=""$($LegendY - 18)"" width=""24"" height=""24"" rx=""5"" fill=""$($Status.ChartFill)""/>")
+        $Legend.Add("    <text x=""528"" y=""$($LegendY - 2)"" fill=""#111827"" font-size=""15"" font-weight=""700"">$($Status.Name)</text>")
+        $Legend.Add("    <text x=""528"" y=""$($LegendY + 20)"" fill=""#4b5563"" font-size=""13"">$Count 篇，占比 $Percent%</text>")
+        $Angle = $EndAngle
     }
 
     $Svg = @"
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="430" viewBox="0 0 760 430" role="img" aria-labelledby="title desc">
-  <title id="title">论文状态统计柱状图</title>
+  <title id="title">论文状态统计饼图</title>
   <desc id="desc">$Desc。</desc>
   <rect width="760" height="430" fill="#ffffff"/>
   <text x="30" y="34" fill="#111827" font-family="Arial, Microsoft YaHei, sans-serif" font-size="22" font-weight="700">论文状态统计</text>
   <text x="30" y="58" fill="#6b7280" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13">共 $Total 篇/项；已接收论文不纳入统计</text>
 
-  <g font-family="Arial, Microsoft YaHei, sans-serif" font-size="12" fill="#6b7280">
-$($Grid -join $NewLine)
+  <g font-family="Arial, Microsoft YaHei, sans-serif">
+$($Slices -join $NewLine)
+    <circle cx="$CenterX" cy="$CenterY" r="58" fill="#ffffff"/>
+    <text x="$CenterX" y="$($CenterY - 8)" fill="#6b7280" font-size="13" font-weight="700" text-anchor="middle">总计</text>
+    <text x="$CenterX" y="$($CenterY + 22)" fill="#111827" font-size="28" font-weight="700" text-anchor="middle">$Total</text>
   </g>
 
-  <g font-family="Arial, Microsoft YaHei, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
-$($Bars -join ($NewLine + $NewLine))
-  </g>
-
-  <g font-family="Arial, Microsoft YaHei, sans-serif" font-size="12" fill="#374151" text-anchor="middle">
-$($Labels -join $NewLine)
+  <g font-family="Arial, Microsoft YaHei, sans-serif">
+$($Legend -join $NewLine)
   </g>
 </svg>
 "@
@@ -209,6 +214,7 @@ $($Labels -join $NewLine)
 }
 
 $Readme = [System.IO.File]::ReadAllText($ReadmePath, $Utf8NoBom)
+$Readme = [regex]::Replace($Readme, '(?s)\s*<style>.*?</style>\s*', "$NewLine$NewLine", 1)
 $BodyMatch = [regex]::Match($Readme, '(?s)(<tbody>\s*)(.*?)(\s*</tbody>)')
 if (-not $BodyMatch.Success) {
     throw "README.md 中没有找到论文状态表 <tbody>。"
@@ -259,16 +265,9 @@ $LegendRows = ($Statuses | ForEach-Object {
 $Legend = "<table width=""100%"">$NewLine$LegendRows$NewLine</table>"
 $Readme = [regex]::Replace($Readme, '(?s)(## 颜色图例\s*)<table width="100%">.*?</table>', "`${1}$Legend", 1)
 
-$MaintenanceRule = '> **维护规则：** 本仓库已启用提交前自动排序；修改论文状态后，pre-commit 会运行 `pwsh -File scripts/Update-PaperStatus.ps1` 并同步 README 和图表，GitHub Actions 会在推送后再次兜底规范化。'
-if ($Readme -match [regex]::Escape("> **维护规则：**")) {
-    $Readme = [regex]::Replace($Readme, '(?m)^> \*\*维护规则：\*\*.*$', [System.Text.RegularExpressions.MatchEvaluator]{ param($m) $MaintenanceRule }, 1)
-}
-else {
-    $Readme = $Readme.Replace(
-        "> **说明：** 待投稿包含所有未处于投稿流程中的论文；已接收论文不再纳入本表统计。状态列用彩色圆点区分。",
-        "> **说明：** 待投稿包含所有未处于投稿流程中的论文；已接收论文不再纳入本表统计。状态列用彩色圆点区分。$NewLine$NewLine$MaintenanceRule"
-    )
-}
+$Readme = [regex]::Replace($Readme, '(?m)^> \*\*说明：\*\*.*\r?\n?', '', 1)
+$Readme = [regex]::Replace($Readme, '(?m)^> \*\*维护规则：\*\*.*\r?\n?', '', 1)
+$Readme = $Readme.Replace('alt="状态统计柱状图"', 'alt="状态统计饼图"')
 
 $StatRows = ($Statuses | ForEach-Object {
     $Count = $Counts[$_.Name]
@@ -286,7 +285,7 @@ $Readme = [regex]::Replace(
 $Chart = [System.IO.File]::ReadAllText($ChartHtmlPath, $Utf8NoBom)
 $LabelLines = ($ActiveStatuses | ForEach-Object { "      ""$($_.Name)""" }) -join ",$NewLine"
 $ValueLine = ($ActiveStatuses | ForEach-Object { $Counts[$_.Name] }) -join ", "
-$ColorLines = ($ActiveStatuses | ForEach-Object { "      ""$($_.Fill)""" }) -join ",$NewLine"
+$ColorLines = ($ActiveStatuses | ForEach-Object { "      ""$($_.ChartFill)""" }) -join ",$NewLine"
 $StrokeLines = ($ActiveStatuses | ForEach-Object { "      ""$($_.Stroke)""" }) -join ",$NewLine"
 $Chart = [regex]::Replace($Chart, '(?s)    const labels = \[.*?\];', "    const labels = [$NewLine$LabelLines$NewLine    ];", 1)
 $Chart = [regex]::Replace($Chart, '    const values = \[[^\]]*\];', "    const values = [$ValueLine];", 1)
@@ -294,4 +293,4 @@ $Chart = [regex]::Replace($Chart, '(?s)    const colors = \[.*?\];', "    const 
 $Chart = [regex]::Replace($Chart, '(?s)    const markerLines = \[.*?\];', "    const markerLines = [$NewLine$StrokeLines$NewLine    ];", 1)
 [System.IO.File]::WriteAllText($ChartHtmlPath, $Chart, $Utf8NoBom)
 
-Write-StatusBarSvg $ActiveStatuses $Counts
+Write-StatusPieSvg $ActiveStatuses $Counts

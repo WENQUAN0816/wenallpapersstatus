@@ -1,23 +1,5 @@
 # 全部论文投稿状态
 
-
-
-<style>
-
-table.paper-status-table { width: 100%; max-width: 100%; table-layout: auto; }
-
-table.paper-status-table th:nth-child(1), table.paper-status-table td:nth-child(1) { white-space: nowrap; min-width: 48px; width: 6%; text-align: center; }
-
-table.paper-status-table th:nth-child(2), table.paper-status-table td:nth-child(2) { min-width: 520px; width: 49%; }
-
-table.paper-status-table th:nth-child(3), table.paper-status-table td:nth-child(3) { min-width: 540px; width: 45%; }
-
-table th, table td { vertical-align: top; }
-
-</style>
-
-
-
 > **最后更新：** 2026-05-07
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
@@ -41,9 +23,7 @@ table th, table td { vertical-align: top; }
 
 
 
-> **说明：** 待投稿包含所有未处于投稿流程中的论文；已接收论文不再纳入本表统计。状态列用彩色圆点区分。
 
-> **维护规则：** 本仓库已启用提交前自动排序；修改论文状态后，pre-commit 会运行 `pwsh -File scripts/Update-PaperStatus.ps1` 并同步 README 和图表，GitHub Actions 会在推送后再次兜底规范化。
 
 ## 状态统计
 
@@ -60,7 +40,7 @@ table th, table td { vertical-align: top; }
 </table>
 </td>
 <td valign="top" width="66%">
-<img src="status_bar_chart.svg" alt="状态统计柱状图" width="100%">
+<img src="status_bar_chart.svg" alt="状态统计饼图" width="100%">
 </td>
 </tr>
 </table>
