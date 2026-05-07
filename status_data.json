@@ -60,12 +60,12 @@
     "impactFactor": "",
     "indexType": "",
     "recommendedJournals": "Multimedia Tools and Applications；The Visual Computer；Image and Vision Computing；Soft Computing",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Ts. Dr. Jestin bin Nordin；Dr. Nooriati binti Taib",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
     "correspondingAuthors": [
       "Quan Wen"
     ],
     "updatedAt": "2026-05-08",
-    "situation": "Blocked before final approval. 2026-05-08 Multimedia Tools and Applications / Springer Editorial Manager draft MTAP-S-26-02910 shows AgeFriendlyDiff metadata and status Needs Approval, but the generated PDF body is a different manuscript: Dependency-Aware 3D Scene Graph Generation for Automated Age-Friendly Home Environment Assessment via Multimodal Feature Learning, with authors Quan Wen, Mazran Ismail, Muhammad Hafeez Abdul Nasir, and Yanting Wu. Do not click Approve Submission. Local AgeFriendlyDiff package remains correct and synced at manuscript repo commit 0c36fd86dae4998f64b45d3d0e35f5aba8eca752; current EM draft appears to be a wrong-draft/identity conflict requiring manual removal/restart or portal support review. 已在最终审批前阻塞；EM 草稿 MTAP-S-26-02910 的元数据显示 AgeFriendlyDiff 且状态 Needs Approval，但系统生成 PDF 正文为另一篇依赖感知三维场景图稿件并含 Yanting Wu，严禁点击 Approve Submission；本地 AgeFriendlyDiff 包正确且已推送，需人工处理错误草稿/重新建稿或联系系统支持。",
+    "situation": "Blocked before final approval. 2026-05-08 Multimedia Tools and Applications / Springer Editorial Manager draft MTAP-S-26-02910 shows AgeFriendlyDiff metadata and status Needs Approval, but the generated PDF body is a different manuscript. Do not click Approve Submission. Local AgeFriendlyDiff package has been corrected to the approved three-author baseline (Quan Wen; Mazran Ismail; Muhammad Hafeez Abdul Nasir) and pushed at manuscript repo commit e73c8c3264fac0de4f4432b5971a472141fea3bd; current EM draft appears to be a wrong-draft/identity conflict requiring manual removal/restart or portal support review. 已在最终审批前阻塞；EM 草稿 MTAP-S-26-02910 的元数据显示 AgeFriendlyDiff 且状态 Needs Approval，但系统生成 PDF 正文为另一篇稿件，严禁点击 Approve Submission；本地 AgeFriendlyDiff 包已按三作者基线修正并推送，需人工处理错误草稿/重新建稿或联系系统支持。",
     "impactSort": -1
   },
   {
@@ -199,13 +199,13 @@
     "impactFactor": "",
     "indexType": "",
     "recommendedJournals": "",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
     "correspondingAuthors": [
       "Quan Wen",
       "Mazran Ismail"
     ],
     "updatedAt": "2026-05-08",
-    "situation": "Submission started (not yet completed). 2026-05-07 retargeted to Multimedia Tools and Applications / Springer Editorial Manager; Springer Nature LaTeX source package prepared, compiled, committed, and pushed at manuscript repo commit fdc9db3ba68a86b9fb58059a86f604e8f1484523. EM draft MTAP-S-26-02910 created and LaTeX source files uploaded; stopped on Additional Information because EM warned: This page is being accessed by another user. Some actions are not available. 已开始投稿（尚未最终提交）；EM 草稿已建立并上传 LaTeX 源文件，因投稿系统并发访问提示暂停，尚未最终提交。",
+    "situation": "Submission started (not yet completed). 2026-05-08 retargeted to Multimedia Tools and Applications / Springer Editorial Manager; Springer Nature LaTeX source package corrected to the approved three-author baseline (Quan Wen; Mazran Ismail; Muhammad Hafeez Abdul Nasir), compiled, committed, and pushed at manuscript repo commit f47b1697b95afe1e0b0de44fb7bd1620571e9810. EM draft MTAP-S-26-02910 had been created earlier, but portal authors/generated PDF must be re-audited before any final approval; final submission is not completed. 已开始投稿（尚未最终提交）；本地 MTAP LaTeX 源文件包已按三作者基线修正、编译并推送；EM 草稿仍需重新核对门户作者和系统生成 PDF，尚未最终提交。",
     "impactSort": -1
   },
   {
@@ -735,13 +735,13 @@
     "impactFactor": "3.6",
     "indexType": "SCIE",
     "recommendedJournals": "",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
     "correspondingAuthors": [
       "Quan Wen",
       "Mazran Ismail"
     ],
     "updatedAt": "2026-05-08",
-    "situation": "Submission started (not yet completed). 2026-05-07 retargeted to Multimedia Tools and Applications / Springer Editorial Manager; Springer Nature LaTeX source package prepared, compiled, committed, and pushed at manuscript repo commit fdc9db3ba68a86b9fb58059a86f604e8f1484523. EM draft MTAP-S-26-02910 created and LaTeX source files uploaded; stopped on Additional Information because EM warned: This page is being accessed by another user. Some actions are not available. 已开始投稿（尚未最终提交）；EM 草稿已建立并上传 LaTeX 源文件，因投稿系统并发访问提示暂停，尚未最终提交。",
+    "situation": "Submission started (not yet completed). 2026-05-08 retargeted to Multimedia Tools and Applications / Springer Editorial Manager; Springer Nature LaTeX source package corrected to the approved three-author baseline (Quan Wen; Mazran Ismail; Muhammad Hafeez Abdul Nasir), compiled, committed, and pushed at manuscript repo commit f47b1697b95afe1e0b0de44fb7bd1620571e9810. EM draft MTAP-S-26-02910 had been created earlier, but portal authors/generated PDF must be re-audited before any final approval; final submission is not completed. 已开始投稿（尚未最终提交）；本地 MTAP LaTeX 源文件包已按三作者基线修正、编译并推送；EM 草稿仍需重新核对门户作者和系统生成 PDF，尚未最终提交。",
     "impactSort": 3.6
   },
   {
