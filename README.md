@@ -105,7 +105,7 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">GridMamba-Risk：基于网格状态空间模型的整屋三维点云跌倒风险空间预测</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Journal of Supercomputing</td>
-<!-- 后台情况说明：Submitted / Technical Check. The Journal of Supercomputing / Springer SNAPP success page shows Submission received and Technical Check for draft c1ee17a9-69a9-4b82-90c4-597d7950f181; LaTeX source package jos_snapp_latex_source_20260507.zip and cover_letter_jos.pdf uploaded; generated reviewer PDF verified against title/authors; no manuscript ID visible on the success page; paper repo commit a4fd1828200ed02705565d0be66ea813a11d7e2a. 已最终提交并进入 Technical Check；SNAPP 成功页显示 Submission received，草稿 c1ee17a9-69a9-4b82-90c4-597d7950f181，LaTeX 源文件包和 cover letter 已上传，系统生成 PDF 已核对题名/作者；成功页暂未显示稿号；论文仓库 commit a4fd1828200ed02705565d0be66ea813a11d7e2a。 -->
+<!-- 后台情况说明：Submitted / Technical Check. The Journal of Supercomputing / Springer SNAPP tracking page shows Submission received and Technical Check in progress; Submission ID c1ee17a9-69a9-4b82-90c4-597d7950f181, version v.1.0; LaTeX source package jos_snapp_latex_source_20260507.zip and cover_letter_jos.pdf uploaded; generated reviewer PDF verified against title/authors; paper repo commit a4fd1828200ed02705565d0be66ea813a11d7e2a. 已最终提交并进入 Technical Check；SNAPP 跟踪页显示 Submission received 且 Technical Check 进行中；Submission ID c1ee17a9-69a9-4b82-90c4-597d7950f181，版本 v.1.0；LaTeX 源文件包和 cover letter 已上传，系统生成 PDF 已核对题名/作者；论文仓库 commit a4fd1828200ed02705565d0be66ea813a11d7e2a。 -->
 </tr>
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
