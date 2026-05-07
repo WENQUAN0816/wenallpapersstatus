@@ -22,15 +22,19 @@
 
   <g font-family="Arial, Microsoft YaHei, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
     <rect x="116" y="241" width="80" height="77" rx="4" fill="#f2f2f2" stroke="#9ca3af"/>
+
     <text x="156" y="233" fill="#111827">16</text>
 
     <rect x="276" y="313" width="80" height="5" rx="4" fill="#ffd9ec" stroke="#ec4899"/>
+
     <text x="316" y="305" fill="#111827">1</text>
 
     <rect x="436" y="107" width="80" height="211" rx="4" fill="#fff8d9" stroke="#eab308"/>
+
     <text x="476" y="99" fill="#111827">44</text>
 
     <rect x="596" y="284" width="80" height="34" rx="4" fill="#e8f9ee" stroke="#22c55e"/>
+
     <text x="636" y="276" fill="#111827">7</text>
   </g>
 

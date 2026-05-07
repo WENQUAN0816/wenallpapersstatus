@@ -1,0 +1,34 @@
+name: Status table order
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  normalize:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Normalize status table
+        shell: pwsh
+        run: ./scripts/Update-PaperStatus.ps1
+
+      - name: Commit normalized files
+        shell: bash
+        run: |
+          if ! git diff --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add README.md status_bar_chart.svg status_chart.html
+            git commit -m "Normalize status table order"
+            git push
+          fi
