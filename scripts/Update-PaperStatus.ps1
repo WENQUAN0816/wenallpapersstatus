@@ -178,15 +178,12 @@ function Write-StatusPieSvg {
 
         $LabelAngle = $Angle + ($Sweep / 2)
         $LabelPoint = Get-PiePoint $CenterX $CenterY 82 $LabelAngle
-        $Percent = [math]::Round(($Count / $Total) * 100, 1)
-        if ($Percent -ge 5) {
-            $Slices.Add("    <text x=""$($LabelPoint.X)"" y=""$($LabelPoint.Y)"" fill=""#ffffff"" font-size=""15"" font-weight=""700"" text-anchor=""middle"" dominant-baseline=""middle"">$Percent%</text>")
-        }
+        $Slices.Add("    <text x=""$($LabelPoint.X)"" y=""$($LabelPoint.Y)"" fill=""#ffffff"" font-size=""18"" font-weight=""800"" text-anchor=""middle"" dominant-baseline=""middle"">$Count</text>")
 
         $LegendY = 128 + ($i * 58)
         $Legend.Add("    <rect x=""492"" y=""$($LegendY - 18)"" width=""24"" height=""24"" rx=""5"" fill=""$($Status.ChartFill)""/>")
         $Legend.Add("    <text x=""528"" y=""$($LegendY - 2)"" fill=""#111827"" font-size=""15"" font-weight=""700"">$($Status.Name)</text>")
-        $Legend.Add("    <text x=""528"" y=""$($LegendY + 20)"" fill=""#4b5563"" font-size=""13"">$Count 篇，占比 $Percent%</text>")
+        $Legend.Add("    <text x=""528"" y=""$($LegendY + 20)"" fill=""#4b5563"" font-size=""13"">$Count 篇</text>")
         $Angle = $EndAngle
     }
 
@@ -228,13 +225,12 @@ function Write-IndexPage {
 
     $SummaryCards = ($ActiveStatuses | ForEach-Object {
         $Count = $Counts[$_.Name]
-        $Percent = [math]::Round(($Count / $Total) * 100, 1)
         @"
         <article class="stat-card" style="--accent:$($_.ChartFill)">
           <span class="dot">$($_.Icon)</span>
           <div>
             <strong>$Count</strong>
-            <span>$($_.Name) · $Percent%</span>
+            <span>$($_.Name)</span>
           </div>
         </article>
 "@
