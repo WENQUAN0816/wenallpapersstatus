@@ -23,12 +23,12 @@
     "impactSort": -1
   },
   {
-    "statusDot": "⚪",
-    "status": "待投稿",
-    "statusOrder": 0,
+    "statusDot": "🟢",
+    "status": "外审中",
+    "statusOrder": 3,
     "title": "基于线性调度法的适老改造模块制造多目标优化",
     "journalTrack": "",
-    "bg": "#f2f2f2",
+    "bg": "#e8f9ee",
     "currentJournal": "",
     "casXr": "",
     "cas": "",
@@ -46,26 +46,26 @@
     "impactSort": -1
   },
   {
-    "statusDot": "⚪",
-    "status": "待投稿",
-    "statusOrder": 0,
+    "statusDot": "🟢",
+    "status": "外审中",
+    "statusOrder": 3,
     "title": "AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化",
     "journalTrack": "Multimedia Tools and Applications",
-    "bg": "#f2f2f2",
-    "currentJournal": "",
+    "bg": "#e8f9ee",
+    "currentJournal": "Multimedia Tools and Applications",
     "casXr": "",
     "cas": "",
     "xr": "",
     "jcr": "",
     "impactFactor": "",
-    "indexType": "",
+    "indexType": "EI",
     "recommendedJournals": "Multimedia Tools and Applications；The Visual Computer；Image and Vision Computing；Soft Computing",
     "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
     "correspondingAuthors": [
       "Quan Wen"
     ],
     "updatedAt": "2026-05-08",
-    "situation": "Blocked before final approval. 2026-05-08 Multimedia Tools and Applications / Springer Editorial Manager draft MTAP-S-26-02910 shows AgeFriendlyDiff metadata and status Needs Approval, but the generated PDF body is a different manuscript. Do not click Approve Submission. Local AgeFriendlyDiff package has been corrected to the approved three-author baseline (Quan Wen; Mazran Ismail; Muhammad Hafeez Abdul Nasir) and pushed at manuscript repo commit e73c8c3264fac0de4f4432b5971a472141fea3bd; current EM draft appears to be a wrong-draft/identity conflict requiring manual removal/restart or portal support review. 已在最终审批前阻塞；EM 草稿 MTAP-S-26-02910 的元数据显示 AgeFriendlyDiff 且状态 Needs Approval，但系统生成 PDF 正文为另一篇稿件，严禁点击 Approve Submission；本地 AgeFriendlyDiff 包已按三作者基线修正并推送，需人工处理错误草稿/重新建稿或联系系统支持。",
+    "situation": "Submitted. Multimedia Tools and Applications / Editorial Manager shows the manuscript in Submissions Being Processed for Author: manuscript number MTAP-D-26-02294, title AgeFriendlyDiff: Conditional Diffusion-Based 3D Visualization of Age-Friendly Home Modifications from Single Indoor Photographs, initial submitted 2026-05-07 12:23:51, status date 2026-05-07 12:23:53, current status Submitted. Local corrected three-author MTAP package is pushed at manuscript repo commit e73c8c3264fac0de4f4432b5971a472141fea3bd. 已正式投稿；MTAP / Editorial Manager 的 Submissions Being Processed for Author 页面显示稿号 MTAP-D-26-02294，当前状态 Submitted，初始提交时间 2026-05-07 12:23:51；本地三作者修正版包已推送。",
     "impactSort": -1
   },
   {
@@ -92,19 +92,19 @@
     "impactSort": -1
   },
   {
-    "statusDot": "⚪",
-    "status": "待投稿",
-    "statusOrder": 0,
+    "statusDot": "🟢",
+    "status": "外审中",
+    "statusOrder": 3,
     "title": "GridMamba-Risk：基于网格状态空间模型的整屋三维点云跌倒风险空间预测",
     "journalTrack": "Journal of Supercomputing",
-    "bg": "#f2f2f2",
-    "currentJournal": "",
-    "casXr": "",
+    "bg": "#e8f9ee",
+    "currentJournal": "JOURNAL OF SUPERCOMPUTING",
+    "casXr": "CAS大4小3/4；XR大3小3",
     "cas": "",
     "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
+    "jcr": "Q2",
+    "impactFactor": "2.7",
+    "indexType": "SCIE",
     "recommendedJournals": "The Journal of Supercomputing；Cluster Computing；Multimedia Tools and Applications；Soft Computing",
     "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
     "correspondingAuthors": [
@@ -113,7 +113,7 @@
     ],
     "updatedAt": "2026-05-08",
     "situation": "Submitted / Technical Check. The Journal of Supercomputing / Springer SNAPP tracking page shows Submission received and Technical Check in progress; Submission ID c1ee17a9-69a9-4b82-90c4-597d7950f181, version v.1.0; LaTeX source package jos_snapp_latex_source_20260507.zip and cover_letter_jos.pdf uploaded; generated reviewer PDF verified against title/authors; paper repo commit a4fd1828200ed02705565d0be66ea813a11d7e2a. 已最终提交并进入 Technical Check；SNAPP 跟踪页显示 Submission received 且 Technical Check 进行中；Submission ID c1ee17a9-69a9-4b82-90c4-597d7950f181，版本 v.1.0；LaTeX 源文件包和 cover letter 已上传，系统生成 PDF 已核对题名/作者；论文仓库 commit a4fd1828200ed02705565d0be66ea813a11d7e2a。",
-    "impactSort": -1
+    "impactSort": 2.7
   },
   {
     "statusDot": "⚪",
