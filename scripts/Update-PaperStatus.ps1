@@ -362,24 +362,38 @@ function Write-IndexPage {
     }
 
     .legend-panel {
-      padding: 14px;
+      padding: 18px;
     }
 
     .legend-panel h2,
     .table-panel h2 {
       margin: 0 0 12px;
-      font-size: 18px;
+      font-size: 22px;
+      font-weight: 800;
     }
 
     .legend-panel table {
       width: 100%;
       border-collapse: collapse;
-      font-size: 14px;
+      font-size: 18px;
+      font-weight: 700;
     }
 
     .legend-panel td {
-      padding: 9px 8px;
+      padding: 12px 8px;
       border-bottom: 1px solid var(--line);
+    }
+
+    .legend-panel td:first-child {
+      width: 42px;
+      font-size: 24px;
+      line-height: 1;
+    }
+
+    .legend-panel td:last-child {
+      text-align: right;
+      font-size: 20px;
+      font-weight: 800;
     }
 
     .table-panel {
