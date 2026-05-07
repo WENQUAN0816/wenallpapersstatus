@@ -190,30 +190,6 @@
     "statusDot": "⚪",
     "status": "待投稿",
     "statusOrder": 0,
-    "title": "基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估",
-    "journalTrack": "Multimedia Tools and Applications",
-    "bg": "#f2f2f2",
-    "currentJournal": "",
-    "casXr": "",
-    "cas": "",
-    "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
-    "recommendedJournals": "",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
-    "correspondingAuthors": [
-      "Quan Wen",
-      "Mazran Ismail"
-    ],
-    "updatedAt": "2026-05-08",
-    "situation": "Submission not completed. 2026-05-08 MTAP / Editorial Manager account showed no editable AF-SGNet draft: Incomplete Submissions (0), Submissions Waiting for Author's Approval (0); only AgeFriendlyDiff MTAP-D-26-02294 appeared under Submissions Being Processed. Local MTAP LaTeX source package was corrected to the approved three-author baseline (Quan Wen; Mazran Ismail; Muhammad Hafeez Abdul Nasir), compiled, committed, and pushed at manuscript repo commit f47b1697b95afe1e0b0de44fb7bd1620571e9810. 未完成投稿；MTAP 门户未找到可编辑 AF-SGNet 草稿，仅本地三作者修正版包已推送。",
-    "impactSort": -1
-  },
-  {
-    "statusDot": "⚪",
-    "status": "待投稿",
-    "statusOrder": 0,
     "title": "基于条件 GAN 与随机森林的多源数据融合社区韧性评估：来自中国河南的证据",
     "journalTrack": "Sustainable Cities and Society",
     "bg": "#f2f2f2",
@@ -491,29 +467,6 @@
     "updatedAt": "2026-05-08",
     "situation": "MDPI SuSy 已最终提交；上传主稿包和 cover letter，元数据、作者角色、建议审稿人和 Statements 已完成。",
     "impactSort": 3.1
-  },
-  {
-    "statusDot": "🟡",
-    "status": "内审中",
-    "statusOrder": 2,
-    "title": "面向多层粮仓全年能源优化的双模式辐射制冷与太阳能供热",
-    "journalTrack": "Energy and Buildings → Energy",
-    "bg": "#fff8d9",
-    "currentJournal": "Energy",
-    "casXr": "CAS大1小1/2；XR大1小1/2",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q1",
-    "impactFactor": "9.0",
-    "indexType": "SCIE",
-    "recommendedJournals": "",
-    "authors": "Ruili Liu；Quan Wen；Mazran Ismail",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "updatedAt": "2026-05-08",
-    "situation": "Energy / Editorial Manager 确认邮件已收到；正式稿号 EGY-D-26-10505；邮件说明稿件已被编辑部收到并 under review。作者审批 PDF 已核验 37 页，论文仓库 commit 38d9aa6。",
-    "impactSort": 9.0
   },
   {
     "statusDot": "🟡",
@@ -1212,29 +1165,6 @@
     "statusDot": "🟡",
     "status": "内审中",
     "statusOrder": 2,
-    "title": "粮食储藏仓制冷系统真实世界能效评估：来自中国河南 65 个设施的证据",
-    "journalTrack": "Journal of Cleaner Production → Energy → Scientific Reports",
-    "bg": "#fff8d9",
-    "currentJournal": "Scientific Reports",
-    "casXr": "CAS大3小3；XR大3小3",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q1",
-    "impactFactor": "3.9",
-    "indexType": "SCIE",
-    "recommendedJournals": "",
-    "authors": "Quan Wen；Ruili Liu；Mazran Ismail",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "updatedAt": "2026-05-08",
-    "situation": "Scientific Reports / SNAPP 显示 Submission received，进入 Technical Check；corrected main-tex-only ZIP 已上传，生成 review PDF 为 27 页且正文完整。",
-    "impactSort": 3.9
-  },
-  {
-    "statusDot": "🟡",
-    "status": "内审中",
-    "statusOrder": 2,
     "title": "中国老龄化背景下农村学校改造养老设施的公平导向服务就绪框架",
     "journalTrack": "International Journal for Equity in Health",
     "bg": "#fff8d9",
@@ -1508,29 +1438,6 @@
     "updatedAt": "2026-05-08",
     "situation": "",
     "impactSort": 3.9
-  },
-  {
-    "statusDot": "🟢",
-    "status": "外审中",
-    "statusOrder": 3,
-    "title": "后疫情时代中国适老社区韧性建设：循证多准则评估框架",
-    "journalTrack": "Journal of Health, Population and Nutrition",
-    "bg": "#e8f9ee",
-    "currentJournal": "Journal of Health, Population and Nutrition",
-    "casXr": "CAS大3小3；XR大3小3",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q2",
-    "impactFactor": "3.6",
-    "indexType": "SCIE",
-    "recommendedJournals": "",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "updatedAt": "2026-05-08",
-    "situation": "",
-    "impactSort": 3.6
   },
   {
     "statusDot": "🟢",
