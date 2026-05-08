@@ -453,11 +453,6 @@
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Humanities and Social Sciences Communications</td>
 </tr>
 
-<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
-<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
-<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">AFLE-HIV：中国老年 HIV 感染者适老居住环境评估框架构建</td>
-<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">BMC Public Health</td>
-</tr>
 
 </tbody>
 
