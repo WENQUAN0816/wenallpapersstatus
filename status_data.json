@@ -1280,29 +1280,6 @@
     "statusDot": "🟢",
     "status": "外审中",
     "statusOrder": 3,
-    "title": "AFLE-HIV：中国老年 HIV 感染者适老居住环境评估框架构建",
-    "journalTrack": "BMC Public Health",
-    "bg": "#e8f9ee",
-    "currentJournal": "BMC Public Health",
-    "casXr": "CAS大2小2；XR大2小2",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q1",
-    "impactFactor": "3.5",
-    "indexType": "SCIE",
-    "recommendedJournals": "",
-    "authors": "Quan Wen",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "updatedAt": "2026-05-08",
-    "situation": "",
-    "impactSort": 3.5
-  },
-  {
-    "statusDot": "🟢",
-    "status": "外审中",
-    "statusOrder": 3,
     "title": "AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化",
     "journalTrack": "Multimedia Tools and Applications",
     "bg": "#e8f9ee",
@@ -1485,5 +1462,28 @@
     "updatedAt": "2026-05-08",
     "situation": "",
     "impactSort": 3.6
+  },
+  {
+    "statusDot": "✅",
+    "status": "已接受",
+    "statusOrder": 4,
+    "title": "AFLE-HIV：中国老年 HIV 感染者适老居住环境评估框架构建",
+    "journalTrack": "BMC Public Health",
+    "bg": "#dbeafe",
+    "currentJournal": "BMC Public Health",
+    "casXr": "CAS大2小2；XR大2小2",
+    "cas": "",
+    "xr": "",
+    "jcr": "Q1",
+    "impactFactor": "3.5",
+    "indexType": "SCIE",
+    "recommendedJournals": "",
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
+    "updatedAt": "2026-05-08",
+    "situation": "2026-05-08 BMC Public Health 已接受。",
+    "impactSort": 3.5
   }
 ]

@@ -16,6 +16,7 @@ STATUS_META = {
     "💖": {"label": "需修订", "order": 1, "color": "#f43f5e", "bg": "#ffd9ec"},
     "🟡": {"label": "内审中", "order": 2, "color": "#f59e0b", "bg": "#fff8d9"},
     "🟢": {"label": "外审中", "order": 3, "color": "#22c55e", "bg": "#e8f9ee"},
+    "✅": {"label": "已接受", "order": 4, "color": "#2563eb", "bg": "#dbeafe"},
 }
 
 
@@ -498,6 +499,10 @@ def render(rows):
         f'<tr><td>{dot}</td><td>{meta["label"]}</td><td>{counts.get(meta["label"], 0)}</td></tr>'
         for dot, meta in STATUS_META.items()
     )
+    summary_cards = "\n      ".join(
+        f'<article class="stat-card" style="--accent:{meta["color"]}"><span class="dot">{dot}</span><div><strong>{counts.get(meta["label"], 0)}</strong><span>{meta["label"]}</span></div></article>'
+        for dot, meta in STATUS_META.items()
+    )
     return f"""<!doctype html>
 <html lang="zh-CN">
 <head>
@@ -555,10 +560,7 @@ def render(rows):
       <span class="updated">最后更新：{today}</span>
     </header>
     <section class="summary">
-      <article class="stat-card" style="--accent:#64748b"><span class="dot">⚪</span><div><strong>{counts.get("待投稿", 0)}</strong><span>待投稿</span></div></article>
-      <article class="stat-card" style="--accent:#f43f5e"><span class="dot">💖</span><div><strong>{counts.get("需修订", 0)}</strong><span>需修订</span></div></article>
-      <article class="stat-card" style="--accent:#f59e0b"><span class="dot">🟡</span><div><strong>{counts.get("内审中", 0)}</strong><span>内审中</span></div></article>
-      <article class="stat-card" style="--accent:#22c55e"><span class="dot">🟢</span><div><strong>{counts.get("外审中", 0)}</strong><span>外审中</span></div></article>
+      {summary_cards}
     </section>
     <section class="dashboard">
       <div class="panel chart-panel"><img src="status_bar_chart.svg" alt="论文状态统计饼图"></div>

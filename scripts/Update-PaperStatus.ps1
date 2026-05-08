@@ -13,7 +13,8 @@ $Statuses = @(
     [pscustomobject]@{ Name = "待投稿"; Icon = "&#9898;"; Fill = "#f2f2f2"; Stroke = "#9ca3af"; ChartFill = "#64748b" },
     [pscustomobject]@{ Name = "需修订"; Icon = "&#128150;"; Fill = "#ffd9ec"; Stroke = "#ec4899"; ChartFill = "#f43f5e" },
     [pscustomobject]@{ Name = "内审中"; Icon = "&#128993;"; Fill = "#fff8d9"; Stroke = "#eab308"; ChartFill = "#f59e0b" },
-    [pscustomobject]@{ Name = "外审中"; Icon = "&#128994;"; Fill = "#e8f9ee"; Stroke = "#22c55e"; ChartFill = "#22c55e" }
+    [pscustomobject]@{ Name = "外审中"; Icon = "&#128994;"; Fill = "#e8f9ee"; Stroke = "#22c55e"; ChartFill = "#22c55e" },
+    [pscustomobject]@{ Name = "已接受"; Icon = "&#9989;"; Fill = "#dbeafe"; Stroke = "#2563eb"; ChartFill = "#2563eb" }
 )
 
 $StatusByName = @{}
@@ -31,6 +32,8 @@ for ($i = 0; $i -lt $Statuses.Count; $i++) {
 $LegacyStatus = @{
     "待初审" = "内审中"
     "初审中" = "内审中"
+    "已接收" = "已接受"
+    "Accepted" = "已接受"
 }
 
 function Get-NormalizedStatus {
@@ -193,7 +196,7 @@ function Write-StatusPieSvg {
   <desc id="desc">$Desc。</desc>
   <rect width="760" height="430" fill="#ffffff"/>
   <text x="30" y="34" fill="#111827" font-family="Arial, Microsoft YaHei, sans-serif" font-size="22" font-weight="700">论文状态统计</text>
-  <text x="30" y="58" fill="#6b7280" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13">共 $Total 篇/项；已接收论文不纳入统计</text>
+  <text x="30" y="58" fill="#6b7280" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13">共 $Total 篇/项；含已接受论文</text>
 
   <g font-family="Arial, Microsoft YaHei, sans-serif">
 $($Slices -join $NewLine)
