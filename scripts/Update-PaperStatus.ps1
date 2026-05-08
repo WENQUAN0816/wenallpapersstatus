@@ -10,12 +10,13 @@ $Utf8NoBom = [System.Text.UTF8Encoding]::new($false)
 $NewLine = "`n"
 
 $Statuses = @(
-    [pscustomobject]@{ Name = "待投稿"; Icon = "&#9898;"; Fill = "#f2f2f2"; Stroke = "#9ca3af"; ChartFill = "#64748b" },
-    [pscustomobject]@{ Name = "需修订"; Icon = "&#128150;"; Fill = "#ffd9ec"; Stroke = "#ec4899"; ChartFill = "#f43f5e" },
-    [pscustomobject]@{ Name = "内审中"; Icon = "&#128993;"; Fill = "#fff8d9"; Stroke = "#eab308"; ChartFill = "#f59e0b" },
-    [pscustomobject]@{ Name = "外审中"; Icon = "&#128994;"; Fill = "#e8f9ee"; Stroke = "#22c55e"; ChartFill = "#22c55e" },
-    [pscustomobject]@{ Name = "已接受"; Icon = "&#9989;"; Fill = "#dbeafe"; Stroke = "#2563eb"; ChartFill = "#2563eb" }
+    [pscustomobject]@{ Name = "待投稿"; Icon = "&#9898;"; Fill = "#f2f2f2"; Stroke = "#9ca3af"; ChartFill = "#64748b"; ExcludeFromStats = $false },
+    [pscustomobject]@{ Name = "需修订"; Icon = "&#128150;"; Fill = "#ffd9ec"; Stroke = "#ec4899"; ChartFill = "#f43f5e"; ExcludeFromStats = $false },
+    [pscustomobject]@{ Name = "内审中"; Icon = "&#128993;"; Fill = "#fff8d9"; Stroke = "#eab308"; ChartFill = "#f59e0b"; ExcludeFromStats = $false },
+    [pscustomobject]@{ Name = "外审中"; Icon = "&#128994;"; Fill = "#e8f9ee"; Stroke = "#22c55e"; ChartFill = "#22c55e"; ExcludeFromStats = $false },
+    [pscustomobject]@{ Name = "已接受"; Icon = "&#9989;"; Fill = "#dbeafe"; Stroke = "#2563eb"; ChartFill = "#2563eb"; ExcludeFromStats = $true }
 )
+$ReportStatuses = @($Statuses | Where-Object { -not $_.ExcludeFromStats })
 
 $StatusByName = @{}
 $StatusByIcon = @{}
@@ -196,7 +197,7 @@ function Write-StatusPieSvg {
   <desc id="desc">$Desc。</desc>
   <rect width="760" height="430" fill="#ffffff"/>
   <text x="30" y="34" fill="#111827" font-family="Arial, Microsoft YaHei, sans-serif" font-size="22" font-weight="700">论文状态统计</text>
-  <text x="30" y="58" fill="#6b7280" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13">共 $Total 篇/项；含已接受论文</text>
+  <text x="30" y="58" fill="#6b7280" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13">共 $Total 篇/项；不含已接受论文</text>
 
   <g font-family="Arial, Microsoft YaHei, sans-serif">
 $($Slices -join $NewLine)
@@ -523,10 +524,10 @@ foreach ($Status in $Statuses) {
 foreach ($Row in $SortedRows) {
     $Counts[$Row.Status]++
 }
-$TotalCount = ($Counts.Values | Measure-Object -Sum).Sum
-$ActiveStatuses = $Statuses | Where-Object { $Counts[$_.Name] -gt 0 }
+$TotalCount = ($ReportStatuses | ForEach-Object { $Counts[$_.Name] } | Measure-Object -Sum).Sum
+$ActiveStatuses = @($ReportStatuses | Where-Object { $Counts[$_.Name] -gt 0 })
 
-$LegendRows = ($Statuses | ForEach-Object {
+$LegendRows = ($ReportStatuses | ForEach-Object {
     "<tr><td>$($_.Icon)</td><td>$($_.Name)</td></tr>"
 }) -join $NewLine
 $Legend = "<table width=""100%"">$NewLine$LegendRows$NewLine</table>"
@@ -542,7 +543,7 @@ if ($Readme -notmatch '\[打开网页状态面板\]\(index\.html\)') {
     )
 }
 
-$StatRows = ($Statuses | ForEach-Object {
+$StatRows = ($ReportStatuses | ForEach-Object {
     $Count = $Counts[$_.Name]
     "<tr bgcolor=""$($_.Fill)"" style=""background-color:$($_.Fill);""><td>$($_.Icon) $($_.Name)</td><td>$Count</td></tr>"
 }) -join $NewLine
@@ -564,6 +565,7 @@ $Chart = [regex]::Replace($Chart, '(?s)    const labels = \[.*?\];', "    const 
 $Chart = [regex]::Replace($Chart, '    const values = \[[^\]]*\];', "    const values = [$ValueLine];", 1)
 $Chart = [regex]::Replace($Chart, '(?s)    const colors = \[.*?\];', "    const colors = [$NewLine$ColorLines$NewLine    ];", 1)
 $Chart = [regex]::Replace($Chart, '(?s)    const markerLines = \[.*?\];', "    const markerLines = [$NewLine$StrokeLines$NewLine    ];", 1)
+$Chart = [regex]::Replace($Chart, '按 README 当前状态表统计，共 \d+ 篇/项；', "按 README 当前状态表统计，共 $TotalCount 篇/项；", 1)
 [System.IO.File]::WriteAllText($ChartHtmlPath, $Chart, $Utf8NoBom)
 
 Write-StatusPieSvg $ActiveStatuses $Counts
