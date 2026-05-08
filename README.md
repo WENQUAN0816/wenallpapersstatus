@@ -34,8 +34,8 @@
 <tr><th>状态</th><th>数量</th></tr>
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>6</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>48</td></tr>
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>8</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>49</td></tr>
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>7</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>63</strong></td></tr>
 </table>
 </td>
@@ -405,10 +405,10 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Humanities and Social Sciences Communications</td>
 </tr>
 
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Multimedia Tools and Applications</td>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Multimedia Tools and Applications</td>
 </tr>
 
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
