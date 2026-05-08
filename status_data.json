@@ -3,29 +3,6 @@
     "statusDot": "⚪",
     "status": "待投稿",
     "statusOrder": 0,
-    "title": "AccessGeometry：面向老年住宅无障碍合规评估的点云自动参数化建模",
-    "journalTrack": "Indoor and Built Environment",
-    "bg": "#f2f2f2",
-    "currentJournal": "",
-    "casXr": "",
-    "cas": "",
-    "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
-    "recommendedJournals": "Environment, Development and Sustainability；International Journal of Human-Computer Interaction；Journal of Building Engineering",
-    "authors": "Dr. Quan Wen；Wanbao Ge；Dr. Yanting Wu",
-    "correspondingAuthors": [
-      "Wanbao Ge"
-    ],
-    "updatedAt": "2026-05-08",
-    "situation": "Submission not completed. 2026-05-08 Indoor and Built Environment / ScholarOne draft on CDP 9344 is at Step 6 Review & Submit. The upload issue was resolved: the TeX Processor Log showed successful pdflatex compilation, the failed proof-display conversion was isolated to fig9_models.png, ScholarOne rejected fig9_models.pdf as an unsupported upload type, and fig9_models.jpg was uploaded as a Tex/LaTeX Suppl File. Step 2 then saved successfully; Step 3 keywords, Step 4 authors (Dr. Quan Wen; Wanbao Ge as Corresponding Author; Dr. Yanting Wu), and Step 5 details/policy confirmations are saved. The PDF proof was opened in the browser and shows the correct title/authors/abstract; the Submit button is enabled but was not clicked. Local package update was pushed at paper repo commit ccf1cd0. 未最终提交；IBE/ScholarOne 的 LaTeX 上传与服务器 proof 已通过，fig9 转换问题已用 JPG 支持文件解决；本地包已推送 commit ccf1cd0；现停在 Step 6 Review & Submit，等待作者最终确认/手动提交。",
-    "impactSort": -1
-  },
-  {
-    "statusDot": "⚪",
-    "status": "待投稿",
-    "statusOrder": 0,
     "title": "AccessPath：面向老年居家环境自动无障碍评估的拓扑图式无障碍通行分析",
     "journalTrack": "Disability and Rehabilitation",
     "bg": "#f2f2f2",
@@ -42,7 +19,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-08",
-    "situation": "Blocked, not submitted. 2026-05-08 Disability and Rehabilitation / T&F draft 264297465 on CDP 9345 was rechecked. Official instructions indicate format-free submission, and the T&F portal file step requires ordinary files such as Manuscript with author details and Implications for Rehabilitation. The hidden upload input accepts many extensions including LaTeX-related files, but there is no real LaTeX compile/build/reviewer-PDF validation workflow; source ZIP upload would be an ordinary attachment/workaround. Declarations visible on the Manuscript step are filled and the local package is synced at repo commit 8aa1fd3. 未投稿；D&R/T&F 支持普通/format-free 稿件文件，但未发现合规 LaTeX 服务器编译路径，按 LaTeX-only 规则未上传 PDF/普通附件。",
+    "situation": "Ready for author final submit, not final-submitted by agent. 2026-05-08 Disability and Rehabilitation / T&F draft 264297465 on CDP 9345 was converted to Word after the user explicitly changed the T&F requirement from LaTeX-only to Word. Uploaded AccessPath_DisabilityRehabilitation_manuscript.docx as Manuscript with author details and AccessPath_DisabilityRehabilitation_implications.docx as Implications for Rehabilitation; file order was fixed, metadata/keywords/authors/services were completed, and the submission reached Preview with the Submit button enabled. Preview proof was opened and saved as AccessPath_TF_preview_proof.pdf; proof text check matched title, authors, References, Fig. 1, and Table 1. Word package pushed at paper repo commit 654dd34. 未最终提交；D&R/T&F Word 主稿和 Implications 已上传，已到 Preview，PDF proof 已打开核验，Submit 按钮可用但未点击；Word 投稿包已推送 commit 654dd34。",
     "impactSort": -1
   },
   {
@@ -65,7 +42,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-08",
-    "situation": "Blocked, not submitted. 2026-05-08 International Journal of Human-Computer Interaction / T&F draft 263362300 on CDP 9343 was rechecked at the Manuscript step. Title, abstract, special issue=No, human participants=No, prior-material permissions=No, safe declaration fields, and public data policy checkboxes remain saved; local IJHCI package is synced at repo commit 507eda5. T&F guidance says LaTeX acceptance is journal-specific, while the current portal compile/PDF-preview configuration lists ordinary Word/PDF/image/text data types and no LaTeX source types. The file area only requires Manuscript with author details and Cover Letter, so no compliant LaTeX source compile/build/reviewer-PDF validation workflow was found. The public data DOI/URL field is still empty and copyright confirmation remains for the author. 未投稿；IJHCI/T&F 当前是普通稿件文件流程，不是 LaTeX 服务器编译流程；按 LaTeX-only 规则未上传 PDF/普通附件，另缺公开数据 DOI/URL 与 copyright 作者确认。",
+    "situation": "Blocked, not submitted. 2026-05-08 International Journal of Human-Computer Interaction / T&F draft 263362300 on CDP 9343 was converted to Word after the user explicitly changed the T&F requirement from LaTeX-only to Word. Uploaded manuscript_ijhci_word.docx as Manuscript - with author details and cover_letter_ijhci.docx as Cover Letter; file order was fixed, copyright and visible declarations are checked, and title/abstract/special issue fields remain saved. The remaining hard blocker is the required public data DOI/URL field: the portal says Please provide the DOI or other location of your data, while the manuscript states data are available from the corresponding author upon reasonable request. No public repository DOI/URL was found, so the workflow stopped before advancing. Word package pushed at paper repo commit 475eca0. 未最终提交；IJHCI/T&F Word 主稿和 cover letter 已上传并排序，copyright 已确认；还缺公开数据 DOI/URL，需作者提供真实 DOI/URL 后才能继续。",
     "impactSort": -1
   },
   {
@@ -184,6 +161,29 @@
     "updatedAt": "2026-05-08",
     "situation": "需修订",
     "impactSort": 3.6
+  },
+  {
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
+    "title": "AccessGeometry：面向老年住宅无障碍合规评估的点云自动参数化建模",
+    "journalTrack": "Indoor and Built Environment",
+    "bg": "#fff8d9",
+    "currentJournal": "Indoor and Built Environment",
+    "casXr": "CAS大3小3/4；XR大3小3/4",
+    "cas": "",
+    "xr": "",
+    "jcr": "",
+    "impactFactor": "",
+    "indexType": "SCIE",
+    "recommendedJournals": "Environment, Development and Sustainability；International Journal of Human-Computer Interaction；Journal of Building Engineering",
+    "authors": "Dr. Quan Wen；Wanbao Ge；Dr. Yanting Wu",
+    "correspondingAuthors": [
+      "Wanbao Ge"
+    ],
+    "updatedAt": "2026-05-08",
+    "situation": "Submitted. 2026-05-08 Indoor and Built Environment / ScholarOne on CDP 9344 now appears on the Author Dashboard under Submitted Manuscripts with manuscript ID IBE-26-0405, status Awaiting Admin Processing, submitted 08-May-2026. The earlier upload/proof issue was resolved: ScholarOne pdflatex compilation succeeded, fig9_models.png proof conversion was bypassed by uploading fig9_models.jpg as a Tex/LaTeX Suppl File, and the proof had been checked for the correct title/authors/abstract. Local package update was pushed at paper repo commit ccf1cd0. 已正式投稿；IBE/ScholarOne 显示稿号 IBE-26-0405，状态 Awaiting Admin Processing，提交日期 2026-05-08；fig9 上传/服务器 proof 问题已解决，本地包已推送 commit ccf1cd0。",
+    "impactSort": -1
   },
   {
     "statusDot": "🟡",
