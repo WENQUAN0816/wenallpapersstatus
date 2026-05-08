@@ -1,49 +1,49 @@
 [
   {
-    "statusDot": "⚪",
-    "status": "待投稿",
-    "statusOrder": 0,
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
     "title": "AccessPath：面向老年居家环境自动无障碍评估的拓扑图式无障碍通行分析",
     "journalTrack": "Disability and Rehabilitation",
-    "bg": "#f2f2f2",
-    "currentJournal": "",
-    "casXr": "",
+    "bg": "#fff8d9",
+    "currentJournal": "Disability and Rehabilitation",
+    "casXr": "CAS大4小3；XR大3小3",
     "cas": "",
     "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
+    "jcr": "Q2",
+    "impactFactor": "2.0",
+    "indexType": "SCIE&SSCI",
     "recommendedJournals": "Environment, Development and Sustainability；International Journal of Human-Computer Interaction；Disability and Rehabilitation",
-    "authors": "Quan Wen；Yanting Wu",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
     "correspondingAuthors": [
       "Quan Wen"
     ],
     "updatedAt": "2026-05-09",
-    "situation": "Ready for author final submit, not final-submitted by agent. 2026-05-08 Disability and Rehabilitation / T&F draft 264297465 on CDP 9345 was converted to Word after the user explicitly changed the T&F requirement from LaTeX-only to Word. Uploaded AccessPath_DisabilityRehabilitation_manuscript.docx as Manuscript with author details and AccessPath_DisabilityRehabilitation_implications.docx as Implications for Rehabilitation; file order was fixed, metadata/keywords/authors/services were completed, and the submission reached Preview with the Submit button enabled. Preview proof was opened and saved as AccessPath_TF_preview_proof.pdf; proof text check matched title, authors, References, Fig. 1, and Table 1. Word package pushed at paper repo commit 654dd34. 未最终提交；D&R/T&F Word 主稿和 Implications 已上传，已到 Preview，PDF proof 已打开核验，Submit 按钮可用但未点击；Word 投稿包已推送 commit 654dd34。",
-    "impactSort": -1
+    "situation": "Submitted per user confirmation. 2026-05-09 Disability and Rehabilitation / Taylor & Francis submission 264297465 is treated as submitted per user confirmation. Before handoff, the local source and submission package were corrected to four authors in order: Quan Wen, Mazran Ismail, Muhammad Hafeez Abdul Nasir, and Yanting Wu; ORCID was left blank in T&F metadata because it is optional and Notion academic-partners page confirmed only affiliation/email. Uploaded AccessPath_DisabilityRehabilitation_manuscript_4authors_no_line_numbers.pdf as Manuscript with author details and re-uploaded AccessPath_DisabilityRehabilitation_implications.docx. T&F Preview proof saved as AccessPath_TF_preview_proof_4authors_no_line_pdf_upload.pdf; proof cover/metadata showed all four authors in order and no ORCID. T&F automatically overlays reviewer line numbers and For Peer Review watermark even though the uploaded/local PDF has no line numbers. Paper repo pushed at commit f0a4742. 已按用户确认记为已提交/内审中；D&R/T&F 主稿已改为四作者并上传，作者元数据顺序已修正，预览 proof 已核验；paper-42 已推送 f0a4742。",
+    "impactSort": 2.0
   },
   {
-    "statusDot": "⚪",
-    "status": "待投稿",
-    "statusOrder": 0,
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
     "title": "AccessStairNet：面向老年居家环境无障碍评估的台阶与门槛深度学习检测",
     "journalTrack": "International Journal of Human-Computer Interaction",
-    "bg": "#f2f2f2",
-    "currentJournal": "",
-    "casXr": "",
+    "bg": "#fff8d9",
+    "currentJournal": "International Journal of Human-Computer Interaction",
+    "casXr": "CAS大3小3；XR大2小2",
     "cas": "",
     "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
+    "jcr": "Q1",
+    "impactFactor": "4.9",
+    "indexType": "SCIE&SSCI",
     "recommendedJournals": "Environment, Development and Sustainability；International Journal of Human-Computer Interaction；Multimedia Tools and Applications",
     "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
     "correspondingAuthors": [
       "Quan Wen"
     ],
     "updatedAt": "2026-05-09",
-    "situation": "Blocked, not submitted. 2026-05-08 International Journal of Human-Computer Interaction / T&F draft 263362300 on CDP 9343 was converted to Word after the user explicitly changed the T&F requirement from LaTeX-only to Word. Uploaded manuscript_ijhci_word.docx as Manuscript - with author details and cover_letter_ijhci.docx as Cover Letter; file order was fixed, copyright and visible declarations are checked, and title/abstract/special issue fields remain saved. The remaining hard blocker is the required public data DOI/URL field: the portal says Please provide the DOI or other location of your data, while the manuscript states data are available from the corresponding author upon reasonable request. No public repository DOI/URL was found, so the workflow stopped before advancing. Word package pushed at paper repo commit 475eca0. 未最终提交；IJHCI/T&F Word 主稿和 cover letter 已上传并排序，copyright 已确认；还缺公开数据 DOI/URL，需作者提供真实 DOI/URL 后才能继续。",
-    "impactSort": -1
+    "situation": "Submitted per user confirmation. 2026-05-09 International Journal of Human-Computer Interaction / Taylor & Francis draft/submission 263362300 is treated as submitted per user confirmation. Earlier Word submission files were uploaded after the T&F requirement was changed from LaTeX-only to Word: manuscript_ijhci_word.docx as Manuscript - with author details and cover_letter_ijhci.docx as Cover Letter; file order and visible declarations were handled. Paper repo contains the Word submission package and was pushed at commit 475eca0. 已按用户确认记为已提交/内审中；IJHCI/T&F 投稿包已上传到对应 GitHub 仓库 paper-40，commit 475eca0。",
+    "impactSort": 4.9
   },
   {
     "statusDot": "⚪",
@@ -177,12 +177,12 @@
     "impactFactor": "",
     "indexType": "SCIE",
     "recommendedJournals": "Environment, Development and Sustainability；International Journal of Human-Computer Interaction；Journal of Building Engineering",
-    "authors": "Dr. Quan Wen；Wanbao Ge；Dr. Yanting Wu",
+    "authors": "Quan Wen；Wanbao Ge；Yanting Wu",
     "correspondingAuthors": [
       "Wanbao Ge"
     ],
     "updatedAt": "2026-05-09",
-    "situation": "Submitted. 2026-05-08 Indoor and Built Environment / ScholarOne on CDP 9344 now appears on the Author Dashboard under Submitted Manuscripts with manuscript ID IBE-26-0405, status Awaiting Admin Processing, submitted 08-May-2026. The earlier upload/proof issue was resolved: ScholarOne pdflatex compilation succeeded, fig9_models.png proof conversion was bypassed by uploading fig9_models.jpg as a Tex/LaTeX Suppl File, and the proof had been checked for the correct title/authors/abstract. Local package update was pushed at paper repo commit ccf1cd0. 已正式投稿；IBE/ScholarOne 显示稿号 IBE-26-0405，状态 Awaiting Admin Processing，提交日期 2026-05-08；fig9 上传/服务器 proof 问题已解决，本地包已推送 commit ccf1cd0。",
+    "situation": "Submitted. 2026-05-09 Indoor and Built Environment / ScholarOne remains treated as submitted per user confirmation. Manuscript ID IBE-26-0405 was previously visible on the Author Dashboard under Submitted Manuscripts, status Awaiting Admin Processing, submitted 08-May-2026. The earlier upload/proof issue was resolved: ScholarOne pdflatex compilation succeeded, fig9_models.png proof conversion was bypassed by uploading fig9_models.jpg as a Tex/LaTeX Suppl File, and the proof had been checked for the correct title/authors/abstract. Paper repo package was pushed at commit ccf1cd0. 已正式投稿/内审中；IBE/ScholarOne 稿号 IBE-26-0405，状态 Awaiting Admin Processing；paper-41 已推送 ccf1cd0。",
     "impactSort": -1
   },
   {
