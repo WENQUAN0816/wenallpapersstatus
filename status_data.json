@@ -72,29 +72,6 @@
     "statusDot": "⚪",
     "status": "待投稿",
     "statusOrder": 0,
-    "title": "历史社区智慧适老化改造策略的居民支持：整合地方依恋与技术接受",
-    "journalTrack": "Buildings",
-    "bg": "#f2f2f2",
-    "currentJournal": "",
-    "casXr": "",
-    "cas": "",
-    "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
-    "recommendedJournals": "",
-    "authors": "Xuejia Zhu；Suebsiri Saelee",
-    "correspondingAuthors": [
-      "Suebsiri Saelee"
-    ],
-    "updatedAt": "2026-05-08",
-    "situation": "已拒稿",
-    "impactSort": -1
-  },
-  {
-    "statusDot": "⚪",
-    "status": "待投稿",
-    "statusOrder": 0,
     "title": "基于条件 GAN 与随机森林的多源数据融合社区韧性评估：来自中国河南的证据",
     "journalTrack": "Sustainable Cities and Society",
     "bg": "#f2f2f2",
@@ -186,29 +163,6 @@
     "impactSort": -1
   },
   {
-    "statusDot": "⚪",
-    "status": "待投稿",
-    "statusOrder": 0,
-    "title": "老年游客对遗产建筑增强现实解说的接受度：扩展技术接受模型",
-    "journalTrack": "Applied Sciences",
-    "bg": "#f2f2f2",
-    "currentJournal": "",
-    "casXr": "",
-    "cas": "",
-    "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
-    "recommendedJournals": "",
-    "authors": "Xuejia Zhu；Suebsiri Saelee",
-    "correspondingAuthors": [
-      "Suebsiri Saelee"
-    ],
-    "updatedAt": "2026-05-08",
-    "situation": "已拒稿",
-    "impactSort": -1
-  },
-  {
     "statusDot": "💖",
     "status": "需修订",
     "statusOrder": 1,
@@ -230,6 +184,52 @@
     "updatedAt": "2026-05-08",
     "situation": "需修订",
     "impactSort": 3.6
+  },
+  {
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
+    "title": "历史社区智慧适老化改造策略的居民支持：整合地方依恋与技术接受",
+    "journalTrack": "Land",
+    "bg": "#fff8d9",
+    "currentJournal": "Land",
+    "casXr": "CAS大3小4；XR大3小3",
+    "cas": "",
+    "xr": "",
+    "jcr": "Q2",
+    "impactFactor": "3.2",
+    "indexType": "SSCI",
+    "recommendedJournals": "",
+    "authors": "Xuejia Zhu；Suebsiri Saelee",
+    "correspondingAuthors": [
+      "Suebsiri Saelee"
+    ],
+    "updatedAt": "2026-05-08",
+    "situation": "2026-05-08 MDPI Land 已完成正式投递；SuSy 显示 All steps completed，稿号 land-4335735。按状态规则记为内审中，需明确进入外审/under review 后再改为外审中。",
+    "impactSort": 3.2
+  },
+  {
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
+    "title": "老年游客对遗产建筑增强现实解说的接受度：扩展技术接受模型",
+    "journalTrack": "Sustainability",
+    "bg": "#fff8d9",
+    "currentJournal": "Sustainability",
+    "casXr": "CAS大3小3/4；XR大3小3/4",
+    "cas": "",
+    "xr": "",
+    "jcr": "Q2",
+    "impactFactor": "3.3",
+    "indexType": "SCIE&SSCI",
+    "recommendedJournals": "",
+    "authors": "Xuejia Zhu；Suebsiri Saelee",
+    "correspondingAuthors": [
+      "Suebsiri Saelee"
+    ],
+    "updatedAt": "2026-05-08",
+    "situation": "2026-05-08 MDPI Sustainability 已完成正式投递；SuSy 显示 All steps completed，稿号 sustainability-4335606。按状态规则记为内审中，需明确进入外审/under review 后再改为外审中。",
+    "impactSort": 3.3
   },
   {
     "statusDot": "🟡",
