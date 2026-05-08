@@ -42,7 +42,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-09",
-    "situation": "Submitted per user confirmation. 2026-05-09 International Journal of Human-Computer Interaction / Taylor & Francis draft/submission 263362300 is treated as submitted per user confirmation. Earlier Word submission files were uploaded after the T&F requirement was changed from LaTeX-only to Word: manuscript_ijhci_word.docx as Manuscript - with author details and cover_letter_ijhci.docx as Cover Letter; file order and visible declarations were handled. Paper repo contains the Word submission package and was pushed at commit 475eca0. 已按用户确认记为已提交/内审中；IJHCI/T&F 投稿包已上传到对应 GitHub 仓库 paper-40，commit 475eca0。",
+    "situation": "Submitted. 2026-05-09 International Journal of Human-Computer Interaction / Taylor & Francis submission confirmed with submission ID 263362300. The T&F Word workflow used manuscript_ijhci_word.docx as Manuscript - with author details and cover_letter_ijhci.docx as Cover Letter; metadata, keywords, classification, author details, ORCID IDs, CRediT roles, funding, and competing-interest declaration were completed. The required data location field was filled as Available from corresponding author upon reasonable request after explicit user confirmation. Paper repo contains the Word submission package and was pushed at commit 475eca0. 已正式投稿；IJHCI / T&F 确认 submission ID 263362300；主稿和 cover letter 已上传，作者/机构/ORCID/CRediT/资助信息已补齐，数据地址字段按用户确认填写为可向通讯作者合理索取；投稿包已上传到 paper-40 仓库 commit 475eca0。",
     "impactSort": 4.9
   },
   {
