@@ -18,7 +18,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "Submitted per user confirmation. 2026-05-09 Disability and Rehabilitation / Taylor & Francis submission 264297465 is treated as submitted per user confirmation. Before handoff, the local source and submission package were corrected to four authors in order: Quan Wen, Mazran Ismail, Muhammad Hafeez Abdul Nasir, and Yanting Wu; ORCID was left blank in T&F metadata because it is optional and Notion academic-partners page confirmed only affiliation/email. Uploaded AccessPath_DisabilityRehabilitation_manuscript_4authors_no_line_numbers.pdf as Manuscript with author details and re-uploaded AccessPath_DisabilityRehabilitation_implications.docx. T&F Preview proof saved as AccessPath_TF_preview_proof_4authors_no_line_pdf_upload.pdf; proof cover/metadata showed all four authors in order and no ORCID. T&F automatically overlays reviewer line numbers and For Peer Review watermark even though the uploaded/local PDF has no line numbers. Paper repo pushed at commit f0a4742. 已按用户确认记为已提交/内审中；D&R/T&F 主稿已改为四作者并上传，作者元数据顺序已修正，预览 proof 已核验；paper-42 已推送 f0a4742。",
     "impactSort": 2.0
   },
@@ -41,7 +41,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "Submitted. 2026-05-09 International Journal of Human-Computer Interaction / Taylor & Francis submission confirmed with submission ID 263362300. The T&F Word workflow used manuscript_ijhci_word.docx as Manuscript - with author details and cover_letter_ijhci.docx as Cover Letter; metadata, keywords, classification, author details, ORCID IDs, CRediT roles, funding, and competing-interest declaration were completed. The required data location field was filled as Available from corresponding author upon reasonable request after explicit user confirmation. Paper repo contains the Word submission package and was pushed at commit 475eca0. 已正式投稿；IJHCI / T&F 确认 submission ID 263362300；主稿和 cover letter 已上传，作者/机构/ORCID/CRediT/资助信息已补齐，数据地址字段按用户确认填写为可向通讯作者合理索取；投稿包已上传到 paper-40 仓库 commit 475eca0。",
     "impactSort": 4.9
   },
@@ -64,7 +64,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "退回草稿",
     "impactSort": -1
   },
@@ -87,7 +87,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "已拒稿",
     "impactSort": -1
   },
@@ -111,7 +111,7 @@
       "Quan Wen",
       "Mazran Ismail"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "Author metadata updated. Authors are Quan Wen; Mazran Ismail; Muhammad Hafeez Abdul Nasir, with Quan Wen and Mazran Ismail as corresponding authors. Paper repo pushed at commit ef6edef. 作者顺序和通讯作者已同步；paper-56 已推送 ef6edef。",
     "impactSort": -1
   },
@@ -135,7 +135,7 @@
       "Quan Wen",
       "Mazran Ismail"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "#52 的 Energy 正确草稿/提交状态仍需复核；作者信息已同步为 Quan Wen、Mazran Ismail、Muhammad Hafeez Abdul Nasir，Quan Wen 和 Mazran Ismail 为通讯作者；此前打开的 EGY-D-26-10556 对应另一篇贝叶斯元学习稿件，不能作为 #52 投稿完成记录。",
     "impactSort": -1
   },
@@ -158,7 +158,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "需修订",
     "impactSort": 3.6
   },
@@ -182,7 +182,7 @@
       "Quan Wen",
       "Mazran Ismail"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "Submitted. 2026-05-09 Indoor and Built Environment / ScholarOne remains treated as submitted per user confirmation. Manuscript ID IBE-26-0405 was previously visible on the Author Dashboard under Submitted Manuscripts, status Awaiting Admin Processing, submitted 08-May-2026. The earlier upload/proof issue was resolved: ScholarOne pdflatex compilation succeeded, fig9_models.png proof conversion was bypassed by uploading fig9_models.jpg as a Tex/LaTeX Suppl File, and the proof had been checked for the correct title/authors/abstract. Author metadata has now been updated to Quan Wen; Mazran Ismail; Muhammad Hafeez Abdul Nasir; Wanbao Ge; Yanting Wu, with Quan Wen and Mazran Ismail as corresponding authors. Paper repo package was pushed at commit 783894e. 已正式投稿/内审中；IBE/ScholarOne 稿号 IBE-26-0405，状态 Awaiting Admin Processing；作者顺序和通讯作者已更新；paper-41 已推送 783894e。",
     "impactSort": -1
   },
@@ -205,7 +205,7 @@
     "correspondingAuthors": [
       "Suebsiri Saelee"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "2026-05-08 MDPI Land 已完成正式投递；SuSy 显示 All steps completed，稿号 land-4335735。按状态规则记为内审中，需明确进入外审/under review 后再改为外审中。",
     "impactSort": 3.2
   },
@@ -228,7 +228,7 @@
     "correspondingAuthors": [
       "Suebsiri Saelee"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "2026-05-08 MDPI Sustainability 已完成正式投递；SuSy 显示 All steps completed，稿号 sustainability-4335606。按状态规则记为内审中，需明确进入外审/under review 后再改为外审中。",
     "impactSort": 3.3
   },
@@ -251,7 +251,7 @@
     "correspondingAuthors": [
       "Xueping Han"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 2.4
   },
@@ -275,7 +275,7 @@
       "Quan Wen",
       "Mazran Ismail"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "已拒稿",
     "impactSort": 2.7
   },
@@ -298,7 +298,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 3.6
   },
@@ -321,7 +321,7 @@
     "correspondingAuthors": [
       "Xueping Han"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 2.4
   },
@@ -344,7 +344,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "Sensors 完成提交记录保留；2026-05-06 kingtou 检查/继续 Buildings 相关草稿时，MDPI 最终仪表盘显示的是 #45 cGAN 稿件 buildings-4331963 / Pending review，而不是本 VLM 稿题。故本稿不得标记为 Buildings 已投稿；若目标仍为 Buildings，需重新建立并核对正确草稿。",
     "impactSort": 3.1
   },
@@ -367,7 +367,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "MDPI Buildings 仪表盘最新显示稿号 buildings-4331963，状态 Pending review，提交时间 2026-05-06 17:07:56；仪表盘标题为 cGAN-Assisted Age-Friendly Home Renovation Design: A Multi-Objective Optimization Framework Integrating Accessibility, Cost, and Spatial Efficiency。早前记录 buildings-4331653 需与邮件/门户历史进一步核对。",
     "impactSort": 3.1
   },
@@ -390,7 +390,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 3.4
   },
@@ -413,7 +413,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 4.1
   },
@@ -436,7 +436,7 @@
     "correspondingAuthors": [
       "Suebsiri Saelee"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 3.1
   },
@@ -459,7 +459,7 @@
     "correspondingAuthors": [
       "Xueping Han"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": -1
   },
@@ -482,7 +482,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 2.9
   },
@@ -506,7 +506,7 @@
       "Quan Wen",
       "Mazran Ismail"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "待处理",
     "impactSort": 5.0
   },
@@ -530,7 +530,7 @@
       "Quan Wen",
       "Mazran Ismail"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 6.0
   },
@@ -553,7 +553,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "IEEE TIM 系统显示 Manuscript Submitted，稿号 TIM-26-05228。",
     "impactSort": 5.6
   },
@@ -576,7 +576,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 2.4
   },
@@ -600,7 +600,7 @@
       "Quan Wen",
       "Mazran Ismail"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 8.1
   },
@@ -623,7 +623,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 3.0
   },
@@ -647,7 +647,7 @@
       "Quan Wen",
       "Mazran Ismail"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "建议转投",
     "impactSort": 4.4
   },
@@ -671,7 +671,7 @@
       "Quan Wen",
       "Mazran Ismail"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 5.0
   },
@@ -694,7 +694,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 5.3
   },
@@ -717,7 +717,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 2.9
   },
@@ -741,7 +741,7 @@
       "Quan Wen",
       "Mazran Ismail"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "Submission not completed. 2026-05-08 MTAP / Editorial Manager account showed no editable AF-SGNet draft: Incomplete Submissions (0), Submissions Waiting for Author's Approval (0); only AgeFriendlyDiff MTAP-D-26-02294 appeared under Submissions Being Processed. Local MTAP LaTeX source package was corrected to the approved three-author baseline (Quan Wen; Mazran Ismail; Muhammad Hafeez Abdul Nasir), compiled, committed, and pushed at manuscript repo commit f47b1697b95afe1e0b0de44fb7bd1620571e9810. 未完成投稿；MTAP 门户未找到可编辑 AF-SGNet 草稿，仅本地三作者修正版包已推送。",
     "impactSort": 3.6
   },
@@ -764,7 +764,7 @@
     "correspondingAuthors": [
       "Xueping Han"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 3.5
   },
@@ -787,7 +787,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "2026-05-08 已完成投递；Biomedical Signal Processing and Control / Elsevier New Service 显示 Your manuscript has now been submitted；按状态规则记为内审中，需明确进入外审/under review 后再改为外审中。",
     "impactSort": 4.9
   },
@@ -810,7 +810,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 3.4
   },
@@ -833,7 +833,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 4.9
   },
@@ -856,7 +856,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 3.4
   },
@@ -879,7 +879,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "MDPI SuSy 显示 All steps completed，稿号 applsci-4331900；已上传 source ZIP 和 cover letter，完成题名、摘要、关键词、作者、建议审稿人、无利益冲突、基金和数据可用性填写。",
     "impactSort": 2.5
   },
@@ -902,7 +902,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "2026-05-08 Journal of Building Engineering / Editorial Manager 已完成正式投递；按状态规则记为内审中，需明确进入外审/under review 后再改为外审中；重新补传 10 个 Figure 文件并重新 Build PDF 后，新下载 PDF 已检查未再出现 This is pdfTeX、LaTeX Warning、figure file not found 等日志/缺图页面；题名、摘要、关键词已更新为当前稿件版本。",
     "impactSort": 6.7
   },
@@ -925,9 +925,32 @@
     "correspondingAuthors": [
       "Xueping Han"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 3.5
+  },
+  {
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
+    "title": "轻量级 Transformer：面向资源受限老年智能家居边缘 IoT 入侵检测的知识蒸馏与区块链协同",
+    "journalTrack": "Cluster Computing",
+    "bg": "#fff8d9",
+    "currentJournal": "Cluster Computing",
+    "casXr": "",
+    "cas": "",
+    "xr": "",
+    "jcr": "",
+    "impactFactor": "",
+    "indexType": "EI",
+    "recommendedJournals": "",
+    "authors": "Xueping Han",
+    "correspondingAuthors": [
+      "Xueping Han"
+    ],
+    "updatedAt": "2026-05-10",
+    "situation": "Submitted after technical-check amendment. 2026-05-10 Cluster Computing / Springer SNAPP final submission completed per user confirmation. Submission ID eec18a2a-115f-4885-b114-202a0368f2ed; amendment upload session 0d94c9ba-3dcc-4377-b222-0b59f01b5fb6. The technical-check issue was addressed without fabricating an institutional email: Xueping Han's long-term active email xuepinghan118@gmail.com is kept consistently in both the manuscript and submission details, and response_to_editor.pdf explains that no institutional email has been assigned. Uploaded manuscript ZIP H5_han-Lightweight-Edge-IoT_Cluster_Computing_amended_20260510.zip includes manuscript.tex, manuscript.bbl, fig1_framework.pdf, references.bib, sn-jnl.cls, sn-mathphys-num.bst, algorithm support files, and supplementary files; SNAPP generated PDF was ready for review before final submit. Paper repo pushed at commit 7b6c127. 已按技术检查要求完成说明并由用户确认最终提交；作者邮箱在稿件和系统中保持一致，未伪造机构邮箱；新上传 LaTeX 包包含图表和所需编译文件；论文仓库已推送 7b6c127。",
+    "impactSort": -1
   },
   {
     "statusDot": "🟡",
@@ -948,7 +971,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "2026-05-08 Physics of Fluids / PeerX 已完成初始质检返回后的修订提交；稿件追踪号 POF26-AR-07216。按编辑部要求，已在摘要和正文首次出现处定义 phase-change material (PCM) 与 COMSOL Multiphysics finite-element software package；出版方式为 Conventional Publication（无 OA 费用）；论文仓库已推送修订版 commit 9eac6b9。",
     "impactSort": 4.1
   },
@@ -971,7 +994,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "2026-05-08 Energy Reports / Editorial Manager 已完成正式投递；按状态规则记为内审中，需明确进入外审/under review 后再改为外审中；此前提交包中所有浮动表格宽度已修复，实名版和匿名版 manuscript 均加入 adjustbox max width 限制，Table 1、Table 2 和宽表已重新编译验证不再超出页面；已导出 EnergyReports-manuscript-tables-fixed-v2.pdf 和 energy_reports_anonymous_latex_source_tables_fixed.zip。",
     "impactSort": 4.7
   },
@@ -994,7 +1017,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 2.9
   },
@@ -1018,7 +1041,7 @@
       "Quan Wen",
       "Mazran Ismail"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "建议转投",
     "impactSort": 4.2
   },
@@ -1041,7 +1064,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 3.8
   },
@@ -1064,7 +1087,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 9.6
   },
@@ -1087,7 +1110,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 2.6
   },
@@ -1110,7 +1133,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "MDPI SuSy 已最终提交；上传主稿包和 cover letter，元数据、作者角色、建议审稿人和 Statements 已完成。",
     "impactSort": 3.1
   },
@@ -1133,7 +1156,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 9.6
   },
@@ -1156,7 +1179,7 @@
     "correspondingAuthors": [
       "Suebsiri Saelee"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 2.9
   },
@@ -1179,7 +1202,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "Elsevier 新投稿服务显示 Your manuscript has now been submitted；提交时间 03:24, May 6, 2026；已提交 cover_letter.pdf、declarationStatement.docx、manuscript.pdf。",
     "impactSort": 6.2
   },
@@ -1203,7 +1226,7 @@
       "Quan Wen",
       "Mazran Ismail"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "退回草稿",
     "impactSort": 2.7
   },
@@ -1227,7 +1250,7 @@
       "Quan Wen",
       "Mazran Ismail"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "已拒稿",
     "impactSort": 2.7
   },
@@ -1250,7 +1273,7 @@
     "correspondingAuthors": [
       "Suebsiri Saelee"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 2.9
   },
@@ -1273,7 +1296,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 3.6
   },
@@ -1296,7 +1319,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "Resubmitted after technical return. 2026-05-08 Multimedia Tools and Applications / Editorial Manager shows the manuscript in Submissions Being Processed for Author: manuscript number MTAP-D-26-02294, title AgeFriendlyDiff: Conditional Diffusion-Based 3D Visualization of Age-Friendly Home Modifications from Single Indoor Photographs, initial submitted 2026-05-08 11:40:09, current status Submitted. The resubmission uses the manuscript three-author list only: Quan Wen; Mazran Ismail; Muhammad Hafeez Abdul Nasir. The sent-back issues were corrected: title/abstract aligned, wrong extra authors removed, figure 3-7 in-text placement references added, and declarations headings added after references. Local corrected MTAP package is pushed at manuscript repo commit 3c82058. 已按编辑部技术退回意见重新提交；MTAP / Editorial Manager 的 Submissions Being Processed for Author 页面显示稿号 MTAP-D-26-02294，当前状态 Submitted，初始提交时间 2026-05-08 11:40:09；本次仅保留稿件中的 3 位作者 Quan Wen、Mazran Ismail、Muhammad Hafeez Abdul Nasir；已修正标题/摘要一致性、删除 Jestin/Nooriati、补充图 3-7 正文引用位置，并在参考文献后加入声明章节；论文仓库 commit 3c82058。",
     "impactSort": -1
   },
@@ -1320,7 +1343,7 @@
       "Quan Wen",
       "Mazran Ismail"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "Submitted / Technical Check. The Journal of Supercomputing / Springer SNAPP tracking page shows Submission received and Technical Check in progress; Submission ID c1ee17a9-69a9-4b82-90c4-597d7950f181, version v.1.0; LaTeX source package jos_snapp_latex_source_20260507.zip and cover_letter_jos.pdf uploaded; generated reviewer PDF verified against title/authors; paper repo commit a4fd1828200ed02705565d0be66ea813a11d7e2a. 已最终提交并进入 Technical Check；SNAPP 跟踪页显示 Submission received 且 Technical Check 进行中；Submission ID c1ee17a9-69a9-4b82-90c4-597d7950f181，版本 v.1.0；LaTeX 源文件包和 cover letter 已上传，系统生成 PDF 已核对题名/作者；论文仓库 commit a4fd1828200ed02705565d0be66ea813a11d7e2a。",
     "impactSort": 2.7
   },
@@ -1343,7 +1366,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 3.8
   },
@@ -1366,7 +1389,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": -1
   },
@@ -1390,7 +1413,7 @@
       "Quan Wen",
       "Mazran Ismail"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 3.9
   },
@@ -1414,7 +1437,7 @@
       "Quan Wen",
       "Mazran Ismail"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 3.7
   },
@@ -1437,7 +1460,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 3.9
   },
@@ -1460,7 +1483,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-05-09",
+    "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 3.6
   }
