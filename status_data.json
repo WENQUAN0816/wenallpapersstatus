@@ -106,13 +106,13 @@
     "impactFactor": "",
     "indexType": "",
     "recommendedJournals": "",
-    "authors": "Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
     "correspondingAuthors": [
       "Quan Wen",
       "Mazran Ismail"
     ],
     "updatedAt": "2026-05-09",
-    "situation": "",
+    "situation": "Author metadata updated. Authors are Quan Wen; Mazran Ismail; Muhammad Hafeez Abdul Nasir, with Quan Wen and Mazran Ismail as corresponding authors. Paper repo pushed at commit ef6edef. 作者顺序和通讯作者已同步；paper-56 已推送 ef6edef。",
     "impactSort": -1
   },
   {
@@ -130,13 +130,13 @@
     "impactFactor": "",
     "indexType": "",
     "recommendedJournals": "",
-    "authors": "Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
     "correspondingAuthors": [
       "Quan Wen",
       "Mazran Ismail"
     ],
     "updatedAt": "2026-05-09",
-    "situation": "#52 的 Energy 正确草稿/提交状态仍需复核；此前打开的 EGY-D-26-10556 对应另一篇贝叶斯元学习稿件，不能作为 #52 投稿完成记录。",
+    "situation": "#52 的 Energy 正确草稿/提交状态仍需复核；作者信息已同步为 Quan Wen、Mazran Ismail、Muhammad Hafeez Abdul Nasir，Quan Wen 和 Mazran Ismail 为通讯作者；此前打开的 EGY-D-26-10556 对应另一篇贝叶斯元学习稿件，不能作为 #52 投稿完成记录。",
     "impactSort": -1
   },
   {
@@ -177,12 +177,13 @@
     "impactFactor": "",
     "indexType": "SCIE",
     "recommendedJournals": "Environment, Development and Sustainability；International Journal of Human-Computer Interaction；Journal of Building Engineering",
-    "authors": "Quan Wen；Wanbao Ge；Yanting Wu",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Wanbao Ge；Yanting Wu",
     "correspondingAuthors": [
-      "Wanbao Ge"
+      "Quan Wen",
+      "Mazran Ismail"
     ],
     "updatedAt": "2026-05-09",
-    "situation": "Submitted. 2026-05-09 Indoor and Built Environment / ScholarOne remains treated as submitted per user confirmation. Manuscript ID IBE-26-0405 was previously visible on the Author Dashboard under Submitted Manuscripts, status Awaiting Admin Processing, submitted 08-May-2026. The earlier upload/proof issue was resolved: ScholarOne pdflatex compilation succeeded, fig9_models.png proof conversion was bypassed by uploading fig9_models.jpg as a Tex/LaTeX Suppl File, and the proof had been checked for the correct title/authors/abstract. Paper repo package was pushed at commit ccf1cd0. 已正式投稿/内审中；IBE/ScholarOne 稿号 IBE-26-0405，状态 Awaiting Admin Processing；paper-41 已推送 ccf1cd0。",
+    "situation": "Submitted. 2026-05-09 Indoor and Built Environment / ScholarOne remains treated as submitted per user confirmation. Manuscript ID IBE-26-0405 was previously visible on the Author Dashboard under Submitted Manuscripts, status Awaiting Admin Processing, submitted 08-May-2026. The earlier upload/proof issue was resolved: ScholarOne pdflatex compilation succeeded, fig9_models.png proof conversion was bypassed by uploading fig9_models.jpg as a Tex/LaTeX Suppl File, and the proof had been checked for the correct title/authors/abstract. Author metadata has now been updated to Quan Wen; Mazran Ismail; Muhammad Hafeez Abdul Nasir; Wanbao Ge; Yanting Wu, with Quan Wen and Mazran Ismail as corresponding authors. Paper repo package was pushed at commit 783894e. 已正式投稿/内审中；IBE/ScholarOne 稿号 IBE-26-0405，状态 Awaiting Admin Processing；作者顺序和通讯作者已更新；paper-41 已推送 783894e。",
     "impactSort": -1
   },
   {

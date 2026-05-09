@@ -92,12 +92,12 @@ JCR_MANUAL = {
 
 
 AUTHOR_MAP = {
-    "用于老年住宅活动分区功能分类的空间图神经网络": "Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "用于老年住宅活动分区功能分类的空间图神经网络": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
     "基于线性调度法的适老改造模块制造多目标优化": "Quan Wen",
     "AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
-    "社区老年日间照料中心多模态热舒适的时空深度学习评估与预测": "Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "社区老年日间照料中心多模态热舒适的时空深度学习评估与预测": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
     "GridMamba-Risk：基于网格状态空间模型的整屋三维点云跌倒风险空间预测": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
-    "AccessGeometry：面向老年住宅无障碍合规评估的点云自动参数化建模": "Quan Wen；Wanbao Ge；Yanting Wu",
+    "AccessGeometry：面向老年住宅无障碍合规评估的点云自动参数化建模": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Wanbao Ge；Yanting Wu",
     "AccessPath：面向老年居家环境自动无障碍评估的拓扑图式无障碍通行分析": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
     "基于相变材料的多层粮仓自适应多温区温度控制": "Ruili Liu；Quan Wen；Mazran Ismail",
     "基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
@@ -167,7 +167,7 @@ CORRESPONDING_AUTHOR_MAP = {
     "GridMamba-Risk：基于网格状态空间模型的整屋三维点云跌倒风险空间预测": ["Quan Wen", "Mazran Ismail"],
     "社区老年日间照料中心多模态热舒适的时空深度学习评估与预测": ["Quan Wen", "Mazran Ismail"],
     "面向居家适老环境评估的室内点云语义分割可迁移深度学习网络": ["Quan Wen", "Mazran Ismail"],
-    "AccessGeometry：面向老年住宅无障碍合规评估的点云自动参数化建模": ["Wanbao Ge"],
+    "AccessGeometry：面向老年住宅无障碍合规评估的点云自动参数化建模": ["Quan Wen", "Mazran Ismail"],
     "AccessPath：面向老年居家环境自动无障碍评估的拓扑图式无障碍通行分析": ["Quan Wen"],
     "基于相变材料的多层粮仓自适应多温区温度控制": ["Quan Wen"],
     "基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估": ["Quan Wen", "Mazran Ismail"],
