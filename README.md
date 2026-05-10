@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-05-09
+> **最后更新：** 2026-05-10
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -19,6 +19,7 @@
 <tr><td>&#128150;</td><td>需修订</td></tr>
 <tr><td>&#128993;</td><td>内审中</td></tr>
 <tr><td>&#128994;</td><td>外审中</td></tr>
+<tr><td>&#10060;</td><td>已拒稿</td></tr>
 </table>
 
 
@@ -34,9 +35,10 @@
 <tr><th>状态</th><th>数量</th></tr>
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>4</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>51</td></tr>
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>7</td></tr>
-<tr><td><strong>合计</strong></td><td><strong>63</strong></td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>49</td></tr>
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>6</td></tr>
+<tr bgcolor="#fee2e2" style="background-color:#fee2e2;"><td>&#10060; 已拒稿</td><td>4</td></tr>
+<tr><td><strong>合计</strong></td><td><strong>64</strong></td></tr>
 </table>
 </td>
 <td valign="top" width="66%">
@@ -75,18 +77,6 @@
 
 <tbody>
 
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">AccessPath：面向老年居家环境自动无障碍评估的拓扑图式无障碍通行分析</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Disability and Rehabilitation</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">AccessStairNet：面向老年居家环境无障碍评估的台阶与门槛深度学习检测</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">International Journal of Human-Computer Interaction</td>
-</tr>
-
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于条件 GAN 与随机森林的多源数据融合社区韧性评估：来自中国河南的证据</td>
@@ -119,14 +109,14 @@
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">AccessGeometry：面向老年住宅无障碍合规评估的点云自动参数化建模</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Indoor and Built Environment</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">AccessStairNet：面向老年居家环境无障碍评估的台阶与门槛深度学习检测</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">International Journal of Human-Computer Interaction</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">历史社区智慧适老化改造策略的居民支持：整合地方依恋与技术接受</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Land</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">AccessGeometry：面向老年住宅无障碍合规评估的点云自动参数化建模</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Indoor and Built Environment</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -437,12 +427,6 @@
 
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">适老社区时序评估的贝叶斯元学习框架</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">BMC Medical Research Methodology</td>
-</tr>
-
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">面向老年人的15分钟城市：健康与适老城市化的操作框架</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Scientific Reports</td>
 </tr>
@@ -453,9 +437,32 @@
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Humanities and Social Sciences Communications</td>
 </tr>
 
+<tr bgcolor="#fee2e2" style="background-color:#fee2e2;">
+<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top; white-space: nowrap;">&#10060;</td>
+<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top;">AccessPath：面向老年居家环境自动无障碍评估的拓扑图式无障碍通行分析</td>
+<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top;">Disability and Rehabilitation</td>
+</tr>
+
+<tr bgcolor="#fee2e2" style="background-color:#fee2e2;">
+<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top; white-space: nowrap;">&#10060;</td>
+<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top;">历史社区智慧适老化改造策略的居民支持：整合地方依恋与技术接受</td>
+<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top;">Land</td>
+</tr>
+
+<tr bgcolor="#fee2e2" style="background-color:#fee2e2;">
+<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top; white-space: nowrap;">&#10060;</td>
+<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top;">面向多层粮仓全年能源优化的双模式辐射制冷与太阳能供热</td>
+<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top;">Energy</td>
+</tr>
+
+<tr bgcolor="#fee2e2" style="background-color:#fee2e2;">
+<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top; white-space: nowrap;">&#10060;</td>
+<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top;">适老社区时序评估的贝叶斯元学习框架</td>
+<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top;">Energy</td>
+</tr>
+
 
 </tbody>
 
 </table>
-
 

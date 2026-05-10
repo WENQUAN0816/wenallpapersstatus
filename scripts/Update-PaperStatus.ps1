@@ -14,6 +14,7 @@ $Statuses = @(
     [pscustomobject]@{ Name = "需修订"; Icon = "&#128150;"; Fill = "#ffd9ec"; Stroke = "#ec4899"; ChartFill = "#f43f5e"; ExcludeFromStats = $false },
     [pscustomobject]@{ Name = "内审中"; Icon = "&#128993;"; Fill = "#fff8d9"; Stroke = "#eab308"; ChartFill = "#f59e0b"; ExcludeFromStats = $false },
     [pscustomobject]@{ Name = "外审中"; Icon = "&#128994;"; Fill = "#e8f9ee"; Stroke = "#22c55e"; ChartFill = "#22c55e"; ExcludeFromStats = $false },
+    [pscustomobject]@{ Name = "已拒稿"; Icon = "&#10060;"; Fill = "#fee2e2"; Stroke = "#dc2626"; ChartFill = "#ef4444"; ExcludeFromStats = $false },
     [pscustomobject]@{ Name = "已接受"; Icon = "&#9989;"; Fill = "#dbeafe"; Stroke = "#2563eb"; ChartFill = "#2563eb"; ExcludeFromStats = $true }
 )
 $ReportStatuses = @($Statuses | Where-Object { -not $_.ExcludeFromStats })
