@@ -19,7 +19,6 @@
 <tr><td>&#128150;</td><td>需修订</td></tr>
 <tr><td>&#128993;</td><td>内审中</td></tr>
 <tr><td>&#128994;</td><td>外审中</td></tr>
-<tr><td>&#10060;</td><td>已拒稿</td></tr>
 </table>
 
 
@@ -33,11 +32,10 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>4</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>8</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>49</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>6</td></tr>
-<tr bgcolor="#fee2e2" style="background-color:#fee2e2;"><td>&#10060; 已拒稿</td><td>4</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>64</strong></td></tr>
 </table>
 </td>
@@ -99,6 +97,30 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">社区老年日间照料中心多模态热舒适的时空深度学习评估与预测</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Energy</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">AccessPath：面向老年居家环境自动无障碍评估的拓扑图式无障碍通行分析</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Disability and Rehabilitation (Rejected: TIDS-05-2026-088)</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">历史社区智慧适老化改造策略的居民支持：整合地方依恋与技术接受</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Land (Rejected: land-4335735)</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">面向多层粮仓全年能源优化的双模式辐射制冷与太阳能供热</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Energy (Rejected: EGY-D-26-10505)</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">适老社区时序评估的贝叶斯元学习框架</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Energy (Rejected: EGY-D-26-10556)</td>
 </tr>
 
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
@@ -437,32 +459,7 @@
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Humanities and Social Sciences Communications</td>
 </tr>
 
-<tr bgcolor="#fee2e2" style="background-color:#fee2e2;">
-<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top; white-space: nowrap;">&#10060;</td>
-<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top;">AccessPath：面向老年居家环境自动无障碍评估的拓扑图式无障碍通行分析</td>
-<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top;">Disability and Rehabilitation</td>
-</tr>
-
-<tr bgcolor="#fee2e2" style="background-color:#fee2e2;">
-<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top; white-space: nowrap;">&#10060;</td>
-<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top;">历史社区智慧适老化改造策略的居民支持：整合地方依恋与技术接受</td>
-<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top;">Land</td>
-</tr>
-
-<tr bgcolor="#fee2e2" style="background-color:#fee2e2;">
-<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top; white-space: nowrap;">&#10060;</td>
-<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top;">面向多层粮仓全年能源优化的双模式辐射制冷与太阳能供热</td>
-<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top;">Energy</td>
-</tr>
-
-<tr bgcolor="#fee2e2" style="background-color:#fee2e2;">
-<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top; white-space: nowrap;">&#10060;</td>
-<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top;">适老社区时序评估的贝叶斯元学习框架</td>
-<td bgcolor="#fee2e2" style="background-color:#fee2e2; vertical-align: top;">Energy</td>
-</tr>
-
 
 </tbody>
 
 </table>
-

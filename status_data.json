@@ -94,6 +94,99 @@
     "impactSort": -1
   },
   {
+    "statusDot": "⚪",
+    "status": "待投稿",
+    "statusOrder": 0,
+    "title": "AccessPath：面向老年居家环境自动无障碍评估的拓扑图式无障碍通行分析",
+    "journalTrack": "Disability and Rehabilitation (Rejected: TIDS-05-2026-088)",
+    "bg": "#f2f2f2",
+    "currentJournal": "",
+    "casXr": "",
+    "cas": "",
+    "xr": "",
+    "jcr": "",
+    "impactFactor": "",
+    "indexType": "",
+    "recommendedJournals": "Environment, Development and Sustainability；International Journal of Human-Computer Interaction；Disability and Rehabilitation",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
+    "updatedAt": "2026-05-10",
+    "situation": "被拒稿。2026-05-10 02:40 Disability and Rehabilitation 发出 Decision on Manuscript ID TIDS-05-2026-088；原因：topic not in scope。按同日 00:49 T&F 投稿确认邮件对应 AccessPath / Submission ID 264297465。后续可转投 Taylor & Francis 其他期刊。",
+    "impactSort": -1
+  },
+  {
+    "statusDot": "⚪",
+    "status": "待投稿",
+    "statusOrder": 0,
+    "title": "历史社区智慧适老化改造策略的居民支持：整合地方依恋与技术接受",
+    "journalTrack": "Land (Rejected: land-4335735)",
+    "bg": "#f2f2f2",
+    "currentJournal": "",
+    "casXr": "",
+    "cas": "",
+    "xr": "",
+    "jcr": "",
+    "impactFactor": "",
+    "indexType": "",
+    "recommendedJournals": "",
+    "authors": "Xuejia Zhu；Suebsiri Saelee",
+    "correspondingAuthors": [
+      "Suebsiri Saelee"
+    ],
+    "updatedAt": "2026-05-10",
+    "situation": "被拒稿。2026-05-10 06:01 Land / MDPI 发出 Declined for Publication，稿号 land-4335735；原因：Submissions sent for peer-review are selected based on discipline, novelty and general significance，邮件说明将不再继续处理该投稿，可另投。",
+    "impactSort": -1
+  },
+  {
+    "statusDot": "⚪",
+    "status": "待投稿",
+    "statusOrder": 0,
+    "title": "面向多层粮仓全年能源优化的双模式辐射制冷与太阳能供热",
+    "journalTrack": "Energy (Rejected: EGY-D-26-10505)",
+    "bg": "#f2f2f2",
+    "currentJournal": "",
+    "casXr": "",
+    "cas": "",
+    "xr": "",
+    "jcr": "",
+    "impactFactor": "",
+    "indexType": "",
+    "recommendedJournals": "",
+    "authors": "Ruili Liu；Quan Wen；Mazran Ismail",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
+    "updatedAt": "2026-05-10",
+    "situation": "被拒稿。2026-05-10 10:08 Energy 发出 Decision on submission，稿号 EGY-D-26-10505；原因：稿件 not suitable for publication / rejected。",
+    "impactSort": -1
+  },
+  {
+    "statusDot": "⚪",
+    "status": "待投稿",
+    "statusOrder": 0,
+    "title": "适老社区时序评估的贝叶斯元学习框架",
+    "journalTrack": "Energy (Rejected: EGY-D-26-10556)",
+    "bg": "#f2f2f2",
+    "currentJournal": "",
+    "casXr": "",
+    "cas": "",
+    "xr": "",
+    "jcr": "",
+    "impactFactor": "",
+    "indexType": "",
+    "recommendedJournals": "",
+    "authors": "Quan Wen；Mazran Ismail；Yanting Wu；Muhammad Hafeez Abdul Nasir",
+    "correspondingAuthors": [
+      "Quan Wen",
+      "Mazran Ismail"
+    ],
+    "updatedAt": "2026-05-10",
+    "situation": "被拒稿。2026-05-10 10:05 Energy 初筛拒稿，稿号 EGY-D-26-10556；原因：scientific novelty 相比 Energy 已发表同主题文献不够清楚。2026-05-10 10:13 收到 Elsevier 转投推荐。",
+    "impactSort": -1
+  },
+  {
     "statusDot": "💖",
     "status": "需修订",
     "statusOrder": 1,
@@ -1393,98 +1486,5 @@
     "updatedAt": "2026-05-10",
     "situation": "",
     "impactSort": 3.6
-  },
-  {
-    "statusDot": "❌",
-    "status": "已拒稿",
-    "statusOrder": 4,
-    "title": "AccessPath：面向老年居家环境自动无障碍评估的拓扑图式无障碍通行分析",
-    "journalTrack": "Disability and Rehabilitation",
-    "bg": "#fee2e2",
-    "currentJournal": "Disability and Rehabilitation",
-    "casXr": "CAS大4小3；XR大3小3",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q2",
-    "impactFactor": "2.0",
-    "indexType": "SCIE&SSCI",
-    "recommendedJournals": "Environment, Development and Sustainability；International Journal of Human-Computer Interaction；Disability and Rehabilitation",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "updatedAt": "2026-05-10",
-    "situation": "已拒稿。2026-05-10 02:40 Disability and Rehabilitation 发出 Decision on Manuscript ID TIDS-05-2026-088，理由为 topic not in scope；按同日 00:49 T&F 投稿确认邮件对应 AccessPath / Submission ID 264297465。后续可转投 Taylor & Francis 其他期刊。",
-    "impactSort": 2.0
-  },
-  {
-    "statusDot": "❌",
-    "status": "已拒稿",
-    "statusOrder": 4,
-    "title": "历史社区智慧适老化改造策略的居民支持：整合地方依恋与技术接受",
-    "journalTrack": "Land",
-    "bg": "#fee2e2",
-    "currentJournal": "Land",
-    "casXr": "CAS大3小4；XR大3小3",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q2",
-    "impactFactor": "3.2",
-    "indexType": "SSCI",
-    "recommendedJournals": "",
-    "authors": "Xuejia Zhu；Suebsiri Saelee",
-    "correspondingAuthors": [
-      "Suebsiri Saelee"
-    ],
-    "updatedAt": "2026-05-10",
-    "situation": "已拒稿。2026-05-10 06:01 Land / MDPI 发出 Declined for Publication，稿号 land-4335735；邮件说明将不再继续处理该投稿，可另投。",
-    "impactSort": 3.2
-  },
-  {
-    "statusDot": "❌",
-    "status": "已拒稿",
-    "statusOrder": 4,
-    "title": "面向多层粮仓全年能源优化的双模式辐射制冷与太阳能供热",
-    "journalTrack": "Energy",
-    "bg": "#fee2e2",
-    "currentJournal": "Energy",
-    "casXr": "CAS大1小1/2；XR大1小1/2",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q1",
-    "impactFactor": "9.0",
-    "indexType": "SCIE",
-    "recommendedJournals": "",
-    "authors": "Ruili Liu；Quan Wen；Mazran Ismail",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "updatedAt": "2026-05-10",
-    "situation": "已拒稿。2026-05-10 10:08 Energy 发出 Decision on submission，稿号 EGY-D-26-10505；邮件说明稿件 not suitable for publication / rejected。",
-    "impactSort": 9.0
-  },
-  {
-    "statusDot": "❌",
-    "status": "已拒稿",
-    "statusOrder": 4,
-    "title": "适老社区时序评估的贝叶斯元学习框架",
-    "journalTrack": "Energy",
-    "bg": "#fee2e2",
-    "currentJournal": "Energy",
-    "casXr": "CAS大1小1/2；XR大1小1/2",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q1",
-    "impactFactor": "9.0",
-    "indexType": "SCIE",
-    "recommendedJournals": "",
-    "authors": "Quan Wen；Mazran Ismail；Yanting Wu；Muhammad Hafeez Abdul Nasir",
-    "correspondingAuthors": [
-      "Quan Wen",
-      "Mazran Ismail"
-    ],
-    "updatedAt": "2026-05-10",
-    "situation": "已拒稿。2026-05-10 10:05 Energy 初筛拒稿，稿号 EGY-D-26-10556；理由为 scientific novelty 相比 Energy 已发表同主题文献不够清楚。2026-05-10 10:13 收到 Elsevier 转投推荐。",
-    "impactSort": 9.0
   }
 ]

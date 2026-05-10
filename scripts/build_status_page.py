@@ -16,8 +16,7 @@ STATUS_META = {
     "💖": {"label": "需修订", "order": 1, "color": "#f43f5e", "bg": "#ffd9ec"},
     "🟡": {"label": "内审中", "order": 2, "color": "#f59e0b", "bg": "#fff8d9"},
     "🟢": {"label": "外审中", "order": 3, "color": "#22c55e", "bg": "#e8f9ee"},
-    "❌": {"label": "已拒稿", "order": 4, "color": "#ef4444", "bg": "#fee2e2"},
-    "✅": {"label": "已接受", "order": 5, "color": "#2563eb", "bg": "#dbeafe", "excludeFromStats": True},
+    "✅": {"label": "已接受", "order": 4, "color": "#2563eb", "bg": "#dbeafe", "excludeFromStats": True},
 }
 SUMMARY_STATUS_META = {
     dot: meta for dot, meta in STATUS_META.items() if not meta.get("excludeFromStats")
