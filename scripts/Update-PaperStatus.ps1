@@ -226,6 +226,7 @@ function Write-IndexPage {
     foreach ($Status in $ActiveStatuses) {
         $Total += $Counts[$Status.Name]
     }
+    $Today = Get-Date -Format 'yyyy-MM-dd'
 
     $SummaryCards = ($ActiveStatuses | ForEach-Object {
         $Count = $Counts[$_.Name]
@@ -448,7 +449,7 @@ function Write-IndexPage {
   <main>
     <header>
       <h1>全部论文投稿状态</h1>
-      <span class="updated">最后更新：2026-05-07</span>
+      <span class="updated">最后更新：$Today</span>
     </header>
 
     <section class="summary">

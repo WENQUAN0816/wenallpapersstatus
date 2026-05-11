@@ -1112,7 +1112,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-11",
-    "situation": "2026-05-08 Energy Reports / Editorial Manager 已完成正式投递；按状态规则记为内审中，需明确进入外审/under review 后再改为外审中；此前提交包中所有浮动表格宽度已修复，实名版和匿名版 manuscript 均加入 adjustbox max width 限制，Table 1、Table 2 和宽表已重新编译验证不再超出页面；已导出 EnergyReports-manuscript-tables-fixed-v2.pdf 和 energy_reports_anonymous_latex_source_tables_fixed.zip。",
+    "situation": "2026-05-08 00:17 Energy Reports / Editorial Manager 确认收到正式投稿，稿号 EGYR-D-26-01996；按状态规则记为内审中，需明确进入外审/under review 后再改为外审中。此前提交包中所有浮动表格宽度已修复，实名版和匿名版 manuscript 均加入 adjustbox max width 限制，Table 1、Table 2 和宽表已重新编译验证不再超出页面；已导出 energy_reports_anonymous_latex_source_tables_fixed.zip；论文仓库已推送 commit ad09068。",
     "impactSort": 4.7
   },
   {
