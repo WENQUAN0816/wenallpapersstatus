@@ -349,6 +349,54 @@
     "impactSort": -1
   },
   {
+    "statusDot": "💖",
+    "status": "需修订",
+    "statusOrder": 1,
+    "title": "FRSGraph：面向老年居家环境的语义图 Transformer 跌倒风险空间预测",
+    "journalTrack": "Journal of Supercomputing (Revision: 0af186dd-57f3-4056-8e24-63dd732a3810)",
+    "bg": "#ffd9ec",
+    "currentJournal": "JOURNAL OF SUPERCOMPUTING",
+    "casXr": "CAS大4小3/4；XR大3小3",
+    "cas": "",
+    "xr": "",
+    "jcr": "Q2",
+    "impactFactor": "2.7",
+    "indexType": "SCIE",
+    "recommendedJournals": "The Journal of Supercomputing；Cluster Computing；Multimedia Tools and Applications",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Nooriati Binti Taib；Jestin Bin Nordin",
+    "correspondingAuthors": [
+      "Quan Wen",
+      "Mazran Ismail"
+    ],
+    "updatedAt": "2026-05-11",
+    "situation": "需修订。投稿轨迹：2026-03-20 投稿至 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing，稿号 JSTARS-2026-01380；2026-03-23 22:51 JSTARS 拒稿，原因：not suitable for publication in JSTARS / more suitable for other journals，且 86 篇参考文献中仅 1 篇与 GRSS community 相关。随后转投 The Journal of Supercomputing；2026-05-07 15:09 JOS Receipt of Manuscript，Submission ID 0af186dd-57f3-4056-8e24-63dd732a3810，进入 initial Technical Check。2026-05-11 20:09 JOS 发出 Decision on your manuscript，Decision: minor revision，Deadline: 2026-05-14；要求补充 ElderSafe-3D 涉及 senior living facilities scans 的伦理合规信息，包括 ethics statement、审批或豁免的 ethics committee/IRB 名称、伦理指南声明和 informed consent to participate statement。邮箱中未找到 2026-05-11 20:09 之后的修订提交确认。",
+    "impactSort": 2.7
+  },
+  {
+    "statusDot": "💖",
+    "status": "需修订",
+    "statusOrder": 1,
+    "title": "GridMamba-Risk：基于网格状态空间模型的整屋三维点云跌倒风险空间预测",
+    "journalTrack": "Journal of Supercomputing (Revision: c1ee17a9-69a9-4b82-90c4-597d7950f181)",
+    "bg": "#ffd9ec",
+    "currentJournal": "JOURNAL OF SUPERCOMPUTING",
+    "casXr": "CAS大4小3/4；XR大3小3",
+    "cas": "",
+    "xr": "",
+    "jcr": "Q2",
+    "impactFactor": "2.7",
+    "indexType": "SCIE",
+    "recommendedJournals": "The Journal of Supercomputing；Cluster Computing；Multimedia Tools and Applications；Soft Computing",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "correspondingAuthors": [
+      "Quan Wen",
+      "Mazran Ismail"
+    ],
+    "updatedAt": "2026-05-11",
+    "situation": "需修订。2026-05-11 19:20 The Journal of Supercomputing 发出 Decision on your manuscript，Submission ID c1ee17a9-69a9-4b82-90c4-597d7950f181，Decision: minor revision，Deadline: 2026-05-14。要求补充 ElderScan-Home 是否公开可得；如涉及老年人私人住宅扫描/私人 human data，需在 manuscript 中提供 ethics statement、审批或豁免的 ethics committee/IRB 名称、按相应伦理指南执行的说明，以及 freely-given informed consent to participate statement。2026-05-07 23:41 的 Receipt of Manuscript 早于最新 minor revision，不作为完成证据；邮箱中未找到 2026-05-11 19:20 之后的修订提交确认。",
+    "impactSort": 2.7
+  },
+  {
     "statusDot": "🟡",
     "status": "内审中",
     "statusOrder": 2,
@@ -487,30 +535,6 @@
     "updatedAt": "2026-05-11",
     "situation": "",
     "impactSort": 2.4
-  },
-  {
-    "statusDot": "🟡",
-    "status": "内审中",
-    "statusOrder": 2,
-    "title": "FRSGraph：面向老年居家环境的语义图 Transformer 跌倒风险空间预测",
-    "journalTrack": "Journal of Supercomputing",
-    "bg": "#fff8d9",
-    "currentJournal": "JOURNAL OF SUPERCOMPUTING",
-    "casXr": "CAS大4小3/4；XR大3小3",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q2",
-    "impactFactor": "2.7",
-    "indexType": "SCIE",
-    "recommendedJournals": "The Journal of Supercomputing；Cluster Computing；Multimedia Tools and Applications",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Nooriati Binti Taib；Jestin Bin Nordin",
-    "correspondingAuthors": [
-      "Quan Wen",
-      "Mazran Ismail"
-    ],
-    "updatedAt": "2026-05-11",
-    "situation": "已拒稿",
-    "impactSort": 2.7
   },
   {
     "statusDot": "🟡",
@@ -1300,30 +1324,6 @@
     "updatedAt": "2026-05-11",
     "situation": "",
     "impactSort": 3.6
-  },
-  {
-    "statusDot": "🟢",
-    "status": "外审中",
-    "statusOrder": 3,
-    "title": "GridMamba-Risk：基于网格状态空间模型的整屋三维点云跌倒风险空间预测",
-    "journalTrack": "Journal of Supercomputing",
-    "bg": "#e8f9ee",
-    "currentJournal": "JOURNAL OF SUPERCOMPUTING",
-    "casXr": "CAS大4小3/4；XR大3小3",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q2",
-    "impactFactor": "2.7",
-    "indexType": "SCIE",
-    "recommendedJournals": "The Journal of Supercomputing；Cluster Computing；Multimedia Tools and Applications；Soft Computing",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
-    "correspondingAuthors": [
-      "Quan Wen",
-      "Mazran Ismail"
-    ],
-    "updatedAt": "2026-05-11",
-    "situation": "Submitted / Technical Check. The Journal of Supercomputing / Springer SNAPP tracking page shows Submission received and Technical Check in progress; Submission ID c1ee17a9-69a9-4b82-90c4-597d7950f181, version v.1.0; LaTeX source package jos_snapp_latex_source_20260507.zip and cover_letter_jos.pdf uploaded; generated reviewer PDF verified against title/authors; paper repo commit a4fd1828200ed02705565d0be66ea813a11d7e2a. 已最终提交并进入 Technical Check；SNAPP 跟踪页显示 Submission received 且 Technical Check 进行中；Submission ID c1ee17a9-69a9-4b82-90c4-597d7950f181，版本 v.1.0；LaTeX 源文件包和 cover letter 已上传，系统生成 PDF 已核对题名/作者；论文仓库 commit a4fd1828200ed02705565d0be66ea813a11d7e2a。",
-    "impactSort": 2.7
   },
   {
     "statusDot": "🟢",
