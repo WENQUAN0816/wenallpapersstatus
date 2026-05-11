@@ -26,29 +26,6 @@
     "statusDot": "⚪",
     "status": "待投稿",
     "statusOrder": 0,
-    "title": "基于相变材料的多层粮仓自适应多温区温度控制",
-    "journalTrack": "Applied Energy → Applied Thermal Engineering",
-    "bg": "#f2f2f2",
-    "currentJournal": "",
-    "casXr": "",
-    "cas": "",
-    "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
-    "recommendedJournals": "",
-    "authors": "Ruili Liu；Quan Wen；Mazran Ismail",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "updatedAt": "2026-05-11",
-    "situation": "已拒稿",
-    "impactSort": -1
-  },
-  {
-    "statusDot": "⚪",
-    "status": "待投稿",
-    "statusOrder": 0,
     "title": "用于老年住宅活动分区功能分类的空间图神经网络",
     "journalTrack": "",
     "bg": "#f2f2f2",
@@ -137,53 +114,6 @@
     ],
     "updatedAt": "2026-05-11",
     "situation": "被拒稿。2026-05-10 06:01 Land / MDPI 发出 Declined for Publication，稿号 land-4335735；原因：Submissions sent for peer-review are selected based on discipline, novelty and general significance，邮件说明将不再继续处理该投稿，可另投。",
-    "impactSort": -1
-  },
-  {
-    "statusDot": "⚪",
-    "status": "待投稿",
-    "statusOrder": 0,
-    "title": "面向多层粮仓全年能源优化的双模式辐射制冷与太阳能供热",
-    "journalTrack": "Energy (Rejected: EGY-D-26-10505)",
-    "bg": "#f2f2f2",
-    "currentJournal": "",
-    "casXr": "",
-    "cas": "",
-    "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
-    "recommendedJournals": "",
-    "authors": "Ruili Liu；Quan Wen；Mazran Ismail",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "updatedAt": "2026-05-11",
-    "situation": "被拒稿。Energy 于 2026-05-10 10:08 及 2026-05-11 13:56-13:57 多次发出 Decision on submission，稿号 EGY-D-26-10505；原因：稿件 not suitable for publication / rejected。2026-05-06 16:20 的 Confirming your submission 早于拒稿邮件，不改变当前拒稿状态。",
-    "impactSort": -1
-  },
-  {
-    "statusDot": "⚪",
-    "status": "待投稿",
-    "statusOrder": 0,
-    "title": "适老社区时序评估的贝叶斯元学习框架",
-    "journalTrack": "Energy (Rejected: EGY-D-26-10556)",
-    "bg": "#f2f2f2",
-    "currentJournal": "",
-    "casXr": "",
-    "cas": "",
-    "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
-    "recommendedJournals": "",
-    "authors": "Quan Wen；Mazran Ismail；Yanting Wu；Muhammad Hafeez Abdul Nasir",
-    "correspondingAuthors": [
-      "Quan Wen",
-      "Mazran Ismail"
-    ],
-    "updatedAt": "2026-05-11",
-    "situation": "被拒稿。2026-05-10 10:05 Energy 初筛拒稿，稿号 EGY-D-26-10556；原因：scientific novelty 相比 Energy 已发表同主题文献不够清楚。2026-05-10 10:13 收到 Elsevier 转投推荐。",
     "impactSort": -1
   },
   {
@@ -416,6 +346,30 @@
     ],
     "updatedAt": "2026-05-11",
     "situation": "需修订。2026-05-09 12:27 Multimedia Tools and Applications 发出 MTAP-D-26-02294 - Manuscript Sent Back；最新退回原因：submission system 与 main manuscript text 中通讯作者邮箱不一致。此前 2026-05-08 00:24 Submission Confirmation 早于最新退回邮件，不作为完成证据；需重新修改后 Build PDF 并正式提交。",
+    "impactSort": -1
+  },
+  {
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
+    "title": "适老社区时序评估的贝叶斯元学习框架",
+    "journalTrack": "Energy (Rejected: EGY-D-26-10556) → Elsevier transfer submission",
+    "bg": "#fff8d9",
+    "currentJournal": "Elsevier transfer submission",
+    "casXr": "",
+    "cas": "",
+    "xr": "",
+    "jcr": "",
+    "impactFactor": "",
+    "indexType": "",
+    "recommendedJournals": "",
+    "authors": "Quan Wen；Mazran Ismail；Yanting Wu；Muhammad Hafeez Abdul Nasir",
+    "correspondingAuthors": [
+      "Quan Wen",
+      "Mazran Ismail"
+    ],
+    "updatedAt": "2026-05-11",
+    "situation": "2026-05-10 10:05 Energy 初筛拒稿，稿号 EGY-D-26-10556；2026-05-10 10:13 收到 Elsevier 转投推荐；随后 2026-05-10 20:06 Elsevier Journals 发出 Thank you for considering Elsevier as your publishing partner，正文确认 Thank you for your submission，并明确稿件 “Bayesian Meta-Learning Framework for Temporal Age-Friendly Community Assessment” is in safe hands / will be considered by the editor。该后续投稿确认晚于拒稿邮件，因此不再算待投稿，按内审中记录；确认邮件未显示新的具体目标期刊名。",
     "impactSort": -1
   },
   {
