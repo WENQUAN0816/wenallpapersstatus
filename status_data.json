@@ -305,29 +305,6 @@
     "statusDot": "💖",
     "status": "需修订",
     "statusOrder": 1,
-    "title": "室内适老环境多维韧性评估框架：基于 Google Gemini Pro 的大模型指标构建",
-    "journalTrack": "Humanities and Social Sciences Communications",
-    "bg": "#ffd9ec",
-    "currentJournal": "HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS",
-    "casXr": "CAS大2小1/2；XR大2小1",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q1",
-    "impactFactor": "3.6",
-    "indexType": "SSCI",
-    "recommendedJournals": "",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "updatedAt": "2026-05-11",
-    "situation": "需修订。2026-05-01 14:55 Springer Nature 发出 Humanities and Social Sciences Communications revision due reminder，submission details 7875353f-db21-408a-b938-baf0d1ed487f；邮箱中未找到该提醒之后的正式 revised submission / submission received 确认邮件。",
-    "impactSort": 3.6
-  },
-  {
-    "statusDot": "💖",
-    "status": "需修订",
-    "statusOrder": 1,
     "title": "AccessStairNet：面向老年居家环境无障碍评估的台阶与门槛深度学习检测",
     "journalTrack": "International Journal of Human-Computer Interaction (Revision: 263362300)",
     "bg": "#ffd9ec",
@@ -440,6 +417,29 @@
     "updatedAt": "2026-05-11",
     "situation": "需修订。2026-05-09 12:27 Multimedia Tools and Applications 发出 MTAP-D-26-02294 - Manuscript Sent Back；最新退回原因：submission system 与 main manuscript text 中通讯作者邮箱不一致。此前 2026-05-08 00:24 Submission Confirmation 早于最新退回邮件，不作为完成证据；需重新修改后 Build PDF 并正式提交。",
     "impactSort": -1
+  },
+  {
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
+    "title": "室内适老环境多维韧性评估框架：基于 Google Gemini Pro 的大模型指标构建",
+    "journalTrack": "Humanities and Social Sciences Communications (Technical Check)",
+    "bg": "#fff8d9",
+    "currentJournal": "HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS",
+    "casXr": "CAS大2小1/2；XR大2小1",
+    "cas": "",
+    "xr": "",
+    "jcr": "Q1",
+    "impactFactor": "3.6",
+    "indexType": "SSCI",
+    "recommendedJournals": "",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
+    "updatedAt": "2026-05-11",
+    "situation": "2026-05-01 14:55 Springer Nature 发出 Humanities and Social Sciences Communications revision due reminder，submission details 7875353f-db21-408a-b938-baf0d1ed487f；随后对应论文仓库 paper-26 的 revision_submission 记录显示 2026-05-02 已完成 HSSC technical check revision 提交，SNAPP 页面文本为 Submission received / Thank you for submitting to Humanities and Social Sciences Communications，并显示当前进入 Technical Check stage。因此不再计为需修订，改为内审中。",
+    "impactSort": 3.6
   },
   {
     "statusDot": "🟡",
