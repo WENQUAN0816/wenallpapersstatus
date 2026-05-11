@@ -398,29 +398,6 @@
     "statusDot": "💖",
     "status": "需修订",
     "statusOrder": 1,
-    "title": "基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析",
-    "journalTrack": "Computers in Biology and Medicine → Biomedical Signal Processing and Control (Action required)",
-    "bg": "#ffd9ec",
-    "currentJournal": "Biomedical Signal Processing and Control",
-    "casXr": "CAS大2小3；XR大2小2",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q1",
-    "impactFactor": "4.9",
-    "indexType": "SCIE",
-    "recommendedJournals": "",
-    "authors": "Quan Wen；Yanting Wu；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "updatedAt": "2026-05-11",
-    "situation": "需处理。2026-05-07 18:05 Biomedical Signal Processing and Control 发出 Submission requires action；2026-05-07 18:18 Elsevier transfer service 又发出 Action required: Complete Your Submission。按邮箱判定，未找到 2026-05-07 18:18 之后同题名/同期刊的 Submission Confirmation、Confirming your submission 或 Your manuscript has now been submitted 邮件，因此当前仍按需处理记录。",
-    "impactSort": 4.9
-  },
-  {
-    "statusDot": "💖",
-    "status": "需修订",
-    "statusOrder": 1,
     "title": "老龄化夹缝：面向中国老旧居住社区低收入独居老人的智能安全韧性评估框架",
     "journalTrack": "Environment, Development and Sustainability (Revision: ENVI-D-26-05792)",
     "bg": "#ffd9ec",
@@ -463,6 +440,29 @@
     "updatedAt": "2026-05-11",
     "situation": "需修订。2026-05-09 12:27 Multimedia Tools and Applications 发出 MTAP-D-26-02294 - Manuscript Sent Back；最新退回原因：submission system 与 main manuscript text 中通讯作者邮箱不一致。此前 2026-05-08 00:24 Submission Confirmation 早于最新退回邮件，不作为完成证据；需重新修改后 Build PDF 并正式提交。",
     "impactSort": -1
+  },
+  {
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
+    "title": "基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析",
+    "journalTrack": "Computers in Biology and Medicine → Biomedical Signal Processing and Control",
+    "bg": "#fff8d9",
+    "currentJournal": "Biomedical Signal Processing and Control",
+    "casXr": "CAS大2小3；XR大2小2",
+    "cas": "",
+    "xr": "",
+    "jcr": "Q1",
+    "impactFactor": "4.9",
+    "indexType": "SCIE",
+    "recommendedJournals": "",
+    "authors": "Quan Wen；Yanting Wu；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
+    "updatedAt": "2026-05-11",
+    "situation": "2026-05-10 18:05 Elsevier transfer service 仍有 Complete your submission 提醒；但 2026-05-10 20:06 Elsevier Journals 随后发出 Thank you for considering Elsevier as your publishing partner，正文确认 Thank you for your submission，且明确稿件 “Multimodal Emotion Analysis for Early Detection of Dementia Based on Attention Mechanisms and Cross-Modal Feature Fusion” is in safe hands / will be considered by the editor。该提交确认晚于最新 action-required 邮件，因此按状态规则从需修订改为内审中。",
+    "impactSort": 4.9
   },
   {
     "statusDot": "🟡",
