@@ -232,6 +232,29 @@
     "impactSort": -1
   },
   {
+    "statusDot": "⚪",
+    "status": "待投稿",
+    "statusOrder": 0,
+    "title": "基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析",
+    "journalTrack": "Computers in Biology and Medicine (Rejected: CIBM-D-26-00934) → Biomedical Signal Processing and Control (Rejected: BSPC-D-26-07670)",
+    "bg": "#f2f2f2",
+    "currentJournal": "",
+    "casXr": "",
+    "cas": "",
+    "xr": "",
+    "jcr": "",
+    "impactFactor": "",
+    "indexType": "",
+    "recommendedJournals": "",
+    "authors": "Quan Wen；Yanting Wu；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
+    "updatedAt": "2026-05-12",
+    "situation": "被拒稿，待重新转投。Kingcha 2026-05-12 复核：2026-05-12 14:46 Elsevier Transfer Your Manuscript 发出 Transfer Recommendation，明确稿件 “Multimodal Emotion Analysis for Early Detection of Dementia Based on Attention Mechanisms and Cross-Modal Feature Fusion” 已被 Biomedical Signal Processing and Control 拒稿，稿号 BSPC-D-26-07670；转投需作者进一步选择期刊并完成提交，邮件说明 transfer will not be completed without further action。2026-05-10 20:06 的 Elsevier submission confirmation 早于本次拒稿/转投推荐，不再作为当前内审中证据；邮箱中未找到 2026-05-12 14:46 之后的同稿新提交确认。",
+    "impactSort": -1
+  },
+  {
     "statusDot": "💖",
     "status": "需修订",
     "statusOrder": 1,
@@ -489,29 +512,6 @@
     "updatedAt": "2026-05-12",
     "situation": "2026-05-01 14:55 Springer Nature 发出 Humanities and Social Sciences Communications revision due reminder，submission details 7875353f-db21-408a-b938-baf0d1ed487f；随后对应论文仓库 paper-26 的 revision_submission 记录显示 2026-05-02 已完成 HSSC technical check revision 提交，SNAPP 页面文本为 Submission received / Thank you for submitting to Humanities and Social Sciences Communications，并显示当前进入 Technical Check stage。因此不再计为需修订，改为内审中。",
     "impactSort": 3.6
-  },
-  {
-    "statusDot": "🟡",
-    "status": "内审中",
-    "statusOrder": 2,
-    "title": "基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析",
-    "journalTrack": "Computers in Biology and Medicine → Biomedical Signal Processing and Control",
-    "bg": "#fff8d9",
-    "currentJournal": "Biomedical Signal Processing and Control",
-    "casXr": "CAS大2小3；XR大2小2",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q1",
-    "impactFactor": "4.9",
-    "indexType": "SCIE",
-    "recommendedJournals": "",
-    "authors": "Quan Wen；Yanting Wu；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "updatedAt": "2026-05-12",
-    "situation": "2026-05-10 18:05 Elsevier transfer service 仍有 Complete your submission 提醒；但 2026-05-10 20:06 Elsevier Journals 随后发出 Thank you for considering Elsevier as your publishing partner，正文确认 Thank you for your submission，且明确稿件 “Multimodal Emotion Analysis for Early Detection of Dementia Based on Attention Mechanisms and Cross-Modal Feature Fusion” is in safe hands / will be considered by the editor。该提交确认晚于最新 action-required 邮件，因此按状态规则从需修订改为内审中。",
-    "impactSort": 4.9
   },
   {
     "statusDot": "🟡",
@@ -1006,7 +1006,7 @@
     "status": "内审中",
     "statusOrder": 2,
     "title": "用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统",
-    "journalTrack": "Energy and Buildings → Energy → Journal of Building Engineering",
+    "journalTrack": "Energy and Buildings → Energy (Rejected: EGY-D-26-10505) → Journal of Building Engineering",
     "bg": "#fff8d9",
     "currentJournal": "Journal of Building Engineering",
     "casXr": "CAS大2小2；XR大1小1/2",
@@ -1021,7 +1021,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-12",
-    "situation": "2026-05-08 Journal of Building Engineering / Editorial Manager 已完成正式投递；按状态规则记为内审中，需明确进入外审/under review 后再改为外审中；重新补传 10 个 Figure 文件并重新 Build PDF 后，新下载 PDF 已检查未再出现 This is pdfTeX、LaTeX Warning、figure file not found 等日志/缺图页面；题名、摘要、关键词已更新为当前稿件版本。",
+    "situation": "Kingcha 2026-05-12 复核：2026-05-12 14:10 Energy / Editorial Manager 对稿件 “Dual-Mode Radiative Cooling and Solar Heating for Year-Round Energy Optimization in Multi-Story Grain Warehouses” 发出 Decision on submission，稿号 EGY-D-26-10505，结论为 not suitable for publication / reject。该 Energy 决定作为历史轨迹记录；当前状态仍按 2026-05-08 Journal of Building Engineering / Editorial Manager 已完成正式投递记录为内审中，需明确进入外审/under review 后再改为外审中。此前 JBE 重新补传 10 个 Figure 文件并重新 Build PDF 后，新下载 PDF 已检查未再出现 This is pdfTeX、LaTeX Warning、figure file not found 等日志/缺图页面；题名、摘要、关键词已更新为当前稿件版本。",
     "impactSort": 6.7
   },
   {
@@ -1375,30 +1375,6 @@
     "statusDot": "🟢",
     "status": "外审中",
     "statusOrder": 3,
-    "title": "挖掘马来西亚商业建筑能源灵活性的基于 LSTM 的模型预测控制方法",
-    "journalTrack": "Scientific Reports",
-    "bg": "#e8f9ee",
-    "currentJournal": "Scientific Reports",
-    "casXr": "CAS大3小3；XR大3小3",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q1",
-    "impactFactor": "3.9",
-    "indexType": "SCIE",
-    "recommendedJournals": "",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
-    "correspondingAuthors": [
-      "Quan Wen",
-      "Mazran Ismail"
-    ],
-    "updatedAt": "2026-05-12",
-    "situation": "",
-    "impactSort": 3.9
-  },
-  {
-    "statusDot": "🟢",
-    "status": "外审中",
-    "statusOrder": 3,
     "title": "面向老年人的15分钟城市：健康与适老城市化的操作框架",
     "journalTrack": "Scientific Reports",
     "bg": "#e8f9ee",
@@ -1440,5 +1416,29 @@
     "updatedAt": "2026-05-12",
     "situation": "",
     "impactSort": 3.6
+  },
+  {
+    "statusDot": "✅",
+    "status": "已接受",
+    "statusOrder": 4,
+    "title": "挖掘马来西亚商业建筑能源灵活性的基于 LSTM 的模型预测控制方法",
+    "journalTrack": "Scientific Reports (Accepted: 93b8c252-e284-4e40-926f-a4b92d907273)",
+    "bg": "#dbeafe",
+    "currentJournal": "Scientific Reports",
+    "casXr": "CAS大3小3；XR大3小3",
+    "cas": "",
+    "xr": "",
+    "jcr": "Q1",
+    "impactFactor": "3.9",
+    "indexType": "SCIE",
+    "recommendedJournals": "",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "correspondingAuthors": [
+      "Quan Wen",
+      "Mazran Ismail"
+    ],
+    "updatedAt": "2026-05-12",
+    "situation": "已接受。Kingcha 2026-05-12 复核：2026-05-12 20:40 Scientific Reports 发出 Decision on your manuscript，Submission ID 93b8c252-e284-4e40-926f-a4b92d907273，确认稿件 “A LSTM-based Model Predictive Control Method for Unlocking the Potential of Building Energy Flexibility in Malaysian Commercial Buildings” has now been accepted for publication in Scientific Reports。后续需完成 Open Access Licence to Publish、确认机构归属、安排 APC，并在 proof 发出后两个工作日内返回校样。",
+    "impactSort": 3.9
   }
 ]
