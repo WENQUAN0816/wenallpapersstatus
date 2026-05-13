@@ -316,13 +316,13 @@
     "impactSort": 6.0
   },
   {
-    "statusDot": "💖",
-    "status": "需修订",
-    "statusOrder": 1,
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
     "title": "老年游客对遗产建筑增强现实解说的接受度：扩展技术接受模型",
-    "journalTrack": "Sustainability (Revision: sustainability-4335606)",
+    "journalTrack": "Sustainability (Supplement submitted: sustainability-4335606)",
     "submissionSystemInfo": "",
-    "bg": "#ffd9ec",
+    "bg": "#fff8d9",
     "currentJournal": "Sustainability",
     "casXr": "CAS大3小3/4；XR大3小3/4",
     "cas": "",
@@ -336,7 +336,7 @@
       "Suebsiri Saelee"
     ],
     "updatedAt": "2026-05-13",
-    "situation": "需修订。Kingcha 2026-05-12 复核：2026-05-08 16:31 MDPI Sustainability 发出 Submission Received，稿号 sustainability-4335606；但随后 2026-05-08 16:57 发出 Data Availability Statement 确认请求，2026-05-08 17:02 发出 Ethical Questions Confirmation，2026-05-08 17:03 发出 Informed Consent for Participation Inquiry。要求补充或解释 Data Availability Statement，提供 Ethics Committee/IRB 名称、approval code/date 或豁免/法规依据，并在修订稿中加入 informed consent statement 或详细说明。上述三封请求晚于 Submission Received，邮箱中未找到后续回复或解决确认，因此改为需修订。",
+    "situation": "内审中。2026-05-13 已给 MDPI Sustainability 编辑发送修改邮件并补充所需文件/说明，针对 sustainability-4335606 此前 Data Availability Statement、Ethical Questions Confirmation 与 Informed Consent for Participation Inquiry 的补充请求完成回复；按用户确认，视为补充材料已提交，状态由需修订改为内审中。后续需等待编辑部确认或系统状态更新。",
     "impactSort": 3.3
   },
   {

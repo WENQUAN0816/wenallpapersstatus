@@ -33,8 +33,8 @@
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>12</td></tr>
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>2</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>43</td></tr>
+<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>44</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>4</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>61</strong></td></tr>
 </table>
@@ -154,10 +154,10 @@
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Neural Networks (Revision: NEUNET-D-26-01296)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
 </tr>
 
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">老年游客对遗产建筑增强现实解说的接受度：扩展技术接受模型</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Sustainability (Revision: sustainability-4335606)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">老年游客对遗产建筑增强现实解说的接受度：扩展技术接受模型</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Sustainability (Supplement submitted: sustainability-4335606)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
