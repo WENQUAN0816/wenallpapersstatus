@@ -282,29 +282,6 @@
     "statusDot": "💖",
     "status": "需修订",
     "statusOrder": 1,
-    "title": "AccessStairNet：面向老年居家环境无障碍评估的台阶与门槛深度学习检测",
-    "journalTrack": "International Journal of Human-Computer Interaction (Revision: 263362300)",
-    "bg": "#ffd9ec",
-    "currentJournal": "International Journal of Human-Computer Interaction",
-    "casXr": "CAS大3小3；XR大2小2",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q1",
-    "impactFactor": "4.9",
-    "indexType": "SCIE&SSCI",
-    "recommendedJournals": "Environment, Development and Sustainability；International Journal of Human-Computer Interaction；Multimedia Tools and Applications",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "updatedAt": "2026-05-13",
-    "situation": "需修订。Kingcha 2026-05-13 更新：IJHCI / Submission ID 263362300 的技术检查修订文件已准备完成，通讯作者已统一为 Wen Quan / wenquan@student.usm.my，图件已改为嵌入 PNG，正文已补 Figure 1 和 Figure 4 引用，已补 Author Contributions，Data Availability Statement 已改为公开 Zenodo v1.0.1 DOI 数据仓储链接 https://doi.org/10.5281/zenodo.20151475（全版本 DOI：https://doi.org/10.5281/zenodo.20142823）。原始返修证据：2026-05-09 13:32 International Journal of Human-Computer Interaction 发出 changes required，2026-05-12 07:53 又发出 Incomplete submission 提醒。当前邮箱/仓库仍未发现 2026-05-12 07:53 之后的 IJHCI 重新提交确认或 Approve changes 完成证据，因此仍按需修订处理，下一步是在 Taylor & Francis Submission Portal 上传修订文件并完成最终确认。",
-    "impactSort": 4.9
-  },
-  {
-    "statusDot": "💖",
-    "status": "需修订",
-    "statusOrder": 1,
     "title": "健康老龄化评估的元学习框架：具有人群泛化能力的注意力神经过程",
     "journalTrack": "Neural Networks (Revision: NEUNET-D-26-01296)",
     "bg": "#ffd9ec",
@@ -418,6 +395,29 @@
     "updatedAt": "2026-05-13",
     "situation": "需修订。Kingcha 2026-05-12 复核：2026-05-12 15:49 IEEE Access 发出 Instructions to Resubmit Manuscript ID Access-2026-21292，稿件 Dependency-Aware 3D Scene Graph Generation for Automated Age-Friendly Home Environment Assessment via Multimodal Feature Learning 被 returned back to draft。要求在稿件中为每位作者加入 biography，并在重投前检查语法和 IEEE Access submission checklist。2026-05-06 21:01 Manuscript submitted to IEEE Access 早于最新 returned-to-draft 邮件，不作为完成证据；邮箱中未找到 2026-05-12 15:49 之后的重投确认。",
     "impactSort": 3.6
+  },
+  {
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
+    "title": "AccessStairNet：面向老年居家环境无障碍评估的台阶与门槛深度学习检测",
+    "journalTrack": "International Journal of Human-Computer Interaction (Resubmitted: 263362300)",
+    "bg": "#fff8d9",
+    "currentJournal": "International Journal of Human-Computer Interaction",
+    "casXr": "CAS大3小3；XR大2小2",
+    "cas": "",
+    "xr": "",
+    "jcr": "Q1",
+    "impactFactor": "4.9",
+    "indexType": "SCIE&SSCI",
+    "recommendedJournals": "Environment, Development and Sustainability；International Journal of Human-Computer Interaction；Multimedia Tools and Applications",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
+    "updatedAt": "2026-05-13",
+    "situation": "内审中。Kingcha 2026-05-13 复核：2026-05-13 14:28 Asia/Shanghai 收到 IJHCI / Taylor & Francis 投稿接收邮件，主题为 Submission received for International Journal of Human-Computer Interaction (Submission ID: 263362300)，正文确认 Thank you for your submission，Submission ID 263362300，题名 AccessStairNet: A Mobile Deep Learning Inspection Tool for Human-Centered Accessibility Assessment of Steps and Thresholds in Elderly Home Environments。Taylor & Francis Author Portal 同日显示 Manuscript Resubmitted，时间线包含 13 May 2026 Manuscript Resubmitted。该证据晚于 2026-05-09 13:32 changes required 和 2026-05-12 07:53 Incomplete submission reminder，因此不再计为需修订，改为内审中。已按技术检查要求统一通讯作者 Wen Quan / wenquan@student.usm.my，修复图件显示，补齐 Figure 1 和 Figure 4 正文引用，补充 Author Contributions，并将 Data Availability Statement 改为公开 Zenodo v1.0.1 DOI 数据仓储链接 https://doi.org/10.5281/zenodo.20151475（全版本 DOI：https://doi.org/10.5281/zenodo.20142823）。",
+    "impactSort": 4.9
   },
   {
     "statusDot": "🟡",
