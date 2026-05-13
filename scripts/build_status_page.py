@@ -404,6 +404,7 @@ def parse_rows():
                     "statusOrder": STATUS_META[dot]["order"],
                     "title": row.get("title", ""),
                     "journalTrack": row.get("journalTrack", ""),
+                    "submissionSystemInfo": row.get("submissionSystemInfo", ""),
                     "bg": row.get("bg") or STATUS_META[dot]["bg"],
                 })
             return rows
@@ -416,12 +417,13 @@ def parse_rows():
     rows = []
     for tr in re.findall(r"<tr[^>]*>[\s\S]*?</tr>", table, flags=re.I):
         cells = re.findall(r"<td[^>]*>([\s\S]*?)</td>", tr, flags=re.I)
-        if len(cells) != 3:
+        if len(cells) < 3:
             continue
         bgcolor = re.search(r'background-color:\s*(#[0-9A-Fa-f]{6})', tr)
         status = clean_cell(cells[0])
         title = clean_cell(cells[1])
         track = clean_cell(cells[2])
+        submission_system_info = clean_cell(cells[3]) if len(cells) >= 4 else ""
         dot = status[0] if status else "⚪"
         if dot not in STATUS_META:
             dot = "⚪"
@@ -431,9 +433,17 @@ def parse_rows():
             "statusOrder": STATUS_META[dot]["order"],
             "title": title,
             "journalTrack": track,
+            "submissionSystemInfo": submission_system_info,
             "bg": bgcolor.group(1) if bgcolor else STATUS_META[dot]["bg"],
         })
     return rows
+
+
+def parse_submission_system_info():
+    path = ROOT / "submission_system_overrides.json"
+    if not path.exists():
+        return {}
+    return json.loads(path.read_text(encoding="utf-8"))
 
 
 def parse_situation_from_readme():
@@ -474,6 +484,7 @@ def enrich_rows(rows):
     ei_set = build_ei_set()
     jcr_index = build_jcr_index()
     situation_by_title = parse_situation_from_readme()
+    submission_system_by_title = parse_submission_system_info()
     today = dt.date.today().isoformat()
     for row in rows:
         journal = current_journal(row)
@@ -487,6 +498,7 @@ def enrich_rows(rows):
         row["authors"] = AUTHOR_MAP.get(row["title"], "")
         row["correspondingAuthors"] = CORRESPONDING_AUTHOR_MAP.get(row["title"], [])
         row["updatedAt"] = today
+        row["submissionSystemInfo"] = submission_system_by_title.get(row["title"], row.get("submissionSystemInfo", ""))
         row["situation"] = situation_by_title.get(row["title"], "")
         row["impactSort"] = float(row["impactFactor"]) if re.fullmatch(r"\d+(\.\d+)?", row["impactFactor"] or "") else -1
     return rows
@@ -548,7 +560,7 @@ def render(rows):
     table.paper-status-table th[data-key="title"], table.paper-status-table td[data-key="title"] {{ min-width:var(--title-width); width:var(--title-width); position:sticky; left:54px; z-index:3; }}
     table.paper-status-table th[data-key="title"] {{ z-index:4; }}
     table.paper-status-table td[data-key="currentJournal"] {{ min-width:230px; }}
-    table.paper-status-table td[data-key="journalTrack"], table.paper-status-table td[data-key="recommendedJournals"], table.paper-status-table td[data-key="situation"] {{ min-width:320px; }}
+    table.paper-status-table td[data-key="journalTrack"], table.paper-status-table td[data-key="recommendedJournals"], table.paper-status-table td[data-key="situation"], table.paper-status-table td[data-key="submissionSystemInfo"] {{ min-width:320px; }}
     table.paper-status-table td[data-key="casXr"] {{ min-width:180px; }}
     table.paper-status-table td[data-key="authors"] {{ min-width:260px; }}
     .corresponding-author {{ color:#dc2626; font-weight:800; }}
@@ -594,6 +606,7 @@ def render(rows):
       ["status", "状态"],
       ["title", "论文标题"],
       ["currentJournal", "当前所在期刊名称"],
+      ["submissionSystemInfo", "投稿系统信息"],
       ["casXr", "CAS/XR分区"],
       ["jcr", "JCR分区"],
       ["impactFactor", "IF"],
