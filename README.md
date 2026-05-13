@@ -177,16 +177,16 @@
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Multimedia Tools and Applications (Revision: MTAP-D-26-02294)</td>
 </tr>
 
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">FRSGraph：面向老年居家环境的语义图 Transformer 跌倒风险空间预测</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Journal of Supercomputing (Revision: 0af186dd-57f3-4056-8e24-63dd732a3810)</td>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">FRSGraph：面向老年居家环境的语义图 Transformer 跌倒风险空间预测</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Supercomputing (Revised submission received: 0af186dd-57f3-4056-8e24-63dd732a3810)</td>
 </tr>
 
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">GridMamba-Risk：基于网格状态空间模型的整屋三维点云跌倒风险空间预测</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Journal of Supercomputing (Revision: c1ee17a9-69a9-4b82-90c4-597d7950f181)</td>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">GridMamba-Risk：基于网格状态空间模型的整屋三维点云跌倒风险空间预测</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Supercomputing (Revised submission received: c1ee17a9-69a9-4b82-90c4-597d7950f181)</td>
 </tr>
 
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
