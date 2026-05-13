@@ -329,29 +329,6 @@
     "statusDot": "💖",
     "status": "需修订",
     "statusOrder": 1,
-    "title": "基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防",
-    "journalTrack": "IEEE Access → The Journal of Nutrition, Health and Aging (JNHA) → PLOS ONE (Revision: PONE-D-26-22394)",
-    "bg": "#ffd9ec",
-    "currentJournal": "PLOS ONE",
-    "casXr": "CAS大3小3；XR大3小3",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q1",
-    "impactFactor": "2.9",
-    "indexType": "SCIE",
-    "recommendedJournals": "",
-    "authors": "Quan Wen",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "updatedAt": "2026-05-13",
-    "situation": "需修订。Kingcha 2026-05-12 复核：2026-05-07 14:29 PLOS ONE 发出 Edits requested on PONE-D-26-22394；要求上传 Human Participants Research Checklist 作为 Other file，并在 21 天内重新提交。2026-05-06 20:55 Submission Confirmation 早于 edits requested，不作为完成证据；邮箱中未找到 2026-05-07 14:29 之后的重新提交确认。",
-    "impactSort": 2.9
-  },
-  {
-    "statusDot": "💖",
-    "status": "需修订",
-    "statusOrder": 1,
     "title": "老龄化夹缝：面向中国老旧居住社区低收入独居老人的智能安全韧性评估框架",
     "journalTrack": "Environment, Development and Sustainability (Revision: ENVI-D-26-05792)",
     "bg": "#ffd9ec",
@@ -441,6 +418,29 @@
     "updatedAt": "2026-05-13",
     "situation": "需修订。Kingcha 2026-05-12 复核：2026-05-12 15:49 IEEE Access 发出 Instructions to Resubmit Manuscript ID Access-2026-21292，稿件 Dependency-Aware 3D Scene Graph Generation for Automated Age-Friendly Home Environment Assessment via Multimodal Feature Learning 被 returned back to draft。要求在稿件中为每位作者加入 biography，并在重投前检查语法和 IEEE Access submission checklist。2026-05-06 21:01 Manuscript submitted to IEEE Access 早于最新 returned-to-draft 邮件，不作为完成证据；邮箱中未找到 2026-05-12 15:49 之后的重投确认。",
     "impactSort": 3.6
+  },
+  {
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
+    "title": "基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防",
+    "journalTrack": "IEEE Access → The Journal of Nutrition, Health and Aging (JNHA) → PLOS ONE (Manuscript Submitted to Journal: PONE-D-26-22394)",
+    "bg": "#fff8d9",
+    "currentJournal": "PLOS ONE",
+    "casXr": "CAS大3小3；XR大3小3",
+    "cas": "",
+    "xr": "",
+    "jcr": "Q1",
+    "impactFactor": "2.9",
+    "indexType": "SCIE",
+    "recommendedJournals": "",
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
+    "updatedAt": "2026-05-13",
+    "situation": "内审中。2026-05-13 01:17 PLOS ONE / Editorial Manager 显示 PONE-D-26-22394 已完成退回稿件处理并进入 Submissions Being Processed，当前状态为 Manuscript Submitted to Journal；作者后台同时显示 Submissions Sent Back to Author (0)、Submissions Waiting for Author's Approval (0)。2026-05-13 01:29 邮箱收到 PLOS ONE Notification: Your PDF has been built (PONE-D-26-22394)。此前 2026-05-07 14:29 PLOS ONE 发出 Edits requested，要求上传 Human Participants Research Checklist 作为 Other file；本次已将 PLOS_Human_Participants_Research_Checklist.pdf 的 Item Type 改为 Other，并在 Enter Comments 中说明已按要求上传后完成 Build PDF 和最终 Approve。",
+    "impactSort": 2.9
   },
   {
     "statusDot": "🟡",
