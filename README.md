@@ -32,9 +32,9 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>11</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>12</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>9</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>37</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>36</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>4</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>61</strong></td></tr>
 </table>
@@ -141,6 +141,12 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Computers in Biology and Medicine (Rejected: CIBM-D-26-00934) → Biomedical Signal Processing and Control (Rejected: BSPC-D-26-07670)</td>
 </tr>
 
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">适老社区时序评估的贝叶斯元学习框架</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">BMC Medical Research Methodology (Rejected: f905dc2b-94cd-47e6-b4a4-4423c0a16ec8) → Energy (Rejected: EGY-D-26-10556)</td>
+</tr>
+
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">AccessStairNet：面向老年居家环境无障碍评估的台阶与门槛深度学习检测</td>
@@ -193,12 +199,6 @@
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Image and Vision Computing → IEEE Access (Revision: Access-2026-21292)</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">适老社区时序评估的贝叶斯元学习框架</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Energy (Rejected: EGY-D-26-10556) → Elsevier transfer submission</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">

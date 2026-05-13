@@ -255,6 +255,30 @@
     "impactSort": -1
   },
   {
+    "statusDot": "⚪",
+    "status": "待投稿",
+    "statusOrder": 0,
+    "title": "适老社区时序评估的贝叶斯元学习框架",
+    "journalTrack": "BMC Medical Research Methodology (Rejected: f905dc2b-94cd-47e6-b4a4-4423c0a16ec8) → Energy (Rejected: EGY-D-26-10556)",
+    "bg": "#f2f2f2",
+    "currentJournal": "",
+    "casXr": "",
+    "cas": "",
+    "xr": "",
+    "jcr": "",
+    "impactFactor": "",
+    "indexType": "",
+    "recommendedJournals": "",
+    "authors": "Quan Wen；Mazran Ismail；Yanting Wu；Muhammad Hafeez Abdul Nasir",
+    "correspondingAuthors": [
+      "Quan Wen",
+      "Mazran Ismail"
+    ],
+    "updatedAt": "2026-05-13",
+    "situation": "被拒稿，待重新转投。Kingcha 2026-05-13 复核：英文题名为 “Bayesian Meta-Learning Framework for Temporal Age-Friendly Community Assessment”。BMC Medical Research Methodology 于 2026-03-03 12:55 确认收到稿件，Submission ID f905dc2b-94cd-47e6-b4a4-4423c0a16ec8；2026-03-10 05:11 发出 minor revision / technical-check revision，要求补齐 Declarations；2026-05-13 10:18 发出拒稿决定，原因包括清晰度、方法透明度和实证评估有效性不足，问题界定、数据构建、建模方法、验证、评估程序和基准比较描述不足。另有 2026-05-06 22:48 Energy 投稿确认，稿号 EGY-D-26-10556；2026-05-10 10:05 Energy 初筛拒稿，原因为科学新颖性相对 ENERGY 既有研究描述不清。2026-05-10 10:13 和 2026-05-13 10:13 的 Elsevier transfer 邮件均为转投推荐/提醒，明确 transfer will not be completed without further action；2026-05-10 20:06 的 Elsevier Journals 营销式 “Thank you for your submission” 未给出具体目标期刊/稿号，且被 2026-05-13 10:13 转投未完成提醒削弱，故不作为有效在投证据。当前无后续正式提交确认，按待投稿处理。",
+    "impactSort": -1
+  },
+  {
     "statusDot": "💖",
     "status": "需修订",
     "statusOrder": 1,
@@ -392,7 +416,7 @@
       "Mazran Ismail"
     ],
     "updatedAt": "2026-05-13",
-    "situation": "需修订。Kingcha 2026-05-12 复核：投稿轨迹为 2026-03-20 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing，稿号 JSTARS-2026-01380；2026-03-23 22:51 JSTARS 拒稿，原因为 not suitable for publication in JSTARS / more suitable for other journals，且 86 篇参考文献中仅 1 篇与 GRSS community 相关。随后转投 The Journal of Supercomputing；2026-05-07 15:09 JOS Receipt of Manuscript，Submission ID 0af186dd-57f3-4056-8e24-63dd732a3810，进入 initial Technical Check。2026-05-11 20:09 JOS 发出 Decision on your manuscript，Decision: minor revision，Deadline: 2026-05-14；要求补充 ElderSafe-3D 涉及 senior living facilities scans 的伦理合规信息，包括 ethics statement、审批或豁免的 ethics committee/IRB 名称、伦理指南声明和 informed consent to participate statement。邮箱中未找到 2026-05-11 20:09 之后的修订提交确认。",
+    "situation": "内审中。2026-05-13 12:28:44 +08:00 Springer Nature SNAPP 显示 Submission received / Thank you for submitting to The Journal of Supercomputing，修订稿已进入 Technical Check。Submission ID 0af186dd-57f3-4056-8e24-63dd732a3810。此前 2026-05-11 20:09 minor revision 要求补充 ElderSafe-3D senior living facilities scans 的伦理合规信息，包括 ethics statement、审批或豁免的 ethics committee/IRB 名称、伦理指南声明和 informed consent to participate statement；本次修订已在 manuscript 和 declarations 中补充 Institutional Ethics Committee of Henan Industry and Trade Vocational College、Approval No. HGMLL-2024-017、Declaration of Helsinki、written informed consent、facility-level permission，以及 purpose-collected senior living facility scans 不公开和受伦理/设施许可/同意条件限制的访问说明。",
     "impactSort": 2.7
   },
   {
@@ -416,7 +440,7 @@
       "Mazran Ismail"
     ],
     "updatedAt": "2026-05-13",
-    "situation": "需修订。Kingcha 2026-05-12 复核：2026-05-11 19:20 The Journal of Supercomputing 发出 Decision on your manuscript，Submission ID c1ee17a9-69a9-4b82-90c4-597d7950f181，Decision: minor revision，Deadline: 2026-05-14。要求补充 ElderScan-Home 是否公开可得；如涉及老年人私人住宅扫描/私人 human data，需在 manuscript 中提供 ethics statement、审批或豁免的 ethics committee/IRB 名称、按相应伦理指南执行的说明，以及 freely-given informed consent to participate statement。2026-05-07 23:41 的 Receipt of Manuscript 早于最新 minor revision，不作为完成证据；邮箱中未找到 2026-05-11 19:20 之后的修订提交确认。",
+    "situation": "内审中。2026-05-13 12:26:43 +08:00 Springer Nature SNAPP 显示 Submission received / Thank you for submitting to The Journal of Supercomputing，修订稿已进入 Technical Check。Submission ID c1ee17a9-69a9-4b82-90c4-597d7950f181。此前 2026-05-11 19:20 minor revision 要求补充 ElderScan-Home 是否公开可得、伦理审批/IRB 名称、伦理指南声明和知情同意声明；本次修订已在 manuscript 和 declarations 中补充 Institutional Ethics Committee of Henan Industry and Trade Vocational College、Approval No. HGMLL-2024-017、Declaration of Helsinki、written informed consent，以及 ElderScan-Home 私宅扫描数据不公开和受伦理/项目许可/同意条件限制的访问说明。",
     "impactSort": 2.7
   },
   {
@@ -465,30 +489,6 @@
     "updatedAt": "2026-05-13",
     "situation": "需修订。Kingcha 2026-05-12 复核：2026-05-12 15:49 IEEE Access 发出 Instructions to Resubmit Manuscript ID Access-2026-21292，稿件 Dependency-Aware 3D Scene Graph Generation for Automated Age-Friendly Home Environment Assessment via Multimodal Feature Learning 被 returned back to draft。要求在稿件中为每位作者加入 biography，并在重投前检查语法和 IEEE Access submission checklist。2026-05-06 21:01 Manuscript submitted to IEEE Access 早于最新 returned-to-draft 邮件，不作为完成证据；邮箱中未找到 2026-05-12 15:49 之后的重投确认。",
     "impactSort": 3.6
-  },
-  {
-    "statusDot": "🟡",
-    "status": "内审中",
-    "statusOrder": 2,
-    "title": "适老社区时序评估的贝叶斯元学习框架",
-    "journalTrack": "Energy (Rejected: EGY-D-26-10556) → Elsevier transfer submission",
-    "bg": "#fff8d9",
-    "currentJournal": "Elsevier transfer submission",
-    "casXr": "",
-    "cas": "",
-    "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
-    "recommendedJournals": "",
-    "authors": "Quan Wen；Mazran Ismail；Yanting Wu；Muhammad Hafeez Abdul Nasir",
-    "correspondingAuthors": [
-      "Quan Wen",
-      "Mazran Ismail"
-    ],
-    "updatedAt": "2026-05-13",
-    "situation": "2026-05-10 10:05 Energy 初筛拒稿，稿号 EGY-D-26-10556；2026-05-10 10:13 收到 Elsevier 转投推荐；随后 2026-05-10 20:06 Elsevier Journals 发出 Thank you for considering Elsevier as your publishing partner，正文确认 Thank you for your submission，并明确稿件 “Bayesian Meta-Learning Framework for Temporal Age-Friendly Community Assessment” is in safe hands / will be considered by the editor。该后续投稿确认晚于拒稿邮件，因此不再算待投稿，按内审中记录；确认邮件未显示新的具体目标期刊名。",
-    "impactSort": -1
   },
   {
     "statusDot": "🟡",
