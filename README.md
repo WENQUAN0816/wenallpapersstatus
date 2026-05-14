@@ -32,11 +32,11 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>13</td></tr>
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>40</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>14</td></tr>
+<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>3</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>38</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>7</td></tr>
-<tr><td><strong>合计</strong></td><td><strong>61</strong></td></tr>
+<tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
 </table>
 </td>
 <td valign="top" width="66%">
@@ -154,10 +154,28 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;"></td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
 </tr>
 
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Image and Vision Computing → IEEE Access (Rejected: Access-2026-21292)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">IEEE Author Portal / IEEE Access；门户菜单名：Wen；账号显示名：WEN QUAN；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-13；未存储密码。</td>
+</tr>
+
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">健康老龄化评估的元学习框架：具有人群泛化能力的注意力神经过程</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Neural Networks (Revision: NEUNET-D-26-01296)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
+</tr>
+
+<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">轻量级 Transformer：面向资源受限老年智能家居边缘 IoT 入侵检测的知识蒸馏与区块链协同</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Cluster Computing (Amendment required: eec18a2a-115f-4885-b114-202a0368f2ed)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
+</tr>
+
+<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">IEEE Access → The Journal of Nutrition, Health and Aging (JNHA) → PLOS ONE (Edits requested: PONE-D-26-22394)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -180,20 +198,8 @@
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Image and Vision Computing → IEEE Access (Resubmitted: Access-2026-21292)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Author Portal / IEEE Access；门户菜单名：Wen；账号显示名：WEN QUAN；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-13；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">AccessStairNet：面向老年居家环境无障碍评估的台阶与门槛深度学习检测</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">International Journal of Human-Computer Interaction (Resubmitted: 263362300)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Taylor & Francis Research Portal / My Account；用户名/显示名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Access → The Journal of Nutrition, Health and Aging (JNHA) → PLOS ONE (Manuscript Submitted to Journal: PONE-D-26-22394)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
