@@ -84,14 +84,14 @@
     "journalTrack": "Disability and Rehabilitation (Rejected: TIDS-05-2026-088)",
     "submissionSystemInfo": "",
     "bg": "#f2f2f2",
-    "currentJournal": "",
+    "currentJournal": "Disability and Rehabilitation",
     "similarity": "20.3%",
-    "casXr": "",
+    "casXr": "CAS大4小3；XR大3小3",
     "cas": "",
     "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
+    "jcr": "Q2",
+    "impactFactor": "2.0",
+    "indexType": "SCIE&SSCI",
     "recommendedJournals": "Environment, Development and Sustainability；International Journal of Human-Computer Interaction；Disability and Rehabilitation",
     "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
     "correspondingAuthors": [
@@ -99,7 +99,7 @@
     ],
     "updatedAt": "2026-05-15",
     "situation": "被拒稿。2026-05-10 02:40 Disability and Rehabilitation 发出 Decision on Manuscript ID TIDS-05-2026-088；原因：topic not in scope。按同日 00:49 T&F 投稿确认邮件对应 AccessPath / Submission ID 264297465。后续可转投 Taylor & Francis 其他期刊。",
-    "impactSort": -1
+    "impactSort": 2.0
   },
   {
     "statusDot": "⚪",
@@ -109,14 +109,14 @@
     "journalTrack": "Land (Rejected: land-4335735)",
     "submissionSystemInfo": "",
     "bg": "#f2f2f2",
-    "currentJournal": "",
+    "currentJournal": "Land",
     "similarity": "",
-    "casXr": "",
+    "casXr": "CAS大3小4；XR大3小3",
     "cas": "",
     "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
+    "jcr": "Q2",
+    "impactFactor": "3.2",
+    "indexType": "SSCI",
     "recommendedJournals": "",
     "authors": "Xuejia Zhu；Suebsiri Saelee",
     "correspondingAuthors": [
@@ -124,7 +124,7 @@
     ],
     "updatedAt": "2026-05-15",
     "situation": "被拒稿。2026-05-10 06:01 Land / MDPI 发出 Declined for Publication，稿号 land-4335735；原因：Submissions sent for peer-review are selected based on discipline, novelty and general significance，邮件说明将不再继续处理该投稿，可另投。",
-    "impactSort": -1
+    "impactSort": 3.2
   },
   {
     "statusDot": "⚪",
@@ -134,14 +134,14 @@
     "journalTrack": "Buildings (Rejected: buildings-4331653)",
     "submissionSystemInfo": "",
     "bg": "#f2f2f2",
-    "currentJournal": "",
+    "currentJournal": "Buildings",
     "similarity": "",
-    "casXr": "",
+    "casXr": "CAS大3小3；XR大3小3",
     "cas": "",
     "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
+    "jcr": "Q2",
+    "impactFactor": "3.1",
+    "indexType": "SCIE",
     "recommendedJournals": "",
     "authors": "Quan Wen",
     "correspondingAuthors": [
@@ -149,7 +149,7 @@
     ],
     "updatedAt": "2026-05-15",
     "situation": "被拒稿。2026-05-11 06:01 Buildings / MDPI 发出 Declined for Publication，稿号 buildings-4331653；原因：Submissions sent for peer-review are selected based on discipline, novelty and general significance，邮件说明将不再继续处理该投稿，可另投。注：早前门户记录曾出现 buildings-4331963 / Pending review，需以后续再投稿时核对稿号。",
-    "impactSort": -1
+    "impactSort": 3.1
   },
   {
     "statusDot": "⚪",
@@ -159,14 +159,14 @@
     "journalTrack": "PLOS ONE (Rejected: PONE-D-26-22134)",
     "submissionSystemInfo": "",
     "bg": "#f2f2f2",
-    "currentJournal": "",
+    "currentJournal": "PLOS ONE",
     "similarity": "",
-    "casXr": "",
+    "casXr": "CAS大3小3；XR大3小3",
     "cas": "",
     "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
+    "jcr": "Q1",
+    "impactFactor": "2.9",
+    "indexType": "SCIE",
     "recommendedJournals": "",
     "authors": "Quan Wen",
     "correspondingAuthors": [
@@ -174,7 +174,7 @@
     ],
     "updatedAt": "2026-05-15",
     "situation": "被拒稿。2026-05-11 09:15 PLOS ONE 发出 Decision: PONE-D-26-22134；原因：编辑部认为稿件不符合 PLOS ONE 标准，且指出与既有发表工作存在 substantial text overlap，因此本次拒稿；后续同刊相关再投稿需在 cover letter 声明此前互动并说明修改。",
-    "impactSort": -1
+    "impactSort": 2.9
   },
   {
     "statusDot": "⚪",
@@ -184,14 +184,14 @@
     "journalTrack": "Applied Sciences (Rejected: applsci-4331900)",
     "submissionSystemInfo": "",
     "bg": "#f2f2f2",
-    "currentJournal": "",
+    "currentJournal": "APPLIED SCIENCES-BASEL",
     "similarity": "",
-    "casXr": "",
+    "casXr": "CAS大4小4；XR大3小3",
     "cas": "",
     "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
+    "jcr": "Q2",
+    "impactFactor": "2.5",
+    "indexType": "SCIE",
     "recommendedJournals": "",
     "authors": "Quan Wen",
     "correspondingAuthors": [
@@ -199,7 +199,7 @@
     ],
     "updatedAt": "2026-05-15",
     "situation": "被拒稿。2026-05-11 06:00 Applied Sciences / MDPI 发出 Declined for Publication，稿号 applsci-4331900；原因：Submissions sent for peer-review are selected based on discipline, novelty and general significance，邮件说明将不再继续处理该投稿，可另投。",
-    "impactSort": -1
+    "impactSort": 2.5
   },
   {
     "statusDot": "⚪",
@@ -209,14 +209,14 @@
     "journalTrack": "Electronics (Rejected: electronics-4330805)",
     "submissionSystemInfo": "",
     "bg": "#f2f2f2",
-    "currentJournal": "",
+    "currentJournal": "Electronics",
     "similarity": "",
-    "casXr": "",
+    "casXr": "CAS大4小4；XR大3小3/4",
     "cas": "",
     "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
+    "jcr": "Q2",
+    "impactFactor": "2.6",
+    "indexType": "SCIE",
     "recommendedJournals": "",
     "authors": "Quan Wen",
     "correspondingAuthors": [
@@ -224,7 +224,7 @@
     ],
     "updatedAt": "2026-05-15",
     "situation": "被拒稿。2026-05-11 06:00 Electronics / MDPI 发出 Declined for Publication，稿号 electronics-4330805；原因：Submissions sent for peer-review are selected based on discipline, novelty and general significance，邮件说明将不再继续处理该投稿，可另投。",
-    "impactSort": -1
+    "impactSort": 2.6
   },
   {
     "statusDot": "⚪",
@@ -234,14 +234,14 @@
     "journalTrack": "Buildings (Rejected: buildings-4330016)",
     "submissionSystemInfo": "",
     "bg": "#f2f2f2",
-    "currentJournal": "",
+    "currentJournal": "Buildings",
     "similarity": "",
-    "casXr": "",
+    "casXr": "CAS大3小3；XR大3小3",
     "cas": "",
     "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
+    "jcr": "Q2",
+    "impactFactor": "3.1",
+    "indexType": "SCIE",
     "recommendedJournals": "",
     "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
     "correspondingAuthors": [
@@ -249,7 +249,7 @@
     ],
     "updatedAt": "2026-05-15",
     "situation": "被拒稿。2026-05-11 06:00 Buildings / MDPI 发出 Declined for Publication，稿号 buildings-4330016；原因：Submissions sent for peer-review are selected based on discipline, novelty and general significance，邮件说明将不再继续处理该投稿，可另投。",
-    "impactSort": -1
+    "impactSort": 3.1
   },
   {
     "statusDot": "⚪",
@@ -259,14 +259,14 @@
     "journalTrack": "Computers in Biology and Medicine (Rejected: CIBM-D-26-00934) → Biomedical Signal Processing and Control (Rejected: BSPC-D-26-07670)",
     "submissionSystemInfo": "",
     "bg": "#f2f2f2",
-    "currentJournal": "",
+    "currentJournal": "Biomedical Signal Processing and Control",
     "similarity": "",
-    "casXr": "",
+    "casXr": "CAS大2小3；XR大2小2",
     "cas": "",
     "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
+    "jcr": "Q1",
+    "impactFactor": "4.9",
+    "indexType": "SCIE",
     "recommendedJournals": "",
     "authors": "Quan Wen；Yanting Wu；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
     "correspondingAuthors": [
@@ -274,7 +274,7 @@
     ],
     "updatedAt": "2026-05-15",
     "situation": "被拒稿，待重新转投。Kingcha 2026-05-12 复核：2026-05-12 14:46 Elsevier Transfer Your Manuscript 发出 Transfer Recommendation，明确稿件 “Multimodal Emotion Analysis for Early Detection of Dementia Based on Attention Mechanisms and Cross-Modal Feature Fusion” 已被 Biomedical Signal Processing and Control 拒稿，稿号 BSPC-D-26-07670；转投需作者进一步选择期刊并完成提交，邮件说明 transfer will not be completed without further action。2026-05-10 20:06 的 Elsevier submission confirmation 早于本次拒稿/转投推荐，不再作为当前内审中证据；邮箱中未找到 2026-05-12 14:46 之后的同稿新提交确认。",
-    "impactSort": -1
+    "impactSort": 4.9
   },
   {
     "statusDot": "⚪",
@@ -284,14 +284,14 @@
     "journalTrack": "BMC Medical Research Methodology (Rejected: f905dc2b-94cd-47e6-b4a4-4423c0a16ec8) → Energy (Rejected: EGY-D-26-10556)",
     "submissionSystemInfo": "",
     "bg": "#f2f2f2",
-    "currentJournal": "",
+    "currentJournal": "Energy",
     "similarity": "",
-    "casXr": "",
+    "casXr": "CAS大1小1/2；XR大1小1/2",
     "cas": "",
     "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
+    "jcr": "Q1",
+    "impactFactor": "9.0",
+    "indexType": "SCIE",
     "recommendedJournals": "",
     "authors": "Quan Wen；Mazran Ismail；Yanting Wu；Muhammad Hafeez Abdul Nasir",
     "correspondingAuthors": [
@@ -300,7 +300,7 @@
     ],
     "updatedAt": "2026-05-15",
     "situation": "被拒稿，待重新转投。Kingcha 2026-05-13 复核：英文题名为 “Bayesian Meta-Learning Framework for Temporal Age-Friendly Community Assessment”。BMC Medical Research Methodology 于 2026-03-03 12:55 确认收到稿件，Submission ID f905dc2b-94cd-47e6-b4a4-4423c0a16ec8；2026-03-10 05:11 发出 minor revision / technical-check revision，要求补齐 Declarations；2026-05-13 10:18 发出拒稿决定，原因包括清晰度、方法透明度和实证评估有效性不足，问题界定、数据构建、建模方法、验证、评估程序和基准比较描述不足。另有 2026-05-06 22:48 Energy 投稿确认，稿号 EGY-D-26-10556；2026-05-10 10:05 Energy 初筛拒稿，原因为科学新颖性相对 ENERGY 既有研究描述不清。2026-05-10 10:13 和 2026-05-13 10:13 的 Elsevier transfer 邮件均为转投推荐/提醒，明确 transfer will not be completed without further action；2026-05-10 20:06 的 Elsevier Journals 营销式 “Thank you for your submission” 未给出具体目标期刊/稿号，且被 2026-05-13 10:13 转投未完成提醒削弱，故不作为有效在投证据。当前无后续正式提交确认，按待投稿处理。",
-    "impactSort": -1
+    "impactSort": 9.0
   },
   {
     "statusDot": "⚪",
@@ -335,14 +335,14 @@
     "journalTrack": "Image and Vision Computing → IEEE Access (Rejected: Access-2026-21292)",
     "submissionSystemInfo": "IEEE Author Portal / IEEE Access；门户菜单名：Wen；账号显示名：WEN QUAN；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-13；未存储密码。",
     "bg": "#f2f2f2",
-    "currentJournal": "",
+    "currentJournal": "IEEE Access",
     "similarity": "41.8%",
-    "casXr": "",
+    "casXr": "CAS大4小4；XR大3小3",
     "cas": "",
     "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
+    "jcr": "Q2",
+    "impactFactor": "3.6",
+    "indexType": "SCIE",
     "recommendedJournals": "",
     "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
     "correspondingAuthors": [
@@ -351,7 +351,7 @@
     ],
     "updatedAt": "2026-05-15",
     "situation": "被拒稿，待重新处理或转投。Kingcha 2026-05-14 按新规则复核 Gmail in:anywhere 与 in:spam：2026-05-14 04:07 Asia/Shanghai IEEE Access / Manuscript Central 发出 Decision on Manuscript ID Access-2026-21292，题名 Dependency-Aware 3D Scene Graph Generation for Automated Age-Friendly Home Environment Assessment via Multimodal Feature Learning；邮件称因涉嫌复用 Ke et al. 2026 Automation in Construction 论文 41% 文本，作者可在 14 天内回应投诉，同时明确 Your article will also be rejected at this time。2026-05-14 05:31 有同线程作者回复邮件，但未发现该拒稿后同稿同刊的重新提交或接受证据；当前不再按内审中处理。",
-    "impactSort": -1
+    "impactSort": 3.6
   },
   {
     "statusDot": "⚪",
@@ -361,14 +361,14 @@
     "journalTrack": "Energy and Buildings (Rejected: ENB-D-26-01660) → Energy (Rejected: EGY-D-26-10505) → Journal of Building Engineering (Rejected: JBE-D-26-07821)",
     "submissionSystemInfo": "",
     "bg": "#f2f2f2",
-    "currentJournal": "",
+    "currentJournal": "Journal of Building Engineering",
     "similarity": "4.5%",
-    "casXr": "",
+    "casXr": "CAS大2小2；XR大1小1/2",
     "cas": "",
     "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
+    "jcr": "Q1",
+    "impactFactor": "6.7",
+    "indexType": "SCIE",
     "recommendedJournals": "",
     "authors": "Ruili Liu；Quan Wen；Mazran Ismail",
     "correspondingAuthors": [
@@ -376,7 +376,7 @@
     ],
     "updatedAt": "2026-05-15",
     "situation": "待投稿。Kingcha 2026-05-15 复核 Gmail in:anywhere 与 in:spam：英文题名为 “Dual-Mode Radiative Cooling and Solar Heating for Year-Round Energy Optimization in Multi-Story Grain Warehouses”。2026-05-08 00:25 Journal of Building Engineering / Editorial Manager 确认收到 JBE-D-26-07821；2026-05-11 09:17 Journal of Building Engineering 发出 Decision on submission，因系统识别同内容已投 Energy（EGY-D-26-10505）而拒稿，并提示 1 年内不要向该刊投稿。2026-05-14 16:11 Energy / Editorial Manager 对 EGY-D-26-10505 再次发出 Decision on submission，结论为 not suitable for publication / reject。按英文题名、EGY-D-26-10505、JBE-D-26-07821 全邮箱搜索并做 in:spam companion search，未发现 2026-05-14 16:11 之后的同稿有效投稿确认、under review 或接受证据；当前不再按 Journal of Building Engineering 内审中处理。",
-    "impactSort": -1
+    "impactSort": 6.7
   },
   {
     "statusDot": "💖",

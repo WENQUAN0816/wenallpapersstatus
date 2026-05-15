@@ -473,16 +473,32 @@ def parse_situation_from_readme():
     return out
 
 
+def is_rejected_track_segment(value):
+    return bool(re.search(r"(?i)\b(rejected|declined|reject)\b|拒稿|拒绝|退稿", value or ""))
+
+
+def journal_name_from_track_segment(value):
+    value = re.sub(r"（.*?）", "", value or "").strip()
+    value = re.sub(r"\(.*?\)", "", value).strip()
+    return display_norm(value)
+
+
+def latest_rejected_journal(track):
+    parts = [part.strip() for part in re.split(r"\s*→\s*", track or "") if part.strip()]
+    for part in reversed(parts):
+        if is_rejected_track_segment(part):
+            return journal_name_from_track_segment(part)
+    return ""
+
+
 def current_journal(row):
-    if row["status"] == "待投稿":
-        return ""
     track = row["journalTrack"]
     if not track:
         return ""
+    if row["status"] == "待投稿":
+        return latest_rejected_journal(track)
     last = re.split(r"\s*→\s*", track)[-1].strip()
-    last = re.sub(r"（.*?）", "", last).strip()
-    last = re.sub(r"\(.*?\)", "", last).strip()
-    return display_norm(last)
+    return journal_name_from_track_segment(last)
 
 
 def enrich_rows(rows):
@@ -569,6 +585,9 @@ def render(rows):
     table.paper-status-table th[data-key="title"], table.paper-status-table td[data-key="title"] {{ min-width:var(--title-width); width:var(--title-width); position:sticky; left:54px; z-index:3; }}
     table.paper-status-table th[data-key="title"] {{ z-index:4; }}
     table.paper-status-table td[data-key="similarity"] {{ min-width:82px; white-space:nowrap; text-align:center; }}
+    table.paper-status-table td.similarity-low {{ color:#15803d; }}
+    table.paper-status-table td.similarity-mid {{ color:#d97706; }}
+    table.paper-status-table td.similarity-high {{ color:#dc2626; font-weight:800; }}
     table.paper-status-table td[data-key="currentJournal"] {{ min-width:230px; }}
     table.paper-status-table td[data-key="journalTrack"], table.paper-status-table td[data-key="recommendedJournals"], table.paper-status-table td[data-key="situation"], table.paper-status-table td[data-key="submissionSystemInfo"] {{ min-width:320px; }}
     table.paper-status-table td[data-key="casXr"] {{ min-width:180px; }}
@@ -660,6 +679,16 @@ def render(rows):
       }}).join("；");
     }}
 
+    function similarityClass(value) {{
+      const match = String(value || "").match(/\d+(?:\.\d+)?/);
+      if (!match) return "";
+      const score = Number(match[0]);
+      if (!Number.isFinite(score)) return "";
+      if (score < 10) return "similarity-low";
+      if (score <= 15) return "similarity-mid";
+      return "similarity-high";
+    }}
+
     function sortedRows() {{
       const data = [...rows];
       if (currentSort === "impact") {{
@@ -701,7 +730,9 @@ def render(rows):
         return `<tr style="background-color:${{row.bg}};">${{cols.map(([key]) => {{
           const value = key === "status" ? row.statusDot : row[key];
           const htmlValue = key === "authors" ? formatAuthors(row) : cell(value);
-          return `<td data-key="${{key}}" style="background-color:${{row.bg}};">${{htmlValue}}</td>`;
+          const extraClass = key === "similarity" ? similarityClass(value) : "";
+          const classAttr = extraClass ? ` class="${{extraClass}}"` : "";
+          return `<td data-key="${{key}}"${{classAttr}} style="background-color:${{row.bg}};">${{htmlValue}}</td>`;
         }}).join("")}}</tr>`;
       }}).join("");
     }}
