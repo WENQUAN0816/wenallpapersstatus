@@ -7,14 +7,14 @@
     "journalTrack": "Sustainable Cities and Society",
     "submissionSystemInfo": "",
     "bg": "#f2f2f2",
-    "currentJournal": "",
+    "currentJournal": "Sustainable Cities and Society",
     "similarity": "5.6%",
-    "casXr": "",
+    "casXr": "CAS大1小1；XR大1小1",
     "cas": "",
     "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
+    "jcr": "Q1",
+    "impactFactor": "10.5",
+    "indexType": "SCIE",
     "recommendedJournals": "",
     "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
     "correspondingAuthors": [
@@ -22,7 +22,7 @@
     ],
     "updatedAt": "2026-05-15",
     "situation": "退回草稿",
-    "impactSort": -1
+    "impactSort": 10.5
   },
   {
     "statusDot": "⚪",
@@ -58,14 +58,14 @@
     "journalTrack": "Energy",
     "submissionSystemInfo": "",
     "bg": "#f2f2f2",
-    "currentJournal": "",
+    "currentJournal": "Energy",
     "similarity": "27.0%",
-    "casXr": "",
+    "casXr": "CAS大1小1/2；XR大1小1/2",
     "cas": "",
     "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
+    "jcr": "Q1",
+    "impactFactor": "9.0",
+    "indexType": "SCIE",
     "recommendedJournals": "",
     "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
     "correspondingAuthors": [
@@ -74,7 +74,7 @@
     ],
     "updatedAt": "2026-05-15",
     "situation": "#52 的 Energy 正确草稿/提交状态仍需复核；作者信息已同步为 Quan Wen、Mazran Ismail、Muhammad Hafeez Abdul Nasir，Quan Wen 和 Mazran Ismail 为通讯作者；此前打开的 EGY-D-26-10556 对应另一篇贝叶斯元学习稿件，不能作为 #52 投稿完成记录。",
-    "impactSort": -1
+    "impactSort": 9.0
   },
   {
     "statusDot": "⚪",

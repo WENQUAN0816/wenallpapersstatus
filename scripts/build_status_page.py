@@ -495,9 +495,9 @@ def current_journal(row):
     track = row["journalTrack"]
     if not track:
         return ""
-    if row["status"] == "待投稿":
-        return latest_rejected_journal(track)
     last = re.split(r"\s*→\s*", track)[-1].strip()
+    if row["status"] == "待投稿":
+        return latest_rejected_journal(track) or journal_name_from_track_segment(last)
     return journal_name_from_track_segment(last)
 
 
