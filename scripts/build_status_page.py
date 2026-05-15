@@ -446,6 +446,13 @@ def parse_submission_system_info():
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def parse_similarity_info():
+    path = ROOT / "similarity_overrides.json"
+    if not path.exists():
+        return {}
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
 def parse_situation_from_readme():
     out = {}
     override_path = ROOT / "situation_overrides.json"
@@ -485,10 +492,12 @@ def enrich_rows(rows):
     jcr_index = build_jcr_index()
     situation_by_title = parse_situation_from_readme()
     submission_system_by_title = parse_submission_system_info()
+    similarity_by_title = parse_similarity_info()
     today = dt.date.today().isoformat()
     for row in rows:
         journal = current_journal(row)
         row["currentJournal"] = journal
+        row["similarity"] = similarity_by_title.get(row["title"], "")
         row["casXr"] = cas_xr_info(journal, cas_index, xr_index) if journal else ""
         row["cas"] = ""
         row["xr"] = ""
@@ -559,6 +568,7 @@ def render(rows):
     table.paper-status-table th[data-key="status"], table.paper-status-table td[data-key="status"] {{ min-width:48px; width:54px; text-align:center; white-space:nowrap; position:sticky; left:0; z-index:3; }}
     table.paper-status-table th[data-key="title"], table.paper-status-table td[data-key="title"] {{ min-width:var(--title-width); width:var(--title-width); position:sticky; left:54px; z-index:3; }}
     table.paper-status-table th[data-key="title"] {{ z-index:4; }}
+    table.paper-status-table td[data-key="similarity"] {{ min-width:82px; white-space:nowrap; text-align:center; }}
     table.paper-status-table td[data-key="currentJournal"] {{ min-width:230px; }}
     table.paper-status-table td[data-key="journalTrack"], table.paper-status-table td[data-key="recommendedJournals"], table.paper-status-table td[data-key="situation"], table.paper-status-table td[data-key="submissionSystemInfo"] {{ min-width:320px; }}
     table.paper-status-table td[data-key="casXr"] {{ min-width:180px; }}
@@ -605,6 +615,7 @@ def render(rows):
     const columns = [
       ["status", "状态"],
       ["title", "论文标题"],
+      ["similarity", "重复率"],
       ["currentJournal", "当前所在期刊名称"],
       ["submissionSystemInfo", "投稿系统信息"],
       ["casXr", "CAS/XR分区"],
