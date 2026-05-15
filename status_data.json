@@ -455,6 +455,56 @@
     "impactSort": 2.9
   },
   {
+    "statusDot": "💖",
+    "status": "需修订",
+    "statusOrder": 1,
+    "title": "AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化",
+    "journalTrack": "Multimedia Tools and Applications (Manuscript sent back: MTAP-D-26-02294)",
+    "submissionSystemInfo": "Editorial Manager / Multimedia Tools and Applications；用户名：WENQUAN0817；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-13；未存储密码。",
+    "bg": "#ffd9ec",
+    "currentJournal": "Multimedia Tools and Applications",
+    "similarity": "7.0%",
+    "casXr": "",
+    "cas": "",
+    "xr": "",
+    "jcr": "",
+    "impactFactor": "",
+    "indexType": "EI",
+    "recommendedJournals": "Multimedia Tools and Applications；The Visual Computer；Image and Vision Computing；Soft Computing",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
+    "updatedAt": "2026-05-15",
+    "situation": "需修订。Kingcha 2026-05-15 复核 Gmail in:anywhere 与 in:spam：2026-05-15 13:59 Asia/Shanghai Multimedia Tools and Applications / Editorial Manager 发出 MTAP-D-26-02294 - Manuscript Sent Back，要求按作者请求完成必要更改，并重新 build PDF 后正式提交；2026-05-15 14:00 Springer Nature editorial office 回复确认 paper has now been sent back to you。题名 AgeFriendlyDiff: Conditional Diffusion-Based 3D Visualization of Age-Friendly Home Modifications from Single Indoor Photographs。按 MTAP-D-26-02294 全邮箱与 Spam 搜索，未发现 2026-05-15 14:00 之后的同稿同刊最终重提交确认。",
+    "impactSort": -1
+  },
+  {
+    "statusDot": "💖",
+    "status": "需修订",
+    "statusOrder": 1,
+    "title": "老年用户对居家养老智能家居传感器系统的接受度：整合技术接受模型、隐私计算理论与空间自主性",
+    "journalTrack": "BMC Psychology → PLOS ONE (Edits requested: PONE-D-26-22334)",
+    "submissionSystemInfo": "",
+    "bg": "#ffd9ec",
+    "currentJournal": "PLOS ONE",
+    "similarity": "11.7%",
+    "casXr": "CAS大3小3；XR大3小3",
+    "cas": "",
+    "xr": "",
+    "jcr": "Q1",
+    "impactFactor": "2.9",
+    "indexType": "SCIE",
+    "recommendedJournals": "",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
+    "updatedAt": "2026-05-15",
+    "situation": "需修订。Kingcha 2026-05-15 复核 Gmail in:anywhere 与 in:spam：2026-05-15 09:26 Asia/Shanghai PLOS ONE / Editorial Manager 发出 Edits requested on your submission PONE-D-26-22334，题名 Elderly users' acceptance of smart home sensor systems for aging-in-place: Integrating TAM, privacy calculus theory, and spatial autonomy。要求上传原始 ethics approval document（如非英文需附英文翻译），并在 Methods 中以 DD/MM/YYYY 格式报告招募期开始和结束日期；稿件已 returned to your account，需 21 天内 resubmit，否则可能 withdraw。按 PONE-D-26-22334 全邮箱与 Spam 搜索，未发现该邮件之后的最终重提交确认。",
+    "impactSort": 2.9
+  },
+  {
     "statusDot": "🟡",
     "status": "内审中",
     "statusOrder": 2,
@@ -504,31 +554,6 @@
     "updatedAt": "2026-05-15",
     "situation": "内审中。2026-05-13 Environment, Development and Sustainability / Editorial Manager 显示 no submissions awaiting approval，作者 approval 后 ENVI-D-26-05792 已 approved-submitted。题名 Aging in the Cracks: An Intelligent Safety Resilience Assessment Framework for Low-Income Urban Elderly Living Alone in China's Old Residential Communities。本次修订已更新并重传 title page，加入系统要求的 Conflict of interest statement；系统生成 PDF 已审核并提交。论文仓库已推送 commit b22062407c2318a173d24bfab0245fa1c31b6656。",
     "impactSort": 4.2
-  },
-  {
-    "statusDot": "🟡",
-    "status": "内审中",
-    "statusOrder": 2,
-    "title": "AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化",
-    "journalTrack": "Multimedia Tools and Applications (Resubmitted: MTAP-D-26-02294)",
-    "submissionSystemInfo": "Editorial Manager / Multimedia Tools and Applications；用户名：WENQUAN0817；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-13；未存储密码。",
-    "bg": "#fff8d9",
-    "currentJournal": "Multimedia Tools and Applications",
-    "similarity": "7.0%",
-    "casXr": "",
-    "cas": "",
-    "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "EI",
-    "recommendedJournals": "Multimedia Tools and Applications；The Visual Computer；Image and Vision Computing；Soft Computing",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "updatedAt": "2026-05-15",
-    "situation": "内审中。2026-05-13 Multimedia Tools and Applications / Editorial Manager 显示 Submitted / Submissions Being Processed，MTAP-D-26-02294 修订重投完成。题名 AgeFriendlyDiff: Conditional Diffusion-Based 3D Visualization of Age-Friendly Home Modifications from Single Indoor Photographs。本次修订已更新 manuscript.tex，使通讯作者 e-mail 与 submission-system record 一致；将 updated manuscript.tex 作为第一份 manuscript source file 上传；系统生成 PDF 已审核并提交。论文仓库已推送 commit 805d432c7bb00aa00f567b35e56cb175c3b02720。",
-    "impactSort": -1
   },
   {
     "statusDot": "🟡",
@@ -1161,31 +1186,6 @@
     "updatedAt": "2026-05-15",
     "situation": "2026-05-08 Physics of Fluids / PeerX 已完成初始质检返回后的修订提交；稿件追踪号 POF26-AR-07216。按编辑部要求，已在摘要和正文首次出现处定义 phase-change material (PCM) 与 COMSOL Multiphysics finite-element software package；出版方式为 Conventional Publication（无 OA 费用）；论文仓库已推送修订版 commit 9eac6b9。",
     "impactSort": 4.1
-  },
-  {
-    "statusDot": "🟡",
-    "status": "内审中",
-    "statusOrder": 2,
-    "title": "老年用户对居家养老智能家居传感器系统的接受度：整合技术接受模型、隐私计算理论与空间自主性",
-    "journalTrack": "BMC Psychology → PLOS ONE",
-    "submissionSystemInfo": "",
-    "bg": "#fff8d9",
-    "currentJournal": "PLOS ONE",
-    "similarity": "11.7%",
-    "casXr": "CAS大3小3；XR大3小3",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q1",
-    "impactFactor": "2.9",
-    "indexType": "SCIE",
-    "recommendedJournals": "",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "updatedAt": "2026-05-15",
-    "situation": "",
-    "impactSort": 2.9
   },
   {
     "statusDot": "🟡",
