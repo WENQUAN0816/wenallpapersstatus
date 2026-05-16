@@ -505,6 +505,31 @@
     "impactSort": 2.9
   },
   {
+    "statusDot": "💖",
+    "status": "需修订",
+    "statusOrder": 1,
+    "title": "粮食储藏仓制冷系统真实世界能效评估：来自中国河南 65 个设施的证据",
+    "journalTrack": "Scientific Reports → Energy Reports (Revision required: EGYR-D-26-01996)",
+    "submissionSystemInfo": "",
+    "bg": "#ffd9ec",
+    "currentJournal": "Energy Reports",
+    "similarity": "1.9%",
+    "casXr": "CAS大3小4；XR大3小3",
+    "cas": "",
+    "xr": "",
+    "jcr": "Q2",
+    "impactFactor": "4.7",
+    "indexType": "SCIE",
+    "recommendedJournals": "",
+    "authors": "Quan Wen；Ruili Liu；Mazran Ismail",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
+    "updatedAt": "2026-05-16",
+    "situation": "需修订。Kingcha 2026-05-16 复核 Gmail in:anywhere 与 in:spam：英文题名为 “Real-World Energy Efficiency of Refrigeration Systems in Grain Storage Facilities: Evidence from 65 Facilities in Henan, China”。2026-05-06 11:08 Asia/Shanghai Scientific Reports 收到早前版本，Submission ID 2a8d0dcd-74c6-4848-86ff-62ad8eb84d62；2026-05-11 11:23 Research Square 邮件显示该 Scientific Reports 稿件处于 under consideration。之后同一 Paper 35 仓库的 Energy Reports 轨道成为最新有效轨道：2026-05-08 00:17 Energy Reports 确认收到 EGYR-D-26-01996；2026-05-14 01:39 Energy Reports 发出 Send back to Author，说明 submission cannot proceed further and has been returned to you for revision，要求检查所有表格在正文中的位置和可读性；2026-05-16 13:28 又发出 Submission to Energy Reports requires action，要求在 Editorial Manager 的 Submissions Sent Back to Author 中继续编辑并重提交。该提醒同时有 Gmail Spam 副本。按题名和 EGYR-D-26-01996 全邮箱搜索并做 in:spam companion search，未发现 2026-05-16 13:28 之后的同稿同刊最终重提交确认；当前从 Scientific Reports 外审中改为 Energy Reports 需修订。",
+    "impactSort": 4.7
+  },
+  {
     "statusDot": "🟡",
     "status": "内审中",
     "statusOrder": 2,
@@ -1438,31 +1463,6 @@
     "updatedAt": "2026-05-16",
     "situation": "外审中。用户确认当前处于 Journal of Health, Population and Nutrition / Peer review（同行评审）状态。",
     "impactSort": 3.6
-  },
-  {
-    "statusDot": "🟢",
-    "status": "外审中",
-    "statusOrder": 3,
-    "title": "粮食储藏仓制冷系统真实世界能效评估：来自中国河南 65 个设施的证据",
-    "journalTrack": "Scientific Reports",
-    "submissionSystemInfo": "",
-    "bg": "#e8f9ee",
-    "currentJournal": "Scientific Reports",
-    "similarity": "1.9%",
-    "casXr": "CAS大3小3；XR大3小3",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q1",
-    "impactFactor": "3.9",
-    "indexType": "SCIE",
-    "recommendedJournals": "",
-    "authors": "Quan Wen；Ruili Liu；Mazran Ismail",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "updatedAt": "2026-05-16",
-    "situation": "外审中。用户确认当前处于 Scientific Reports / Peer review（同行评审）状态。",
-    "impactSort": 3.9
   },
   {
     "statusDot": "🟢",
