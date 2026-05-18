@@ -32,9 +32,9 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>15</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>18</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>7</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>34</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>31</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>6</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
 </table>
@@ -166,6 +166,24 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Energy and Buildings (Rejected: ENB-D-26-01660) → Energy (Rejected: EGY-D-26-10505) → Journal of Building Engineering (Rejected: JBE-D-26-07821)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
 </tr>
 
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">老年游客对遗产建筑增强现实解说的接受度：扩展技术接受模型</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Sustainability (Rejected: sustainability-4335606)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">FRSPTNet：老年居家点云环境跌倒风险区域分割的多尺度超补丁 Transformer</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">IEEE TNSRE → IEEE Access (Rejected: Access-2026-16570)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">灵活半监督元学习少样本居家安全评估网络</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Sensors (Rejected: sensors-4282374)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+</tr>
+
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">健康老龄化评估的元学习框架：具有人群泛化能力的注意力神经过程</td>
@@ -210,12 +228,6 @@
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">老年游客对遗产建筑增强现实解说的接受度：扩展技术接受模型</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Sustainability (Supplement submitted: sustainability-4335606)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">老龄化夹缝：面向中国老旧居住社区低收入独居老人的智能安全韧性评估框架</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Environment, Development and Sustainability (Resubmitted: ENVI-D-26-05792)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Editorial Manager / Environment, Development and Sustainability；用户名：QUAN WEN；右上角显示名：WEN QUAN；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-13；未存储密码。</td>
 </tr>
@@ -248,12 +260,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">DHA-BiGRU：用于自动代码审查评论分类的双注意力层次门控 BiGRU</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Software Testing, Verification and Reliability</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">FRSPTNet：老年居家点云环境跌倒风险区域分割的多尺度超补丁 Transformer</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE TNSRE → IEEE Access</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -344,12 +350,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">智慧养老系统中智能情绪监测与干预的双通道注意力机制</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Biomedical Signal Processing and Control</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">灵活半监督元学习少样本居家安全评估网络</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Sensors</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
