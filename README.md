@@ -33,8 +33,8 @@
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>19</td></tr>
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>6</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>31</td></tr>
+<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>5</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>32</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>6</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
 </table>
@@ -216,14 +216,14 @@
 
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">粮食储藏仓制冷系统真实世界能效评估：来自中国河南 65 个设施的证据</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Scientific Reports → Energy Reports (Revision required: EGYR-D-26-01996)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">代码漏洞检测深度学习模型的系统评估：具有多种表示策略的模块化框架</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">International Journal of Information and Computer Security (Withdrawn for correction: IJICS-332808)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">粮食储藏仓制冷系统真实世界能效评估：来自中国河南 65 个设施的证据</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Scientific Reports → Energy Reports (Submitted: EGYR-D-26-01996)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Editorial Manager / Energy Reports；用户名/显示名：wen quan；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-20；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">

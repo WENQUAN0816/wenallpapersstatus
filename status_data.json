@@ -583,31 +583,6 @@
     "statusDot": "💖",
     "status": "需修订",
     "statusOrder": 1,
-    "title": "粮食储藏仓制冷系统真实世界能效评估：来自中国河南 65 个设施的证据",
-    "journalTrack": "Scientific Reports → Energy Reports (Revision required: EGYR-D-26-01996)",
-    "submissionSystemInfo": "",
-    "bg": "#ffd9ec",
-    "currentJournal": "Energy Reports",
-    "similarity": "1.9%",
-    "casXr": "CAS大3小4；XR大3小3",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q2",
-    "impactFactor": "4.7",
-    "indexType": "SCIE",
-    "recommendedJournals": "",
-    "authors": "Quan Wen；Ruili Liu；Mazran Ismail",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "updatedAt": "2026-05-20",
-    "situation": "需修订。Kingcha 2026-05-16 复核 Gmail in:anywhere 与 in:spam：英文题名为 “Real-World Energy Efficiency of Refrigeration Systems in Grain Storage Facilities: Evidence from 65 Facilities in Henan, China”。2026-05-06 11:08 Asia/Shanghai Scientific Reports 收到早前版本，Submission ID 2a8d0dcd-74c6-4848-86ff-62ad8eb84d62；2026-05-11 11:23 Research Square 邮件显示该 Scientific Reports 稿件处于 under consideration。之后同一 Paper 35 仓库的 Energy Reports 轨道成为最新有效轨道：2026-05-08 00:17 Energy Reports 确认收到 EGYR-D-26-01996；2026-05-14 01:39 Energy Reports 发出 Send back to Author，说明 submission cannot proceed further and has been returned to you for revision，要求检查所有表格在正文中的位置和可读性；2026-05-16 13:28 又发出 Submission to Energy Reports requires action，要求在 Editorial Manager 的 Submissions Sent Back to Author 中继续编辑并重提交。该提醒同时有 Gmail Spam 副本。按题名和 EGYR-D-26-01996 全邮箱搜索并做 in:spam companion search，未发现 2026-05-16 13:28 之后的同稿同刊最终重提交确认；当前从 Scientific Reports 外审中改为 Energy Reports 需修订。",
-    "impactSort": 4.7
-  },
-  {
-    "statusDot": "💖",
-    "status": "需修订",
-    "statusOrder": 1,
     "title": "代码漏洞检测深度学习模型的系统评估：具有多种表示策略的模块化框架",
     "journalTrack": "International Journal of Information and Computer Security (Withdrawn for correction: IJICS-332808)",
     "submissionSystemInfo": "",
@@ -628,6 +603,31 @@
     "updatedAt": "2026-05-20",
     "situation": "需修订。Kingcha 2026-05-17 仅按最近 3 天 Gmail 节点复核：2026-05-15 20:00 Asia/Shanghai Inderscience Submissions / International Journal of Information and Computer Security 发出 IJICS-332808 - Your submission has now been withdrawn，明确 Your submission has been withdrawn so you can make any necessary corrections。题名 Systematic Evaluation of Deep Learning Models for Code Vulnerability Detection: A Modular Framework with Multiple Representation Strategies。该邮件晚于 2026-05-05 entering review process 记录，说明当前投稿已撤回给作者用于补齐/替换提交材料；按 IJICS-332808 与英文题名做 in:anywhere 与 in:spam companion search，未发现该 withdrawn-for-correction 邮件之后的最终重新提交确认。",
     "impactSort": -1
+  },
+  {
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
+    "title": "粮食储藏仓制冷系统真实世界能效评估：来自中国河南 65 个设施的证据",
+    "journalTrack": "Scientific Reports → Energy Reports (Submitted: EGYR-D-26-01996)",
+    "submissionSystemInfo": "Editorial Manager / Energy Reports；用户名/显示名：wen quan；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-20；未存储密码。",
+    "bg": "#fff8d9",
+    "currentJournal": "Energy Reports",
+    "similarity": "1.9%",
+    "casXr": "CAS大3小4；XR大3小3",
+    "cas": "",
+    "xr": "",
+    "jcr": "Q2",
+    "impactFactor": "4.7",
+    "indexType": "SCIE",
+    "recommendedJournals": "",
+    "authors": "Quan Wen；Ruili Liu；Mazran Ismail",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
+    "updatedAt": "2026-05-20",
+    "situation": "内审中。2026-05-20 Gmail 收到 “PDF for submission to Energy Reports requires approval”，随后 EM 复查已无待作者批准稿件（\"You have no Submissions awaiting approval.\"），说明该 Energy Reports 修订稿已完成最终提交，当前等待期刊处理。",
+    "impactSort": 4.7
   },
   {
     "statusDot": "🟡",
