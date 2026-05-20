@@ -454,6 +454,31 @@
     "impactSort": 3.4
   },
   {
+    "statusDot": "⚪",
+    "status": "待投稿",
+    "statusOrder": 0,
+    "title": "AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化",
+    "journalTrack": "Multimedia Tools and Applications (Rejected / withdrawal requested: MTAP-D-26-02294)",
+    "submissionSystemInfo": "Editorial Manager / Multimedia Tools and Applications；用户名：WENQUAN0817；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-20；未存储密码。",
+    "bg": "#f2f2f2",
+    "currentJournal": "Multimedia Tools and Applications",
+    "similarity": "7.0%",
+    "casXr": "",
+    "cas": "",
+    "xr": "",
+    "jcr": "",
+    "impactFactor": "",
+    "indexType": "EI",
+    "recommendedJournals": "Multimedia Tools and Applications；The Visual Computer；Image and Vision Computing；Soft Computing",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
+    "updatedAt": "2026-05-20",
+    "situation": "按用户 2026-05-20 18:12 +08:00 指示直接记录为拒稿/撤稿处理，状态回到待投稿。最新邮件证据：2026-05-18 16:28 Asia/Shanghai Multimedia Tools and Applications / Editorial Manager 提醒该稿仍为 Sent Back to Author，并说明系统可 remove the submission；2026-05-20 18:12 +08:00 已由 wenquan6328@gmail.com 向 editorialoffice.mtap@springer.com 发送撤稿邮件，抄送 editorialoffice.mtap@springernature.com，Gmail messageId 19e44dfce6b75ce8，请编辑部将 MTAP-D-26-02294 从系统移除。题名 AgeFriendlyDiff: Conditional Diffusion-Based 3D Visualization of Age-Friendly Home Modifications from Single Indoor Photographs。",
+    "impactSort": -1
+  },
+  {
     "statusDot": "💖",
     "status": "需修订",
     "statusOrder": 1,
@@ -528,31 +553,6 @@
     "updatedAt": "2026-05-20",
     "situation": "需修订。Kingcha 2026-05-14 按新规则复核 Gmail in:anywhere 与 in:spam：2026-05-14 10:58 Asia/Shanghai PLOS ONE / Editorial Manager 再次发出 Edits requested on your submission PONE-D-26-22394，题名 Social Emotional Network Analysis and Loneliness Prevention in Elderly Care Communities Based on Graph Neural Networks and Attention Mechanisms。该邮件晚于 2026-05-13 01:17 的 Manuscript Submitted to Journal 记录，说明稿件已再次 returned to your account。需处理两项：上传 Human Participants Research Checklist 作为 Other file；重新上传 MS file 作为 Manuscript file 并 rebuild / approve PDF。邮件要求 21 天内 resubmit，否则可能 withdraw；按 ID 与题名搜索含 Spam/Trash 后，未发现 2026-05-14 10:58 之后的最终重新提交确认。",
     "impactSort": 2.9
-  },
-  {
-    "statusDot": "💖",
-    "status": "需修订",
-    "statusOrder": 1,
-    "title": "AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化",
-    "journalTrack": "Multimedia Tools and Applications (Manuscript sent back: MTAP-D-26-02294)",
-    "submissionSystemInfo": "Editorial Manager / Multimedia Tools and Applications；用户名：WENQUAN0817；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-13；未存储密码。",
-    "bg": "#ffd9ec",
-    "currentJournal": "Multimedia Tools and Applications",
-    "similarity": "7.0%",
-    "casXr": "",
-    "cas": "",
-    "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "EI",
-    "recommendedJournals": "Multimedia Tools and Applications；The Visual Computer；Image and Vision Computing；Soft Computing",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "updatedAt": "2026-05-20",
-    "situation": "需修订。Kingcha 2026-05-15 复核 Gmail in:anywhere 与 in:spam：2026-05-15 13:59 Asia/Shanghai Multimedia Tools and Applications / Editorial Manager 发出 MTAP-D-26-02294 - Manuscript Sent Back，要求按作者请求完成必要更改，并重新 build PDF 后正式提交；2026-05-15 14:00 Springer Nature editorial office 回复确认 paper has now been sent back to you。题名 AgeFriendlyDiff: Conditional Diffusion-Based 3D Visualization of Age-Friendly Home Modifications from Single Indoor Photographs。按 MTAP-D-26-02294 全邮箱与 Spam 搜索，未发现 2026-05-15 14:00 之后的同稿同刊最终重提交确认。",
-    "impactSort": -1
   },
   {
     "statusDot": "💖",
