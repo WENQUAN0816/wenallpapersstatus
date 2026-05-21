@@ -33,8 +33,8 @@
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>18</td></tr>
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>4</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>33</td></tr>
+<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>3</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>34</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>6</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>61</strong></td></tr>
 </table>
@@ -196,6 +196,12 @@
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Cluster Computing (Amendment required: eec18a2a-115f-4885-b114-202a0368f2ed)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
 </tr>
 
+<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">代码漏洞检测深度学习模型的系统评估：具有多种表示策略的模块化框架</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">International Journal of Information and Computer Security (Withdrawn for correction: IJICS-332808)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
+</tr>
+
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防</td>
@@ -206,12 +212,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">老年用户对居家养老智能家居传感器系统的接受度：整合技术接受模型、隐私计算理论与空间自主性</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">BMC Psychology → PLOS ONE (Approved/submitted: PONE-D-26-22334)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Editorial Manager / PLOS ONE；用户名/显示名：QUAN WEN / quan wen；投稿系统注册邮箱：wenquan6328@gmail.com；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-21；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">代码漏洞检测深度学习模型的系统评估：具有多种表示策略的模块化框架</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">International Journal of Information and Computer Security (Withdrawn for correction: IJICS-332808)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">

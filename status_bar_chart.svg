@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="430" viewBox="0 0 760 430" role="img" aria-labelledby="title desc">
   <title id="title">论文状态统计饼图</title>
-  <desc id="desc">待投稿18，需修订5，内审中32，外审中6。</desc>
+  <desc id="desc">待投稿18，需修订3，内审中34，外审中6。</desc>
   <rect width="760" height="430" fill="#ffffff"/>
   <text x="30" y="34" fill="#111827" font-family="Arial, Microsoft YaHei, sans-serif" font-size="22" font-weight="700">论文状态统计</text>
   <text x="30" y="58" fill="#6b7280" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13">共 61 篇/项；不含已接受论文</text>
@@ -8,10 +8,10 @@
   <g font-family="Arial, Microsoft YaHei, sans-serif">
     <path d="M 258 232 L 258 100 A 132 132 0 0 1 384.74 268.892 Z" fill="#64748b" stroke="#ffffff" stroke-width="3"/>
     <text x="323.587" y="182.782" fill="#ffffff" font-size="18" font-weight="800" text-anchor="middle" dominant-baseline="middle">18</text>
-    <path d="M 258 232 L 384.74 268.892 A 132 132 0 0 1 350.129 326.532 Z" fill="#f43f5e" stroke="#ffffff" stroke-width="3"/>
-    <text x="328.3" y="274.213" fill="#ffffff" font-size="18" font-weight="800" text-anchor="middle" dominant-baseline="middle">5</text>
-    <path d="M 258 232 L 350.129 326.532 A 132 132 0 1 1 181.516 124.416 Z" fill="#f59e0b" stroke="#ffffff" stroke-width="3"/>
-    <text x="195.034" y="284.529" fill="#ffffff" font-size="18" font-weight="800" text-anchor="middle" dominant-baseline="middle">32</text>
+    <path d="M 258 232 L 384.74 268.892 A 132 132 0 0 1 367.517 305.688 Z" fill="#f43f5e" stroke="#ffffff" stroke-width="3"/>
+    <text x="332.268" y="266.761" fill="#ffffff" font-size="18" font-weight="800" text-anchor="middle" dominant-baseline="middle">3</text>
+    <path d="M 258 232 L 367.517 305.688 A 132 132 0 1 1 181.516 124.416 Z" fill="#f59e0b" stroke="#ffffff" stroke-width="3"/>
+    <text x="200.769" y="290.724" fill="#ffffff" font-size="18" font-weight="800" text-anchor="middle" dominant-baseline="middle">34</text>
     <path d="M 258 232 L 181.516 124.416 A 132 132 0 0 1 258 100 Z" fill="#22c55e" stroke="#ffffff" stroke-width="3"/>
     <text x="233.063" y="153.884" fill="#ffffff" font-size="18" font-weight="800" text-anchor="middle" dominant-baseline="middle">6</text>
     <circle cx="258" cy="232" r="58" fill="#ffffff"/>
@@ -25,10 +25,10 @@
     <text x="528" y="148" fill="#4b5563" font-size="13">18 篇</text>
     <rect x="492" y="168" width="24" height="24" rx="5" fill="#f43f5e"/>
     <text x="528" y="184" fill="#111827" font-size="15" font-weight="700">需修订</text>
-    <text x="528" y="206" fill="#4b5563" font-size="13">5 篇</text>
+    <text x="528" y="206" fill="#4b5563" font-size="13">3 篇</text>
     <rect x="492" y="226" width="24" height="24" rx="5" fill="#f59e0b"/>
     <text x="528" y="242" fill="#111827" font-size="15" font-weight="700">内审中</text>
-    <text x="528" y="264" fill="#4b5563" font-size="13">32 篇</text>
+    <text x="528" y="264" fill="#4b5563" font-size="13">34 篇</text>
     <rect x="492" y="284" width="24" height="24" rx="5" fill="#22c55e"/>
     <text x="528" y="300" fill="#111827" font-size="15" font-weight="700">外审中</text>
     <text x="528" y="322" fill="#4b5563" font-size="13">6 篇</text>

@@ -505,6 +505,31 @@
     "impactSort": -1
   },
   {
+    "statusDot": "💖",
+    "status": "需修订",
+    "statusOrder": 1,
+    "title": "代码漏洞检测深度学习模型的系统评估：具有多种表示策略的模块化框架",
+    "journalTrack": "International Journal of Information and Computer Security (Withdrawn for correction: IJICS-332808)",
+    "submissionSystemInfo": "",
+    "bg": "#ffd9ec",
+    "currentJournal": "International Journal of Information and Computer Security",
+    "similarity": "22.3%",
+    "casXr": "XR大4小4",
+    "cas": "",
+    "xr": "",
+    "jcr": "",
+    "impactFactor": "",
+    "indexType": "ESCI+EI",
+    "recommendedJournals": "",
+    "authors": "Xueping Han",
+    "correspondingAuthors": [
+      "Xueping Han"
+    ],
+    "updatedAt": "2026-05-22",
+    "situation": "需修订。Kingcha 2026-05-17 仅按最近 3 天 Gmail 节点复核：2026-05-15 20:00 Asia/Shanghai Inderscience Submissions / International Journal of Information and Computer Security 发出 IJICS-332808 - Your submission has now been withdrawn，明确 Your submission has been withdrawn so you can make any necessary corrections。题名 Systematic Evaluation of Deep Learning Models for Code Vulnerability Detection: A Modular Framework with Multiple Representation Strategies。该邮件晚于 2026-05-05 entering review process 记录，说明当前投稿已撤回给作者用于补齐/替换提交材料；按 IJICS-332808 与英文题名做 in:anywhere 与 in:spam companion search，未发现该 withdrawn-for-correction 邮件之后的最终重新提交确认。",
+    "impactSort": -1
+  },
+  {
     "statusDot": "🟡",
     "status": "内审中",
     "statusOrder": 2,
@@ -551,33 +576,8 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-22",
-    "situation": "内审中。2026-05-21 23:00 Asia/Shanghai PLOS ONE / Editorial Manager 确认 PONE-D-26-22334 returned submission changes 已由作者批准。已按 2026-05-15 编辑部要求在 Methods 中补入 DD/MM/YYYY 招募日期，并重新上传修订 manuscript PDF；同时上传 Phase 1 interview protocol、Phase 2 questionnaire、cognitive interview and pilot materials、recruitment and informed consent summary 四个 Supporting Information PDF，保留 PLOS Human Participants Research Checklist。系统 PDF 已生成、经作者确认后点击 Approve Submission。门户显示 Submissions Being Processed，Current Status 为 Manuscript Submitted to Journal。原始 ethics approval document 本地仍未找到，已避免将说明性材料冒充原始批件。",
+    "situation": "内审中。2026-05-21 23:00 Asia/Shanghai PLOS ONE / Editorial Manager 确认 PONE-D-26-22334 returned submission changes 已由作者批准。已按 2026-05-15 编辑部要求在 Methods 中补入 DD/MM/YYYY 招募日期，并重新上传修订 manuscript PDF；同时上传 Phase 1 interview protocol、Phase 2 questionnaire、cognitive interview and pilot materials、recruitment and informed consent summary 四个 Supporting Information PDF，保留 PLOS Human Participants Research Checklist。系统 PDF 已生成、经作者确认后点击 Approve Submission。门户显示 Submissions Being Processed，Current Status 为 Manuscript Submitted to Journal。原始 ethics approval document 本地仍未找到，已避免将说明性材料冒充原始批件。稿件仓库已推送 README、修订正文、系统 PDF/附件记录和修订说明，commit 1638cb4。",
     "impactSort": 2.9
-  },
-  {
-    "statusDot": "💖",
-    "status": "需修订",
-    "statusOrder": 1,
-    "title": "代码漏洞检测深度学习模型的系统评估：具有多种表示策略的模块化框架",
-    "journalTrack": "International Journal of Information and Computer Security (Withdrawn for correction: IJICS-332808)",
-    "submissionSystemInfo": "",
-    "bg": "#ffd9ec",
-    "currentJournal": "International Journal of Information and Computer Security",
-    "similarity": "22.3%",
-    "casXr": "XR大4小4",
-    "cas": "",
-    "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "ESCI+EI",
-    "recommendedJournals": "",
-    "authors": "Xueping Han",
-    "correspondingAuthors": [
-      "Xueping Han"
-    ],
-    "updatedAt": "2026-05-22",
-    "situation": "需修订。Kingcha 2026-05-17 仅按最近 3 天 Gmail 节点复核：2026-05-15 20:00 Asia/Shanghai Inderscience Submissions / International Journal of Information and Computer Security 发出 IJICS-332808 - Your submission has now been withdrawn，明确 Your submission has been withdrawn so you can make any necessary corrections。题名 Systematic Evaluation of Deep Learning Models for Code Vulnerability Detection: A Modular Framework with Multiple Representation Strategies。该邮件晚于 2026-05-05 entering review process 记录，说明当前投稿已撤回给作者用于补齐/替换提交材料；按 IJICS-332808 与英文题名做 in:anywhere 与 in:spam companion search，未发现该 withdrawn-for-correction 邮件之后的最终重新提交确认。",
-    "impactSort": -1
   },
   {
     "statusDot": "🟡",
