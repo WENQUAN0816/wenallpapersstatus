@@ -32,11 +32,11 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>19</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>18</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>5</td></tr>
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>32</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>6</td></tr>
-<tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
+<tr><td><strong>合计</strong></td><td><strong>61</strong></td></tr>
 </table>
 </td>
 <td valign="top" width="66%">
@@ -122,12 +122,6 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">生成式 AI 驱动的适老室内改造可视化</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Applied Sciences (Rejected: applsci-4331900)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">适老住宅缺陷评估中的视觉语言模型综述</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Electronics (Rejected: electronics-4330805)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
 </tr>
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
