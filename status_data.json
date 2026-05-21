@@ -505,13 +505,13 @@
     "impactSort": -1
   },
   {
-    "statusDot": "💖",
-    "status": "需修订",
-    "statusOrder": 1,
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
     "title": "基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防",
-    "journalTrack": "IEEE Access → The Journal of Nutrition, Health and Aging (JNHA) → PLOS ONE (Edits requested: PONE-D-26-22394)",
+    "journalTrack": "IEEE Access → The Journal of Nutrition, Health and Aging (JNHA) → PLOS ONE (Approved/submitted: PONE-D-26-22394)",
     "submissionSystemInfo": "Editorial Manager / PLOS ONE；右上角显示名：quan wen；投稿系统注册邮箱/ORCID 绑定记录：wenquan6328@gmail.com / ORCID 0009-0005-3975-8104；核对时间：2026-05-21；未存储密码。",
-    "bg": "#ffd9ec",
+    "bg": "#fff8d9",
     "currentJournal": "PLOS ONE",
     "similarity": "4.4%",
     "casXr": "CAS大3小3；XR大3小3",
@@ -551,7 +551,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-21",
-    "situation": "需修订。Kingcha 2026-05-15 复核 Gmail in:anywhere 与 in:spam：2026-05-15 09:26 Asia/Shanghai PLOS ONE / Editorial Manager 发出 Edits requested on your submission PONE-D-26-22334，题名 Elderly users' acceptance of smart home sensor systems for aging-in-place: Integrating TAM, privacy calculus theory, and spatial autonomy。要求上传原始 ethics approval document（如非英文需附英文翻译），并在 Methods 中以 DD/MM/YYYY 格式报告招募期开始和结束日期；稿件已 returned to your account，需 21 天内 resubmit，否则可能 withdraw。按 PONE-D-26-22334 全邮箱与 Spam 搜索，未发现该邮件之后的最终重提交确认。",
+    "situation": "需修订。Kingcha 2026-05-15 复核 Gmail in:anywhere 与 in:spam：2026-05-15 09:26 Asia/Shanghai PLOS ONE / Editorial Manager 发出 Edits requested on your submission PONE-D-26-22334，题名 Elderly users' acceptance of smart home sensor systems for aging-in-place: Integrating TAM, privacy calculus theory, and spatial autonomy。要求上传原始 ethics approval document（如非英文需附英文翻译），并在 Methods 中以 DD/MM/YYYY 格式报告招募期开始和结束日期；稿件已 returned to your account，需 21 天内 resubmit，否则可能 withdraw。2026-05-21 已按论文内容推导并在 Methods 中补入招募日期，修订 manuscript PDF 已重新上传至 Editorial Manager，PLOS Human Participants Research Checklist 保留在文件列表中；当前仍缺 PLOS 要求的原始 ethics approval document，因此尚未 build PDF / approve / resubmit。",
     "impactSort": 2.9
   },
   {
