@@ -530,13 +530,13 @@
     "impactSort": 2.9
   },
   {
-    "statusDot": "💖",
-    "status": "需修订",
-    "statusOrder": 1,
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
     "title": "老年用户对居家养老智能家居传感器系统的接受度：整合技术接受模型、隐私计算理论与空间自主性",
-    "journalTrack": "BMC Psychology → PLOS ONE (Edits requested: PONE-D-26-22334)",
-    "submissionSystemInfo": "",
-    "bg": "#ffd9ec",
+    "journalTrack": "BMC Psychology → PLOS ONE (Approved/submitted: PONE-D-26-22334)",
+    "submissionSystemInfo": "Editorial Manager / PLOS ONE；用户名/显示名：QUAN WEN / quan wen；投稿系统注册邮箱：wenquan6328@gmail.com；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-21；未存储密码。",
+    "bg": "#fff8d9",
     "currentJournal": "PLOS ONE",
     "similarity": "11.7%",
     "casXr": "CAS大3小3；XR大3小3",
@@ -551,7 +551,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-21",
-    "situation": "需修订。Kingcha 2026-05-15 复核 Gmail in:anywhere 与 in:spam：2026-05-15 09:26 Asia/Shanghai PLOS ONE / Editorial Manager 发出 Edits requested on your submission PONE-D-26-22334，题名 Elderly users' acceptance of smart home sensor systems for aging-in-place: Integrating TAM, privacy calculus theory, and spatial autonomy。要求上传原始 ethics approval document（如非英文需附英文翻译），并在 Methods 中以 DD/MM/YYYY 格式报告招募期开始和结束日期；稿件已 returned to your account，需 21 天内 resubmit，否则可能 withdraw。2026-05-21 已按论文内容推导并在 Methods 中补入招募日期，修订 manuscript PDF 已重新上传至 Editorial Manager，PLOS Human Participants Research Checklist 保留在文件列表中；当前仍缺 PLOS 要求的原始 ethics approval document，因此尚未 build PDF / approve / resubmit。",
+    "situation": "内审中。2026-05-21 23:00 Asia/Shanghai PLOS ONE / Editorial Manager 确认 PONE-D-26-22334 returned submission changes 已由作者批准。已按 2026-05-15 编辑部要求在 Methods 中补入 DD/MM/YYYY 招募日期，并重新上传修订 manuscript PDF；同时上传 Phase 1 interview protocol、Phase 2 questionnaire、cognitive interview and pilot materials、recruitment and informed consent summary 四个 Supporting Information PDF，保留 PLOS Human Participants Research Checklist。系统 PDF 已生成、经作者确认后点击 Approve Submission。门户显示 Submissions Being Processed，Current Status 为 Manuscript Submitted to Journal。原始 ethics approval document 本地仍未找到，已避免将说明性材料冒充原始批件。",
     "impactSort": 2.9
   },
   {

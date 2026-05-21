@@ -202,10 +202,10 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Access → The Journal of Nutrition, Health and Aging (JNHA) → PLOS ONE (Approved/submitted: PONE-D-26-22394)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Editorial Manager / PLOS ONE；用户名/显示名：QUAN WEN / quan wen；投稿系统注册邮箱：wenquan6328@gmail.com；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-21；未存储密码。</td>
 </tr>
 
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">老年用户对居家养老智能家居传感器系统的接受度：整合技术接受模型、隐私计算理论与空间自主性</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">BMC Psychology → PLOS ONE (Edits requested: PONE-D-26-22334)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">老年用户对居家养老智能家居传感器系统的接受度：整合技术接受模型、隐私计算理论与空间自主性</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">BMC Psychology → PLOS ONE (Approved/submitted: PONE-D-26-22334)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Editorial Manager / PLOS ONE；用户名/显示名：QUAN WEN / quan wen；投稿系统注册邮箱：wenquan6328@gmail.com；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-21；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
