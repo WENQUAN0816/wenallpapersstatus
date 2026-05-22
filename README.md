@@ -199,7 +199,7 @@
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">健康老龄化评估的元学习框架：具有人群泛化能力的注意力神经过程</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Neural Networks (Approved/submitted revision: NEUNET-D-26-01296R1)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Editorial Manager / Neural Networks；用户名：QuanWen_USM；右上角显示名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：未绑定（页面显示 Fetch/Register，Article Type 页显示 (None)）；核对时间：2026-05-22；未存储密码。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Neural Networks (Approved/submitted revision: NEUNET-D-26-01296R1)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Editorial Manager / Neural Networks；用户名：QuanWen_USM；右上角显示名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-23；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
