@@ -18,27 +18,24 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Download journal databases
+      - name: Stage journal databases from repo
         shell: bash
         run: |
           mkdir -p "$HOME/EIlist" "$HOME/ssci-top100-journals"
-          READY=1
-          curl -fsSL https://raw.githubusercontent.com/WENQUAN0816/2025journallist/master/journals_db.csv -o "$HOME/cas2025.csv" || READY=0
-          curl -fsSL https://raw.githubusercontent.com/WENQUAN0816/2026journallist/master/xr2026.csv -o "$HOME/xr2026.csv" || READY=0
-          curl -fsSL https://raw.githubusercontent.com/WENQUAN0816/ssci-top100-journals/main/sscitop100.csv -o "$HOME/ssci-top100-journals/sscitop100.csv" || true
-          curl -fsSL https://raw.githubusercontent.com/WENQUAN0816/ssci-top100-journals/main/ssci_top100_cas2025_xr2026.csv -o "$HOME/ssci_top100.csv" || true
-          curl -fsSL https://raw.githubusercontent.com/WENQUAN0816/EIlist/main/ei_journals_raw.csv -o "$HOME/EIlist/ei_journals_raw.csv" || true
-          echo "JOURNAL_DB_READY=$READY" >> "$GITHUB_ENV"
+          cp journals/cas2025.csv "$HOME/cas2025.csv"
+          cp journals/xr2026.csv "$HOME/xr2026.csv"
+          cp journals/ssci_top100.csv "$HOME/ssci_top100.csv"
+          cp journals/ei_journals_raw.csv "$HOME/EIlist/ei_journals_raw.csv"
+          # sscitop100.csv is optional (PS1 tolerates absence)
+          if [ -f journals/sscitop100.csv ]; then
+            cp journals/sscitop100.csv "$HOME/ssci-top100-journals/sscitop100.csv"
+          fi
+          echo "JOURNAL_DB_READY=1" >> "$GITHUB_ENV"
 
       - name: Normalize status table
         if: env.JOURNAL_DB_READY == '1'
         shell: pwsh
         run: ./scripts/Update-PaperStatus.ps1
-
-      - name: Skip normalize when journal databases are unavailable
-        if: env.JOURNAL_DB_READY != '1'
-        shell: bash
-        run: echo "Journal databases are unavailable to GitHub Actions; keeping committed dashboard unchanged."
 
       - name: Commit normalized files
         if: env.JOURNAL_DB_READY == '1'
