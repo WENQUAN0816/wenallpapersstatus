@@ -106,7 +106,7 @@
     "status": "待投稿",
     "statusOrder": 0,
     "title": "历史社区智慧适老化改造策略的居民支持：整合地方依恋与技术接受",
-    "journalTrack": "Land (Rejected: land-4335735)",
+    "journalTrack": "Buildings (Rejected: buildings-4326137) → Buildings (Rejected: buildings-4326224) → Land (Rejected: land-4335735)",
     "submissionSystemInfo": "",
     "bg": "#f2f2f2",
     "currentJournal": "Land",
@@ -123,7 +123,7 @@
       "Suebsiri Saelee"
     ],
     "updatedAt": "2026-05-22",
-    "situation": "被拒稿。2026-05-10 06:01 Land / MDPI 发出 Declined for Publication，稿号 land-4335735；原因：Submissions sent for peer-review are selected based on discipline, novelty and general significance，邮件说明将不再继续处理该投稿，可另投。",
+    "situation": "被拒稿，待重新转投。英文题名为 “Resident Support for Smart Age-Friendly Retrofit Strategies in Historic Communities: Integrating Place Attachment and Technology Acceptance”。用户 2026-05-22 提供 MDPI Declined 邮件正文，确认 buildings-4326137、buildings-4326224 和 land-4335735 均为该同题稿件。Buildings / MDPI 两次稿号 buildings-4326137、buildings-4326224，均 Received 2026-05-03，Section: Architectural Design, Urban Science, and Real Estate，邮件说明不再继续处理该投稿。2026-05-08 17:29 Land / MDPI 收到同题稿件 land-4335735；2026-05-10 06:01 Land 发出 Declined for Publication，原有 Kingcha 记录原因：Submissions sent for peer-review are selected based on discipline, novelty and general significance，邮件说明将不再继续处理该投稿，可另投。本次 2026-05-22 Gmail CLI 因 OAuth token invalid_grant 无法新增邮箱复核，依据用户贴出的邮件正文、本地稿件仓库和既有 Kingcha 记录更新；未见 Land 拒稿后的有效新投稿确认，当前按待投稿处理。再投稿备注：用户补充预计重新新投后约一个月内会给审稿意见。",
     "impactSort": 3.2
   },
   {
@@ -358,7 +358,7 @@
     "status": "待投稿",
     "statusOrder": 0,
     "title": "老年游客对遗产建筑增强现实解说的接受度：扩展技术接受模型",
-    "journalTrack": "Sustainability (Rejected: sustainability-4335606)",
+    "journalTrack": "Applied Sciences (Rejected: applsci-4326225) → Sustainability (Rejected: sustainability-4335606)",
     "submissionSystemInfo": "",
     "bg": "#f2f2f2",
     "currentJournal": "Sustainability",
@@ -375,7 +375,7 @@
       "Suebsiri Saelee"
     ],
     "updatedAt": "2026-05-22",
-    "situation": "被拒稿，待重新转投。Kingcha 2026-05-18 复核 Gmail in:anywhere 与 in:spam：英文题名为 “Older Visitors' Acceptance of Augmented-Reality Interpretation in Heritage Architecture: An Extended Technology Acceptance Model”。2026-05-08 16:31 Asia/Shanghai MDPI Sustainability 收到稿件 sustainability-4335606；2026-05-08 16:57/17:02/17:03 先后要求补充 Data Availability Statement、Ethical Questions Confirmation 与 Informed Consent for Participation Inquiry；2026-05-13 14:24 已发送修订稿和补件回复。2026-05-18 08:58 Sustainability 发出 Declined for Publication，Academic Editor 建议 further strengthening the scientific content and expanding the literature review；邮件说明不会继续处理该投稿。按稿号与英文题名全邮箱搜索并做 in:spam companion search，未发现 2026-05-18 08:58 之后的同稿有效重新投稿确认；当前不再按内审中处理。",
+    "situation": "被拒稿，待重新转投。英文题名为 “Older Visitors' Acceptance of Augmented-Reality Interpretation in Heritage Architecture: An Extended Technology Acceptance Model”。用户 2026-05-22 提供 MDPI Declined 邮件正文，确认 applsci-4326225 也是该稿：Applied Sciences / MDPI，Received 2026-05-03，Authors: Xuejia Zhu, Suebsiri Salelee, Quan Wen，Section: Computing and Artificial Intelligence，邮件说明不再继续处理该投稿。随后 2026-05-08 16:31 Asia/Shanghai MDPI Sustainability 收到同题稿件 sustainability-4335606；2026-05-08 16:57/17:02/17:03 先后要求补充 Data Availability Statement、Ethical Questions Confirmation 与 Informed Consent for Participation Inquiry；2026-05-13 14:24 已发送修订稿和补件回复。2026-05-18 08:58 Sustainability 发出 Declined for Publication，Academic Editor 建议 further strengthening the scientific content and expanding the literature review；邮件说明不会继续处理该投稿。此前 Kingcha 2026-05-18 按稿号与英文题名全邮箱搜索并做 in:spam companion search，未发现 2026-05-18 08:58 之后的同稿有效重新投稿确认；本次 2026-05-22 Gmail CLI 因 OAuth token invalid_grant 无法新增邮箱复核，依据用户贴出的邮件正文与本地稿件仓库更新。当前不再按内审中处理。再投稿备注：用户补充预计重新新投后约一个月内会给审稿意见。",
     "impactSort": 3.3
   },
   {
