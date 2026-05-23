@@ -429,13 +429,13 @@
     "impactSort": -1
   },
   {
-    "statusDot": "💖",
-    "status": "需修订",
-    "statusOrder": 1,
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
     "title": "代码漏洞检测深度学习模型的系统评估：具有多种表示策略的模块化框架",
-    "journalTrack": "International Journal of Information and Computer Security (Withdrawn for correction: IJICS-332808)",
-    "submissionSystemInfo": "",
-    "bg": "#ffd9ec",
+    "journalTrack": "International Journal of Information and Computer Security (Submitted: IJICS-336943; previous IJICS-332808 withdrawn for correction)",
+    "submissionSystemInfo": "Inderscience Submissions / International Journal of Information and Computer Security；用户名：WENQUAN0817；个人资料名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；备用邮箱：wenquan6328@gmail.com；ORCID：未绑定，个人资料 ORCID 字段为空；核对时间：2026-05-23；来源：Inderscience Edit your profile 页面。未存储密码。",
+    "bg": "#fff8d9",
     "currentJournal": "International Journal of Information and Computer Security",
     "similarity": "9.0%",
     "casXr": "XR大4小4",
@@ -450,7 +450,7 @@
       "Xueping Han"
     ],
     "updatedAt": "2026-05-23",
-    "situation": "需修订。Kingcha 2026-05-17 仅按最近 3 天 Gmail 节点复核：2026-05-15 20:00 Asia/Shanghai Inderscience Submissions / International Journal of Information and Computer Security 发出 IJICS-332808 - Your submission has now been withdrawn，明确 Your submission has been withdrawn so you can make any necessary corrections。题名 Systematic Evaluation of Deep Learning Models for Code Vulnerability Detection: A Modular Framework with Multiple Representation Strategies。该邮件晚于 2026-05-05 entering review process 记录，说明当前投稿已撤回给作者用于补齐/替换提交材料；按 IJICS-332808 与英文题名做 in:anywhere 与 in:spam companion search，未发现该 withdrawn-for-correction 邮件之后的最终重新提交确认。",
+    "situation": "内审中。2026-05-23 23:09 Asia/Shanghai 收到 Inderscience / International Journal of Information and Computer Security 投稿确认邮件，主题为 “Inderscience Publishers: IJICS-336943 - Submission Acknowledgement”，确认稿件 “A Modular Protocol for Comparing Deep Vulnerability Detectors Across Code Representations” 已提交至 Int. J. of Information and Computer Security，稿号 IJICS-336943。旧稿 IJICS-332808 于 2026-05-15 20:00 Asia/Shanghai 按作者请求 withdrawn for correction；因旧稿详情页状态为 Withdrawn 且无替换/重提按钮，本次按系统实际流程作为新投稿重建。已上传匿名 PDF，系统文件名 2026_IJICS-336943.pdf；主文同步 132-word abstract、Declarations（AI technology、Conflicts of interest、Informed consent），并确认匿名 PDF Author 元数据为空、匿名源文件无作者邮箱/单位标识。Inderscience 投稿系统账号：用户名 WENQUAN0817，个人资料名 Quan Wen，注册邮箱 wenquan@student.usm.my，备用邮箱 wenquan6328@gmail.com，ORCID 未绑定/字段为空，未存储密码。论文仓库已更新 README、投稿记录和本次重提包，commit 065e0bd。当前等待 Inderscience screening / peer-review 处理。",
     "impactSort": -1
   },
   {

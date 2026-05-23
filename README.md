@@ -178,10 +178,10 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Cluster Computing (Rejected: eec18a2a-115f-4885-b114-202a0368f2ed)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
 </tr>
 
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">代码漏洞检测深度学习模型的系统评估：具有多种表示策略的模块化框架</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">International Journal of Information and Computer Security (Withdrawn for correction: IJICS-332808)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">代码漏洞检测深度学习模型的系统评估：具有多种表示策略的模块化框架</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">International Journal of Information and Computer Security (Submitted: IJICS-336943; previous IJICS-332808 withdrawn for correction)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Inderscience Submissions / International Journal of Information and Computer Security；用户名：WENQUAN0817；个人资料名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；备用邮箱：wenquan6328@gmail.com；ORCID：未绑定，个人资料 ORCID 字段为空；核对时间：2026-05-23；来源：Inderscience Edit your profile 页面。未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
