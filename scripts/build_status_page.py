@@ -472,7 +472,7 @@ def parse_situation_from_readme():
 
 
 def is_rejected_track_segment(value):
-    return bool(re.search(r"(?i)\b(rejected|declined|reject)\b|拒稿|拒绝|退稿", value or ""))
+    return bool(re.search(r"(?i)\b(rejected|declined|reject|withdrawn|withdrawal)\b|拒稿|拒绝|退稿|撤稿", value or ""))
 
 
 def journal_name_from_track_segment(value):
@@ -489,13 +489,19 @@ def latest_rejected_journal(track):
     return ""
 
 
+def has_rejected_track(track):
+    return any(is_rejected_track_segment(part) for part in re.split(r"\s*→\s*", track or ""))
+
+
 def current_journal(row):
     track = row["journalTrack"]
     if not track:
         return ""
     last = re.split(r"\s*→\s*", track)[-1].strip()
     if row["status"] == "待投稿":
-        return latest_rejected_journal(track) or journal_name_from_track_segment(last)
+        if has_rejected_track(track):
+            return ""
+        return journal_name_from_track_segment(last)
     return journal_name_from_track_segment(last)
 
 
