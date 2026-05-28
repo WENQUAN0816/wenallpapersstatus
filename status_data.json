@@ -97,13 +97,8 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-<<<<<<< Updated upstream
     "updatedAt": "2026-05-28",
-    "situation": "被拒稿。2026-05-10 02:40 Disability and Rehabilitation 发出 Decision on Manuscript ID TIDS-05-2026-088；原因：topic not in scope。按同日 00:49 T&F 投稿确认邮件对应 AccessPath / Submission ID 264297465。后续可转投 Taylor & Francis 其他期刊。",
-=======
-    "updatedAt": "2026-05-29",
     "situation": "Submission started (not yet completed) — BMC Geriatrics — 2026-05-29 — repo commit 405158a. 已将稿件目标期刊从 Disability and Rehabilitation（拒稿 TIDS-05-2026-088 / topic not in scope）转投至 BMC Geriatrics（Springer Nature SNAPP），sn-jnl LaTeX 模板、4 作者 author block（Quan Wen、Mazran Ismail、Muhammad Hafeez Abdul Nasir、Yanting Wu，Quan Wen 通讯）、BMC 结构化摘要 (Background/Methods/Results/Conclusions)、Declarations 段落（Funding、Competing interests、Ethics approval and consent to participate、Consent for publication、Availability of data and materials、Code availability、Authors' contributions）已就绪；submission_package_bmc_geriatrics 内 LaTeX source zip 与 cover letter (latex + plain text) 已重新打包；CDP 端口 9223，正在通过 SNAPP 完成投稿表单填写并停在最终 Submit 之前。",
->>>>>>> Stashed changes
     "impactSort": -1
   },
   {
