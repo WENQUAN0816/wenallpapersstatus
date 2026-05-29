@@ -32,9 +32,9 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>17</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>12</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>37</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>42</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>6</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>61</strong></td></tr>
 </table>
@@ -84,38 +84,8 @@
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">用于老年住宅活动分区功能分类的空间图神经网络</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;"></td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">社区老年日间照料中心多模态热舒适的时空深度学习评估与预测</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Energy</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">AccessPath：面向老年居家环境自动无障碍评估的拓扑图式无障碍通行分析</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Disability and Rehabilitation (Rejected: TIDS-05-2026-088)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">cGAN 辅助的适老住宅改造多目标优化</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Buildings (Rejected: buildings-4331653)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">住宅环境设计特征对老年人生理心理福祉影响的 VR 实验</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">PLOS ONE (Rejected: PONE-D-26-22134)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">生成式 AI 驱动的适老室内改造可视化</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Applied Sciences (Rejected: applsci-4331900)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
 </tr>
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
@@ -182,6 +152,36 @@
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">IEEE Access → The Journal of Nutrition, Health and Aging (JNHA) → PLOS ONE (Edits requested: PONE-D-26-22394)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Editorial Manager / PLOS ONE；用户名/显示名：QUAN WEN / quan wen；投稿系统注册邮箱：wenquan6328@gmail.com；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-21；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">用于老年住宅活动分区功能分类的空间图神经网络</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Neurocomputing (Submitted: 56c4c50d-d731-44ff-b861-2329b22a5261; final submit confirmed 2026-05-29)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Neurocomputing；用户名/显示名：Quan Wen / WEN QUAN（待门户个人资料页复核）；投稿系统注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；ORCID：已绑定/可用于登录 0009-0005-3975-8104（待门户个人资料页复核）；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">社区老年日间照料中心多模态热舒适的时空深度学习评估与预测</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Energy and Buildings (Submitted: final submit confirmed 2026-05-29; manuscript ID pending portal/email confirmation)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Energy and Buildings；用户名/显示名：Quan Wen / WEN QUAN（待门户个人资料页复核）；投稿系统注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；ORCID：已绑定/可用于登录 0009-0005-3975-8104（待门户个人资料页复核）；作者栏已标注投稿系统作者与 LaTeX front matter 差异；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">cGAN 辅助的适老住宅改造多目标优化</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Buildings (Rejected: buildings-4331653) → Energy and Buildings (Submitted: 79e27415-ff23-4bbf-b3cf-d506de8510c6; final submit confirmed 2026-05-29)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Energy and Buildings；用户名/显示名：Quan Wen / WEN QUAN（待门户个人资料页复核）；投稿系统注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；ORCID：已绑定/可用于登录 0009-0005-3975-8104（待门户个人资料页复核）；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">住宅环境设计特征对老年人生理心理福祉影响的 VR 实验</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">PLOS ONE (Rejected: PONE-D-26-22134) → Journal of Building Engineering (Submitted: 1673b4dd-2e7c-4d8b-a288-58b67af268d9; final submit confirmed 2026-05-29)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Journal of Building Engineering；用户名/显示名：Quan Wen / WEN QUAN（待门户个人资料页复核）；投稿系统注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；ORCID：已绑定/可用于登录 0009-0005-3975-8104（待门户个人资料页复核）；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">生成式 AI 驱动的适老室内改造可视化</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Applied Sciences (Rejected: applsci-4331900) → Journal of Building Engineering (Submitted: 48e3354b-6f07-4e29-b09b-19b31c6b1596; final submit confirmed 2026-05-29)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Journal of Building Engineering；用户名/显示名：Quan Wen / WEN QUAN（待门户个人资料页复核）；投稿系统注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；ORCID：已绑定/可用于登录 0009-0005-3975-8104（待门户个人资料页复核）；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
