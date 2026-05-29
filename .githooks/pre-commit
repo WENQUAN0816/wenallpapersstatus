@@ -4,4 +4,4 @@ set -e
 REPO_ROOT="$(git rev-parse --show-toplevel)"
 pwsh -File "$REPO_ROOT/scripts/Update-PaperStatus.ps1"
 
-git add README.md index.html status_data.json situation_overrides.json status_bar_chart.svg status_chart.html scripts/Update-PaperStatus.ps1 scripts/build_status_page.py
+git add README.md index.html status_data.json row_overrides.json situation_overrides.json submission_system_overrides.json status_bar_chart.svg status_chart.html scripts/Update-PaperStatus.ps1 scripts/build_status_page.py

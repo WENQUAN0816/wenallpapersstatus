@@ -6,6 +6,7 @@ $ReadmePath = Join-Path $RepoRoot "README.md"
 $ChartHtmlPath = Join-Path $RepoRoot "status_chart.html"
 $SvgPath = Join-Path $RepoRoot "status_bar_chart.svg"
 $IndexPath = Join-Path $RepoRoot "index.html"
+$RowOverridesPath = Join-Path $RepoRoot "row_overrides.json"
 $Utf8NoBom = [System.Text.UTF8Encoding]::new($false)
 $NewLine = "`n"
 
@@ -28,6 +29,14 @@ for ($i = 0; $i -lt $Statuses.Count; $i++) {
     }
     $StatusByIcon[$Statuses[$i].Icon] = $Statuses[$i].Name
     $StatusByFill[$Statuses[$i].Fill] = $Statuses[$i].Name
+}
+
+$RowOverrides = @{}
+if (Test-Path $RowOverridesPath) {
+    $RawRowOverrides = Get-Content -Raw -Encoding UTF8 $RowOverridesPath | ConvertFrom-Json
+    foreach ($Property in $RawRowOverrides.PSObject.Properties) {
+        $RowOverrides[$Property.Name] = $Property.Value
+    }
 }
 
 $LegacyStatus = @{
@@ -132,6 +141,60 @@ function Clear-TrackCellChinese {
     $CleanTrack = Remove-ChineseText $TrackCell.Groups["content"].Value
     $Replacement = "<td$($TrackCell.Groups["attrs"].Value)>$CleanTrack</td>"
     return $Row.Substring(0, $TrackCell.Index) + $Replacement + $Row.Substring($TrackCell.Index + $TrackCell.Length)
+}
+
+function Get-RowTitle {
+    param([string]$Row)
+
+    $CellMatches = [regex]::Matches($Row, '(?s)<td(?<attrs>[^>]*)>(?<content>.*?)</td>')
+    if ($CellMatches.Count -lt 2) {
+        return ""
+    }
+
+    $Title = [regex]::Replace($CellMatches[1].Groups["content"].Value, '<[^>]+>', '')
+    return [System.Net.WebUtility]::HtmlDecode($Title).Trim()
+}
+
+function Set-RowCellContent {
+    param(
+        [string]$Row,
+        [int]$CellIndex,
+        [string]$Content
+    )
+
+    $CellMatches = [regex]::Matches($Row, '(?s)<td(?<attrs>[^>]*)>(?<content>.*?)</td>')
+    if ($CellMatches.Count -le $CellIndex) {
+        return $Row
+    }
+
+    $Cell = $CellMatches[$CellIndex]
+    $SafeContent = [System.Net.WebUtility]::HtmlEncode($Content)
+    $Replacement = "<td$($Cell.Groups["attrs"].Value)>$SafeContent</td>"
+    return $Row.Substring(0, $Cell.Index) + $Replacement + $Row.Substring($Cell.Index + $Cell.Length)
+}
+
+function Apply-RowOverride {
+    param(
+        [string]$Row,
+        [ref]$Status
+    )
+
+    $Title = Get-RowTitle $Row
+    if (-not $Title -or -not $RowOverrides.ContainsKey($Title)) {
+        return $Row
+    }
+
+    $Override = $RowOverrides[$Title]
+    if ($Override.PSObject.Properties.Name -contains "status") {
+        $Status.Value = Get-NormalizedStatus ([string]$Override.status)
+    }
+    if ($Override.PSObject.Properties.Name -contains "journalTrack") {
+        $Row = Set-RowCellContent $Row 2 ([string]$Override.journalTrack)
+    }
+    if ($Override.PSObject.Properties.Name -contains "submissionSystemInfo") {
+        $Row = Set-RowCellContent $Row 3 ([string]$Override.submissionSystemInfo)
+    }
+    return $Row
 }
 
 function Get-PiePoint {
@@ -502,6 +565,11 @@ for ($i = 0; $i -lt $Rows.Count; $i++) {
         throw "第 $($i + 1) 个论文状态行没有找到状态单元格。"
     }
 
+    if (-not $StatusByName.ContainsKey($Status)) {
+        throw "发现未知状态：$Status"
+    }
+
+    $Row = Apply-RowOverride $Row ([ref]$Status)
     if (-not $StatusByName.ContainsKey($Status)) {
         throw "发现未知状态：$Status"
     }

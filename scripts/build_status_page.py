@@ -453,6 +453,13 @@ def parse_similarity_info():
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def parse_row_overrides():
+    path = ROOT / "row_overrides.json"
+    if not path.exists():
+        return {}
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
 def parse_situation_from_readme():
     out = {}
     override_path = ROOT / "situation_overrides.json"
@@ -515,8 +522,20 @@ def enrich_rows(rows):
     situation_by_title = parse_situation_from_readme()
     submission_system_by_title = parse_submission_system_info()
     similarity_by_title = parse_similarity_info()
+    row_overrides_by_title = parse_row_overrides()
     today = dt.date.today().isoformat()
     for row in rows:
+        row_override = row_overrides_by_title.get(row["title"], {})
+        if row_override:
+            dot = row_override.get("statusDot")
+            if dot in STATUS_META:
+                row["statusDot"] = dot
+                row["status"] = row_override.get("status") or STATUS_META[dot]["label"]
+                row["statusOrder"] = STATUS_META[dot]["order"]
+                row["bg"] = STATUS_META[dot]["bg"]
+            for key in ("journalTrack", "submissionSystemInfo"):
+                if key in row_override:
+                    row[key] = row_override[key]
         journal = current_journal(row)
         row["currentJournal"] = journal
         row["similarity"] = similarity_by_title.get(row["title"], "")
