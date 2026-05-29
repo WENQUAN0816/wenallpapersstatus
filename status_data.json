@@ -325,7 +325,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-29",
-    "situation": "Submission started (not yet completed) — Solar Energy (Elsevier) — 2026-05-29 — repo commit b196250. 已完成 elsarticle 模板核对、cover letter 与 title page 重定向至 Solar Energy、加入三篇 2023 年 Solar Energy 主题相关引用（Gong 2023; Cai 2023; Yan 2023），并产出 solar_energy_source_package(.zip) 包含 manuscript.tex、references.bib、elsarticle.cls/.bst 与 figures。历史拒稿轨迹：Energy and Buildings (ENB-D-26-01660) -> Energy (EGY-D-26-10505) -> Journal of Building Engineering (JBE-D-26-07821)，目前转投 Solar Energy；最终 Submit 仍由用户在 EM 门户手动确认。",
+    "situation": "Submission started (not yet completed) — Solar Energy (Elsevier) — 2026-05-29 — repo commit ea53723. 已完成 Job #13 Solar Energy/Elsevier EM LaTeX source workflow 预上传准备：使用 elsarticle 模板，主稿/cover letter/title page 已重定向至 Solar Energy；作者审计通过（Ruili Liu; Quan Wen 通讯作者; Mazran Ismail；Quan Wen ORCID 0009-0005-3975-8104，邮箱 wenquan@hngm.edu.cn）；OpenAlex 核验并保留 3 条真实 2023 年 Solar Energy 主题相关引用（Gong 2023 DOI 10.1016/j.solener.2023.03.033; Cai 2023 DOI 10.1016/j.solener.2023.03.040; Yan 2023 DOI 10.1016/j.solener.2023.04.032），符合 ≤3 新增规则；已产出并推送 flat EM source package submission/solar_energy_em_flat_upload.zip，包含 1 个 manuscript.tex、references.bib、manuscript.bbl、elsarticle.cls、elsarticle-num.bst 与 10 个顶层 figure PDF；本地 tectonic 编译通过，预览 PDF 33 页。历史拒稿轨迹：Energy and Buildings (ENB-D-26-01660) -> Energy (EGY-D-26-10505) -> Journal of Building Engineering (JBE-D-26-07821)，目前转投 Solar Energy；最终 Submit 仍由用户在 EM 门户手动确认。",
     "impactSort": -1
   },
   {
