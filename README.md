@@ -145,7 +145,7 @@
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Image and Vision Computing → IEEE Access (Rejected: Access-2026-21292) → Pattern Recognition</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Pattern Recognition submission portal (Elsevier; CDP 9231 profile chrome-9231-google)；草稿/上传进行中；最终 Submit/Approve/Complete 由用户手动确认；账号/ORCID 状态待门户页复核；未存储密码。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Image and Vision Computing → IEEE Access (Rejected: Access-2026-21292) → Pattern Recognition</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Editorial Manager / Pattern Recognition；CDP 9231 profile chrome-9231-google；当前停在 ORCID sign-in 密码页，等待用户手动登录；未上传文件，未存储密码。</td>
 </tr>
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">

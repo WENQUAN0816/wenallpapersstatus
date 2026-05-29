@@ -283,7 +283,7 @@
     "statusOrder": 0,
     "title": "基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估",
     "journalTrack": "Image and Vision Computing → IEEE Access (Rejected: Access-2026-21292) → Pattern Recognition",
-    "submissionSystemInfo": "Pattern Recognition submission portal (Elsevier; CDP 9231 profile chrome-9231-google)；草稿/上传进行中；最终 Submit/Approve/Complete 由用户手动确认；账号/ORCID 状态待门户页复核；未存储密码。",
+    "submissionSystemInfo": "Editorial Manager / Pattern Recognition；CDP 9231 profile chrome-9231-google；当前停在 ORCID sign-in 密码页，等待用户手动登录；未上传文件，未存储密码。",
     "bg": "#f2f2f2",
     "currentJournal": "",
     "similarity": "10.6%",
@@ -300,7 +300,7 @@
       "Mazran Ismail"
     ],
     "updatedAt": "2026-05-29",
-    "situation": "Submission started (not yet completed) — Pattern Recognition — 2026-05-29 — repo commit 9f4453a. 已将稿件从 IEEE Access 拒稿 Access-2026-21292 后转投 Pattern Recognition；按 Elsevier elsarticle 模板完成 LaTeX source package，\\journal{}、cover letter、title page、manifest 和 author/declaration 文件已重定向至 Pattern Recognition。源包 20260529_pattern_recognition_latex_source.zip 包含 manuscript.tex、references.bib、manuscript.bbl、elsarticle.cls、elsarticle-num.bst 与全部图件；本地 pdflatex 编译生成 40 页 manuscript.pdf，无 fatal error/undefined citations/undefined refs。作者审计：Quan Wen、Mazran Ismail、Muhammad Hafeez Abdul Nasir；Quan Wen 与 Mazran Ismail 通讯，机构 School of Housing, Building and Planning, Universiti Sains Malaysia；本地主文、title page、cover letter、CRediT/declarations 一致。OpenAlex 近 3 年 Pattern Recognition 引用审计未新增引用：无候选比现有文献更直接支撑当前论断，符合 ≤3 且真实支撑规则。CDP 端口 9231 / chrome-9231-google，正在通过 Pattern Recognition 投稿门户完成真实 LaTeX/source 上传并停在最终 Submit/Approve/Complete 之前。",
+    "situation": "Submission blocked before upload — Pattern Recognition — 2026-05-29 — repo commit 9f4453a. 已将稿件从 IEEE Access 拒稿 Access-2026-21292 后转投 Pattern Recognition；按 Elsevier elsarticle 模板完成 LaTeX source package，\\journal{}、cover letter、title page、manifest 和 author/declaration 文件已重定向至 Pattern Recognition。源包 20260529_pattern_recognition_latex_source.zip 包含 manuscript.tex、references.bib、manuscript.bbl、elsarticle.cls、elsarticle-num.bst 与全部图件；本地 pdflatex 编译生成 40 页 manuscript.pdf，无 fatal error/undefined citations/undefined refs。作者审计：Quan Wen、Mazran Ismail、Muhammad Hafeez Abdul Nasir；Quan Wen 与 Mazran Ismail 通讯，机构 School of Housing, Building and Planning, Universiti Sains Malaysia；本地主文、title page、cover letter、CRediT/declarations 一致。OpenAlex 近 3 年 Pattern Recognition 引用审计未新增引用：无候选比现有文献更直接支撑当前论断，符合 ≤3 且真实支撑规则。CDP 9231 已确认官方 Editorial Manager / Pattern Recognition 页面，直接进入 Submit a Manuscript 会转到登录页；已尝试官方 ORCID/Elsevier 登录入口，当前停在 ORCID sign-in 页面且页面要求密码。按安全规则未输入、读取或记录任何密码，未上传任何文件，未创建/推进投稿草稿，未点击最终 Submit/Approve/Complete。",
     "impactSort": -1
   },
   {
