@@ -103,7 +103,7 @@
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Image and Vision Computing → IEEE Access (Rejected: Access-2026-21292) → Pattern Recognition</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Editorial Manager / Pattern Recognition；CDP 9231 profile chrome-9231-google；当前停在 ORCID sign-in 密码页，等待用户手动登录；未上传文件，未存储密码。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Image and Vision Computing → IEEE Access (Rejected: Access-2026-21292) → Pattern Recognition (Unsubmitted: PR-S-26-10725 / docid 115642; PDF build/corresponding-author approval pending)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Editorial Manager / Pattern Recognition；Draft PR-S-26-10725 / docid 115642；portal state：BuildingPDF.asp?corrAuthorChanged=1...；未提交：submission has not yet been sent to editorial office，系统 PDF 将提供给新通讯作者审核；投稿系统作者（以 portal 为准）：Quan Wen（corresponding, first author, wenquan@hngm.edu.cn）；Mazran Ismail（non-corresponding, mazran@usm.my）；Muhammad Hafeez Abdul Nasir（non-corresponding, hafeeznasir@usm.my）；Publishing Options：Subscription / Nothing to pay selected；Open access APC USD 2,800 not selected；下一步：Quan Wen 登录 PR Editorial Manager → Submissions Waiting for Author&#39;s Approval → review system PDF → user/Quan Wen 决定是否 approve；No PDF path available yet；核对时间：2026-05-30；password not stored。</td>
 </tr>
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
