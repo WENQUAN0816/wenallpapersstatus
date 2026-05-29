@@ -282,8 +282,8 @@
     "status": "待投稿",
     "statusOrder": 0,
     "title": "基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估",
-    "journalTrack": "Image and Vision Computing → IEEE Access (Rejected: Access-2026-21292)",
-    "submissionSystemInfo": "IEEE Author Portal / IEEE Access；门户菜单名：Wen；账号显示名：WEN QUAN；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-13；未存储密码。",
+    "journalTrack": "Image and Vision Computing → IEEE Access (Rejected: Access-2026-21292) → Pattern Recognition",
+    "submissionSystemInfo": "Pattern Recognition submission portal (Elsevier; CDP 9231 profile chrome-9231-google)；草稿/上传进行中；最终 Submit/Approve/Complete 由用户手动确认；账号/ORCID 状态待门户页复核；未存储密码。",
     "bg": "#f2f2f2",
     "currentJournal": "",
     "similarity": "10.6%",
@@ -300,7 +300,7 @@
       "Mazran Ismail"
     ],
     "updatedAt": "2026-05-29",
-    "situation": "被拒稿，待重新处理或转投。Kingcha 2026-05-14 按新规则复核 Gmail in:anywhere 与 in:spam：2026-05-14 04:07 Asia/Shanghai IEEE Access / Manuscript Central 发出 Decision on Manuscript ID Access-2026-21292，题名 Dependency-Aware 3D Scene Graph Generation for Automated Age-Friendly Home Environment Assessment via Multimodal Feature Learning；邮件称因涉嫌复用 Ke et al. 2026 Automation in Construction 论文 41% 文本，作者可在 14 天内回应投诉，同时明确 Your article will also be rejected at this time。2026-05-14 05:31 有同线程作者回复邮件，但未发现该拒稿后同稿同刊的重新提交或接受证据；当前不再按内审中处理。",
+    "situation": "Submission started (not yet completed) — Pattern Recognition — 2026-05-29 — repo commit 9f4453a. 已将稿件从 IEEE Access 拒稿 Access-2026-21292 后转投 Pattern Recognition；按 Elsevier elsarticle 模板完成 LaTeX source package，\\journal{}、cover letter、title page、manifest 和 author/declaration 文件已重定向至 Pattern Recognition。源包 20260529_pattern_recognition_latex_source.zip 包含 manuscript.tex、references.bib、manuscript.bbl、elsarticle.cls、elsarticle-num.bst 与全部图件；本地 pdflatex 编译生成 40 页 manuscript.pdf，无 fatal error/undefined citations/undefined refs。作者审计：Quan Wen、Mazran Ismail、Muhammad Hafeez Abdul Nasir；Quan Wen 与 Mazran Ismail 通讯，机构 School of Housing, Building and Planning, Universiti Sains Malaysia；本地主文、title page、cover letter、CRediT/declarations 一致。OpenAlex 近 3 年 Pattern Recognition 引用审计未新增引用：无候选比现有文献更直接支撑当前论断，符合 ≤3 且真实支撑规则。CDP 端口 9231 / chrome-9231-google，正在通过 Pattern Recognition 投稿门户完成真实 LaTeX/source 上传并停在最终 Submit/Approve/Complete 之前。",
     "impactSort": -1
   },
   {
