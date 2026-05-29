@@ -276,13 +276,20 @@ def load_csv(path):
         return list(csv.DictReader(f))
 
 
+def first_existing(*paths):
+    for path in paths:
+        if path.exists():
+            return path
+    return paths[0]
+
+
 def zone_num(text):
     m = re.search(r"([1-4])", text or "")
     return m.group(1) if m else ""
 
 
 def build_cas_index():
-    rows = load_csv(HOME / "cas2025.csv")
+    rows = load_csv(first_existing(ROOT / "journals" / "cas2025.csv", HOME / "cas2025.csv"))
     out = {}
     for row in rows:
         key = norm_name(row.get("刊名"))
@@ -291,7 +298,7 @@ def build_cas_index():
 
 
 def build_xr_index():
-    rows = load_csv(HOME / "xr2026.csv")
+    rows = load_csv(first_existing(ROOT / "journals" / "xr2026.csv", HOME / "xr2026.csv"))
     out = {}
     for row in rows:
         key = norm_name(row.get("刊名"))
@@ -300,14 +307,18 @@ def build_xr_index():
 
 
 def build_ei_set():
-    path = HOME / "EIlist" / "ei_journals_raw.csv"
+    path = first_existing(ROOT / "journals" / "ei_journals_raw.csv", HOME / "EIlist" / "ei_journals_raw.csv")
     rows = load_csv(path)
     return {norm_name(r.get("Journal_Name") or r.get("Journal") or r.get("Source title")) for r in rows}
 
 
 def build_jcr_index():
     out = {}
-    for path in [HOME / "ssci-top100-journals" / "sscitop100.csv", HOME / "ssci_top100.csv"]:
+    for path in [
+        ROOT / "journals" / "ssci_top100.csv",
+        HOME / "ssci-top100-journals" / "sscitop100.csv",
+        HOME / "ssci_top100.csv",
+    ]:
         for row in load_csv(path):
             name = row.get("期刊名称") or row.get("journal_name_standard") or row.get("journal_name_raw")
             jif = row.get("JCR_2024JIF") or row.get("jcr_2024_jif")
@@ -406,6 +417,7 @@ def parse_rows():
                     "journalTrack": row.get("journalTrack", ""),
                     "submissionSystemInfo": row.get("submissionSystemInfo", ""),
                     "bg": row.get("bg") or STATUS_META[dot]["bg"],
+                    "updatedAt": row.get("updatedAt", ""),
                 })
             return rows
 
@@ -435,6 +447,7 @@ def parse_rows():
             "journalTrack": track,
             "submissionSystemInfo": submission_system_info,
             "bg": bgcolor.group(1) if bgcolor else STATUS_META[dot]["bg"],
+            "updatedAt": "",
         })
     return rows
 
@@ -533,7 +546,7 @@ def enrich_rows(rows):
                 row["status"] = row_override.get("status") or STATUS_META[dot]["label"]
                 row["statusOrder"] = STATUS_META[dot]["order"]
                 row["bg"] = STATUS_META[dot]["bg"]
-            for key in ("journalTrack", "submissionSystemInfo"):
+            for key in ("journalTrack", "submissionSystemInfo", "updatedAt"):
                 if key in row_override:
                     row[key] = row_override[key]
         journal = current_journal(row)
@@ -547,7 +560,7 @@ def enrich_rows(rows):
         row["recommendedJournals"] = RECOMMEND_MAP.get(row["title"], "")
         row["authors"] = AUTHOR_MAP.get(row["title"], "")
         row["correspondingAuthors"] = CORRESPONDING_AUTHOR_MAP.get(row["title"], [])
-        row["updatedAt"] = today
+        row["updatedAt"] = row.get("updatedAt") or today
         row["submissionSystemInfo"] = submission_system_by_title.get(row["title"], row.get("submissionSystemInfo", ""))
         row["situation"] = situation_by_title.get(row["title"], "")
         row["impactSort"] = float(row["impactFactor"]) if re.fullmatch(r"\d+(\.\d+)?", row["impactFactor"] or "") else -1
@@ -695,7 +708,7 @@ def render(rows):
 
     function formatAuthors(row) {{
       if (!row.authors) return '<span class="empty"></span>';
-      const normalizeAuthorName = name => String(name).replace(/^(Dr\.?|Professor|Prof\.?)\s+/i, "").trim();
+      const normalizeAuthorName = name => String(name).replace(/^(Dr\\.?|Professor|Prof\\.?)\\s+/i, "").trim();
       const corresponding = new Set((row.correspondingAuthors || []).map(name => normalizeAuthorName(name)));
       return String(row.authors).split("；").map(name => {{
         const clean = name.trim();
@@ -705,7 +718,7 @@ def render(rows):
     }}
 
     function similarityClass(value) {{
-      const match = String(value || "").match(/\d+(?:\.\d+)?/);
+      const match = String(value || "").match(/\\d+(?:\\.\\d+)?/);
       if (!match) return "";
       const score = Number(match[0]);
       if (!Number.isFinite(score)) return "";

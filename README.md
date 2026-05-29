@@ -32,9 +32,9 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>10</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>9</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>44</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>45</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>6</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>61</strong></td></tr>
 </table>
@@ -90,12 +90,6 @@
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">适老建成环境专业人员对 AI-BIM 评估工具的接受度</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Buildings (Rejected: buildings-4330016)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Computers in Biology and Medicine (Rejected: CIBM-D-26-00934) → Biomedical Signal Processing and Control (Rejected: BSPC-D-26-07670)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
 </tr>
@@ -140,6 +134,12 @@
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">IEEE Access → The Journal of Nutrition, Health and Aging (JNHA) → PLOS ONE (Edits requested: PONE-D-26-22394)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Editorial Manager / PLOS ONE；用户名/显示名：QUAN WEN / quan wen；投稿系统注册邮箱：wenquan6328@gmail.com；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-21；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">适老建成环境专业人员对 AI-BIM 评估工具的接受度</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Buildings (Rejected: buildings-4330016) → Cities (Submitted: 746e405f-f8b2-4d54-8d99-b59d6821d2d8; final submit confirmed 2026-05-30)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Cities；confirmation/draft UUID：746e405f-f8b2-4d54-8d99-b59d6821d2d8；提交时间（门户显示）：02:35, May 30, 2026；投稿系统作者（以 portal 为准）：Quan Wen（corresponding author，wenquan@hngm.edu.cn）；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；投稿系统注册邮箱：wenquan@student.usm.my（来源：Elsevier account re-authentication page）；用户名/显示名：confirmation 页面仅显示 Account/Sign out，完整 account settings 需密码重新认证，未能可见获取；ORCID：confirmation 页面未显示，account settings 需密码重新认证，未能可见确认绑定/登录状态；核对时间：2026-05-30；来源：CDP 9227 Cities confirmation page and Elsevier re-authentication page；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
