@@ -95,7 +95,7 @@ JCR_MANUAL = {
 
 AUTHOR_MAP = {
     "用于老年住宅活动分区功能分类的空间图神经网络": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
-    "基于线性调度法的适老改造模块制造多目标优化": "Quan Wen",
+    "基于线性调度法的适老改造模块制造多目标优化": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
     "AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
     "社区老年日间照料中心多模态热舒适的时空深度学习评估与预测": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
     "GridMamba-Risk：基于网格状态空间模型的整屋三维点云跌倒风险空间预测": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
