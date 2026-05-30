@@ -237,7 +237,21 @@ CORRESPONDING_AUTHOR_MAP = {
 
 
 RECOMMEND_MAP = {
+    "基于条件 GAN 与随机森林的多源数据融合社区韧性评估：来自中国河南的证据": "International Journal of Disaster Risk Reduction；Sustainable Cities and Society",
+    "基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析": "IEEE Journal of Biomedical and Health Informatics；Biomedical Signal Processing and Control；Computers in Biology and Medicine",
+    "基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估": "Pattern Recognition；Image and Vision Computing；IEEE Access",
+    "灵活半监督元学习少样本居家安全评估网络": "Engineering Applications of Artificial Intelligence；Sensors",
+    "面向多层粮仓围护结构的梯度纳米结构气凝胶复合保温材料": "Applied Thermal Engineering；Journal of Materials Research and Technology；Construction and Building Materials",
+    "基于线性调度法的适老改造模块制造多目标优化": "Computers & Industrial Engineering",
+    "适老社区时序评估的贝叶斯元学习框架": "Neurocomputing；Energy；BMC Medical Research Methodology",
+    "适老建成环境专业人员对 AI-BIM 评估工具的接受度": "Cities；Buildings",
     "AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化": "Multimedia Tools and Applications；The Visual Computer；Image and Vision Computing；Soft Computing",
+    "用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统": "Solar Energy；Journal of Building Engineering；Energy；Energy and Buildings",
+    "用于老年住宅活动分区功能分类的空间图神经网络": "Neurocomputing；Engineering Applications of Artificial Intelligence",
+    "社区老年日间照料中心多模态热舒适的时空深度学习评估与预测": "Energy and Buildings；Energy",
+    "cGAN 辅助的适老住宅改造多目标优化": "Energy and Buildings；Buildings",
+    "住宅环境设计特征对老年人生理心理福祉影响的 VR 实验": "Journal of Building Engineering；PLOS ONE",
+    "生成式 AI 驱动的适老室内改造可视化": "Journal of Building Engineering；Applied Sciences",
     "GridMamba-Risk：基于网格状态空间模型的整屋三维点云跌倒风险空间预测": "The Journal of Supercomputing；Cluster Computing；Multimedia Tools and Applications；Soft Computing",
     "面向居家适老环境评估的室内点云语义分割可迁移深度学习网络": "Multimedia Tools and Applications；Soft Computing；Image and Vision Computing；The Journal of Supercomputing",
     "AccessGeometry：面向老年住宅无障碍合规评估的点云自动参数化建模": "Environment, Development and Sustainability；International Journal of Human-Computer Interaction；Journal of Building Engineering",
