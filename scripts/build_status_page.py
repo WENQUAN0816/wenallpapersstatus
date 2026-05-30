@@ -72,6 +72,8 @@ JCR_MANUAL = {
     "JOURNAL OF BUILDING ENGINEERING": ("6.7", "Q1"),
     "JOURNAL OF CLEANER PRODUCTION": ("9.7", "Q1"),
     "JOURNAL OF HEALTH, POPULATION AND NUTRITION": ("3.6", "Q2"),
+    "JOURNAL OF VISUALIZED EXPERIMENTS": ("1.2", "Q3"),
+    "JOVE": ("1.2", "Q3"),
     "JOURNAL OF MATERIALS RESEARCH AND TECHNOLOGY": ("6.2", "Q1"),
     "JOURNAL OF MATERIALS RESEARCH AND TECHNOLOGY-JMR&T": ("6.2", "Q1"),
     "JOURNAL OF THERMAL ANALYSIS AND CALORIMETRY": ("4.4", "Q1"),
@@ -160,6 +162,7 @@ AUTHOR_MAP = {
     "后疫情时代中国适老社区韧性建设：循证多准则评估框架": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
     "香港高层社区老年居民火灾韧性的循证评估框架": "Quan Wen",
     "挖掘马来西亚商业建筑能源灵活性的基于 LSTM 的模型预测控制方法": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "多模态情绪特征可视化映射与智能交互设计": "Zhenhu Liu；Wanbao Ge；Zhenhua Yang；Qi Liu；Quan Wen",
 }
 
 CORRESPONDING_AUTHOR_MAP = {
@@ -229,6 +232,7 @@ CORRESPONDING_AUTHOR_MAP = {
     "后疫情时代中国适老社区韧性建设：循证多准则评估框架": ["Quan Wen"],
     "香港高层社区老年居民火灾韧性的循证评估框架": ["Quan Wen"],
     "挖掘马来西亚商业建筑能源灵活性的基于 LSTM 的模型预测控制方法": ["Quan Wen", "Mazran Ismail"],
+    "多模态情绪特征可视化映射与智能交互设计": ["Zhenhu Liu"],
 }
 
 

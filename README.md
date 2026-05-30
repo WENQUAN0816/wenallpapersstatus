@@ -32,11 +32,11 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>7</td></tr>
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>6</td></tr>
+<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>3</td></tr>
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>47</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>6</td></tr>
-<tr><td><strong>合计</strong></td><td><strong>61</strong></td></tr>
+<tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
 </table>
 </td>
 <td valign="top" width="66%">
@@ -75,12 +75,6 @@
 </thead>
 
 <tbody>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于条件 GAN 与随机森林的多源数据融合社区韧性评估：来自中国河南的证据</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Sustainable Cities and Society</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
-</tr>
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
@@ -124,6 +118,24 @@
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">IEEE Access → The Journal of Nutrition, Health and Aging (JNHA) → PLOS ONE (Edits requested: PONE-D-26-22394)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Editorial Manager / PLOS ONE；用户名/显示名：QUAN WEN / quan wen；投稿系统注册邮箱：wenquan6328@gmail.com；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-21；未存储密码。</td>
 </tr>
 
+<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">老年用户对居家养老智能家居传感器系统的接受度：整合技术接受模型、隐私计算理论与空间自主性</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">BMC Psychology → PLOS ONE (Edits requested: PONE-D-26-22334)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Editorial Manager / PLOS ONE；用户名/显示名：QUAN WEN / quan wen；投稿系统注册邮箱：wenquan6328@gmail.com；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-21；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">多模态情绪特征可视化映射与智能交互设计</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Journal of Visualized Experiments (Revision required: JoVE71171)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Editorial Manager / Journal of Visualized Experiments (JoVE)；稿号：JoVE71171；来信收件人为 Zhenhu Liu，Quan Wen 为 CC；Gmail Spam 决策邮件时间：2026-05-27 16:51 Asia/Shanghai；转发邮件时间：2026-05-29 00:51 Asia/Shanghai；修订截止：2026-06-03；编辑：Harsha PM, Ph.D.；本地状态目录：E:\GithubRepos\paper-jove71171（非 git 仓库）；核对时间：2026-05-30；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">基于条件 GAN 与随机森林的多源数据融合社区韧性评估：来自中国河南的证据</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Sustainable Cities and Society (Sent back: SCSI-D-26-02059) → International Journal of Disaster Risk Reduction (Submitted: IJDRR-D-26-01585)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / International Journal of Disaster Risk Reduction；稿号：IJDRR-D-26-01585；邮件确认时间：2026-05-30 03:26 Asia/Shanghai（Gmail Inbox；handling-editor companion in Trash）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；核对时间：2026-05-30；未存储密码。</td>
+</tr>
+
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">基于线性调度法的适老改造模块制造多目标优化</td>
@@ -133,13 +145,13 @@
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">适老社区时序评估的贝叶斯元学习框架</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">BMC Medical Research Methodology (Rejected: f905dc2b-94cd-47e6-b4a4-4423c0a16ec8) → Energy (Rejected: EGY-D-26-10556) → Neurocomputing (Submitted: 1357795d-b948-489f-bcfb-74513a5ea8a3; final submit confirmed 2026-05-30)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Neurocomputing；confirmation/draft UUID：1357795d-b948-489f-bcfb-74513a5ea8a3；提交时间（门户显示）：03:15, May 30, 2026；投稿系统作者（以 portal 为准）：Quan Wen（corresponding author，wenquan@student.usm.my，Universiti Sains Malaysia）；Mazran Ismail；Yanting Wu；Muhammad Hafeez Abdul Nasir；投稿系统注册邮箱：wenquan@student.usm.my（来源：confirmation page corresponding-author line）；用户名/显示名：confirmation 页面仅显示 Account/Sign out，完整 account settings 需密码重新认证，未能可见获取；ORCID：confirmation 页面未显示，account settings 需密码重新认证，未能可见确认绑定/登录状态；论文仓库 commit：c47b1ca；核对时间：2026-05-30；来源：CDP 9229 Neurocomputing confirmation page and Elsevier password re-authentication page；未存储密码。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">BMC Medical Research Methodology (Rejected: f905dc2b-94cd-47e6-b4a4-4423c0a16ec8) → Energy (Rejected: EGY-D-26-10556) → Neurocomputing (Submitted: NEUCOM-D-26-11307)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Neurocomputing；稿号：NEUCOM-D-26-11307；confirmation/draft UUID：1357795d-b948-489f-bcfb-74513a5ea8a3；提交时间（门户显示）：03:15, May 30, 2026；邮件确认时间：2026-05-30 03:16 Asia/Shanghai（Gmail Inbox）；投稿系统作者（以 portal 为准）：Quan Wen（corresponding author，wenquan@student.usm.my，Universiti Sains Malaysia）；Mazran Ismail；Yanting Wu；Muhammad Hafeez Abdul Nasir；投稿系统注册邮箱：wenquan@student.usm.my（来源：confirmation page corresponding-author line）；用户名/显示名：confirmation 页面仅显示 Account/Sign out，完整 account settings 需密码重新认证，未能可见获取；ORCID：confirmation 页面未显示，account settings 需密码重新认证，未能可见确认绑定/登录状态；论文仓库 commit：c47b1ca；核对时间：2026-05-30；来源：CDP 9229 Neurocomputing confirmation page、Elsevier password re-authentication page、Gmail confirmation；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">适老建成环境专业人员对 AI-BIM 评估工具的接受度</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Buildings (Rejected: buildings-4330016) → Cities (Submitted: 746e405f-f8b2-4d54-8d99-b59d6821d2d8; final submit confirmed 2026-05-30)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Cities；confirmation/draft UUID：746e405f-f8b2-4d54-8d99-b59d6821d2d8；提交时间（门户显示）：02:35, May 30, 2026；投稿系统作者（以 portal 为准）：Quan Wen（corresponding author，wenquan@hngm.edu.cn）；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；投稿系统注册邮箱：wenquan@student.usm.my（来源：Elsevier account re-authentication page）；用户名/显示名：confirmation 页面仅显示 Account/Sign out，完整 account settings 需密码重新认证，未能可见获取；ORCID：confirmation 页面未显示，account settings 需密码重新认证，未能可见确认绑定/登录状态；核对时间：2026-05-30；来源：CDP 9227 Cities confirmation page and Elsevier re-authentication page；未存储密码。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Buildings (Rejected: buildings-4330016) → Cities (Submitted: JCIT-D-26-03897)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Cities；稿号：JCIT-D-26-03897；confirmation/draft UUID：746e405f-f8b2-4d54-8d99-b59d6821d2d8；提交时间（门户显示）：02:35, May 30, 2026；邮件确认时间：2026-05-30 02:36 Asia/Shanghai（Gmail Spam）；投稿系统作者（以 portal 为准）：Quan Wen（corresponding author，wenquan@hngm.edu.cn）；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；投稿系统注册邮箱：wenquan@student.usm.my（来源：Elsevier account re-authentication page）；用户名/显示名：confirmation 页面仅显示 Account/Sign out，完整 account settings 需密码重新认证，未能可见获取；ORCID：confirmation 页面未显示，account settings 需密码重新认证，未能可见确认绑定/登录状态；核对时间：2026-05-30；来源：CDP 9227 Cities confirmation page、Elsevier re-authentication page、Gmail Spam confirmation；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -151,37 +163,37 @@
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Energy and Buildings (Rejected: ENB-D-26-01660) → Energy (Rejected: EGY-D-26-10505) → Journal of Building Engineering (Rejected: JBE-D-26-07821) → Solar Energy (Submitted: 9469fdae-0cb3-4020-96a2-7dc46f6377f0; final submit confirmed 2026-05-30)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Solar Energy；confirmation/draft UUID：9469fdae-0cb3-4020-96a2-7dc46f6377f0；提交时间（门户显示）：01:01, May 30, 2026；投稿系统作者（以 portal 为准）：Ruili Liu；Quan Wen（corresponding author，wenquan@hngm.edu.cn）；Mazran Ismail；投稿系统注册邮箱：wenquan@student.usm.my；用户名/显示名：confirmation 页面仅显示 Account/Sign out，完整 account settings 需密码重新认证，未能可见获取；ORCID：confirmation 页面未显示，account settings 需密码重新认证，未能可见确认绑定/登录状态；核对时间：2026-05-30；未存储密码。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Energy and Buildings (Rejected: ENB-D-26-01660) → Energy (Rejected: EGY-D-26-10505) → Journal of Building Engineering (Rejected: JBE-D-26-07821) → Solar Energy (Submitted: SEJ-D-26-02432)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Solar Energy；稿号：SEJ-D-26-02432；confirmation/draft UUID：9469fdae-0cb3-4020-96a2-7dc46f6377f0；提交时间（门户显示）：01:01, May 30, 2026；邮件确认时间：2026-05-30 01:03 Asia/Shanghai（Gmail Spam）；投稿系统作者（以 portal 为准）：Ruili Liu；Quan Wen（corresponding author，wenquan@hngm.edu.cn）；Mazran Ismail；投稿系统注册邮箱：wenquan@student.usm.my；用户名：QWen-485（来源：Solar Energy 稿号分配邮件）；ORCID：confirmation 页面未显示，account settings 需密码重新认证，未能可见确认绑定/登录状态；核对时间：2026-05-30；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">用于老年住宅活动分区功能分类的空间图神经网络</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Neurocomputing (Submitted: 56c4c50d-d731-44ff-b861-2329b22a5261; final submit confirmed 2026-05-29)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Neurocomputing；用户名/显示名：Quan Wen / WEN QUAN（待门户个人资料页复核）；投稿系统注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；ORCID：已绑定/可用于登录 0009-0005-3975-8104（待门户个人资料页复核）；未存储密码。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Neurocomputing (Submitted: NEUCOM-D-26-11293)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Neurocomputing；稿号：NEUCOM-D-26-11293；confirmation/draft UUID：56c4c50d-d731-44ff-b861-2329b22a5261；邮件确认时间：2026-05-29 22:47 Asia/Shanghai（Gmail Spam）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；投稿系统注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；ORCID：已绑定/可用于登录 0009-0005-3975-8104（待门户个人资料页复核）；核对时间：2026-05-30；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">社区老年日间照料中心多模态热舒适的时空深度学习评估与预测</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Energy and Buildings (Submitted: final submit confirmed 2026-05-29; manuscript ID pending portal/email confirmation)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Energy and Buildings；用户名/显示名：Quan Wen / WEN QUAN（待门户个人资料页复核）；投稿系统注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；ORCID：已绑定/可用于登录 0009-0005-3975-8104（待门户个人资料页复核）；作者栏已标注投稿系统作者与 LaTeX front matter 差异；未存储密码。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Energy and Buildings (Submitted: ENB-D-26-04086)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Energy and Buildings；稿号：ENB-D-26-04086；邮件确认时间：2026-05-29 21:23 Asia/Shanghai（Gmail Spam）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；投稿系统注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；ORCID：已绑定/可用于登录 0009-0005-3975-8104（待门户个人资料页复核）；注意：投稿系统作者与当前 LaTeX front matter 作者栏不一致，LaTeX 中 Quan Wen 出现在通讯作者说明中；核对时间：2026-05-30；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">cGAN 辅助的适老住宅改造多目标优化</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Buildings (Rejected: buildings-4331653) → Energy and Buildings (Submitted: 79e27415-ff23-4bbf-b3cf-d506de8510c6; final submit confirmed 2026-05-29)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Energy and Buildings；用户名/显示名：Quan Wen / WEN QUAN（待门户个人资料页复核）；投稿系统注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；ORCID：已绑定/可用于登录 0009-0005-3975-8104（待门户个人资料页复核）；未存储密码。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Buildings (Rejected: buildings-4331653) → Energy and Buildings (Submitted: ENB-D-26-04088)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Energy and Buildings；稿号：ENB-D-26-04088；confirmation/draft UUID：79e27415-ff23-4bbf-b3cf-d506de8510c6；邮件确认时间：2026-05-29 22:52 Asia/Shanghai（Gmail Inbox）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；投稿系统注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；ORCID：已绑定/可用于登录 0009-0005-3975-8104（待门户个人资料页复核）；核对时间：2026-05-30；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">住宅环境设计特征对老年人生理心理福祉影响的 VR 实验</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">PLOS ONE (Rejected: PONE-D-26-22134) → Journal of Building Engineering (Submitted: 1673b4dd-2e7c-4d8b-a288-58b67af268d9; final submit confirmed 2026-05-29)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Journal of Building Engineering；用户名/显示名：Quan Wen / WEN QUAN（待门户个人资料页复核）；投稿系统注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；ORCID：已绑定/可用于登录 0009-0005-3975-8104（待门户个人资料页复核）；未存储密码。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">PLOS ONE (Rejected: PONE-D-26-22134) → Journal of Building Engineering (Submitted: JBE-D-26-09313)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Journal of Building Engineering；稿号：JBE-D-26-09313；JBE draft id：1673b4dd-2e7c-4d8b-a288-58b67af268d9；邮件确认时间：2026-05-29 22:46 Asia/Shanghai（Gmail Spam）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；投稿系统注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；ORCID：已绑定/可用于登录 0009-0005-3975-8104（待门户个人资料页复核）；核对时间：2026-05-30；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">生成式 AI 驱动的适老室内改造可视化</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Applied Sciences (Rejected: applsci-4331900) → Journal of Building Engineering (Submitted: 48e3354b-6f07-4e29-b09b-19b31c6b1596; final submit confirmed 2026-05-29)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Journal of Building Engineering；用户名/显示名：Quan Wen / WEN QUAN（待门户个人资料页复核）；投稿系统注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；ORCID：已绑定/可用于登录 0009-0005-3975-8104（待门户个人资料页复核）；未存储密码。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Applied Sciences (Rejected: applsci-4331900) → Journal of Building Engineering (Submitted: JBE-D-26-09312)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Journal of Building Engineering；稿号：JBE-D-26-09312；confirmation/draft UUID：48e3354b-6f07-4e29-b09b-19b31c6b1596；邮件确认时间：2026-05-29 22:45 Asia/Shanghai（Gmail Spam）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；投稿系统注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；ORCID：已绑定/可用于登录 0009-0005-3975-8104（待门户个人资料页复核）；核对时间：2026-05-30；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -212,12 +224,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">健康老龄化评估的元学习框架：具有人群泛化能力的注意力神经过程</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Neural Networks (Approved/submitted revision: NEUNET-D-26-01296R1)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Editorial Manager / Neural Networks；用户名：QuanWen_USM；右上角显示名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-23；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">老年用户对居家养老智能家居传感器系统的接受度：整合技术接受模型、隐私计算理论与空间自主性</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">BMC Psychology → PLOS ONE (Approved/submitted: PONE-D-26-22334)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Editorial Manager / PLOS ONE；用户名/显示名：QUAN WEN / quan wen；投稿系统注册邮箱：wenquan6328@gmail.com；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-21；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
