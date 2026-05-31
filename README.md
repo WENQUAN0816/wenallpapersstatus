@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-05-23
+> **最后更新：** 2026-06-01
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -331,7 +331,7 @@
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">基于三维点云特征与 SHAP 可解释集成学习的老年住宅环境跌倒风险空间预测</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Egyptian Informatics Journal</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Egyptian Informatics Journal (Revised submission received: EGIJ-D-26-00407R1)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Editorial Manager / Egyptian Informatics Journal；稿号：EGIJ-D-26-00407R1（原稿 EGIJ-D-26-00407）；R1 修订稿确认时间：2026-05-20 14:27 Asia/Shanghai；当前文件夹：Revisions Being Processed；用户名：QUAN WEN；右上角显示名：WEN QUAN；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-06-01；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
