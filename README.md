@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-06-01
+> **最后更新：** 2026-06-04
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -32,9 +32,9 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>11</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>9</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>3</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>42</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>44</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>6</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
 </table>
@@ -96,18 +96,6 @@
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">灵活半监督元学习少样本居家安全评估网络</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Sensors (Rejected: sensors-4282374)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">轻量级 Transformer：面向资源受限老年智能家居边缘 IoT 入侵检测的知识蒸馏与区块链协同</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Cluster Computing (Rejected: eec18a2a-115f-4885-b114-202a0368f2ed)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">面向多层粮仓围护结构的梯度纳米结构气凝胶复合保温材料</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Construction and Building Materials (Rejected: CONBUILDMAT-D-26-04279) → Journal of Materials Research and Technology-JMR&amp;T (Rejected: JMRT-D-26-03652)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
 </tr>
@@ -158,6 +146,18 @@
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">多模态情绪特征可视化映射与智能交互设计</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Journal of Visualized Experiments (Revision required: JoVE71171)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Editorial Manager / Journal of Visualized Experiments (JoVE)；稿号：JoVE71171；来信收件人为 Zhenhu Liu，Quan Wen 为 CC；Gmail Spam 决策邮件时间：2026-05-27 16:51 Asia/Shanghai；转发邮件时间：2026-05-29 00:51 Asia/Shanghai；修订截止：2026-06-03；编辑：Harsha PM, Ph.D.；本地状态目录：E:\GithubRepos\paper-jove71171（非 git 仓库）；核对时间：2026-05-30；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">灵活半监督元学习少样本居家安全评估网络</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Sensors (Rejected: sensors-4282374) → IEEE Access (Submitted: Access-2026-26733)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Author Portal / IEEE Access / Research Exchange (Atypon ReX)；当前稿号：Access-2026-26733；初始提交确认时间：2026-06-04 01:21 Asia/Shanghai（Gmail messageId 19e8e812f42cb966）；IEEE Access 稿号确认时间：2026-06-04 01:45 Asia/Shanghai（Gmail messageId 19e8e96c638e4f17）；确认邮件收件/显示名：Peng Chao &lt;hngmpengchao@gmail.com&gt;；投稿系统注册邮箱/ORCID 未重新打开门户复核；核对时间：2026-06-04；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">轻量级 Transformer：面向资源受限老年智能家居边缘 IoT 入侵检测的知识蒸馏与区块链协同</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Cluster Computing (Rejected: eec18a2a-115f-4885-b114-202a0368f2ed) → IEEE Access (Submitted: Access-2026-26726)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Author Portal / IEEE Access / Research Exchange (Atypon ReX)；当前稿号：Access-2026-26726；初始提交确认时间：2026-06-04 00:21 Asia/Shanghai（Gmail messageId 19e8e4a28f271f39）；IEEE Access 稿号确认时间：2026-06-04 01:09 Asia/Shanghai（Gmail messageId 19e8e75ffe8efbf0）；确认邮件收件/显示名：Peng Chao &lt;hngmpengchao@gmail.com&gt;；投稿系统注册邮箱/ORCID 未重新打开门户复核；核对时间：2026-06-04；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
