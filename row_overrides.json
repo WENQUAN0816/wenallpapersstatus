@@ -7,11 +7,11 @@
     "updatedAt": "2026-05-31"
   },
   "基于线性调度法的适老改造模块制造多目标优化": {
-    "statusDot": "🟡",
-    "status": "内审中",
-    "journalTrack": "Computers & Industrial Engineering (Submitted: CAIE-D-26-03890)",
-    "submissionSystemInfo": "Elsevier New Submission Service / Editorial Manager / Computers & Industrial Engineering；稿号：CAIE-D-26-03890；confirmation/draft UUID：1e59a908-49fa-4bc6-a70b-49f62fda4fad；提交时间（门户显示）：11:28, May 30, 2026；邮件确认时间：2026-05-30 11:34 Asia/Shanghai；投稿系统作者（以 portal 为准）：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；投稿系统注册邮箱：wenquan@student.usm.my；核对时间：2026-05-31；未存储密码。",
-    "updatedAt": "2026-05-31"
+    "statusDot": "⚪",
+    "status": "待投稿",
+    "journalTrack": "Computers & Industrial Engineering (Rejected: CAIE-D-26-03890)",
+    "submissionSystemInfo": "Elsevier New Submission Service / Editorial Manager / Computers & Industrial Engineering；稿号：CAIE-D-26-03890；confirmation/draft UUID：1e59a908-49fa-4bc6-a70b-49f62fda4fad；确认时间：2026-05-30 11:34 Asia/Shanghai；拒稿时间：2026-06-03 01:43 Asia/Shanghai；拒稿原因：unacceptable level of overlap with prior publications，originality cannot be assessed；证据：Gmail All Mail messageId 19e896f09c0ad755，同文 Gmail Spam 未读副本 messageId 19e896f361a571b8；2026-06-03 01:55 的 Elsevier transfer recommendation 不视为有效新投稿；未存储密码。",
+    "updatedAt": "2026-06-03"
   },
   "基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估": {
     "statusDot": "⚪",
@@ -70,11 +70,18 @@
     "updatedAt": "2026-05-30"
   },
   "生成式 AI 驱动的适老室内改造可视化": {
+    "statusDot": "⚪",
+    "status": "待投稿",
+    "journalTrack": "Applied Sciences (Rejected: applsci-4331900) → Journal of Building Engineering (Rejected: JBE-D-26-09312)",
+    "submissionSystemInfo": "Elsevier New Submission Service / Editorial Manager / Journal of Building Engineering；稿号：JBE-D-26-09312；confirmation/draft UUID：48e3354b-6f07-4e29-b09b-19b31c6b1596；确认时间：2026-05-29 22:45 Asia/Shanghai（Gmail Spam）；拒稿时间：2026-06-01 08:38 Asia/Shanghai（Gmail Spam, messageId 19e809e84d143d3b）；拒稿原因：未达到期刊所需质量标准，缺乏 sufficient/scientific novelty；此前 Applied Sciences applsci-4331900 已 Declined；未存储密码。",
+    "updatedAt": "2026-06-03"
+  },
+  "FRSPTNet：老年居家点云环境跌倒风险区域分割的多尺度超补丁 Transformer": {
     "statusDot": "🟡",
     "status": "内审中",
-    "journalTrack": "Applied Sciences (Rejected: applsci-4331900) → Journal of Building Engineering (Submitted: JBE-D-26-09312)",
-    "submissionSystemInfo": "Elsevier New Submission Service / Editorial Manager / Journal of Building Engineering；稿号：JBE-D-26-09312；confirmation/draft UUID：48e3354b-6f07-4e29-b09b-19b31c6b1596；邮件确认时间：2026-05-29 22:45 Asia/Shanghai（Gmail Spam）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；投稿系统注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；ORCID：已绑定/可用于登录 0009-0005-3975-8104（待门户个人资料页复核）；核对时间：2026-05-30；未存储密码。",
-    "updatedAt": "2026-05-30"
+    "journalTrack": "IEEE TNSRE (Unsubmitted: TNSRE-2026-00398) → IEEE Access (Rejected: Access-2026-16570) → IEEE Access (Submitted: Access-2026-25496)",
+    "submissionSystemInfo": "IEEE Author Portal / IEEE Access / Research Exchange (Atypon ReX)；当前稿号：Access-2026-25496；初始重投提交确认时间：2026-05-28 11:45 Asia/Shanghai（Gmail messageId 19e6cb098ccc6258）；IEEE Access 稿号确认时间：2026-05-28 12:12 Asia/Shanghai（Gmail messageId 19e6cc91631350a1）；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-06-03；未存储密码。",
+    "updatedAt": "2026-06-03"
   },
   "基于条件 GAN 与随机森林的多源数据融合社区韧性评估：来自中国河南的证据": {
     "statusDot": "⚪",

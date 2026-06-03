@@ -32,9 +32,9 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>9</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>11</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>3</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>44</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>42</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>6</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
 </table>
@@ -130,6 +130,18 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Buildings (Rejected: buildings-4331653) → Energy and Buildings (Rejected: ENB-D-26-04088)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Energy and Buildings；稿号：ENB-D-26-04088；confirmation/draft UUID：79e27415-ff23-4bbf-b3cf-d506de8510c6；确认时间：2026-05-29 22:52 Asia/Shanghai；拒稿时间：2026-05-31 00:14 Asia/Shanghai；未存储密码。</td>
 </tr>
 
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于线性调度法的适老改造模块制造多目标优化</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Computers &amp; Industrial Engineering (Rejected: CAIE-D-26-03890)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Computers &amp; Industrial Engineering；稿号：CAIE-D-26-03890；confirmation/draft UUID：1e59a908-49fa-4bc6-a70b-49f62fda4fad；确认时间：2026-05-30 11:34 Asia/Shanghai；拒稿时间：2026-06-03 01:43 Asia/Shanghai；拒稿原因：unacceptable level of overlap with prior publications，originality cannot be assessed；证据：Gmail All Mail messageId 19e896f09c0ad755，同文 Gmail Spam 未读副本 messageId 19e896f361a571b8；2026-06-03 01:55 的 Elsevier transfer recommendation 不视为有效新投稿；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">生成式 AI 驱动的适老室内改造可视化</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Applied Sciences (Rejected: applsci-4331900) → Journal of Building Engineering (Rejected: JBE-D-26-09312)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Journal of Building Engineering；稿号：JBE-D-26-09312；confirmation/draft UUID：48e3354b-6f07-4e29-b09b-19b31c6b1596；确认时间：2026-05-29 22:45 Asia/Shanghai（Gmail Spam）；拒稿时间：2026-06-01 08:38 Asia/Shanghai（Gmail Spam, messageId 19e809e84d143d3b）；拒稿原因：未达到期刊所需质量标准，缺乏 sufficient/scientific novelty；此前 Applied Sciences applsci-4331900 已 Declined；未存储密码。</td>
+</tr>
+
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防</td>
@@ -146,12 +158,6 @@
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">多模态情绪特征可视化映射与智能交互设计</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Journal of Visualized Experiments (Revision required: JoVE71171)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Editorial Manager / Journal of Visualized Experiments (JoVE)；稿号：JoVE71171；来信收件人为 Zhenhu Liu，Quan Wen 为 CC；Gmail Spam 决策邮件时间：2026-05-27 16:51 Asia/Shanghai；转发邮件时间：2026-05-29 00:51 Asia/Shanghai；修订截止：2026-06-03；编辑：Harsha PM, Ph.D.；本地状态目录：E:\GithubRepos\paper-jove71171（非 git 仓库）；核对时间：2026-05-30；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">基于线性调度法的适老改造模块制造多目标优化</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Computers &amp; Industrial Engineering (Submitted: CAIE-D-26-03890)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Computers &amp; Industrial Engineering；稿号：CAIE-D-26-03890；confirmation/draft UUID：1e59a908-49fa-4bc6-a70b-49f62fda4fad；提交时间（门户显示）：11:28, May 30, 2026；邮件确认时间：2026-05-30 11:34 Asia/Shanghai；投稿系统作者（以 portal 为准）：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；投稿系统注册邮箱：wenquan@student.usm.my；核对时间：2026-05-31；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -192,14 +198,8 @@
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">生成式 AI 驱动的适老室内改造可视化</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Applied Sciences (Rejected: applsci-4331900) → Journal of Building Engineering (Submitted: JBE-D-26-09312)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Journal of Building Engineering；稿号：JBE-D-26-09312；confirmation/draft UUID：48e3354b-6f07-4e29-b09b-19b31c6b1596；邮件确认时间：2026-05-29 22:45 Asia/Shanghai（Gmail Spam）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；投稿系统注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；ORCID：已绑定/可用于登录 0009-0005-3975-8104（待门户个人资料页复核）；核对时间：2026-05-30；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">FRSPTNet：老年居家点云环境跌倒风险区域分割的多尺度超补丁 Transformer</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE TNSRE (Unsubmitted: TNSRE-2026-00398) → IEEE Access (Rejected: Access-2026-16570) → IEEE Access (Resubmitted: Access-2026-16570)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Author Portal / IEEE Access / Research Exchange (Atypon ReX)；门户菜单名：Wen；提交页面显示名：Wen Quan；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-28；来源：IEEE Author Portal 作者详情、提交代理提示、Submission 2 Overview 页面。未存储密码。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE TNSRE (Unsubmitted: TNSRE-2026-00398) → IEEE Access (Rejected: Access-2026-16570) → IEEE Access (Submitted: Access-2026-25496)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Author Portal / IEEE Access / Research Exchange (Atypon ReX)；当前稿号：Access-2026-25496；初始重投提交确认时间：2026-05-28 11:45 Asia/Shanghai（Gmail messageId 19e6cb098ccc6258）；IEEE Access 稿号确认时间：2026-05-28 12:12 Asia/Shanghai（Gmail messageId 19e6cc91631350a1）；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-06-03；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
