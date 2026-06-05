@@ -151,13 +151,13 @@
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">灵活半监督元学习少样本居家安全评估网络</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Sensors (Rejected: sensors-4282374) → IEEE Access (Submitted: Access-2026-26733)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Author Portal / IEEE Access / Research Exchange (Atypon ReX)；当前稿号：Access-2026-26733；初始提交确认时间：2026-06-04 01:21 Asia/Shanghai（Gmail messageId 19e8e812f42cb966）；IEEE Access 稿号确认时间：2026-06-04 01:45 Asia/Shanghai（Gmail messageId 19e8e96c638e4f17）；确认邮件收件/显示名：Peng Chao &lt;hngmpengchao@gmail.com&gt;；投稿系统注册邮箱/ORCID 未重新打开门户复核；核对时间：2026-06-04；未存储密码。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Sensors (Rejected: sensors-4282374) → IEEE Access (Submitted: Access-2026-26733)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Author Portal / IEEE Access / Research Exchange (Atypon ReX)；稿号：Access-2026-26733；投稿系统用户名/显示名：Peng Chao；注册邮箱：wenquan632@gmail.com；ORCID：已绑定（系统显示 My ORCID iD 菜单项）；投稿系统作者（与 LaTeX 一致）：Peng Chao；核对时间：2026-06-05；来源：IEEE Author Portal 页面右上角用户名 Peng + 所有提交记录显示 by Peng Chao；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">轻量级 Transformer：面向资源受限老年智能家居边缘 IoT 入侵检测的知识蒸馏与区块链协同</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Cluster Computing (Rejected: eec18a2a-115f-4885-b114-202a0368f2ed) → IEEE Access (Submitted: Access-2026-26726)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Author Portal / IEEE Access / Research Exchange (Atypon ReX)；当前稿号：Access-2026-26726；初始提交确认时间：2026-06-04 00:21 Asia/Shanghai（Gmail messageId 19e8e4a28f271f39）；IEEE Access 稿号确认时间：2026-06-04 01:09 Asia/Shanghai（Gmail messageId 19e8e75ffe8efbf0）；确认邮件收件/显示名：Peng Chao &lt;hngmpengchao@gmail.com&gt;；投稿系统注册邮箱/ORCID 未重新打开门户复核；核对时间：2026-06-04；未存储密码。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Cluster Computing (Rejected: eec18a2a-115f-4885-b114-202a0368f2ed) → IEEE Access (Submitted: Access-2026-26726)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Author Portal / IEEE Access / Research Exchange (Atypon ReX)；稿号：Access-2026-26726；投稿系统用户名/显示名：Peng Chao；注册邮箱：wenquan632@gmail.com；ORCID：已绑定（系统显示 My ORCID iD 菜单项）；投稿系统作者（与 LaTeX 一致）：Peng Chao；核对时间：2026-06-05；来源：IEEE Author Portal 页面右上角用户名 Peng + 所有提交记录显示 by Peng Chao；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
