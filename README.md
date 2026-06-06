@@ -32,9 +32,9 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>7</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>5</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>3</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>46</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>48</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>6</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
 </table>
@@ -84,12 +84,6 @@
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Image and Vision Computing → IEEE Access (Rejected: Access-2026-21292) → Applied Sciences (Draft: 7da809370fd8e701beea7d85a156591a; not submitted)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">MDPI SuSy / Applied Sciences；用户名/显示名：Peng Chao；投稿系统注册邮箱：hngmpengchao@gmail.com；ORCID：未在本次 MDPI closure step 明确核验；核对时间：2026-06-06；端口 9226；状态：Step 4 reviewer，未最终提交；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">面向多层粮仓围护结构的梯度纳米结构气凝胶复合保温材料</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Construction and Building Materials (Rejected: CONBUILDMAT-D-26-04279) → Journal of Materials Research and Technology-JMR&amp;T (Rejected: JMRT-D-26-03652)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
 </tr>
@@ -98,12 +92,6 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">适老社区时序评估的贝叶斯元学习框架</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">BMC Medical Research Methodology (Rejected: f905dc2b-94cd-47e6-b4a4-4423c0a16ec8) → Energy (Rejected: EGY-D-26-10556) → Neurocomputing (Rejected: NEUCOM-D-26-11307)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Neurocomputing；稿号：NEUCOM-D-26-11307；confirmation/draft UUID：1357795d-b948-489f-bcfb-74513a5ea8a3；确认时间：2026-05-30 03:16 Asia/Shanghai；拒稿时间：2026-05-31 00:03 Asia/Shanghai；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">cGAN 辅助的适老住宅改造多目标优化</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Buildings (Rejected: buildings-4331653) → Energy and Buildings (Rejected: ENB-D-26-04088) → Buildings (Draft: 8efb63f91bc20706d197e837769a9d4a; not submitted)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">MDPI SuSy / Buildings；用户名/显示名：Peng Chao；投稿系统注册邮箱：hngmpengchao@gmail.com；ORCID：未在本次 MDPI closure step 明确核验；核对时间：2026-06-06；端口 9227；状态：draft/profile page，未最终提交；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
@@ -134,6 +122,18 @@
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">多模态情绪特征可视化映射与智能交互设计</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Journal of Visualized Experiments (Revision required: JoVE71171)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Editorial Manager / Journal of Visualized Experiments (JoVE)；稿号：JoVE71171；来信收件人为 Zhenhu Liu，Quan Wen 为 CC；Gmail Spam 决策邮件时间：2026-05-27 16:51 Asia/Shanghai；转发邮件时间：2026-05-29 00:51 Asia/Shanghai；修订截止：2026-06-03；编辑：Harsha PM, Ph.D.；本地状态目录：E:\GithubRepos\paper-jove71171（非 git 仓库）；核对时间：2026-05-30；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Image and Vision Computing → IEEE Access (Rejected: Access-2026-21292) → Applied Sciences (Submitted: applsci-4392887)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">MDPI SuSy / Applied Sciences；稿号：applsci-4392887；门户状态：Pending review / Under processing；SuSy 显示提交时间：2026-06-06 19:40:30（Asia/Shanghai 2026-06-07 01:40:30）；用户名/显示名：Peng Chao；投稿系统注册邮箱：hngmpengchao@gmail.com；投稿系统作者：Peng Chao；LaTeX 作者：Peng Chao（一致）；ORCID：未在 SuSy dashboard/profile 可见页面确认；对应论文仓库 commit：6895a54；核对时间：2026-06-07；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">cGAN 辅助的适老住宅改造多目标优化</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Buildings (Rejected: buildings-4331653) → Energy and Buildings (Rejected: ENB-D-26-04088) → Buildings (Submitted: buildings-4392896)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">MDPI SuSy / Buildings；稿号：buildings-4392896；门户状态：Pending review / Under processing；SuSy 显示提交时间：2026-06-06 19:48:18（Asia/Shanghai 2026-06-07 01:48:18）；用户名/显示名：Peng Chao；投稿系统注册邮箱：hngmpengchao@gmail.com；投稿系统作者：Peng Chao；LaTeX 作者：Peng Chao（一致）；ORCID：未在 SuSy dashboard/profile 可见页面确认；对应论文仓库 commit：4deb212；核对时间：2026-06-07；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">

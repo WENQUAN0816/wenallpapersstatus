@@ -14,11 +14,11 @@
     "updatedAt": "2026-06-03"
   },
   "基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估": {
-    "statusDot": "⚪",
-    "status": "待投稿",
-    "journalTrack": "Image and Vision Computing → IEEE Access (Rejected: Access-2026-21292) → Applied Sciences (Draft: 7da809370fd8e701beea7d85a156591a; not submitted)",
-    "submissionSystemInfo": "MDPI SuSy / Applied Sciences；用户名/显示名：Peng Chao；投稿系统注册邮箱：hngmpengchao@gmail.com；ORCID：未在本次 MDPI closure step 明确核验；核对时间：2026-06-06；端口 9226；状态：Step 4 reviewer，未最终提交；未存储密码。",
-    "updatedAt": "2026-06-06"
+    "statusDot": "🟡",
+    "status": "内审中",
+    "journalTrack": "Image and Vision Computing → IEEE Access (Rejected: Access-2026-21292) → Applied Sciences (Submitted: applsci-4392887)",
+    "submissionSystemInfo": "MDPI SuSy / Applied Sciences；稿号：applsci-4392887；门户状态：Pending review / Under processing；SuSy 显示提交时间：2026-06-06 19:40:30（Asia/Shanghai 2026-06-07 01:40:30）；用户名/显示名：Peng Chao；投稿系统注册邮箱：hngmpengchao@gmail.com；投稿系统作者：Peng Chao；LaTeX 作者：Peng Chao（一致）；ORCID：未在 SuSy dashboard/profile 可见页面确认；对应论文仓库 commit：6895a54；核对时间：2026-06-07；未存储密码。",
+    "updatedAt": "2026-06-07"
   },
   "基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析": {
     "statusDot": "🟡",
@@ -63,11 +63,11 @@
     "updatedAt": "2026-05-30"
   },
   "cGAN 辅助的适老住宅改造多目标优化": {
-    "statusDot": "⚪",
-    "status": "待投稿",
-    "journalTrack": "Buildings (Rejected: buildings-4331653) → Energy and Buildings (Rejected: ENB-D-26-04088) → Buildings (Draft: 8efb63f91bc20706d197e837769a9d4a; not submitted)",
-    "submissionSystemInfo": "MDPI SuSy / Buildings；用户名/显示名：Peng Chao；投稿系统注册邮箱：hngmpengchao@gmail.com；ORCID：未在本次 MDPI closure step 明确核验；核对时间：2026-06-06；端口 9227；状态：draft/profile page，未最终提交；未存储密码。",
-    "updatedAt": "2026-06-06"
+    "statusDot": "🟡",
+    "status": "内审中",
+    "journalTrack": "Buildings (Rejected: buildings-4331653) → Energy and Buildings (Rejected: ENB-D-26-04088) → Buildings (Submitted: buildings-4392896)",
+    "submissionSystemInfo": "MDPI SuSy / Buildings；稿号：buildings-4392896；门户状态：Pending review / Under processing；SuSy 显示提交时间：2026-06-06 19:48:18（Asia/Shanghai 2026-06-07 01:48:18）；用户名/显示名：Peng Chao；投稿系统注册邮箱：hngmpengchao@gmail.com；投稿系统作者：Peng Chao；LaTeX 作者：Peng Chao（一致）；ORCID：未在 SuSy dashboard/profile 可见页面确认；对应论文仓库 commit：4deb212；核对时间：2026-06-07；未存储密码。",
+    "updatedAt": "2026-06-07"
   },
   "住宅环境设计特征对老年人生理心理福祉影响的 VR 实验": {
     "statusDot": "🟡",
