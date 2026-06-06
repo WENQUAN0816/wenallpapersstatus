@@ -32,9 +32,9 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>9</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>7</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>3</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>44</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>46</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>6</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
 </table>
@@ -84,26 +84,14 @@
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Computers in Biology and Medicine (Rejected: CIBM-D-26-00934) → Biomedical Signal Processing and Control (Rejected: BSPC-D-26-07670)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Image and Vision Computing → IEEE Access (Rejected: Access-2026-21292) → Pattern Recognition (Unsubmitted: PR-S-26-10725 / docid 115642; PDF build/corresponding-author approval pending)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Editorial Manager / Pattern Recognition；Draft PR-S-26-10725 / docid 115642；portal state：BuildingPDF.asp?corrAuthorChanged=1...；未提交：submission has not yet been sent to editorial office，系统 PDF 将提供给新通讯作者审核；投稿系统作者（以 portal 为准）：Quan Wen（corresponding, first author, wenquan@hngm.edu.cn）；Mazran Ismail（non-corresponding, mazran@usm.my）；Muhammad Hafeez Abdul Nasir（non-corresponding, hafeeznasir@usm.my）；Publishing Options：Subscription / Nothing to pay selected；Open access APC USD 2,800 not selected；下一步：Quan Wen 登录 PR Editorial Manager → Submissions Waiting for Author&#39;s Approval → review system PDF → user/Quan Wen 决定是否 approve；No PDF path available yet；核对时间：2026-05-30；password not stored。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Image and Vision Computing → IEEE Access (Rejected: Access-2026-21292) → Applied Sciences (Draft: 7da809370fd8e701beea7d85a156591a; not submitted)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">MDPI SuSy / Applied Sciences；用户名/显示名：Peng Chao；投稿系统注册邮箱：hngmpengchao@gmail.com；ORCID：未在本次 MDPI closure step 明确核验；核对时间：2026-06-06；端口 9226；状态：Step 4 reviewer，未最终提交；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">面向多层粮仓围护结构的梯度纳米结构气凝胶复合保温材料</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Construction and Building Materials (Rejected: CONBUILDMAT-D-26-04279) → Journal of Materials Research and Technology-JMR&amp;T (Rejected: JMRT-D-26-03652)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于条件 GAN 与随机森林的多源数据融合社区韧性评估：来自中国河南的证据</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Sustainable Cities and Society (Sent back: SCSI-D-26-02059) → International Journal of Disaster Risk Reduction (Rejected: IJDRR-D-26-01585)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / International Journal of Disaster Risk Reduction；稿号：IJDRR-D-26-01585；确认时间：2026-05-30 03:26 Asia/Shanghai；拒稿时间：2026-05-30 15:02 Asia/Shanghai；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
@@ -115,7 +103,7 @@
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">cGAN 辅助的适老住宅改造多目标优化</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Buildings (Rejected: buildings-4331653) → Energy and Buildings (Rejected: ENB-D-26-04088)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Energy and Buildings；稿号：ENB-D-26-04088；confirmation/draft UUID：79e27415-ff23-4bbf-b3cf-d506de8510c6；确认时间：2026-05-29 22:52 Asia/Shanghai；拒稿时间：2026-05-31 00:14 Asia/Shanghai；未存储密码。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Buildings (Rejected: buildings-4331653) → Energy and Buildings (Rejected: ENB-D-26-04088) → Buildings (Draft: 8efb63f91bc20706d197e837769a9d4a; not submitted)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">MDPI SuSy / Buildings；用户名/显示名：Peng Chao；投稿系统注册邮箱：hngmpengchao@gmail.com；ORCID：未在本次 MDPI closure step 明确核验；核对时间：2026-06-06；端口 9227；状态：draft/profile page，未最终提交；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
@@ -146,6 +134,18 @@
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">多模态情绪特征可视化映射与智能交互设计</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Journal of Visualized Experiments (Revision required: JoVE71171)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Editorial Manager / Journal of Visualized Experiments (JoVE)；稿号：JoVE71171；来信收件人为 Zhenhu Liu，Quan Wen 为 CC；Gmail Spam 决策邮件时间：2026-05-27 16:51 Asia/Shanghai；转发邮件时间：2026-05-29 00:51 Asia/Shanghai；修订截止：2026-06-03；编辑：Harsha PM, Ph.D.；本地状态目录：E:\GithubRepos\paper-jove71171（非 git 仓库）；核对时间：2026-05-30；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Computers in Biology and Medicine (Rejected: CIBM-D-26-00934) → Biomedical Signal Processing and Control (Rejected: BSPC-D-26-07670) → Frontiers in Neurology (Submitted: 10226243)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Frontiers submission portal / My Frontiers；用户名/显示名：Peng Chao；投稿系统注册邮箱：hngmpengchao@gmail.com；ORCID：未在本次 Frontiers profile closure step 明确核验；核对时间：2026-06-06；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">基于条件 GAN 与随机森林的多源数据融合社区韧性评估：来自中国河南的证据</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Sustainable Cities and Society (Sent back: SCSI-D-26-02059) → International Journal of Disaster Risk Reduction (Rejected: IJDRR-D-26-01585) → Frontiers in Environmental Science (Submitted: 10226193)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Frontiers submission portal / My Frontiers；用户名/显示名：Peng Chao；投稿系统注册邮箱：hngmpengchao@gmail.com；ORCID：未在本次 Frontiers profile closure step 明确核验；核对时间：2026-06-06；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
