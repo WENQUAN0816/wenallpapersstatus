@@ -139,13 +139,13 @@
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Computers in Biology and Medicine (Rejected: CIBM-D-26-00934) → Biomedical Signal Processing and Control (Rejected: BSPC-D-26-07670) → Frontiers in Neurology (Submitted: 10226243)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Frontiers submission portal / My Frontiers；用户名/显示名：Peng Chao；投稿系统注册邮箱：hngmpengchao@gmail.com；ORCID：未在本次 Frontiers profile closure step 明确核验；核对时间：2026-06-06；未存储密码。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Computers in Biology and Medicine (Rejected: CIBM-D-26-00934) → Biomedical Signal Processing and Control (Rejected: BSPC-D-26-07670) → Frontiers in Neurology (Submitted: 10226243)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Frontiers submission portal / My Frontiers；用户名/显示名：Peng Chao；投稿系统注册邮箱：hngmpengchao@gmail.com；投稿系统作者：Peng Chao；LaTeX 作者：Peng Chao（一致）；ORCID：未在本次 Frontiers profile closure step 明确核验；核对时间：2026-06-06；success URL：https://www.frontiersin.org/submission/success?id=10226243；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">基于条件 GAN 与随机森林的多源数据融合社区韧性评估：来自中国河南的证据</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Sustainable Cities and Society (Sent back: SCSI-D-26-02059) → International Journal of Disaster Risk Reduction (Rejected: IJDRR-D-26-01585) → Frontiers in Environmental Science (Submitted: 10226193)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Frontiers submission portal / My Frontiers；用户名/显示名：Peng Chao；投稿系统注册邮箱：hngmpengchao@gmail.com；ORCID：未在本次 Frontiers profile closure step 明确核验；核对时间：2026-06-06；未存储密码。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Sustainable Cities and Society (Sent back: SCSI-D-26-02059) → International Journal of Disaster Risk Reduction (Rejected: IJDRR-D-26-01585) → Frontiers in Environmental Science (Submitted: 10226193)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Frontiers submission portal / My Frontiers；用户名/显示名：Peng Chao；投稿系统注册邮箱：hngmpengchao@gmail.com；投稿系统作者：Peng Chao；LaTeX 作者：Peng Chao（一致）；ORCID：未在本次 Frontiers profile closure step 明确核验；核对时间：2026-06-06；success URL：https://www.frontiersin.org/submission/success?id=10226193；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
