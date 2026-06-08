@@ -34,8 +34,8 @@
 <tr><th>状态</th><th>数量</th></tr>
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>5</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>3</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>48</td></tr>
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>6</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>49</td></tr>
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>5</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
 </table>
 </td>
@@ -412,6 +412,12 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Humanities and Social Sciences Communications</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 </tr>
 
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">香港高层社区老年居民火灾韧性的循证评估框架</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Humanities and Social Sciences Communications (Major revision resubmitted: cfb4556c-32fb-44dc-bd9a-194025fff018; Technical Check)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / Humanities and Social Sciences Communications；Submission ID：cfb4556c-32fb-44dc-bd9a-194025fff018；2026-06-06 收到 major revision 决定邮件；2026-06-08 通过 SNAPP 提交匿名返修稿，最终确认页显示 Submission received / Thank you for submitting to Humanities and Social Sciences Communications / Technical Check。投稿系统账号显示名：QUAN WEN；页面账号邮箱：wenquan6328@gmail.com；投稿作者信息以 portal 为准：QUAN WEN；Mazran Ismail；Muhammad Hafeez Abdul Nasir。提交包：HSSC_Paper15_LaTeX_Source_20260608.zip、cover_letter_response.pdf、cover_letter.pdf、Supplementary Files A/A2/B/C/D/E/F/G；SNAPP 系统生成审稿 PDF 已保存为 submission_package_hssc_20260608/HSSC_system_generated_review_PDF_20260608.pdf。论文仓库分支 revision/ro1-hssc-20260608 已推送，最新提交 41d3d6d。ORCID 未在本次 SNAPP review 页面显示；未存储密码。</td>
+</tr>
+
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">室内适老环境多维韧性评估框架：基于 Google Gemini Pro 的大模型指标构建</td>
@@ -440,12 +446,6 @@
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">面向老年人的15分钟城市：健康与适老城市化的操作框架</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Scientific Reports</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">香港高层社区老年居民火灾韧性的循证评估框架</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Humanities and Social Sciences Communications</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
 </tr>
 
 <tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
