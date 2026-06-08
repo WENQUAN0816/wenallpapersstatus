@@ -1539,14 +1539,14 @@
     "impactSort": 3.9
   },
   {
-    "statusDot": "🟢",
-    "status": "外审中",
-    "statusOrder": 3,
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
     "title": "香港高层社区老年居民火灾韧性的循证评估框架",
-    "journalTrack": "Humanities and Social Sciences Communications",
-    "submissionSystemInfo": "",
-    "bg": "#e8f9ee",
-    "updatedAt": "2026-06-06",
+    "journalTrack": "Humanities and Social Sciences Communications (Major revision resubmitted: cfb4556c-32fb-44dc-bd9a-194025fff018; Technical Check)",
+    "submissionSystemInfo": "Springer Nature SNAPP / Humanities and Social Sciences Communications；Submission ID：cfb4556c-32fb-44dc-bd9a-194025fff018；状态证据：2026-06-08 SNAPP 最终确认页显示 Submission received / Thank you for submitting to Humanities and Social Sciences Communications / Technical Check；投稿系统账号显示名：QUAN WEN；页面账号邮箱：wenquan6328@gmail.com；投稿系统作者（以 portal 为准）：QUAN WEN（Primary corresponding author，wenquan@student.usm.my）；Mazran Ismail（Corresponding author，mazran@usm.my）；Muhammad Hafeez Abdul Nasir（Corresponding author，hafeeznasir@usm.my）；机构：Universiti Sains Malaysia, George Town, Malaysia, School of Housing, Building and Planning；ORCID 未在本次 SNAPP review/confirmation 页面显示；核对时间：2026-06-08；未存储密码。",
+    "bg": "#fff8d9",
+    "updatedAt": "2026-06-08",
     "currentJournal": "HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS",
     "similarity": "5.0%",
     "casXr": "CAS大2小1/2；XR大2小1",
@@ -1560,7 +1560,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "situation": "外审中。用户确认当前处于 Humanities and Social Sciences Communications / Peer review（同行评审）状态。",
+    "situation": "内审中。2026-06-08 21:25 Asia/Shanghai 左右，Springer Nature SNAPP 显示 Submission received / Thank you for submitting to Humanities and Social Sciences Communications，返修稿已进入 Technical Check。Submission ID cfb4556c-32fb-44dc-bd9a-194025fff018；最新 major revision 决定邮件时间为 2026-06-06 19:23 Asia/Shanghai（邮件正文要求原提交作者 QUAN WEN 上传 revised manuscript 和 point-by-point response）。本次已上传新版匿名 LaTeX 源码包 HSSC_Paper15_LaTeX_Source_20260608.zip、point-by-point response、cover letter、Supplementary Files A/A2/B/C/D/E/F/G，并将 portal 旧题名/旧摘要替换为当前正文版本。提交前已下载并让用户确认 SNAPP 生成的 27 页 review PDF；快速文本检查未发现旧 Gemini 3 Pro、94.3%、4.2:1、31%、Hung Fuk Court、161 lives、LaTeX fatal error、undefined control sequence、missing-file 文本或未解析 ??。论文仓库已推送 commit 41d3d6d，当前等待 HSSC technical check / editorial processing。",
     "impactSort": 3.6
   },
   {
