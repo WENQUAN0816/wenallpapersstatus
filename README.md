@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-06-04
+> **最后更新：** 2026-06-12
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -19,6 +19,7 @@
 <tr><td>&#128150;</td><td>需修订</td></tr>
 <tr><td>&#128993;</td><td>内审中</td></tr>
 <tr><td>&#128994;</td><td>外审中</td></tr>
+<tr><td>&#9989;</td><td>已接受</td></tr>
 </table>
 
 
@@ -33,10 +34,11 @@
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>10</td></tr>
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>6</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>40</td></tr>
+<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>5</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>41</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>6</td></tr>
-<tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;"><td>&#9989; 已接受</td><td>1</td></tr>
+<tr><td><strong>合计</strong></td><td><strong>63</strong></td></tr>
 </table>
 </td>
 <td valign="top" width="66%">
@@ -160,10 +162,10 @@
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Computers in Biology and Medicine (Rejected: CIBM-D-26-00934) → Biomedical Signal Processing and Control (Rejected: BSPC-D-26-07670) → Frontiers in Neurology (Rejected: 1901990) → Frontiers in Aging Neuroscience (Data request: 1852729; due 2026-06-24)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Frontiers submission portal / My Frontiers；Frontiers in Neurology 稿号 1901990 于 2026-06-08 20:26 Asia/Shanghai 收到 cannot be accepted 决定（Gmail messageId 19ea732c9f55b293）；同题稿 Frontiers in Aging Neuroscience 稿号 1852729 于 2026-06-08 20:31 Asia/Shanghai 收到 source data/code/original images/ethics approval 原件及英文译文请求，截止 2026-06-24（Gmail messageId 19ea737369baf8cb）。投稿系统账号 Peng Chao / hngmpengchao@gmail.com；未存储密码。</td>
 </tr>
 
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Energy and Buildings (Rejected: ENB-D-26-01660) → Energy (Rejected: EGY-D-26-10505) → Journal of Building Engineering (Rejected: JBE-D-26-07821) → Solar Energy (Revision required: SEJ-D-26-02432; due 2026-06-25)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Solar Energy；稿号：SEJ-D-26-02432；当前文件夹：Submissions Needing Revision；最新退修/返回邮件：2026-06-05 09:49 Asia/Shanghai（Gmail Spam，messageId 19e9578e9056cba7；邮件 Date: 2026-06-05 01:49 UTC）；退修提醒：2026-06-05 13:39 Asia/Shanghai（Gmail Spam，messageId 19e964b984eb3f2f），说明 revision due by Jun 25, 2026；原 confirmation/draft UUID：9469fdae-0cb3-4020-96a2-7dc46f6377f0；原提交确认：2026-05-30 01:03 Asia/Shanghai（Gmail Spam）；投稿系统作者（以 portal 为准）：Ruili Liu；Quan Wen（corresponding author，wenquan@hngm.edu.cn）；Mazran Ismail；投稿系统注册邮箱：wenquan@student.usm.my；用户名：QWen-485（来源：Solar Energy 稿号分配邮件）；ORCID：confirmation 页面未显示，account settings 需密码重新认证，未能可见确认绑定/登录状态；核对时间：2026-06-09；未存储密码。</td>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Energy and Buildings (Rejected: ENB-D-26-01660) → Energy (Rejected: EGY-D-26-10505) → Journal of Building Engineering (Rejected: JBE-D-26-07821) → Solar Energy (R1 submitted: SEJ-D-26-02432R1; 2026-06-12)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier Editorial Manager / Solar Energy；当前稿号：SEJ-D-26-02432R1（原稿 SEJ-D-26-02432）；R1 提交确认时间：2026-06-12 23:04 Asia/Shanghai（Gmail messageId 19ebc5d4e441f230），确认 revised manuscript received for reconsideration；当前文件夹：Revisions Being Processed (1)，Revisions Waiting for Author's Approval (0)；原 confirmation/draft UUID：9469fdae-0cb3-4020-96a2-7dc46f6377f0；Turnitin 报告：订单 260612V6NPDD4P，9% Overall Similarity，已作为附件/补充材料处理，并已回复原修稿邮件线程（sent Gmail messageId 19ebc5fc56e8c648，threadId 19e9578e9056cba7）；投稿系统用户名：QWen-485；投稿系统显示名：Quan Wen；投稿系统/稿件联系邮箱：wenquan@hngm.edu.cn；此前 Elsevier account re-authentication page 显示 wenquan@student.usm.my，但完整 account settings 需密码重新认证；投稿系统作者（以 portal 为准）：Ruili Liu；Quan Wen（corresponding author，wenquan@hngm.edu.cn）；Mazran Ismail；当前 LaTeX/title page/cover letter 作者一致，未发现投稿系统作者与 LaTeX 作者不一致；ORCID：未能可见确认/未确认绑定；论文仓库 commit：df0d76d；核对时间：2026-06-12；来源：Gmail R1 confirmation、Editorial Manager portal state、Gmail sent reply、Turnitin report、paper repo commit；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
