@@ -1,0 +1,657 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NC 写作方向进度面板</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg:#f8fafc;
+      --panel:#ffffff;
+      --text:#111827;
+      --muted:#64748b;
+      --line:#e5e7eb;
+      --soft:#f1f5f9;
+      --blue:#2563eb;
+      --green:#16a34a;
+      --amber:#d97706;
+      --red:#dc2626;
+      --violet:#7c3aed;
+      --cyan:#0891b2;
+      --shadow:0 1px 2px rgba(15,23,42,.05);
+    }
+    * { box-sizing:border-box; }
+    body { margin:0; font-family:Arial, "Microsoft YaHei", sans-serif; color:var(--text); background:var(--bg); }
+    main { max-width:1680px; margin:0 auto; padding:24px; }
+    header { display:flex; justify-content:space-between; align-items:flex-end; gap:18px; margin-bottom:18px; }
+    h1 { margin:0; font-size:28px; letter-spacing:0; }
+    h2 { margin:0 0 12px; font-size:20px; }
+    h3 { margin:0; font-size:16px; line-height:1.35; }
+    p { margin:0; }
+    a { color:var(--blue); text-decoration:none; }
+    a:hover { text-decoration:underline; }
+    .subtitle { margin-top:6px; color:var(--muted); font-size:14px; line-height:1.55; }
+    .top-links { display:flex; flex-wrap:wrap; gap:8px; justify-content:flex-end; }
+    .top-links a, .controls button {
+      border:1px solid var(--line);
+      border-radius:6px;
+      background:#fff;
+      color:#334155;
+      padding:8px 10px;
+      font-size:13px;
+      font-weight:700;
+      cursor:pointer;
+    }
+    .top-links a:hover, .controls button:hover { border-color:#94a3b8; text-decoration:none; }
+    .updated { color:var(--muted); font-size:13px; white-space:nowrap; text-align:right; margin-top:8px; }
+    .summary { display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr)); gap:10px; margin-bottom:16px; }
+    .stat-card {
+      min-height:78px;
+      border:1px solid var(--line);
+      border-left:8px solid var(--accent);
+      border-radius:8px;
+      background:var(--panel);
+      box-shadow:var(--shadow);
+      padding:12px 14px;
+    }
+    .stat-card strong { display:block; font-size:26px; line-height:1.1; }
+    .stat-card span { display:block; margin-top:5px; color:var(--muted); font-size:13px; }
+    .layout { display:grid; grid-template-columns:minmax(0,1.45fr) minmax(360px,.75fr); gap:14px; align-items:start; }
+    .panel {
+      border:1px solid var(--line);
+      border-radius:8px;
+      background:var(--panel);
+      box-shadow:var(--shadow);
+    }
+    .panel-pad { padding:14px; }
+    .controls { display:flex; flex-wrap:wrap; align-items:center; gap:8px; margin-bottom:12px; }
+    .controls button.active { border-color:var(--blue); color:#1d4ed8; background:#eff6ff; }
+    .controls input {
+      min-width:260px;
+      flex:1 1 280px;
+      border:1px solid var(--line);
+      border-radius:6px;
+      padding:9px 10px;
+      font-size:14px;
+      background:#fff;
+      color:var(--text);
+    }
+    .project-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(310px,1fr)); gap:10px; }
+    .project-card {
+      border:1px solid var(--line);
+      border-radius:8px;
+      background:#fff;
+      padding:12px;
+      cursor:pointer;
+      min-height:245px;
+      display:flex;
+      flex-direction:column;
+      gap:10px;
+    }
+    .project-card:hover { border-color:#94a3b8; }
+    .project-card.active { border-color:var(--blue); box-shadow:0 0 0 2px #dbeafe; }
+    .card-top { display:flex; justify-content:space-between; gap:10px; align-items:flex-start; }
+    .badge-row { display:flex; flex-wrap:wrap; gap:6px; }
+    .badge {
+      display:inline-flex;
+      align-items:center;
+      min-height:24px;
+      border:1px solid var(--line);
+      border-radius:999px;
+      padding:3px 8px;
+      font-size:12px;
+      font-weight:700;
+      color:#334155;
+      background:#fff;
+      white-space:nowrap;
+    }
+    .badge.p0 { color:#991b1b; border-color:#fecaca; background:#fef2f2; }
+    .badge.p1 { color:#92400e; border-color:#fed7aa; background:#fff7ed; }
+    .badge.p2 { color:#075985; border-color:#bae6fd; background:#f0f9ff; }
+    .badge.ready { color:#166534; border-color:#bbf7d0; background:#f0fdf4; }
+    .badge.audit { color:#92400e; border-color:#fde68a; background:#fffbeb; }
+    .badge.exposure { color:#7f1d1d; border-color:#fecaca; background:#fff1f2; }
+    .badge.writing { color:#3730a3; border-color:#c7d2fe; background:#eef2ff; }
+    .title-en { color:var(--muted); font-size:12px; line-height:1.35; }
+    .mini-label { color:var(--muted); font-size:12px; font-weight:700; }
+    .mini-text { margin-top:3px; color:#334155; font-size:13px; line-height:1.45; }
+    .progress-stack { display:grid; gap:7px; margin-top:auto; }
+    .progress-row { display:grid; grid-template-columns:54px 1fr 38px; gap:8px; align-items:center; font-size:12px; color:var(--muted); }
+    .bar { height:8px; border-radius:999px; overflow:hidden; background:#e2e8f0; }
+    .bar > span { display:block; height:100%; width:var(--value); background:var(--bar,#2563eb); }
+    .detail { position:sticky; top:16px; }
+    .detail-head { display:flex; justify-content:space-between; gap:12px; align-items:flex-start; padding-bottom:12px; border-bottom:1px solid var(--line); margin-bottom:12px; }
+    .detail h2 { margin-bottom:4px; }
+    .detail-section { padding:10px 0; border-bottom:1px solid var(--line); }
+    .detail-section:last-child { border-bottom:0; padding-bottom:0; }
+    .detail-label { margin-bottom:5px; color:var(--muted); font-size:12px; font-weight:800; text-transform:uppercase; }
+    .detail-body { color:#1f2937; font-size:14px; line-height:1.55; }
+    .metric-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:8px; margin-top:8px; }
+    .metric-box { border:1px solid var(--line); border-radius:8px; padding:9px; background:#f8fafc; }
+    .metric-box strong { display:block; font-size:18px; }
+    .metric-box span { display:block; margin-top:2px; color:var(--muted); font-size:12px; }
+    .table-panel { margin-top:14px; overflow:hidden; }
+    .table-wrap { overflow-x:auto; }
+    table { width:100%; border-collapse:collapse; font-size:13px; }
+    th, td { border:1px solid var(--line); padding:9px 10px; vertical-align:top; text-align:left; }
+    th { position:sticky; top:0; background:#f8fafc; z-index:1; }
+    td.direction { min-width:280px; font-weight:700; }
+    td.method, td.innovation, td.next { min-width:300px; }
+    td.repo { min-width:150px; white-space:nowrap; }
+    .stage-cell { min-width:120px; }
+    .score-cell { min-width:100px; }
+    .score-mini { display:flex; align-items:center; gap:7px; white-space:nowrap; }
+    .score-mini .bar { flex:1 1 56px; min-width:48px; }
+    .pipeline { margin-top:14px; display:grid; grid-template-columns:minmax(280px,.8fr) minmax(0,1.2fr); gap:14px; }
+    .step-list { display:grid; gap:8px; }
+    .step {
+      display:grid;
+      grid-template-columns:82px 1fr;
+      gap:10px;
+      border:1px solid var(--line);
+      border-radius:8px;
+      padding:9px 10px;
+      background:#fff;
+    }
+    .step strong { color:#0f172a; }
+    .step span { color:var(--muted); font-size:13px; line-height:1.45; }
+    .note-list { display:grid; gap:8px; color:#334155; font-size:14px; line-height:1.55; }
+    .empty { color:#94a3b8; padding:24px; text-align:center; }
+    @media (max-width:1100px) {
+      main { padding:16px; }
+      header { display:block; }
+      .top-links { justify-content:flex-start; margin-top:12px; }
+      .updated { text-align:left; }
+      .layout, .pipeline { grid-template-columns:1fr; }
+      .detail { position:static; }
+    }
+    @media (max-width:560px) {
+      h1 { font-size:24px; }
+      .controls input { min-width:100%; }
+      .project-grid { grid-template-columns:1fr; }
+      .metric-grid { grid-template-columns:1fr; }
+      .step { grid-template-columns:1fr; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <div>
+        <h1>NC 写作方向进度面板</h1>
+        <p class="subtitle">围绕 HRS-family 多队列、纵向轨迹、状态转移、机制路径、异质性和可干预社会决定因素，跟踪每个 NC 方向从数据审计到投稿包的推进。</p>
+      </div>
+      <div>
+        <nav class="top-links" aria-label="页面链接">
+          <a href="index.html">全部论文投稿状态</a>
+          <a href="https://github.com/WENQUAN0816" target="_blank" rel="noopener">GitHub</a>
+        </nav>
+        <div class="updated">最后更新：2026-06-15</div>
+      </div>
+    </header>
+
+    <section class="summary" id="summary"></section>
+
+    <section class="layout">
+      <section class="panel panel-pad">
+        <h2>方向看板</h2>
+        <div class="controls">
+          <input id="searchBox" type="search" placeholder="搜索方向、方法、创新点、数据状态">
+          <button type="button" class="active" data-filter="all">全部</button>
+          <button type="button" data-filter="P0">P0 优先</button>
+          <button type="button" data-filter="ready">可立即跑数</button>
+          <button type="button" data-filter="audit">需变量审计</button>
+          <button type="button" data-filter="exposure">需外部暴露</button>
+        </div>
+        <div class="project-grid" id="projectGrid"></div>
+      </section>
+
+      <aside class="panel panel-pad detail" id="detailPanel"></aside>
+    </section>
+
+    <section class="panel panel-pad table-panel">
+      <h2>写作进度总表</h2>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>优先级</th>
+              <th>方向</th>
+              <th>阶段</th>
+              <th>数据</th>
+              <th>方法</th>
+              <th>分析</th>
+              <th>图表</th>
+              <th>写作</th>
+              <th>方法形状</th>
+              <th>核心创新点</th>
+              <th>下一步</th>
+              <th>仓库</th>
+            </tr>
+          </thead>
+          <tbody id="progressBody"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="pipeline">
+      <section class="panel panel-pad">
+        <h2>统一写作流水线</h2>
+        <div class="step-list">
+          <div class="step"><strong>P0-1</strong><span>变量覆盖审计：确认队列、波次、ID、暴露、结局、协变量、缺失和可比性。</span></div>
+          <div class="step"><strong>P0-2</strong><span>构造 person-wave 文件：年龄 50+，至少两波，暴露 t 到结局 t+1，保留波次和随访间隔。</span></div>
+          <div class="step"><strong>P0-3</strong><span>主模型：分队列滞后模型、基线结局调整、聚类标准误，再做随机效应 meta-analysis。</span></div>
+          <div class="step"><strong>P1-1</strong><span>轨迹和转移：维持、改善、恶化、恢复，优先用 transition matrix 或 multinomial/Markov 框架。</span></div>
+          <div class="step"><strong>P1-2</strong><span>机制和异质性：抑郁、认知、社会参与、睡眠、脆弱性作为路径线索；按队列、性别、教育、城乡、年龄组分层。</span></div>
+          <div class="step"><strong>P1-3</strong><span>写作包：Figure 1-6、Extended Data、变量字典、模型规格、敏感性、审稿人风险说明。</span></div>
+        </div>
+      </section>
+      <section class="panel panel-pad">
+        <h2>近期推进建议</h2>
+        <div class="note-list">
+          <p><strong>先攻 P0 主线：</strong>数字/社会连接、frailty reversibility、digital infrastructure 三个方向最容易快速形成纵向主结果。</p>
+          <p><strong>边缘题材保留 NC 感：</strong>环境、极端温度、邻里安全方向要写成社会环境基础设施与心理健康老化轨迹，不写成单一污染或单一抑郁回归。</p>
+          <p><strong>所有方向共用底层证据链：</strong>多队列复现、纵向滞后、状态转移、机制线索、异质性、敏感性，避免横断面主模型。</p>
+          <p><strong>公开页面只放计划和进度：</strong>个体级数据、地理位置、外部暴露 linkage 表继续留在本地或私有仓库，不放 GitHub Pages。</p>
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <script>
+    const projects = [
+      {
+        id:"digital-social-ha",
+        priority:"P0",
+        stageKey:"ready",
+        stage:"主线推进",
+        theme:"数字包容 / 社会参与",
+        repo:"https://github.com/WENQUAN0816/-NC-nature-communications",
+        title:"数字包容、社会参与与健康老龄化轨迹",
+        titleEn:"Digital inclusion, social participation and healthy ageing trajectories across international ageing cohorts",
+        cohorts:"CHARLS, HRS, ELSA, SHARE 为纵向主分析；LASI 横断面补充；KLoSA/MHAS 用社会参与补充。",
+        dataStatus:"harmonized core gap-filled 数据已可支撑主线；需最终确认互联网变量跨队列定义。",
+        method:"暴露 t 到健康老龄化 t+1；分队列 logistic / mixed-effects 模型；随机效应 meta-analysis；四组联合暴露和动态 adoption/stopping/persistent 模式。",
+        innovation:"从互联网使用的静态相关，升级为跨制度、跨收入国家中数字与社会连接资源对健康老龄化维持、改善和恶化的纵向证据。",
+        outcomes:"healthy ageing binary/score、frailty index、抑郁、认知、ADL、多病共存。",
+        figurePlan:"研究流程、暴露趋势、主模型森林图、健康老龄化转移矩阵、异质性热图、机制路径图。",
+        next:"完成主脚本跑数，锁定 cohort inclusion 和 Figure 3 森林图数据。",
+        risk:"互联网变量定义不完全一致；LASI 不能进入纵向主模型。",
+        progress:{data:85, methods:80, analysis:45, figures:25, writing:22}
+      },
+      {
+        id:"frailty-ic",
+        priority:"P0",
+        stageKey:"ready",
+        stage:"可立即跑数",
+        theme:"脆弱性 / 内在能力",
+        repo:"https://github.com/WENQUAN0816/NC-frailty-intrinsic-capacity-reversibility",
+        title:"脆弱性与内在能力可逆性轨迹",
+        titleEn:"Frailty and intrinsic capacity reversibility across ageing cohorts",
+        cohorts:"CHARLS, HRS, ELSA, SHARE, KLoSA, MHAS；按指标覆盖决定主分析队列。",
+        dataStatus:"frailty、ADL、IADL、认知、抑郁和慢病变量基础较强。",
+        method:"robust / prefrail / frail 与高低内在能力状态转移；multinomial 或 Markov transition；恢复、维持、恶化分别建模；分队列后 meta-analysis。",
+        innovation:"把 frailty 从不可逆风险标签改写为动态恢复和韧性过程，突出可逆性和跨队列复现。",
+        outcomes:"frailty state、intrinsic capacity score、healthy ageing maintenance/gain/loss。",
+        figurePlan:"状态定义图、转移矩阵、恢复概率森林图、队列异质性、恢复者特征雷达/热图。",
+        next:"锁定 frailty 和 intrinsic capacity 统一字典，先跑两波相邻转移。",
+        risk:"内在能力组件跨队列覆盖不完全，需要清晰报告可用组件。",
+        progress:{data:82, methods:78, analysis:18, figures:10, writing:12}
+      },
+      {
+        id:"work-retirement",
+        priority:"P1",
+        stageKey:"audit",
+        stage:"需变量审计",
+        theme:"退休 / 社会角色",
+        repo:"https://github.com/WENQUAN0816/NC-work-retirement-healthy-ageing-transitions",
+        title:"工作、退休与健康老龄化状态转移",
+        titleEn:"Work, retirement and healthy ageing transitions in later life",
+        cohorts:"HRS, ELSA, SHARE 较强；CHARLS 和 KLoSA 需核对就业/退休编码。",
+        dataStatus:"健康结局已可用；就业、退休、兼职、再就业变量需逐队列字段审计。",
+        method:"四状态：健康工作、非健康工作、健康不工作、非健康不工作；状态转移模型；退休转变前后差异；按教育和职业层次异质性。",
+        innovation:"将退休从单次事件扩展为工作角色和健康状态共同演化，解释延迟退休政策与健康不平等。",
+        outcomes:"healthy ageing、ADL、抑郁、认知、慢病负担、劳动参与状态。",
+        figurePlan:"工作-健康四状态 Sankey/transition matrix、退休前后轨迹、分队列森林图、教育异质性。",
+        next:"审计 harmonized labor-force、retirement、work hours 和 pension 字段。",
+        risk:"退休年龄和劳动制度跨国差异大，模型要强调制度异质性。",
+        progress:{data:62, methods:65, analysis:8, figures:6, writing:8}
+      },
+      {
+        id:"loneliness-cog-frailty",
+        priority:"P1",
+        stageKey:"audit",
+        stage:"需变量审计",
+        theme:"孤独 / 认知脆弱性",
+        repo:"https://github.com/WENQUAN0816/NC-loneliness-cognitive-frailty-transitions",
+        title:"孤独感与认知脆弱性双向转移",
+        titleEn:"Loneliness and cognitive frailty transitions in later life",
+        cohorts:"HRS, ELSA, SHARE 可能较强；CHARLS、KLoSA、MHAS 需核对 loneliness/contact 字段。",
+        dataStatus:"认知、frailty 和抑郁基础较强；孤独量表和社会联系变量需逐队列核实。",
+        method:"loneliness t 到 cognitive frailty t+1；反向模型 cognitive frailty t 到 loneliness t+1；cross-lagged 或双向滞后模型；社会参与作为缓冲。",
+        innovation:"不只问孤独是否伤害健康，而是追踪孤独和认知脆弱性是否形成互相强化的老化循环。",
+        outcomes:"cognitive frailty、cognition z-score、frailty index、depressive symptoms、social isolation。",
+        figurePlan:"双向路径图、转移概率矩阵、cross-lagged 估计、社会参与缓冲森林图。",
+        next:"核对 loneliness、living alone、contact frequency、social isolation 字段覆盖。",
+        risk:"孤独量表题项差异会影响可比性；需准备替代社会隔离定义。",
+        progress:{data:55, methods:60, analysis:5, figures:5, writing:7}
+      },
+      {
+        id:"multidomain-burden",
+        priority:"P1",
+        stageKey:"ready",
+        stage:"可立即跑数",
+        theme:"多域负担 / 轨迹",
+        repo:"https://github.com/WENQUAN0816/NC-multidomain-ageing-burden-trajectories",
+        title:"多域老化负担轨迹与健康老龄化丧失",
+        titleEn:"Multidomain ageing burden trajectories across international ageing cohorts",
+        cohorts:"CHARLS, HRS, ELSA, SHARE, KLoSA, MHAS；LASI 作为横断面补充。",
+        dataStatus:"心理、认知、躯体功能、慢病和社会连接变量覆盖较好。",
+        method:"构造 mental/cognitive/physical/chronic/social burden score；trajectory 或 latent class；负担累积 t 到健康老龄化 t+1。",
+        innovation:"从单一疾病或单一功能结局，转为多域老化负担如何形成可识别轨迹并预测健康老龄化丧失。",
+        outcomes:"burden score、healthy ageing loss、frailty、depression、cognition、ADL。",
+        figurePlan:"负担构成热图、轨迹类别、健康老龄化丧失森林图、队列一致性图。",
+        next:"先用可解释的 0-5 burden score 跑基础模型，再决定是否加 latent class。",
+        risk:"latent class 可能不稳定；需要保留简单 burden score 作为主结果。",
+        progress:{data:78, methods:68, analysis:12, figures:8, writing:10}
+      },
+      {
+        id:"sleep-ha",
+        priority:"P1",
+        stageKey:"audit",
+        stage:"需变量审计",
+        theme:"睡眠 / 健康老龄化",
+        repo:"https://github.com/WENQUAN0816/NC-sleep-healthy-ageing-trajectories",
+        title:"睡眠与健康老龄化轨迹",
+        titleEn:"Sleep and healthy ageing trajectories across ageing cohorts",
+        cohorts:"HRS, ELSA, SHARE 和 CHARLS 需核对睡眠时长、睡眠质量和失眠题项。",
+        dataStatus:"健康结局可用；睡眠题项跨队列定义和波次稳定性需审计。",
+        method:"sleep duration/insomnia t 到 healthy ageing t+1；U-shaped 和 categorical exposure；剔除 CESD 睡眠题项的敏感性；抑郁和社会参与路径。",
+        innovation:"将睡眠作为连接生活方式、心理健康和老化轨迹的可干预行为资源，而不是单独睡眠障碍结局。",
+        outcomes:"healthy ageing、depressive symptoms without sleep item、cognition、frailty、ADL。",
+        figurePlan:"睡眠暴露分布、非线性剂量反应、主模型森林图、CESD 敏感性、路径分析。",
+        next:"审计 sleep hours、sleep quality、insomnia 和 CESD sleep item。",
+        risk:"睡眠测量差异和反向因果明显，必须调整 baseline health 和 baseline outcome。",
+        progress:{data:50, methods:58, analysis:4, figures:4, writing:6}
+      },
+      {
+        id:"neighbourhood-safety",
+        priority:"P1",
+        stageKey:"audit",
+        stage:"边缘题材",
+        theme:"邻里安全 / 抑郁老化",
+        repo:"https://github.com/WENQUAN0816/NC-neighbourhood-safety-depressive-ageing",
+        title:"邻里安全、互助环境与抑郁老化轨迹",
+        titleEn:"Neighbourhood safety, helpfulness and depressive ageing trajectories",
+        cohorts:"优先 CHARLS/HRS/ELSA/SHARE 中有 neighbourhood safety/helpfulness 的队列。",
+        dataStatus:"需要字段审计；不能假设所有队列都有可比邻里环境题项。",
+        method:"neighbourhood safety/helpfulness t 到 depression t+1 和 healthy ageing t+1；社会参与、孤独作为中介或缓冲；城乡异质性。",
+        innovation:"把邻里安全写成老年心理健康的社会环境基础设施，介于城市环境和公共卫生之间，医疗味更轻。",
+        outcomes:"depressive symptoms、healthy ageing、loneliness/social isolation、ADL、self-rated health。",
+        figurePlan:"邻里环境覆盖地图/表、抑郁轨迹、主模型森林图、城乡/性别热图、机制路径。",
+        next:"检索 harmonized 字段中的 neighbourhood、safety、trust、helpfulness、community participation。",
+        risk:"变量覆盖可能局限于少数队列；需要把主分析限定在可比队列。",
+        progress:{data:42, methods:60, analysis:3, figures:5, writing:7}
+      },
+      {
+        id:"environment-depression",
+        priority:"P2",
+        stageKey:"exposure",
+        stage:"需外部暴露",
+        theme:"环境 / 抑郁",
+        repo:"https://github.com/WENQUAN0816/NC-environment-depressive-ageing-trajectories",
+        title:"环境暴露与抑郁老化轨迹",
+        titleEn:"Environmental exposures and depressive ageing trajectories",
+        cohorts:"优先 CHARLS 中国省/市级外部环境链接；扩展到 HRS-family 需地理权限和可比暴露。",
+        dataStatus:"健康数据可用；绿地、空气污染、夜间灯光、温度等外部暴露和地理链接尚未完成。",
+        method:"area-level exposure t 或 year-specific exposure 到 depression/healthy ageing t+1；地区固定效应、波次固定效应；睡眠和社会参与路径。",
+        innovation:"将环境暴露与心理健康老化轨迹连接，适合写成环境公平、宜居老龄化和心理韧性。",
+        outcomes:"depressive symptoms、healthy ageing loss、sleep disturbance、social participation、frailty。",
+        figurePlan:"暴露链接流程、环境暴露空间分布、主模型森林/系数图、路径图、敏感性网格。",
+        next:"确认可用地理层级和可公开使用的外部暴露数据源，再决定是否只做 CHARLS 主文。",
+        risk:"外部暴露链接是最大瓶颈；地理精度不足时不能强行做个体级因果表述。",
+        progress:{data:30, methods:55, analysis:2, figures:3, writing:5}
+      },
+      {
+        id:"digital-infrastructure",
+        priority:"P0",
+        stageKey:"ready",
+        stage:"可立即跑数",
+        theme:"数字技术 / 在地养老",
+        repo:"https://github.com/WENQUAN0816/NC-digital-infrastructure-ageing-in-place",
+        title:"数字基础设施与在地养老能力",
+        titleEn:"Digital infrastructure and ageing-in-place capacity across ageing cohorts",
+        cohorts:"CHARLS, HRS, ELSA, SHARE；LASI 横断面补充；社会参与可扩展到更多队列。",
+        dataStatus:"互联网/数字使用和独立生活相关结局已有基础；需确认 housing、living arrangement 和 care receipt 变量。",
+        method:"digital access/social participation 联合暴露 t 到 independence/ageing-in-place t+1；ADL/IADL、居住安排、照护需求转移；分队列 meta-analysis。",
+        innovation:"把数字使用从个人行为改写为支持在地养老的社会基础设施，医疗味较轻且政策表达更强。",
+        outcomes:"ageing-in-place capacity、ADL/IADL limitation、living alone with independence、care need、healthy ageing。",
+        figurePlan:"数字基础设施框架图、独立生活转移矩阵、联合暴露森林图、城乡/教育异质性。",
+        next:"确定 ageing-in-place capacity 操作化：独立功能、非机构化居住、低照护需求。",
+        risk:"不同队列住房和照护变量不完全一致，主结局要简洁。",
+        progress:{data:74, methods:72, analysis:10, figures:8, writing:9}
+      },
+      {
+        id:"temperature-isolation",
+        priority:"P2",
+        stageKey:"exposure",
+        stage:"需外部暴露",
+        theme:"气候压力 / 社会隔离",
+        repo:"https://github.com/WENQUAN0816/NC-extreme-temperature-social-isolation-depression",
+        title:"极端温度、社会隔离与老年抑郁",
+        titleEn:"Extreme temperature, social isolation and depression among older adults",
+        cohorts:"优先 CHARLS 与可获得区域温度数据；跨国扩展取决于地理层级和气象链接权限。",
+        dataStatus:"心理健康和社会隔离变量可从 harmonized 数据构造；温度、热浪、寒潮和昼夜温差需外部链接。",
+        method:"heat/cold/DTR exposure 到 depressive symptoms t+1；社会隔离、数字使用、社会参与作为 effect modifier；地区和年份固定效应。",
+        innovation:"将气候风险和社会连接缓冲机制结合，适合写成气候适应、老年心理健康和社会基础设施交叉主题。",
+        outcomes:"depressive symptoms、sleep disturbance、social isolation、healthy ageing loss、frailty。",
+        figurePlan:"温度暴露流程、热/冷效应曲线、交互作用森林图、高风险人群热图、敏感性分析。",
+        next:"先做 CHARLS 省市级气象可链接性审计，明确热浪定义和暴露窗口。",
+        risk:"暴露误差和地理粗糙度可能较大；需要把结论限定为区域层面关联。",
+        progress:{data:25, methods:52, analysis:1, figures:2, writing:4}
+      }
+    ];
+
+    const stageLabels = {
+      ready:"可立即跑数",
+      audit:"需变量审计",
+      exposure:"需外部暴露"
+    };
+    const barColors = {
+      data:"#2563eb",
+      methods:"#7c3aed",
+      analysis:"#16a34a",
+      figures:"#d97706",
+      writing:"#0891b2"
+    };
+    const progressLabels = {
+      data:"数据",
+      methods:"方法",
+      analysis:"分析",
+      figures:"图表",
+      writing:"写作"
+    };
+    let currentFilter = "all";
+    let selectedId = localStorage.getItem("ncDashboardSelected") || projects[0].id;
+
+    function escapeHtml(value) {
+      return String(value ?? "").replace(/[&<>"']/g, ch => ({
+        "&":"&amp;",
+        "<":"&lt;",
+        ">":"&gt;",
+        "\"":"&quot;",
+        "'":"&#39;"
+      }[ch]));
+    }
+
+    function priorityScore(priority) {
+      return priority === "P0" ? 0 : priority === "P1" ? 1 : 2;
+    }
+
+    function averageProgress(project) {
+      const values = Object.values(project.progress);
+      return Math.round(values.reduce((sum, item) => sum + item, 0) / values.length);
+    }
+
+    function filteredProjects() {
+      const q = document.getElementById("searchBox").value.trim().toLowerCase();
+      return projects.filter(project => {
+        const matchesFilter = currentFilter === "all" ||
+          project.priority === currentFilter ||
+          project.stageKey === currentFilter;
+        const haystack = [
+          project.title, project.titleEn, project.theme, project.stage, project.method,
+          project.innovation, project.next, project.risk, project.dataStatus
+        ].join(" ").toLowerCase();
+        return matchesFilter && (!q || haystack.includes(q));
+      }).sort((a, b) =>
+        priorityScore(a.priority) - priorityScore(b.priority) ||
+        averageProgress(b) - averageProgress(a) ||
+        a.title.localeCompare(b.title, "zh-CN")
+      );
+    }
+
+    function progressRows(project, compact = false) {
+      return Object.entries(progressLabels).map(([key, label]) => {
+        const value = project.progress[key];
+        const style = `--value:${value}%;--bar:${barColors[key]}`;
+        if (compact) {
+          return `<div class="score-mini"><div class="bar"><span style="${style}"></span></div><span>${value}%</span></div>`;
+        }
+        return `<div class="progress-row"><span>${label}</span><div class="bar"><span style="${style}"></span></div><strong>${value}%</strong></div>`;
+      }).join("");
+    }
+
+    function compactScore(value, key) {
+      const style = `--value:${value}%;--bar:${barColors[key]}`;
+      return `<div class="score-mini"><div class="bar"><span style="${style}"></span></div><span>${value}%</span></div>`;
+    }
+
+    function renderSummary() {
+      const p0 = projects.filter(item => item.priority === "P0").length;
+      const ready = projects.filter(item => item.stageKey === "ready").length;
+      const exposure = projects.filter(item => item.stageKey === "exposure").length;
+      const avgWriting = Math.round(projects.reduce((sum, item) => sum + item.progress.writing, 0) / projects.length);
+      const cards = [
+        ["--accent:#2563eb", projects.length, "NC 方向总数"],
+        ["--accent:#dc2626", p0, "P0 优先推进"],
+        ["--accent:#16a34a", ready, "可立即纵向跑数"],
+        ["--accent:#d97706", exposure, "需外部环境暴露"],
+        ["--accent:#0891b2", `${avgWriting}%`, "平均写作完成度"]
+      ];
+      document.getElementById("summary").innerHTML = cards.map(([style, value, label]) =>
+        `<article class="stat-card" style="${style}"><strong>${escapeHtml(value)}</strong><span>${escapeHtml(label)}</span></article>`
+      ).join("");
+    }
+
+    function renderProjects() {
+      const list = filteredProjects();
+      if (!list.length) {
+        document.getElementById("projectGrid").innerHTML = '<div class="empty">没有匹配的方向</div>';
+        document.getElementById("progressBody").innerHTML = "";
+        return;
+      }
+      if (!list.some(item => item.id === selectedId)) selectedId = list[0].id;
+      document.getElementById("projectGrid").innerHTML = list.map(project => `
+        <article class="project-card ${project.id === selectedId ? "active" : ""}" data-id="${project.id}">
+          <div class="card-top">
+            <div>
+              <h3>${escapeHtml(project.title)}</h3>
+              <div class="title-en">${escapeHtml(project.titleEn)}</div>
+            </div>
+            <span class="badge ${project.priority.toLowerCase()}">${project.priority}</span>
+          </div>
+          <div class="badge-row">
+            <span class="badge ${project.stageKey}">${escapeHtml(stageLabels[project.stageKey])}</span>
+            <span class="badge writing">${escapeHtml(project.theme)}</span>
+          </div>
+          <div>
+            <div class="mini-label">方法</div>
+            <div class="mini-text">${escapeHtml(project.method)}</div>
+          </div>
+          <div>
+            <div class="mini-label">下一步</div>
+            <div class="mini-text">${escapeHtml(project.next)}</div>
+          </div>
+          <div class="progress-stack">${progressRows(project)}</div>
+        </article>
+      `).join("");
+      document.querySelectorAll(".project-card").forEach(card => {
+        card.addEventListener("click", () => {
+          selectedId = card.dataset.id;
+          localStorage.setItem("ncDashboardSelected", selectedId);
+          renderProjects();
+          renderDetail();
+        });
+      });
+      renderTable(list);
+      renderDetail();
+    }
+
+    function renderDetail() {
+      const project = projects.find(item => item.id === selectedId) || projects[0];
+      document.getElementById("detailPanel").innerHTML = `
+        <div class="detail-head">
+          <div>
+            <h2>${escapeHtml(project.title)}</h2>
+            <div class="title-en">${escapeHtml(project.titleEn)}</div>
+          </div>
+          <span class="badge ${project.priority.toLowerCase()}">${project.priority}</span>
+        </div>
+        <div class="badge-row">
+          <span class="badge ${project.stageKey}">${escapeHtml(stageLabels[project.stageKey])}</span>
+          <span class="badge writing">${escapeHtml(project.theme)}</span>
+        </div>
+        <div class="metric-grid">
+          <div class="metric-box"><strong>${averageProgress(project)}%</strong><span>平均推进度</span></div>
+          <div class="metric-box"><strong>${project.progress.writing}%</strong><span>写作完成度</span></div>
+        </div>
+        ${detailSection("数据状态", project.dataStatus)}
+        ${detailSection("队列设计", project.cohorts)}
+        ${detailSection("方法形状", project.method)}
+        ${detailSection("创新点", project.innovation)}
+        ${detailSection("结局指标", project.outcomes)}
+        ${detailSection("图表计划", project.figurePlan)}
+        ${detailSection("下一步", project.next)}
+        ${detailSection("风险 / 卡点", project.risk)}
+        <div class="detail-section">
+          <div class="detail-label">仓库</div>
+          <div class="detail-body"><a href="${escapeHtml(project.repo)}" target="_blank" rel="noopener">${escapeHtml(project.repo.replace("https://github.com/WENQUAN0816/", ""))}</a></div>
+        </div>
+      `;
+    }
+
+    function detailSection(label, body) {
+      return `<div class="detail-section"><div class="detail-label">${escapeHtml(label)}</div><div class="detail-body">${escapeHtml(body)}</div></div>`;
+    }
+
+    function renderTable(list) {
+      document.getElementById("progressBody").innerHTML = list.map(project => `
+        <tr>
+          <td><span class="badge ${project.priority.toLowerCase()}">${project.priority}</span></td>
+          <td class="direction">${escapeHtml(project.title)}<div class="title-en">${escapeHtml(project.titleEn)}</div></td>
+          <td class="stage-cell"><span class="badge ${project.stageKey}">${escapeHtml(project.stage)}</span></td>
+          ${["data","methods","analysis","figures","writing"].map(key => `<td class="score-cell">${compactScore(project.progress[key], key)}</td>`).join("")}
+          <td class="method">${escapeHtml(project.method)}</td>
+          <td class="innovation">${escapeHtml(project.innovation)}</td>
+          <td class="next">${escapeHtml(project.next)}</td>
+          <td class="repo"><a href="${escapeHtml(project.repo)}" target="_blank" rel="noopener">打开仓库</a></td>
+        </tr>
+      `).join("");
+    }
+
+    document.querySelectorAll(".controls button[data-filter]").forEach(button => {
+      button.addEventListener("click", () => {
+        currentFilter = button.dataset.filter;
+        document.querySelectorAll(".controls button[data-filter]").forEach(item => item.classList.toggle("active", item === button));
+        renderProjects();
+      });
+    });
+    document.getElementById("searchBox").addEventListener("input", renderProjects);
+
+    renderSummary();
+    renderProjects();
+  </script>
+</body>
+</html>
