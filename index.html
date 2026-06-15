@@ -12,6 +12,9 @@
     header { display:flex; align-items:end; justify-content:space-between; gap:16px; margin-bottom:18px; }
     h1 { margin:0; font-size:28px; letter-spacing:0; }
     .updated { color:var(--muted); font-size:13px; white-space:nowrap; }
+    .header-actions { display:flex; flex-direction:column; align-items:flex-end; gap:8px; }
+    .nc-link { display:inline-block; border:1px solid var(--line); border-radius:6px; padding:8px 10px; background:#fff; color:#1d4ed8; font-size:13px; font-weight:700; text-decoration:none; }
+    .nc-link:hover { border-color:#93c5fd; background:#eff6ff; }
     .summary { display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:10px; margin-bottom:16px; }
     .stat-card { display:flex; align-items:center; gap:12px; min-height:72px; padding:12px 14px; border:1px solid var(--line); border-left:8px solid var(--accent); border-radius:8px; background:var(--panel); }
     .dot { font-size:22px; line-height:1; }
@@ -49,14 +52,17 @@
     table.paper-status-table td[data-key="authors"] { min-width:260px; }
     .corresponding-author { color:#dc2626; font-weight:800; }
     .empty { color:#94a3b8; }
-    @media (max-width:900px) { main{padding:16px;} header{display:block;} .updated{display:block;margin-top:8px;} .dashboard{grid-template-columns:1fr;} }
+    @media (max-width:900px) { main{padding:16px;} header{display:block;} .header-actions{align-items:flex-start;margin-top:8px;} .updated{display:block;} .dashboard{grid-template-columns:1fr;} }
   </style>
 </head>
 <body>
   <main>
     <header>
       <h1>全部论文投稿状态</h1>
-      <span class="updated">最后更新：2026-06-15</span>
+      <div class="header-actions">
+        <a class="nc-link" href="nc.html">NC 写作方向进度面板</a>
+        <span class="updated">最后更新：2026-06-15</span>
+      </div>
     </header>
     <section class="summary">
       <article class="stat-card" style="--accent:#64748b"><span class="dot">⚪</span><div><strong>10</strong><span>待投稿</span></div></article>
