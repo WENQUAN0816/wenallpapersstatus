@@ -156,7 +156,7 @@
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Image and Vision Computing → IEEE Access (Rejected: Access-2026-21292) → Applied Sciences (Declined: applsci-4392887) → Signal, Image and Video Processing (Review: waiting for manual final submit)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / Signal, Image and Video Processing；2026-06-17 通过 Peng Chao / hngmpengchao@gmail.com 正确账号进入 Review 页，已生成 reviewer PDF，已完成 Details、Authors、Declarations、Review，未点击最终 Run checks and submit；论文仓库 commit 3d0c79bce7785df1cc062877bb977cfba301046f；当前等待用户手动最终提交。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Image and Vision Computing → IEEE Access (Rejected: Access-2026-21292) → Applied Sciences (Declined: applsci-4392887) → Signal, Image and Video Processing (Submitted / Technical Check pending: 2026-06-18)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / Signal, Image and Video Processing；2026-06-18 用户确认已在 Review 页手动点击最终 Run checks and submit 完成提交；账号 Peng Chao / hngmpengchao@gmail.com；draft UUID：60472379-226c-46de-a7e7-3be3cdb878a4；已生成 reviewer PDF，并完成 Details、Authors、Declarations、Review；论文仓库上传包 commit 3d0c79bce7785df1cc062877bb977cfba301046f；当前等待 Springer Nature Technical Check/后续处理；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
