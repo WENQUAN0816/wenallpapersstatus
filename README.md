@@ -32,9 +32,9 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>10</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>8</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>5</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>42</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>44</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>6</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>63</strong></td></tr>
 </table>
@@ -107,26 +107,14 @@
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Image and Vision Computing → IEEE Access (Rejected: Access-2026-21292) → Applied Sciences (Declined: applsci-4392887)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">MDPI SuSy / Applied Sciences；稿号：applsci-4392887；2026-06-10 06:03 Asia/Shanghai 收到 [Applied Sciences] Manuscript ID: applsci-4392887 - Declined for Publication（Gmail messageId 19eae6965e7d9a4e）；按稿号和英文题名复核 Gmail in:anywhere / in:spam、wenallpapersstatus、本地论文仓库，未发现之后有效新投稿确认；当前回到待投稿。历史提交：SuSy 显示提交时间 2026-06-06 19:40:30（Asia/Shanghai 2026-06-07 01:40:30）；投稿系统账号 Peng Chao / hngmpengchao@gmail.com；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">cGAN 辅助的适老住宅改造多目标优化</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Buildings (Rejected: buildings-4331653) → Energy and Buildings (Rejected: ENB-D-26-04088) → Buildings (Declined: buildings-4392896)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">MDPI SuSy / Buildings；稿号：buildings-4392896；2026-06-09 06:00 Asia/Shanghai 收到 Declined for Publication（Gmail messageId 19ea9407871f371c）；按稿号和英文题名复核 Gmail in:anywhere / in:spam、wenallpapersstatus、本地论文仓库，未发现之后有效新投稿确认；当前回到待投稿。历史提交：SuSy 显示提交时间 2026-06-06 19:48:18（Asia/Shanghai 2026-06-07 01:48:18）；投稿系统账号 Peng Chao / hngmpengchao@gmail.com；未存储密码。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Buildings (Rejected: buildings-4331653) → Energy and Buildings (Rejected: ENB-D-26-04088) → Buildings (Declined: buildings-4392896) → Sustainability (Preparation complete; ORCID login blocked)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">MDPI SuSy / Sustainability；2026-06-18 本地转投包已固定并推送，commit 3f1b6920a1cbd6648203f3afab47118416dea9b3；`mdpi_sustainability_latex_source_20260618.zip` 已生成；已确认使用 Peng Chao 单作者版本；门户在 ORCID sign-in 阻塞，尚未上传或填写字段。</td>
 </tr>
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于条件 GAN 与随机森林的多源数据融合社区韧性评估：来自中国河南的证据</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Sustainable Cities and Society (Sent back: SCSI-D-26-02059) → International Journal of Disaster Risk Reduction (Rejected: IJDRR-D-26-01585) → Frontiers in Environmental Science (Rejected: 1901998)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Frontiers submission portal / My Frontiers；稿号：1901998（历史 success URL 记录 10226193）；2026-06-08 18:24 Asia/Shanghai 收到 Frontiers in Environmental Science decision cannot be accepted（Gmail messageId 19ea6c35818a1ecc）；按稿号和英文题名复核 Gmail in:anywhere / in:spam、wenallpapersstatus、本地论文仓库，未发现之后有效新投稿确认；当前回到待投稿。投稿系统账号 Peng Chao / hngmpengchao@gmail.com；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">轻量级 Transformer：面向资源受限老年智能家居边缘 IoT 入侵检测的知识蒸馏与区块链协同</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Cluster Computing (Rejected: eec18a2a-115f-4885-b114-202a0368f2ed) → IEEE Access (Rejected: Access-2026-26726)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">IEEE Author Portal / IEEE Access / Research Exchange (Atypon ReX)；稿号：Access-2026-26726；2026-06-11 04:22 Asia/Shanghai 收到 IEEE Access decision / prescreen rejection（Gmail messageId 19eb3335b97e83b7），邮件说明决定为 final 且不接受 resubmissions；按稿号和英文题名复核 Gmail in:anywhere / in:spam、wenallpapersstatus、本地论文仓库，未发现之后有效新投稿确认；当前回到待投稿。投稿系统账号 Peng Chao / wenquan632@gmail.com；ORCID 已绑定（系统显示 My ORCID iD 菜单项）；未存储密码。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Sustainable Cities and Society (Sent back: SCSI-D-26-02059) → International Journal of Disaster Risk Reduction (Rejected: IJDRR-D-26-01585) → Frontiers in Environmental Science (Rejected: 1901998) → Environmental Monitoring and Assessment (Preparation complete; portal not yet opened)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Springer Nature SNAPP / Environmental Monitoring and Assessment；2026-06-18 本地转投包已固定并推送，commit 1cd4ad58a3f83e45b8c259734fb309800b6485f9；LaTeX source ZIP `paper3_emas_source_20260618.zip` 已生成，包含 manuscript.tex、manuscript.bbl、references.bib、sn-jnl.cls、sn-mathphys-num.bst 和图件；尚未进入门户上传。</td>
 </tr>
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
@@ -163,6 +151,18 @@
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">面向文化主题公共建筑老年用户的空间意义感知量表开发：因子分析研究设计</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Frontiers in Psychology (Editorial appointment assistance requested: 2026-06-09)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Frontiers submission portal / My Frontiers / Frontiers in Psychology；2026-06-09 19:04 Asia/Shanghai 收到 Frontiers 请求协助 appoint handling editor（Gmail messageId 19eac0e485aa751a），要求提供 3 名 editorial board preferred editors、3 名 external editors 及可能 research topics；邮件未列 manuscript ID；当前按需修订/需处理跟进。未存储密码。</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Image and Vision Computing → IEEE Access (Rejected: Access-2026-21292) → Applied Sciences (Declined: applsci-4392887) → Signal, Image and Video Processing (Review: waiting for manual final submit)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / Signal, Image and Video Processing；2026-06-17 通过 Peng Chao / hngmpengchao@gmail.com 正确账号进入 Review 页，已生成 reviewer PDF，已完成 Details、Authors、Declarations、Review，未点击最终 Run checks and submit；论文仓库 commit 3d0c79bce7785df1cc062877bb977cfba301046f；当前等待用户手动最终提交。</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">轻量级 Transformer：面向资源受限老年智能家居边缘 IoT 入侵检测的知识蒸馏与区块链协同</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Cluster Computing (Rejected: eec18a2a-115f-4885-b114-202a0368f2ed) → IEEE Access (Rejected: Access-2026-26726) → Telecommunication Systems (Submitted / Technical Check: 2026-06-17)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / Telecommunication Systems；2026-06-17 页面显示 Submission received / Technical Check；账号：Peng Chao / hngmpengchao@gmail.com；draft UUID：1336ddcb-2f5c-4ccd-b36b-97a1156489f7；上传文件：iot_telecommunication_systems_source_20260617.zip、cover_letter.pdf；论文仓库上传包 commit：43e404ba2760e1085a2535f1163366dc1a9d3986；上传 ZIP SHA256：72D8874951A92CB9970ED9350C3864E8521EB15757D61A77C5BDC5F5327B39C1；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
