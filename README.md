@@ -32,9 +32,9 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>7</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>8</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>5</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>45</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>44</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>6</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>63</strong></td></tr>
 </table>
@@ -117,6 +117,12 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Multimedia Tools and Applications (Rejected / withdrawal requested: MTAP-D-26-02294) → Pattern Recognition (Rejected: PR-D-26-07070)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Editorial Manager / Pattern Recognition；稿号 PR-D-26-07070；2026-06-04 06:10 Asia/Shanghai 收到 Decision on your Submission（Gmail messageId 19e8f89e2586519d），编辑认为稿件不适合 Pattern Recognition，建议可考虑 resubmission；按稿号和英文题名复核 Gmail in:anywhere / in:spam、wenallpapersstatus、本地论文仓库，未发现之后有效新投稿确认；当前回到待投稿。投稿系统历史信息：用户名 wenquan0817；显示名 quan WEN；投稿系统注册邮箱 wenquan@student.usm.my；ORCID 已绑定 0009-0005-3975-8104；未存储密码。</td>
 </tr>
 
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Digital-social connectedness and healthy ageing transitions in a multiple cohort study</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Nature Communications (Rejected without external review: NCOMMS-26-049136; transfer suggested to npj Aging)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Springer Nature / Nature Communications MTS；稿号：NCOMMS-26-049136；2026-06-17 Asia/Shanghai MTS 显示 “Thank you for your submission.”，确认已正式提交；2026-06-18 20:00 决定信显示 Nature Communications 拒稿且未送外审，Gmail 2026-06-19 00:34 Asia/Shanghai 收到/转发。编辑说明不质疑稿件有效性，但认为发现不足以构成 Nature Communications 所需的突破性和广泛兴趣；建议通过 manuscript transfer portal 考虑 npj Aging。投稿账号显示 Dr QUAN WEN；题名 Digital-social connectedness and healthy ageing transitions in a multiple cohort study；作者顺序：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；通讯作者：Quan Wen；MTS Code Availability URL：https://github.com/WENQUAN0816/NC01-Digital-social-connectedness-and-healthy-ageing-transitions-data；公开仓库仅含代码、聚合输出、图表源数据和审计说明，原始受限个体级二手数据未上传；提交确认截图：F:\Temp\ncomms_submission_success_NCOMMS-26-049136.png；拒稿证据：F:\Temp\gmail_ncomms_26049136_decision_text.txt；论文主库：https://github.com/WENQUAN0816/NC01-Digital-social-connectedness-and-healthy-ageing-transitions-in-a-multiple-cohort-study；提交基线 commit cc89339；当前需转投/重写定位；未存储密码。</td>
+</tr>
+
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防</td>
@@ -163,12 +169,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">轻量级 Transformer：面向资源受限老年智能家居边缘 IoT 入侵检测的知识蒸馏与区块链协同</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Cluster Computing (Rejected: eec18a2a-115f-4885-b114-202a0368f2ed) → IEEE Access (Rejected: Access-2026-26726) → Telecommunication Systems (Submitted / Technical Check: 2026-06-17)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / Telecommunication Systems；Submission ID：1336ddcb-2f5c-4ccd-b36b-97a1156489f7；2026-06-17 23:59 Asia/Shanghai 收到 “You started a submission” 邮件，2026-06-18 00:07/01:04 Asia/Shanghai 收到 Springer Nature “checks completed and manuscript submitted” 通知；用户随后在门户确认成功页 “Submission received / Thank you for submitting to Telecommunication Systems / Technical Check”。投稿系统账号/Google 个人信息：chao Peng / hngmpengchao@gmail.com；ORCID：提交后 SNAPP/Google 页面未显示绑定状态，未确认绑定；投稿系统作者（以本次 Telecommunication Systems 提交包/门户填写为准）：Xueping Han（corresponding，xuepinghan118@gmail.com）；注意：投稿账号 Peng Chao 与稿件/LaTeX 作者 Xueping Han 不一致，状态页作者栏已标注。上传包：iot_telecommunication_systems_source_20260617.zip；SHA256：72D8874951A92CB9970ED9350C3864E8521EB15757D61A77C5BDC5F5327B39C1；论文仓库提交：43e404ba2760e1085a2535f1163366dc1a9d3986；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Digital-social connectedness and healthy ageing transitions in a multiple cohort study</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Nature Communications (Submitted: NCOMMS-26-049136)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature / Nature Communications MTS；稿号：NCOMMS-26-049136；2026-06-17 Asia/Shanghai MTS 显示 “Thank you for your submission.”，确认已正式提交；投稿账号显示 Dr QUAN WEN；题名 Digital-social connectedness and healthy ageing transitions in a multiple cohort study；作者顺序：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；通讯作者：Quan Wen；上传文件包括 LaTeX source manuscript、5个PDF主图、sn-jnl.cls、cover letter、supplementary information；MTS Code Availability URL：https://github.com/WENQUAN0816/NC01-Digital-social-connectedness-and-healthy-ageing-transitions-data；公开仓库仅含代码、聚合输出、图表源数据和审计说明，原始受限个体级二手数据未上传；确认截图：F:\Temp\ncomms_submission_success_NCOMMS-26-049136.png；论文主库：https://github.com/WENQUAN0816/NC01-Digital-social-connectedness-and-healthy-ageing-transitions-in-a-multiple-cohort-study；主库 commit cc89339；CDP 9224；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
