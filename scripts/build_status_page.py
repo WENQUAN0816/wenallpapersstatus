@@ -578,8 +578,11 @@ def enrich_rows(rows):
         row["jcr"], row["impactFactor"] = metric_info(journal, jcr_index) if journal else ("", "")
         row["indexType"] = index_type(journal, cas_index, xr_index, ei_set) if journal else ""
         row["recommendedJournals"] = RECOMMEND_MAP.get(row["title"], "")
-        row["authors"] = AUTHOR_MAP.get(row["title"], "")
-        row["correspondingAuthors"] = CORRESPONDING_AUTHOR_MAP.get(row["title"], [])
+        row["authors"] = row_override.get("authors", AUTHOR_MAP.get(row["title"], ""))
+        row["correspondingAuthors"] = row_override.get(
+            "correspondingAuthors",
+            CORRESPONDING_AUTHOR_MAP.get(row["title"], []),
+        )
         row["updatedAt"] = row.get("updatedAt") or today
         row["submissionSystemInfo"] = submission_system_by_title.get(row["title"], row.get("submissionSystemInfo", ""))
         row["situation"] = situation_by_title.get(row["title"], "")
