@@ -499,7 +499,9 @@ def parse_situation_from_readme():
     if override_path.exists():
         out.update(json.loads(override_path.read_text(encoding="utf-8")))
 
-    path = HOME / "wenallpapersstatus" / "README.md"
+    path = ROOT / "README.md"
+    if not path.exists():
+        path = HOME / "wenallpapersstatus" / "README.md"
     if not path.exists():
         return out
     text = path.read_text(encoding="utf-8")

@@ -32,9 +32,9 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>8</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>7</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>5</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>44</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>45</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>6</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>63</strong></td></tr>
 </table>
@@ -117,12 +117,6 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Multimedia Tools and Applications (Rejected / withdrawal requested: MTAP-D-26-02294) → Pattern Recognition (Rejected: PR-D-26-07070)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Editorial Manager / Pattern Recognition；稿号 PR-D-26-07070；2026-06-04 06:10 Asia/Shanghai 收到 Decision on your Submission（Gmail messageId 19e8f89e2586519d），编辑认为稿件不适合 Pattern Recognition，建议可考虑 resubmission；按稿号和英文题名复核 Gmail in:anywhere / in:spam、wenallpapersstatus、本地论文仓库，未发现之后有效新投稿确认；当前回到待投稿。投稿系统历史信息：用户名 wenquan0817；显示名 quan WEN；投稿系统注册邮箱 wenquan@student.usm.my；ORCID 已绑定 0009-0005-3975-8104；未存储密码。</td>
 </tr>
 
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Digital-social connectedness and healthy ageing transitions in a multiple cohort study</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Nature Communications (Rejected: NCOMMS-26-049136) → npj Digital Medicine (Submission started)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Springer Nature SNAPP / npj Digital Medicine；draft URL: https://submission.springernature.com/new/submission/4d7dc6e8-9792-4955-8464-ac87844c4abf/upload-files；article type: Article；LaTeX source package: NPJDM_latex_source_package.zip；manuscript repo commit: a5afefa；data submodule commit: b002fd7；CDP 9225；final Submit not clicked.</td>
-</tr>
-
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防</td>
@@ -151,6 +145,12 @@
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">面向文化主题公共建筑老年用户的空间意义感知量表开发：因子分析研究设计</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Frontiers in Psychology (Editorial appointment assistance requested: 2026-06-09)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Frontiers submission portal / My Frontiers / Frontiers in Psychology；2026-06-09 19:04 Asia/Shanghai 收到 Frontiers 请求协助 appoint handling editor（Gmail messageId 19eac0e485aa751a），要求提供 3 名 editorial board preferred editors、3 名 external editors 及可能 research topics；邮件未列 manuscript ID；当前按需修订/需处理跟进。未存储密码。</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Digital-social connectedness and healthy ageing transitions in a multiple cohort study</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Nature Communications (Rejected: NCOMMS-26-049136) → npj Digital Medicine (Submitted / Technical Check: 2026-06-20)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / npj Digital Medicine；Submission ID：4d7dc6e8-9792-4955-8464-ac87844c4abf；2026-06-20 21:45:33 Asia/Shanghai 收到 Springer Nature receipt 邮件（Gmail messageId 19ee547b345ce5ef），成功页显示 “Submission received / Thank you for submitting to npj Digital Medicine”，稿件进入 initial Technical Check；2026-06-20 21:55:08 Asia/Shanghai 收到 Research Square tracking 邮件（Gmail messageId 19ee55075d692f58）。投稿系统账号信息（以 Springer Nature Manage your account / Linked accounts 页面为准）：显示名 QUAN WEN；投稿系统注册邮箱 wenquan6328@gmail.com；收稿确认邮件收件邮箱 Dr Wen &lt;wenquan@student.usm.my&gt;；Google 已链接 wenquan6328@gmail.com；ORCID 未链接（Linked accounts 页面 ORCID 显示 Link）。投稿系统作者（以 SNAPP 作者页/提交表单为准）：Quan Wen（primary corresponding，wenquan@student.usm.my）；Mazran Ismail（corresponding，mazran@usm.my）；Muhammad Hafeez Abdul Nasir；Yanting Wu。投稿系统作者与 LaTeX 作者一致，未发现不一致。上传包：NPJDM_latex_source_package.zip；supplementary_information.pdf；NPJDM_public_reproducibility_package.zip；cover_letter.pdf。LaTeX source package SHA256：9FDB207FF89F4A0680F0653A4B7521733416E5558C9156AB77CC4E423E13F1B2；public reproducibility package SHA256：50E70ACCC1BCD4513A25F74E874F69D22D33DC0D5E9C4877DBFC7556C7CB240C。论文主仓 commit：a5afefabc8680c85caa5d01da6793ec5df8231af；公开数据/代码子仓 commit：b002fd72948ce71641d87d2ed42b4f41778c887f；状态页提交启动记录 commit：967a25acd16d38e69c8b1f0a4e3c7fb958bb0582。公开补充包仅含代码、聚合分析输出、图表源数据、补充材料、探索性中介分析输出和审计说明；未上传或公开再分发 CHARLS/HRS/ELSA/SHARE/KLoSA/LASI/MHAS 等受限个体级原始二手数据。未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">

@@ -176,31 +176,6 @@
     "impactSort": -1
   },
   {
-    "statusDot": "⚪",
-    "status": "待投稿",
-    "statusOrder": 0,
-    "title": "Digital-social connectedness and healthy ageing transitions in a multiple cohort study",
-    "journalTrack": "Nature Communications (Rejected: NCOMMS-26-049136) → npj Digital Medicine (Submission started)",
-    "submissionSystemInfo": "Springer Nature / Nature Communications MTS；稿号：NCOMMS-26-049136；2026-06-17 Asia/Shanghai MTS 显示 “Thank you for your submission.”，确认已正式提交；2026-06-18 20:00 决定信显示 Nature Communications 拒稿且未送外审，Gmail 2026-06-19 00:34 Asia/Shanghai 收到/转发。编辑说明不质疑稿件有效性，但认为发现不足以构成 Nature Communications 所需的突破性和广泛兴趣；建议通过 manuscript transfer portal 考虑 npj Aging。投稿账号显示 Dr QUAN WEN；题名 Digital-social connectedness and healthy ageing transitions in a multiple cohort study；作者顺序：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；通讯作者：Quan Wen；MTS Code Availability URL：https://github.com/WENQUAN0816/NC01-Digital-social-connectedness-and-healthy-ageing-transitions-data；公开仓库仅含代码、聚合输出、图表源数据和审计说明，原始受限个体级二手数据未上传；提交确认截图：F:\\Temp\\ncomms_submission_success_NCOMMS-26-049136.png；拒稿证据：F:\\Temp\\gmail_ncomms_26049136_decision_text.txt；论文主库：https://github.com/WENQUAN0816/NC01-Digital-social-connectedness-and-healthy-ageing-transitions-in-a-multiple-cohort-study；提交基线 commit cc89339；当前需转投/重写定位；未存储密码。",
-    "bg": "#f2f2f2",
-    "updatedAt": "2026-06-20",
-    "currentJournal": "",
-    "similarity": "",
-    "casXr": "",
-    "cas": "",
-    "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
-    "recommendedJournals": "",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "situation": "Submission started (not yet completed) — npj Digital Medicine — 2026-06-20 — repo commit a5afefa. Springer Nature SNAPP draft opened for article type Article; LaTeX source package prepared and committed at the manuscript repository; final Submit has not been clicked. Previous status: 待投稿。2026-06-17 Asia/Shanghai Nature Communications MTS 显示 “Thank you for your submission.”，稿号 NCOMMS-26-049136，确认稿件已正式提交。2026-06-18 20:00 Nature Communications 决定信显示拒稿且未送外审，Gmail 2026-06-19 00:34 Asia/Shanghai 收到/转发。编辑说明不质疑稿件有效性，但认为发现不足以构成 Nature Communications 所需的突破性和广泛兴趣；建议通过 Springer Nature manuscript transfer portal 考虑 npj Aging。最终提交题名为 “Digital-social connectedness and healthy ageing transitions in a multiple cohort study”。MTS Code Availability URL 已填写公开复现仓库 https://github.com/WENQUAN0816/NC01-Digital-social-connectedness-and-healthy-ageing-transitions-data；该公开仓库仅含代码、聚合输出、图表源数据、补充材料和审计说明，未上传或公开再分发 CHARLS/HRS/ELSA/SHARE/KLoSA/LASI/MHAS 等受限个体级原始二手数据。论文主库为 https://github.com/WENQUAN0816/NC01-Digital-social-connectedness-and-healthy-ageing-transitions-in-a-multiple-cohort-study，提交基线 commit cc89339；提交确认截图保存于 F:\\Temp\\ncomms_submission_success_NCOMMS-26-049136.png；拒稿正文证据保存于 F:\\Temp\\gmail_ncomms_26049136_decision_text.txt。当前回到待投稿/转投决策状态。",
-    "impactSort": -1
-  },
-  {
     "statusDot": "💖",
     "status": "需修订",
     "statusOrder": 1,
@@ -324,6 +299,32 @@
     ],
     "situation": "需修订。Kingcha 2026-06-11 复核：英文题名为 “Developing the Spatial Meaning Perception Scale for Older Users of Cultural Themed Public Buildings: A Factor Analysis Research Design”。2026-06-09 19:04 Asia/Shanghai Frontiers in Psychology 来信请求协助 appoint handling editor（Gmail messageId 19eac0e485aa751a），要求提供 3 名 editorial board preferred editors、3 名 external editors 及可能 research topics；邮件未列 manuscript ID。按英文题名搜索 Gmail in:anywhere / in:spam、wenallpapersstatus 和 zhuxuejia paper-3 仓库，未发现该请求之后的处理完成证据；当前按需修订/需处理。",
     "impactSort": 2.9
+  },
+  {
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
+    "title": "Digital-social connectedness and healthy ageing transitions in a multiple cohort study",
+    "journalTrack": "Nature Communications (Rejected: NCOMMS-26-049136) → npj Digital Medicine (Submitted / Technical Check: 2026-06-20)",
+    "submissionSystemInfo": "Springer Nature SNAPP / npj Digital Medicine；Submission ID：4d7dc6e8-9792-4955-8464-ac87844c4abf；2026-06-20 21:45:33 Asia/Shanghai 收到 Springer Nature receipt 邮件（Gmail messageId 19ee547b345ce5ef），成功页显示 “Submission received / Thank you for submitting to npj Digital Medicine”，稿件进入 initial Technical Check；2026-06-20 21:55:08 Asia/Shanghai 收到 Research Square tracking 邮件（Gmail messageId 19ee55075d692f58）。投稿系统账号信息（以 Springer Nature Manage your account / Linked accounts 页面为准）：显示名 QUAN WEN；投稿系统注册邮箱 wenquan6328@gmail.com；收稿确认邮件收件邮箱 Dr Wen <wenquan@student.usm.my>；Google 已链接 wenquan6328@gmail.com；ORCID 未链接（Linked accounts 页面 ORCID 显示 Link）。投稿系统作者（以 SNAPP 作者页/提交表单为准）：Quan Wen（primary corresponding，wenquan@student.usm.my）；Mazran Ismail（corresponding，mazran@usm.my）；Muhammad Hafeez Abdul Nasir；Yanting Wu。投稿系统作者与 LaTeX 作者一致，未发现不一致。上传包：NPJDM_latex_source_package.zip；supplementary_information.pdf；NPJDM_public_reproducibility_package.zip；cover_letter.pdf。LaTeX source package SHA256：9FDB207FF89F4A0680F0653A4B7521733416E5558C9156AB77CC4E423E13F1B2；public reproducibility package SHA256：50E70ACCC1BCD4513A25F74E874F69D22D33DC0D5E9C4877DBFC7556C7CB240C。论文主仓 commit：a5afefabc8680c85caa5d01da6793ec5df8231af；公开数据/代码子仓 commit：b002fd72948ce71641d87d2ed42b4f41778c887f；状态页提交启动记录 commit：967a25acd16d38e69c8b1f0a4e3c7fb958bb0582。公开补充包仅含代码、聚合分析输出、图表源数据、补充材料、探索性中介分析输出和审计说明；未上传或公开再分发 CHARLS/HRS/ELSA/SHARE/KLoSA/LASI/MHAS 等受限个体级原始二手数据。未存储密码。",
+    "bg": "#fff8d9",
+    "updatedAt": "2026-06-20",
+    "currentJournal": "npj Digital Medicine",
+    "similarity": "",
+    "casXr": "CAS大1小1；XR大1小1",
+    "cas": "",
+    "xr": "",
+    "jcr": "",
+    "impactFactor": "",
+    "indexType": "SCIE",
+    "recommendedJournals": "",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "correspondingAuthors": [
+      "Quan Wen",
+      "Mazran Ismail"
+    ],
+    "situation": "内审中 / Technical Check。2026-06-20 21:45:33 Asia/Shanghai Springer Nature SNAPP / npj Digital Medicine receipt 邮件确认稿件 “Digital-social connectedness and healthy ageing transitions in a multiple cohort study” 已正式提交，Submission ID 4d7dc6e8-9792-4955-8464-ac87844c4abf；成功页显示 Submission received，并说明稿件处于 initial Technical Check。本次为 Nature Communications 拒稿（NCOMMS-26-049136，2026-06-18 decision）后的重投版本，已按 npj Digital Medicine LaTeX source workflow 上传 SNAPP 可编译源包，并上传 supplementary_information.pdf、NPJDM_public_reproducibility_package.zip 和 cover_letter.pdf。Springer 生成的 reviewer PDF 已下载检查，21 页，未发现 LaTeX Error、Undefined control sequence、Missing file、not found 或未解析 ??。投稿系统账号显示名 QUAN WEN，注册邮箱 wenquan6328@gmail.com；Google 已链接，ORCID 未链接；收稿确认邮件收件邮箱为 wenquan@student.usm.my。投稿系统作者以 SNAPP 为准：Quan Wen、Mazran Ismail、Muhammad Hafeez Abdul Nasir、Yanting Wu；与 LaTeX 作者一致，无需标注作者不一致。论文主仓 commit a5afefa；公开数据/代码子仓 commit b002fd7。当前等待 Springer Nature technical/editorial processing。",
+    "impactSort": -1
   },
   {
     "statusDot": "🟡",
