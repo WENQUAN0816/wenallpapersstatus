@@ -32,9 +32,9 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>8</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>10</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>5</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>45</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>43</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>6</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>64</strong></td></tr>
 </table>
@@ -123,6 +123,18 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Multimedia Tools and Applications (Rejected / withdrawal requested: MTAP-D-26-02294) → Pattern Recognition (Rejected: PR-D-26-07070)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Editorial Manager / Pattern Recognition；稿号 PR-D-26-07070；2026-06-04 06:10 Asia/Shanghai 收到 Decision on your Submission（Gmail messageId 19e8f89e2586519d），编辑认为稿件不适合 Pattern Recognition，建议可考虑 resubmission；按稿号和英文题名复核 Gmail in:anywhere / in:spam、wenallpapersstatus、本地论文仓库，未发现之后有效新投稿确认；当前回到待投稿。投稿系统历史信息：用户名 wenquan0817；显示名 quan WEN；投稿系统注册邮箱 wenquan@student.usm.my；ORCID 已绑定 0009-0005-3975-8104；未存储密码。</td>
 </tr>
 
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">cGAN 辅助的适老住宅改造多目标优化</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Buildings (Rejected: buildings-4331653) → Energy and Buildings (Rejected: ENB-D-26-04088) → Buildings (Declined: buildings-4392896) → Sustainability (Declined: sustainability-4415396)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">MDPI SuSy / Sustainability；Manuscript ID：sustainability-4415396；2026-06-18 15:59 Asia/Shanghai 收到 “[Sustainability] Manuscript ID: sustainability-4415396 - Submission Received” 正式确认邮件；2026-06-22 14:09 Asia/Shanghai 收到 “[Sustainability] Manuscript ID: sustainability-4415396 - Declined for Publication”（Gmail messageId 19eedf30dd4043a2），编辑部说明将不再处理该稿，筛选依据包括 discipline、novelty and general significance；题名：cGAN-Supported Multi-Objective Planning for Age-Friendly Home Renovation；投稿系统账号/显示名：Peng Chao；注册邮箱：hngmpengchao@gmail.com；投稿系统作者：Peng Chao *；按稿号和英文题名搜索 Gmail in:anywhere / in:spam、wenallpapersstatus 与 paper-45 仓库，未发现 2026-06-22 之后有效新投稿确认；当前回到待投稿。上传包：mdpi_sustainability_latex_source_20260618.zip；SHA256：5578973E92C4FAE5D75F332E6C8E81E6C9427CBAB38EEC001F2209B242BD0C91；论文仓库提交：3f1b6920a1cbd6648203f3afab47118416dea9b3；Funding：Henan Provincial Federation of Social Sciences / SKL2022608；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">城市老年住宅空间热舒适的多模态感知与物理信息神经网络评估</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Environmental Health (Rejected: 579316cb-d2eb-4722-b414-e73837087196) → Environmental Monitoring and Assessment (Rejected: a27a5499-04c1-4e02-a2ea-ae736dc4e58e) → Journal of Thermal Analysis and Calorimetry (Rejected: fa0928ba-ab5f-4b72-9bec-6cbb7fade993)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Springer Nature SNAPP / Journal of Thermal Analysis and Calorimetry；Submission ID：fa0928ba-ab5f-4b72-9bec-6cbb7fade993；RSID：rs-9638603；2026-06-18 05:13 Asia/Shanghai 在 Gmail Spam 收到 “Decision on your submission to Journal of Thermal Analysis and Calorimetry”（messageId 19ed76eea5bbfbd2），决定拒稿；编辑意见为稿件未聚焦 thermal analysis / thermo-analytical novel finding，scope not in line with the journal。2026-06-18 journal recommendations 与 2026-06-19 Research Square update 只属于转投/跟踪信息，不是有效新投稿。按 Submission ID 和英文题名搜索 Gmail in:anywhere / in:spam、wenallpapersstatus 与 paper-51-canonical，未发现 2026-06-18 之后有效新投稿确认；当前回到待投稿。未存储密码。</td>
+</tr>
+
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防</td>
@@ -157,12 +169,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Digital-social connectedness and healthy ageing transitions in a multiple cohort study</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Nature Communications (Rejected without external review: NCOMMS-26-049136) → npj Digital Medicine (Submitted / Technical Check: 4d7dc6e8-9792-4955-8464-ac87844c4abf; initial 2026-06-20; resubmitted 2026-06-23)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / npj Digital Medicine；Submission ID：4d7dc6e8-9792-4955-8464-ac87844c4abf；draft/submission URL id：46fe13ad-50ce-47e4-ace0-c97a76f652f3；2026-06-20 21:45:33 Asia/Shanghai 收到 Springer Nature receipt 邮件（Gmail messageId 19ee547b345ce5ef），成功页显示 “Submission received / Thank you for submitting to npj Digital Medicine”，稿件进入 initial Technical Check；2026-06-20 21:55:08 Asia/Shanghai 收到 Research Square tracking 邮件（Gmail messageId 19ee55075d692f58）。2026-06-22 16:49 Asia/Shanghai 收到 “Re: npj Digital Medicine-Amendment required”（Gmail messageId 19eee85b3664362f），技术检查要求明确 Table Citation {4,5} 的放置位置；2026-06-23 18:29 Asia/Shanghai 已通过 Springer Nature 成功页重新提交，页面显示 “Submission received / Thank you for submitting to npj Digital Medicine / Technical Check”。本次只在 manuscript.tex 中补充 Table~\ref{tab:history} 和 Table~\ref{tab:transitions} 引用，未改动结果数值、图表、作者或声明。上传包：NPJDM_latex_source_package.zip；supplementary_information.pdf；NPJDM_public_reproducibility_package.zip；cover_letter.pdf；revised LaTeX source package SHA256：8CE572C61D98C3EF17EC5259F099A0ADF2DB9E37F050268EF056AA37B8A21773；public reproducibility package SHA256：50E70ACCC1BCD4513A25F74E874F69D22D33DC0D5E9C4877DBFC7556C7CB240C。论文主仓 resubmission commit：60ddeee9aa58279629ab7405a9ea79025d460c09；公开数据/代码子仓 commit：b002fd72948ce71641d87d2ed42b4f41778c887f；成功页截图：F:\Temp\npjdm_resubmission_success_20260623.png。投稿系统账号信息（以 Springer Nature Manage your account / Linked accounts 页面为准）：显示名 QUAN WEN；投稿系统注册邮箱 wenquan6328@gmail.com；收稿确认邮件收件邮箱 Dr Wen &lt;wenquan@student.usm.my&gt;；Google 已链接 wenquan6328@gmail.com；ORCID 未链接（Linked accounts 页面 ORCID 显示 Link）。投稿系统作者（以 SNAPP 作者页/提交表单为准）：Quan Wen（primary corresponding，wenquan@student.usm.my）；Mazran Ismail（corresponding，mazran@usm.my）；Muhammad Hafeez Abdul Nasir；Yanting Wu。投稿系统作者与 LaTeX 作者一致，未发现不一致。公开补充包仅含代码、聚合分析输出、图表源数据、补充材料、探索性中介分析输出和审计说明；未上传或公开再分发 CHARLS/HRS/ELSA/SHARE/KLoSA/LASI/MHAS 等受限个体级原始二手数据。未存储密码。</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">cGAN 辅助的适老住宅改造多目标优化</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Buildings (Rejected: buildings-4331653) → Energy and Buildings (Rejected: ENB-D-26-04088) → Buildings (Declined: buildings-4392896) → Sustainability (Submitted: sustainability-4415396; 2026-06-18)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">MDPI SuSy / Sustainability；Manuscript ID：sustainability-4415396；2026-06-18 15:59 Asia/Shanghai 收到 “[Sustainability] Manuscript ID: sustainability-4415396 - Submission Received” 正式确认邮件；题名：cGAN-Supported Multi-Objective Planning for Age-Friendly Home Renovation；投稿系统账号/显示名：Peng Chao；注册邮箱：hngmpengchao@gmail.com；投稿系统作者（以 SuSy 收稿邮件为准）：Peng Chao *；本次 MDPI Sustainability 提交包与投稿系统均为 Peng Chao 单作者，和根目录/STBE 三作者旧源不一致，已按投稿系统作者标注；ORCID：本次 SuSy 收稿邮件和提交后可见页面未显示 ORCID，未确认绑定；上传包：mdpi_sustainability_latex_source_20260618.zip；SHA256：5578973E92C4FAE5D75F332E6C8E81E6C9427CBAB38EEC001F2209B242BD0C91；论文仓库提交：3f1b6920a1cbd6648203f3afab47118416dea9b3；Funding：Henan Provincial Federation of Social Sciences / SKL2022608；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -331,12 +337,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">双层级注意力增强迁移学习用于居家适老环境评估中的点云语义分割</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Big Data</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">城市老年住宅空间热舒适的多模态感知与物理信息神经网络评估</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Thermal Analysis and Calorimetry</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">

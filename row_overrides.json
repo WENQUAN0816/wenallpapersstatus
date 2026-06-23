@@ -68,15 +68,22 @@
     "updatedAt": "2026-05-30"
   },
   "cGAN 辅助的适老住宅改造多目标优化": {
-    "statusDot": "🟡",
-    "status": "内审中",
-    "journalTrack": "Buildings (Rejected: buildings-4331653) → Energy and Buildings (Rejected: ENB-D-26-04088) → Buildings (Declined: buildings-4392896) → Sustainability (Submitted: sustainability-4415396; 2026-06-18)",
-    "submissionSystemInfo": "MDPI SuSy / Sustainability；Manuscript ID：sustainability-4415396；2026-06-18 15:59 Asia/Shanghai 收到 “[Sustainability] Manuscript ID: sustainability-4415396 - Submission Received” 正式确认邮件；题名：cGAN-Supported Multi-Objective Planning for Age-Friendly Home Renovation；投稿系统账号/显示名：Peng Chao；注册邮箱：hngmpengchao@gmail.com；投稿系统作者（以 SuSy 收稿邮件为准）：Peng Chao *；本次 MDPI Sustainability 提交包与投稿系统均为 Peng Chao 单作者，和根目录/STBE 三作者旧源不一致，已按投稿系统作者标注；ORCID：本次 SuSy 收稿邮件和提交后可见页面未显示 ORCID，未确认绑定；上传包：mdpi_sustainability_latex_source_20260618.zip；SHA256：5578973E92C4FAE5D75F332E6C8E81E6C9427CBAB38EEC001F2209B242BD0C91；论文仓库提交：3f1b6920a1cbd6648203f3afab47118416dea9b3；Funding：Henan Provincial Federation of Social Sciences / SKL2022608；未存储密码。",
+    "statusDot": "⚪",
+    "status": "待投稿",
+    "journalTrack": "Buildings (Rejected: buildings-4331653) → Energy and Buildings (Rejected: ENB-D-26-04088) → Buildings (Declined: buildings-4392896) → Sustainability (Declined: sustainability-4415396)",
+    "submissionSystemInfo": "MDPI SuSy / Sustainability；Manuscript ID：sustainability-4415396；2026-06-18 15:59 Asia/Shanghai 收到 “[Sustainability] Manuscript ID: sustainability-4415396 - Submission Received” 正式确认邮件；2026-06-22 14:09 Asia/Shanghai 收到 “[Sustainability] Manuscript ID: sustainability-4415396 - Declined for Publication”（Gmail messageId 19eedf30dd4043a2），编辑部说明将不再处理该稿，筛选依据包括 discipline、novelty and general significance；题名：cGAN-Supported Multi-Objective Planning for Age-Friendly Home Renovation；投稿系统账号/显示名：Peng Chao；注册邮箱：hngmpengchao@gmail.com；投稿系统作者：Peng Chao *；按稿号和英文题名搜索 Gmail in:anywhere / in:spam、wenallpapersstatus 与 paper-45 仓库，未发现 2026-06-22 之后有效新投稿确认；当前回到待投稿。上传包：mdpi_sustainability_latex_source_20260618.zip；SHA256：5578973E92C4FAE5D75F332E6C8E81E6C9427CBAB38EEC001F2209B242BD0C91；论文仓库提交：3f1b6920a1cbd6648203f3afab47118416dea9b3；Funding：Henan Provincial Federation of Social Sciences / SKL2022608；未存储密码。",
     "authors": "Peng Chao（SuSy 投稿作者；根目录/STBE 旧源曾含 Quan Wen、Mazran Ismail、Muhammad Hafeez Abdul Nasir，已标注为不一致历史源）",
     "correspondingAuthors": [
       "Peng Chao"
     ],
-    "updatedAt": "2026-06-18"
+    "updatedAt": "2026-06-23"
+  },
+  "城市老年住宅空间热舒适的多模态感知与物理信息神经网络评估": {
+    "statusDot": "⚪",
+    "status": "待投稿",
+    "journalTrack": "Environmental Health (Rejected: 579316cb-d2eb-4722-b414-e73837087196) → Environmental Monitoring and Assessment (Rejected: a27a5499-04c1-4e02-a2ea-ae736dc4e58e) → Journal of Thermal Analysis and Calorimetry (Rejected: fa0928ba-ab5f-4b72-9bec-6cbb7fade993)",
+    "submissionSystemInfo": "Springer Nature SNAPP / Journal of Thermal Analysis and Calorimetry；Submission ID：fa0928ba-ab5f-4b72-9bec-6cbb7fade993；RSID：rs-9638603；2026-06-18 05:13 Asia/Shanghai 在 Gmail Spam 收到 “Decision on your submission to Journal of Thermal Analysis and Calorimetry”（messageId 19ed76eea5bbfbd2），决定拒稿；编辑意见为稿件未聚焦 thermal analysis / thermo-analytical novel finding，scope not in line with the journal。2026-06-18 journal recommendations 与 2026-06-19 Research Square update 只属于转投/跟踪信息，不是有效新投稿。按 Submission ID 和英文题名搜索 Gmail in:anywhere / in:spam、wenallpapersstatus 与 paper-51-canonical，未发现 2026-06-18 之后有效新投稿确认；当前回到待投稿。未存储密码。",
+    "updatedAt": "2026-06-23"
   },
   "住宅环境设计特征对老年人生理心理福祉影响的 VR 实验": {
     "statusDot": "🟡",
