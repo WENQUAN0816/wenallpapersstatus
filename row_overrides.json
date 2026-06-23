@@ -163,6 +163,17 @@
     ],
     "updatedAt": "2026-06-20"
   },
+  "Reversible frailty transitions in 459,215 observations across six international ageing cohorts": {
+    "statusDot": "⚪",
+    "status": "待投稿",
+    "journalTrack": "Nature Communications (Rejected without external review: NCOMMS-26-050520) → The Lancet Healthy Longevity (Submission started; not yet completed: 2026-06-23)",
+    "submissionSystemInfo": "The Lancet Healthy Longevity；Submission package prepared locally but not finally submitted；prior Nature Communications decision received 2026-06-23 02:21 Asia/Shanghai；main repo commit 155bfe79437ffd6768803e9a16d529aee8f8450e；LaTeX source package `lancet_healthy_longevity_latex_source.zip` generated in `submission_lancet_healthy_longevity`；target-journal citation audit found five relevant The Lancet Healthy Longevity references already cited；no submitted manuscript ID yet；final legal Submit remains manual user action.",
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
+    "updatedAt": "2026-06-23"
+  },
   "香港高层社区老年居民火灾韧性的循证评估框架": {
     "statusDot": "🟡",
     "status": "内审中",
