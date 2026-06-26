@@ -32,9 +32,9 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>10</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>9</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>5</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>43</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>44</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>6</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>64</strong></td></tr>
 </table>
@@ -79,12 +79,6 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">AccessPath：面向老年居家环境自动无障碍评估的拓扑图式无障碍通行分析</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Disability and Rehabilitation (Rejected: TIDS-05-2026-088)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Reversible frailty transitions in 459,215 observations across six international ageing cohorts</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Nature Communications (Rejected without external review: NCOMMS-26-050520) → The Lancet Healthy Longevity (Submission started; not yet completed: 2026-06-23)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">The Lancet Healthy Longevity；Submission package prepared locally but not finally submitted；prior Nature Communications decision received 2026-06-23 02:21 Asia/Shanghai；main repo commit 155bfe79437ffd6768803e9a16d529aee8f8450e；LaTeX source package `lancet_healthy_longevity_latex_source.zip` generated in `submission_lancet_healthy_longevity`；target-journal citation audit found five relevant The Lancet Healthy Longevity references already cited；no submitted manuscript ID yet；final legal Submit remains manual user action.</td>
 </tr>
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
@@ -163,6 +157,12 @@
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">面向文化主题公共建筑老年用户的空间意义感知量表开发：因子分析研究设计</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Frontiers in Psychology (Editorial appointment assistance requested: 2026-06-09)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Frontiers submission portal / My Frontiers / Frontiers in Psychology；2026-06-09 19:04 Asia/Shanghai 收到 Frontiers 请求协助 appoint handling editor（Gmail messageId 19eac0e485aa751a），要求提供 3 名 editorial board preferred editors、3 名 external editors 及可能 research topics；邮件未列 manuscript ID；当前按需修订/需处理跟进。未存储密码。</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Reversibility of frailty across six international ageing cohorts: a longitudinal multi-cohort study</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Nature Communications (Rejected without external review: NCOMMS-26-050520) → The Lancet Healthy Longevity (Submitted: THELANCETHEALTHYLONGEVITY-S-26-00967; user-confirmed 2026-06-26)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Editorial Manager / The Lancet Healthy Longevity；稿号：THELANCETHEALTHYLONGEVITY-S-26-00967；Document ID：36240；MSID：{4118A3F8-B5CE-4C7D-953E-F951FEDC2672}；用户确认 2026-06-26 已完成最终提交，当前按内审中/technical-editorial processing 跟踪；EM 生成的 LaTeX source PDF 已于 2026-06-24 02:59 Asia/Shanghai 保存并核验：35 页、45 篇参考文献、Figures 1-4 齐全、无 [?] 引用、无行号；投稿方式：main .tex 作为 manuscript/source，.bbl/.bib/elsarticle.cls/elsarticle-num.bst/figure PDFs 作为 LaTeX 依赖；投稿系统用户名：wenquan0817；显示/账号姓名：Dr. QUAN WEN, Ph.D；注册邮箱：wenquan@student.usm.my；ORCID：已认证绑定 0009-0005-3975-8104；投稿系统作者（以 portal/PDF 为准）：Quan Wen, Ph.D；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；LaTeX 作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；不一致说明：无实质作者或顺序不一致，EM 仅为 Quan Wen 加 Ph.D 学位显示；论文仓库：WENQUAN0816/NC02-Frailty-intrinsic-capacity-reversibility-trajectories；Gmail 本轮因 gog OAuth invalid_grant 未能复核确认邮件；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
