@@ -685,8 +685,8 @@
     "status": "内审中",
     "statusOrder": 2,
     "title": "老年游客对遗产建筑增强现实解说的接受度：扩展技术接受模型",
-    "journalTrack": "Applied Sciences (Rejected: applsci-4326225) → Sustainability (Rejected: sustainability-4335606) → Frontiers in Education (Submitted: 1889292)",
-    "submissionSystemInfo": "Frontiers submission portal / My Frontiers；用户名/显示名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定/可用于登录 0009-0005-3975-8104；核对时间：2026-05-23；未存储密码。",
+    "journalTrack": "Applied Sciences (Rejected: applsci-4326225) → Sustainability (Rejected: sustainability-4335606) → Frontiers in Education (R1 resubmitted: 1889292; 2026-06-26)",
+    "submissionSystemInfo": "Frontiers submission portal / My Frontiers；稿号：1889292；2026-06-26 Asia/Shanghai 用户确认 Frontiers interactive review / resubmission 已完成最终提交，当前按内审中 / editorial processing 跟踪；修订版文件：paper4_frontiers_manuscript_revised.pdf、paper4_frontiers_manuscript_revised.docx，已在 Frontiers resubmission 页面替换旧 PDF/DOCX 并保存；投稿系统用户名/显示名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定/可用于登录 0009-0005-3975-8104；投稿系统作者（以 portal 为准）：Xuejia Zhu；Suebsiri Saelee；Quan Wen；通讯作者：Suebsiri Saelee；LaTeX/修订稿作者：Xuejia Zhu；Suebsiri Saelee；注意：投稿系统作者与 LaTeX 作者栏不一致，状态页作者栏已标注。论文仓库 revision commit：a0f0cd9；核对时间：2026-06-26；Gmail 本轮因 gog OAuth invalid_grant 未能复核确认邮件；未存储密码。",
     "bg": "#fff8d9",
     "updatedAt": "2026-06-26",
     "currentJournal": "Frontiers in Education",
@@ -698,11 +698,11 @@
     "impactFactor": "",
     "indexType": "ESCI",
     "recommendedJournals": "",
-    "authors": "Xuejia Zhu；Suebsiri Saelee",
+    "authors": "Xuejia Zhu；Suebsiri Saelee；Quan Wen（Frontiers 投稿系统作者；LaTeX/修订稿作者栏为 Xuejia Zhu、Suebsiri Saelee，投稿系统作者与 LaTeX 作者不一致）",
     "correspondingAuthors": [
       "Suebsiri Saelee"
     ],
-    "situation": "内审中。2026-05-23 21:27 Asia/Shanghai 收到 Frontiers in Education 投稿确认邮件，主题为 “Your manuscript is submitted (ID 1889292)”，确认稿件 “Older Visitors' Acceptance of Augmented-Reality Heritage Interpretation: An Extended Technology Acceptance Model for Informal Cultural Heritage Learning” 已提交至 Frontiers in Education / Digital Education，文章类型 Hypothesis and Theory，稿号 1889292。此前 Applied Sciences applsci-4326225 与 Sustainability sustainability-4335606 均已 Declined/Rejected；本次为重新适配后新投。Frontiers 投稿系统账号显示名 Quan Wen，注册邮箱 wenquan@student.usm.my，ORCID 已绑定/可用于登录，0009-0005-3975-8104；未存储密码。论文仓库已推送 Frontiers 投稿包与记录，commit f67e618。当前等待 Frontiers 后续 technical/editorial processing。",
+    "situation": "内审中。2026-05-23 21:27 Asia/Shanghai 收到 Frontiers in Education 投稿确认邮件，主题为 “Your manuscript is submitted (ID 1889292)”，确认稿件 “Older Visitors' Acceptance of Augmented-Reality Heritage Interpretation: An Extended Technology Acceptance Model for Informal Cultural Heritage Learning” 已提交至 Frontiers in Education / Digital Education，文章类型 Hypothesis and Theory，稿号 1889292。此前 Applied Sciences applsci-4326225 与 Sustainability sustainability-4335606 均已 Declined/Rejected。2026-06-26 已完成 Frontiers interactive review / R1 resubmission：根据审稿意见压缩摘要、补强 museum/informal learning 理论桥接、明确 older-visitor heterogeneity、区分 H1/H2、加入年龄阈值与纳入/排除标准、样本量规划、每个潜变量候选条目、CFA/SEM 软件与 bootstrapped indirect effects、Figure 3 构念映射，并明确 H9 为 self-reported interpretive learning outcomes。Frontiers resubmission 页面中旧 PDF/DOCX 已删除，修订版 paper4_frontiers_manuscript_revised.pdf 与 paper4_frontiers_manuscript_revised.docx 已上传并保存；用户确认最终 resubmission 已提交。投稿系统账号显示名 Quan Wen，注册邮箱 wenquan@student.usm.my，ORCID 已绑定/可用于登录 0009-0005-3975-8104；投稿系统作者为 Xuejia Zhu、Suebsiri Saelee、Quan Wen，LaTeX/修订稿作者栏为 Xuejia Zhu、Suebsiri Saelee，存在作者栏不一致并已在作者/投稿系统信息中标注。论文仓库已推送修订稿、回复草稿和记录，commit a0f0cd9。2026-06-26 Gmail 因 gog OAuth invalid_grant 未能复核确认邮件；当前等待 Frontiers 后续 editorial/reviewer processing。",
     "impactSort": -1
   },
   {

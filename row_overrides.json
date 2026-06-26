@@ -187,5 +187,16 @@
     "journalTrack": "Humanities and Social Sciences Communications (Editorial Assessment: cfb4556c-32fb-44dc-bd9a-194025fff018)",
     "submissionSystemInfo": "Springer Nature SNAPP / Humanities and Social Sciences Communications；Submission ID：cfb4556c-32fb-44dc-bd9a-194025fff018；2026-06-09 16:30 Asia/Shanghai 收到 amendment required（Gmail messageId 19eab813b8409c55），要求修正 funding declaration；2026-06-11 12:56 Asia/Shanghai 编辑确认稿件已 moved forward for the next stage of Editorial Assessment（Gmail messageId 19eb509fae2d02f8）。投稿系统账号显示名 QUAN WEN；页面账号邮箱 wenquan6328@gmail.com；未存储密码。",
     "updatedAt": "2026-06-11"
+  },
+  "老年游客对遗产建筑增强现实解说的接受度：扩展技术接受模型": {
+    "statusDot": "🟡",
+    "status": "内审中",
+    "journalTrack": "Applied Sciences (Rejected: applsci-4326225) → Sustainability (Rejected: sustainability-4335606) → Frontiers in Education (R1 resubmitted: 1889292; 2026-06-26)",
+    "submissionSystemInfo": "Frontiers submission portal / My Frontiers；稿号：1889292；2026-06-26 Asia/Shanghai 用户确认 Frontiers interactive review / resubmission 已完成最终提交，当前按内审中 / editorial processing 跟踪；修订版文件：paper4_frontiers_manuscript_revised.pdf、paper4_frontiers_manuscript_revised.docx，已在 Frontiers resubmission 页面替换旧 PDF/DOCX 并保存；投稿系统用户名/显示名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定/可用于登录 0009-0005-3975-8104；投稿系统作者（以 portal 为准）：Xuejia Zhu；Suebsiri Saelee；Quan Wen；通讯作者：Suebsiri Saelee；LaTeX/修订稿作者：Xuejia Zhu；Suebsiri Saelee；注意：投稿系统作者与 LaTeX 作者栏不一致，状态页作者栏已标注。论文仓库 revision commit：a0f0cd9；核对时间：2026-06-26；Gmail 本轮因 gog OAuth invalid_grant 未能复核确认邮件；未存储密码。",
+    "authors": "Xuejia Zhu；Suebsiri Saelee；Quan Wen（Frontiers 投稿系统作者；LaTeX/修订稿作者栏为 Xuejia Zhu、Suebsiri Saelee，投稿系统作者与 LaTeX 作者不一致）",
+    "correspondingAuthors": [
+      "Suebsiri Saelee"
+    ],
+    "updatedAt": "2026-06-26"
   }
 }

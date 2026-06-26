@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-06-23
+> **最后更新：** 2026-06-26
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -19,6 +19,7 @@
 <tr><td>&#128150;</td><td>需修订</td></tr>
 <tr><td>&#128993;</td><td>内审中</td></tr>
 <tr><td>&#128994;</td><td>外审中</td></tr>
+<tr><td>✅</td><td>已接受</td></tr>
 </table>
 
 
@@ -36,7 +37,8 @@
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>5</td></tr>
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>44</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>6</td></tr>
-<tr><td><strong>合计</strong></td><td><strong>64</strong></td></tr>
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;"><td>✅ 已接受</td><td>1</td></tr>
+<tr><td><strong>合计</strong></td><td><strong>65</strong></td></tr>
 </table>
 </td>
 <td valign="top" width="66%">
@@ -240,7 +242,7 @@
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">老年游客对遗产建筑增强现实解说的接受度：扩展技术接受模型</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Applied Sciences (Rejected: applsci-4326225) → Sustainability (Rejected: sustainability-4335606) → Frontiers in Education (Submitted: 1889292)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Frontiers submission portal / My Frontiers；用户名/显示名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定/可用于登录 0009-0005-3975-8104；核对时间：2026-05-23；未存储密码。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Applied Sciences (Rejected: applsci-4326225) → Sustainability (Rejected: sustainability-4335606) → Frontiers in Education (R1 resubmitted: 1889292; 2026-06-26)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Frontiers submission portal / My Frontiers；稿号：1889292；2026-06-26 Asia/Shanghai 用户确认 Frontiers interactive review / resubmission 已完成最终提交，当前按内审中 / editorial processing 跟踪；修订版文件：paper4_frontiers_manuscript_revised.pdf、paper4_frontiers_manuscript_revised.docx，已在 Frontiers resubmission 页面替换旧 PDF/DOCX 并保存；投稿系统用户名/显示名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定/可用于登录 0009-0005-3975-8104；投稿系统作者（以 portal 为准）：Xuejia Zhu；Suebsiri Saelee；Quan Wen；通讯作者：Suebsiri Saelee；LaTeX/修订稿作者：Xuejia Zhu；Suebsiri Saelee；注意：投稿系统作者与 LaTeX 作者栏不一致，状态页作者栏已标注。论文仓库 revision commit：a0f0cd9；核对时间：2026-06-26；Gmail 本轮因 gog OAuth invalid_grant 未能复核确认邮件；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
