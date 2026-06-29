@@ -47,18 +47,18 @@
     "updatedAt": "2026-05-30"
   },
   "适老社区时序评估的贝叶斯元学习框架": {
-    "statusDot": "⚪",
-    "status": "待投稿",
-    "journalTrack": "BMC Medical Research Methodology (Rejected: f905dc2b-94cd-47e6-b4a4-4423c0a16ec8) → Energy (Rejected: EGY-D-26-10556) → Neurocomputing (Rejected: NEUCOM-D-26-11307)",
-    "submissionSystemInfo": "Elsevier New Submission Service / Editorial Manager / Neurocomputing；稿号：NEUCOM-D-26-11307；confirmation/draft UUID：1357795d-b948-489f-bcfb-74513a5ea8a3；确认时间：2026-05-30 03:16 Asia/Shanghai；拒稿时间：2026-05-31 00:03 Asia/Shanghai；未存储密码。",
-    "updatedAt": "2026-05-31"
+    "statusDot": "💖",
+    "status": "需修订",
+    "journalTrack": "BMC Medical Research Methodology (Rejected: f905dc2b-94cd-47e6-b4a4-4423c0a16ec8) → Energy (Rejected: EGY-D-26-10556) → Neurocomputing (Rejected: NEUCOM-D-26-11307) → Big Data Research (Action required / transfer not finalized: 2026-06-28)",
+    "submissionSystemInfo": "Elsevier Editorial Manager / Big Data Research；来源为 Neurocomputing article transfer，原稿号 NEUCOM-D-26-11307；2026-06-28 19:03:35 Asia/Shanghai 收到 Neurocomputing 转投通知（Gmail messageId 19f0de64a39ab034），说明相关数据和文件已转至 Big Data Research，但作者仍需在 Big Data Research 检查并批准后 submission 才能 finalised；2026-06-28 19:03:36 Asia/Shanghai Big Data Research 发出 requires action（Gmail messageId 19f0de64b8e42f3e），稿件位于 Submissions Sent Back to Author，technical comments 为空。当前按需修订/需作者操作处理，不能视为已完成新投稿。未存储密码。",
+    "updatedAt": "2026-06-28"
   },
   "用于老年住宅活动分区功能分类的空间图神经网络": {
-    "statusDot": "🟡",
-    "status": "内审中",
-    "journalTrack": "Neurocomputing (Submitted: NEUCOM-D-26-11293)",
-    "submissionSystemInfo": "Elsevier New Submission Service / Editorial Manager / Neurocomputing；稿号：NEUCOM-D-26-11293；confirmation/draft UUID：56c4c50d-d731-44ff-b861-2329b22a5261；邮件确认时间：2026-05-29 22:47 Asia/Shanghai（Gmail Spam）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；投稿系统注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；ORCID：已绑定/可用于登录 0009-0005-3975-8104（待门户个人资料页复核）；核对时间：2026-05-30；未存储密码。",
-    "updatedAt": "2026-05-30"
+    "statusDot": "⚪",
+    "status": "待投稿",
+    "journalTrack": "Neurocomputing (Rejected: NEUCOM-D-26-11293)",
+    "submissionSystemInfo": "Elsevier New Submission Service / Editorial Manager / Neurocomputing；稿号：NEUCOM-D-26-11293；confirmation/draft UUID：56c4c50d-d731-44ff-b861-2329b22a5261；2026-05-29 22:47 Asia/Shanghai 投稿确认邮件位于 Gmail Spam（messageId 19e7434b0a837405）；2026-06-27 19:06:34 Asia/Shanghai 收到 Neurocomputing 拒稿邮件，位于 Gmail Spam（messageId 19f08c2ce33f435b），编辑认为稿件不适合该刊 readership，作者意见为 lack of sufficient novelty；未发现此后有效新投稿确认。未存储密码。",
+    "updatedAt": "2026-06-27"
   },
   "社区老年日间照料中心多模态热舒适的时空深度学习评估与预测": {
     "statusDot": "🟡",
@@ -146,10 +146,18 @@
     "updatedAt": "2026-06-11"
   },
   "老年用户对居家养老智能家居传感器系统的接受度：整合技术接受模型、隐私计算理论与空间自主性": {
-    "statusDot": "💖",
-    "status": "需修订",
-    "journalTrack": "BMC Psychology → PLOS ONE (Edits requested: PONE-D-26-22334)",
-    "updatedAt": "2026-05-31"
+    "statusDot": "⚪",
+    "status": "待投稿",
+    "journalTrack": "BMC Psychology → PLOS ONE (Withdrawn: PONE-D-26-22334)",
+    "submissionSystemInfo": "Editorial Manager / PLOS ONE；稿号：PONE-D-26-22334；2026-06-15 16:56:35 Asia/Shanghai PLOS ONE 再次发出 edits requested / reminder（Gmail messageId 19eca7f3b820c2a3），要求上传 original ethics approval document 并继续原 submission；2026-06-29 09:53:33 Asia/Shanghai PDF built 邮件（Gmail messageId 19f1114f50ef4db6）只要求 approve PDF to complete submission，不能视为完成提交；2026-06-29 09:55:48 Asia/Shanghai PLOS ONE 通知 PONE-D-26-22334 已 withdrawn from review process（Gmail messageId 19f1117053d33f4b）。当前无有效在投记录，按待投稿处理。未存储密码。",
+    "updatedAt": "2026-06-29"
+  },
+  "面向老年人的15分钟城市：健康与适老城市化的操作框架": {
+    "statusDot": "⚪",
+    "status": "待投稿",
+    "journalTrack": "Scientific Reports (Rejected: 18f592ab-282a-47fb-91c9-3bd372a0da53)",
+    "submissionSystemInfo": "Springer Nature / Scientific Reports；Submission ID：18f592ab-282a-47fb-91c9-3bd372a0da53；2026-06-23 21:38:42 Asia/Shanghai 收到 Scientific Reports 拒稿决定（Gmail messageId 19ef4b47b69a9f68），编辑认为数据限制使结论无法充分成立，并指出 scientific rigour / validity concerns；2026-06-24 21:27:42 Asia/Shanghai Research Square 通知该稿 no longer undergoing peer review at Scientific Reports（Gmail messageId 19ef9d0c7f5b11c9，RSID rs-8878196）。未发现此后有效新投稿确认；当前待投稿。未存储密码。",
+    "updatedAt": "2026-06-24"
   },
   "多模态情绪特征可视化映射与智能交互设计": {
     "statusDot": "💖",
@@ -161,14 +169,14 @@
   "Digital-social connectedness and healthy ageing transitions in a multiple cohort study": {
     "statusDot": "🟡",
     "status": "内审中",
-    "journalTrack": "Nature Communications (Rejected without external review: NCOMMS-26-049136) → npj Digital Medicine (Submitted / Technical Check: 4d7dc6e8-9792-4955-8464-ac87844c4abf; initial 2026-06-20; resubmitted 2026-06-23)",
-    "submissionSystemInfo": "Springer Nature SNAPP / npj Digital Medicine；Submission ID：4d7dc6e8-9792-4955-8464-ac87844c4abf；draft/submission URL id：46fe13ad-50ce-47e4-ace0-c97a76f652f3；2026-06-20 21:45:33 Asia/Shanghai 收到 Springer Nature receipt 邮件（Gmail messageId 19ee547b345ce5ef），成功页显示 “Submission received / Thank you for submitting to npj Digital Medicine”，稿件进入 initial Technical Check；2026-06-20 21:55:08 Asia/Shanghai 收到 Research Square tracking 邮件（Gmail messageId 19ee55075d692f58）。2026-06-22 16:49 Asia/Shanghai 收到 “Re: npj Digital Medicine-Amendment required”（Gmail messageId 19eee85b3664362f），技术检查要求明确 Table Citation {4,5} 的放置位置；2026-06-23 18:29 Asia/Shanghai 已通过 Springer Nature 成功页重新提交，页面显示 “Submission received / Thank you for submitting to npj Digital Medicine / Technical Check”。本次只在 manuscript.tex 中补充 Table~\\ref{tab:history} 和 Table~\\ref{tab:transitions} 引用，未改动结果数值、图表、作者或声明。上传包：NPJDM_latex_source_package.zip；supplementary_information.pdf；NPJDM_public_reproducibility_package.zip；cover_letter.pdf；revised LaTeX source package SHA256：8CE572C61D98C3EF17EC5259F099A0ADF2DB9E37F050268EF056AA37B8A21773；public reproducibility package SHA256：50E70ACCC1BCD4513A25F74E874F69D22D33DC0D5E9C4877DBFC7556C7CB240C。论文主仓 resubmission commit：60ddeee9aa58279629ab7405a9ea79025d460c09；公开数据/代码子仓 commit：b002fd72948ce71641d87d2ed42b4f41778c887f；成功页截图：F:\\Temp\\npjdm_resubmission_success_20260623.png。投稿系统账号信息（以 Springer Nature Manage your account / Linked accounts 页面为准）：显示名 QUAN WEN；投稿系统注册邮箱 wenquan6328@gmail.com；收稿确认邮件收件邮箱 Dr Wen <wenquan@student.usm.my>；Google 已链接 wenquan6328@gmail.com；ORCID 未链接（Linked accounts 页面 ORCID 显示 Link）。投稿系统作者（以 SNAPP 作者页/提交表单为准）：Quan Wen（primary corresponding，wenquan@student.usm.my）；Mazran Ismail（corresponding，mazran@usm.my）；Muhammad Hafeez Abdul Nasir；Yanting Wu。投稿系统作者与 LaTeX 作者一致，未发现不一致。公开补充包仅含代码、聚合分析输出、图表源数据、补充材料、探索性中介分析输出和审计说明；未上传或公开再分发 CHARLS/HRS/ELSA/SHARE/KLoSA/LASI/MHAS 等受限个体级原始二手数据。未存储密码。",
+    "journalTrack": "Nature Communications (Rejected without external review: NCOMMS-26-049136) → npj Digital Medicine (Editorial Assessment: 4d7dc6e8-9792-4955-8464-ac87844c4abf; initial 2026-06-20; resubmitted 2026-06-23; editor confirmed 2026-06-24)",
+    "submissionSystemInfo": "Springer Nature SNAPP / npj Digital Medicine；Submission ID：4d7dc6e8-9792-4955-8464-ac87844c4abf；draft/submission URL id：46fe13ad-50ce-47e4-ace0-c97a76f652f3；2026-06-20 21:45:33 Asia/Shanghai 收到 Springer Nature receipt 邮件（Gmail messageId 19ee547b345ce5ef），成功页显示 “Submission received / Thank you for submitting to npj Digital Medicine”，稿件进入 initial Technical Check；2026-06-20 21:55:08 Asia/Shanghai 收到 Research Square tracking 邮件（Gmail messageId 19ee55075d692f58）。2026-06-22 16:49 Asia/Shanghai 收到 “Re: npj Digital Medicine-Amendment required”（Gmail messageId 19eee85b3664362f），技术检查要求明确 Table Citation {4,5} 的放置位置；2026-06-23 18:29 Asia/Shanghai 已通过 Springer Nature 成功页重新提交，页面显示 “Submission received / Thank you for submitting to npj Digital Medicine / Technical Check”；2026-06-24 14:08:44 Asia/Shanghai 编辑部回复已 moved forward for the next stage of Editorial Assessment（Gmail messageId 19ef83ecdb724afe）。本次只在 manuscript.tex 中补充 Table~\\ref{tab:history} 和 Table~\\ref{tab:transitions} 引用，未改动结果数值、图表、作者或声明。上传包：NPJDM_latex_source_package.zip；supplementary_information.pdf；NPJDM_public_reproducibility_package.zip；cover_letter.pdf；revised LaTeX source package SHA256：8CE572C61D98C3EF17EC5259F099A0ADF2DB9E37F050268EF056AA37B8A21773；public reproducibility package SHA256：50E70ACCC1BCD4513A25F74E874F69D22D33DC0D5E9C4877DBFC7556C7CB240C。论文主仓 resubmission commit：60ddeee9aa58279629ab7405a9ea79025d460c09；公开数据/代码子仓 commit：b002fd72948ce71641d87d2ed42b4f41778c887f；成功页截图：F:\\Temp\\npjdm_resubmission_success_20260623.png。投稿系统账号信息（以 Springer Nature Manage your account / Linked accounts 页面为准）：显示名 QUAN WEN；投稿系统注册邮箱 wenquan6328@gmail.com；收稿确认邮件收件邮箱 Dr Wen <wenquan@student.usm.my>；Google 已链接 wenquan6328@gmail.com；ORCID 未链接（Linked accounts 页面 ORCID 显示 Link）。投稿系统作者（以 SNAPP 作者页/提交表单为准）：Quan Wen（primary corresponding，wenquan@student.usm.my）；Mazran Ismail（corresponding，mazran@usm.my）；Muhammad Hafeez Abdul Nasir；Yanting Wu。投稿系统作者与 LaTeX 作者一致，未发现不一致。公开补充包仅含代码、聚合分析输出、图表源数据、补充材料、探索性中介分析输出和审计说明；未上传或公开再分发 CHARLS/HRS/ELSA/SHARE/KLoSA/LASI/MHAS 等受限个体级原始二手数据。未存储密码。",
     "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
     "correspondingAuthors": [
       "Quan Wen",
       "Mazran Ismail"
     ],
-    "updatedAt": "2026-06-23"
+    "updatedAt": "2026-06-24"
   },
   "Reversibility of frailty across six international ageing cohorts: a longitudinal multi-cohort study": {
     "statusDot": "🟡",

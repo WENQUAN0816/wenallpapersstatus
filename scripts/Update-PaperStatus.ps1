@@ -546,6 +546,8 @@ $PaperTable
 }
 
 $Readme = [System.IO.File]::ReadAllText($ReadmePath, $Utf8NoBom)
+$Today = Get-Date -Format 'yyyy-MM-dd'
+$Readme = [regex]::Replace($Readme, '(?m)^> \*\*最后更新：\*\* \d{4}-\d{2}-\d{2}', "> **最后更新：** $Today", 1)
 $Readme = [regex]::Replace($Readme, '(?s)\s*<style>.*?</style>\s*', "$NewLine$NewLine", 1)
 $BodyMatch = [regex]::Match($Readme, '(?s)(<tbody>\s*)(.*?)(\s*</tbody>)')
 if (-not $BodyMatch.Success) {

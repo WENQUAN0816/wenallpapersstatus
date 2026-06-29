@@ -495,23 +495,24 @@ def parse_row_overrides():
 
 def parse_situation_from_readme():
     out = {}
-    override_path = ROOT / "situation_overrides.json"
-    if override_path.exists():
-        out.update(json.loads(override_path.read_text(encoding="utf-8")))
-
     path = ROOT / "README.md"
     if not path.exists():
         path = HOME / "wenallpapersstatus" / "README.md"
     if not path.exists():
-        return out
-    text = path.read_text(encoding="utf-8")
-    for tr in re.findall(r"<tr[^>]*>[\s\S]*?</tr>", text, flags=re.I):
-        cells = re.findall(r"<td[^>]*>([\s\S]*?)</td>", tr, flags=re.I)
-        if len(cells) >= 5:
-            title = clean_cell(cells[2])
-            situation = clean_cell(cells[4])
-            if title and situation:
-                out[title] = situation
+        path = None
+    if path:
+        text = path.read_text(encoding="utf-8")
+        for tr in re.findall(r"<tr[^>]*>[\s\S]*?</tr>", text, flags=re.I):
+            cells = re.findall(r"<td[^>]*>([\s\S]*?)</td>", tr, flags=re.I)
+            if len(cells) >= 5:
+                title = clean_cell(cells[2])
+                situation = clean_cell(cells[4])
+                if title and situation:
+                    out[title] = situation
+
+    override_path = ROOT / "situation_overrides.json"
+    if override_path.exists():
+        out.update(json.loads(override_path.read_text(encoding="utf-8")))
     return out
 
 
