@@ -33,8 +33,8 @@
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>11</td></tr>
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>5</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>43</td></tr>
+<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>4</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>44</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>5</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>64</strong></td></tr>
 </table>
@@ -143,12 +143,6 @@
 
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">适老社区时序评估的贝叶斯元学习框架</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">BMC Medical Research Methodology (Rejected: f905dc2b-94cd-47e6-b4a4-4423c0a16ec8) → Energy (Rejected: EGY-D-26-10556) → Neurocomputing (Rejected: NEUCOM-D-26-11307) → Big Data Research (Action required / transfer not finalized: 2026-06-28)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Elsevier Editorial Manager / Big Data Research；来源为 Neurocomputing article transfer，原稿号 NEUCOM-D-26-11307；2026-06-28 19:03:35 Asia/Shanghai 收到 Neurocomputing 转投通知（Gmail messageId 19f0de64a39ab034），说明相关数据和文件已转至 Big Data Research，但作者仍需在 Big Data Research 检查并批准后 submission 才能 finalised；2026-06-28 19:03:36 Asia/Shanghai Big Data Research 发出 requires action（Gmail messageId 19f0de64b8e42f3e），稿件位于 Submissions Sent Back to Author，technical comments 为空。当前按需修订/需作者操作处理，不能视为已完成新投稿。未存储密码。</td>
-</tr>
-
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">IEEE Access → The Journal of Nutrition, Health and Aging (JNHA) → PLOS ONE (Edits requested: PONE-D-26-22394)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Editorial Manager / PLOS ONE；用户名/显示名：QUAN WEN / quan wen；投稿系统注册邮箱：wenquan6328@gmail.com；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-21；未存储密码。</td>
 </tr>
@@ -169,6 +163,12 @@
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">面向文化主题公共建筑老年用户的空间意义感知量表开发：因子分析研究设计</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Frontiers in Psychology (Editorial appointment assistance requested: 2026-06-09)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Frontiers submission portal / My Frontiers / Frontiers in Psychology；2026-06-09 19:04 Asia/Shanghai 收到 Frontiers 请求协助 appoint handling editor（Gmail messageId 19eac0e485aa751a），要求提供 3 名 editorial board preferred editors、3 名 external editors 及可能 research topics；邮件未列 manuscript ID；当前按需修订/需处理跟进。未存储密码。</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">适老社区时序评估的贝叶斯元学习框架</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">BMC Medical Research Methodology (Rejected: f905dc2b-94cd-47e6-b4a4-4423c0a16ec8) → Energy (Rejected: EGY-D-26-10556) → Neurocomputing (Rejected: NEUCOM-D-26-11307) → Big Data Research (Submitted / With Editor: BDR-D-26-00946; 2026-06-29)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier Editorial Manager / Big Data Research；稿号：BDR-D-26-00946；来源为 Neurocomputing article transfer，原稿号 NEUCOM-D-26-11307；2026-06-29 BDR Author Dashboard 显示 Submissions Being Processed (1)，稿件状态 With Editor；2026-06-29 Update My Information 页面确认投稿系统用户名 QWen-782，页面显示名 Quan Wen，注册邮箱 wenquan@student.usm.my；ORCID 字段未显示 / 未确认绑定；投稿系统作者（以 portal 为准）：Quan Wen；Dr. Mazran Ismail；Yanting Wu；Dr. Muhammad Hafeez Abdul Nasir；投稿系统作者与 LaTeX 作者一致；历史：2026-06-28 19:03:35 Asia/Shanghai Neurocomputing 转投通知，2026-06-28 19:03:36 Asia/Shanghai Big Data Research requires action 仅是转投后待作者操作阶段，已被 2026-06-29 的 With Editor 状态覆盖；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
