@@ -407,25 +407,25 @@
     "status": "内审中",
     "statusOrder": 2,
     "title": "Reversibility of frailty across six international ageing cohorts: a longitudinal multi-cohort study",
-    "journalTrack": "Nature Communications (Rejected without external review: NCOMMS-26-050520) → The Lancet Healthy Longevity (Submitted: THELANCETHEALTHYLONGEVITY-S-26-00967; user-confirmed 2026-06-26)",
-    "submissionSystemInfo": "Editorial Manager / The Lancet Healthy Longevity；稿号：THELANCETHEALTHYLONGEVITY-S-26-00967；Document ID：36240；MSID：{4118A3F8-B5CE-4C7D-953E-F951FEDC2672}；用户确认 2026-06-26 已完成最终提交，当前按内审中/technical-editorial processing 跟踪；EM 生成的 LaTeX source PDF 已于 2026-06-24 02:59 Asia/Shanghai 保存并核验：35 页、45 篇参考文献、Figures 1-4 齐全、无 [?] 引用、无行号；投稿方式：main .tex 作为 manuscript/source，.bbl/.bib/elsarticle.cls/elsarticle-num.bst/figure PDFs 作为 LaTeX 依赖；投稿系统用户名：wenquan0817；显示/账号姓名：Dr. QUAN WEN, Ph.D；注册邮箱：wenquan@student.usm.my；ORCID：已认证绑定 0009-0005-3975-8104；投稿系统作者（以 portal/PDF 为准）：Quan Wen, Ph.D；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；LaTeX 作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；不一致说明：无实质作者或顺序不一致，EM 仅为 Quan Wen 加 Ph.D 学位显示；论文仓库：WENQUAN0816/NC02-Frailty-intrinsic-capacity-reversibility-trajectories；Gmail 本轮因 gog OAuth invalid_grant 未能复核确认邮件；未存储密码。",
+    "journalTrack": "Nature Communications (Rejected without external review: NCOMMS-26-050520) → The Lancet Healthy Longevity (Rejected: THELANCETHEALTHYLONGEVITY-D-26-00751 / THELANCETHEALTHYLONGEVITY-S-26-00967; decision 2026-06-29) → BMC Medicine (Submitted / Technical Check: SNAPP draft 46cd20af-e62d-4038-b983-5c2a0d1eff6d; 2026-06-30)",
+    "submissionSystemInfo": "Springer Nature SNAPP / BMC Medicine；SNAPP draft/submission URL id：46cd20af-e62d-4038-b983-5c2a0d1eff6d；2026-06-30 Asia/Shanghai 最终提交成功，成功页显示 “Submission received / Thank you for submitting to BMC Medicine”，并说明稿件已进入 Technical Check。投稿系统账号显示名：QUAN WEN；账号邮箱：wenquan6328@gmail.com；Google 登录；Research Square/In Review 预印本选项已选择 No / opted out；投稿系统作者（以 SNAPP Review 页和系统 PDF 为准）：Quan Wen（primary corresponding author，wenquan@hngm.edu.cn；Universiti Sains Malaysia + Henan Industry and Trade Vocational College）、Mazran Ismail（mazran@usm.my；Universiti Sains Malaysia）、Muhammad Hafeez Abdul Nasir（hafeez.abdnasir@usm.my；Universiti Sains Malaysia）、Yanting Wu（wuyanting@kfzxyy.com；Kaifeng Central Hospital）。上传文件：NC02_BMC_Medicine_latex_source.zip；cover_letter_bmc_medicine.pdf；related files：title_page_bmc_medicine.pdf、highlights_bmc_medicine.pdf。系统生成 review PDF 已保存为 NC02 仓库 `submission_bmc_medicine/files_to_upload/BMC_Medicine_SNAPP_generated_review_pdf_20260630.pdf` 并核验：35 页，标题、四位作者、三家机构、Declarations、References 和 Figures 1-4 齐全；无 LaTeX error 文本、缺图文本、unresolved citation markers 或 TeX log pages。历史：Nature Communications 稿号 NCOMMS-26-050520 于 2026-06-22/23 拒稿且未送外审；The Lancet Healthy Longevity 于 2026-06-29 决定邮件说明无法优先考虑该稿用于 The Lancet Healthy Longevity 或其他 Lancet 期刊；随后转投 BMC Medicine。论文仓库：WENQUAN0816/NC02-Frailty-intrinsic-capacity-reversibility-trajectories；未存储密码。",
     "bg": "#fff8d9",
-    "updatedAt": "2026-06-26",
-    "currentJournal": "The Lancet Healthy Longevity",
+    "updatedAt": "2026-06-30",
+    "currentJournal": "BMC Medicine",
     "similarity": "",
     "casXr": "CAS大1小1；XR大1小1",
     "cas": "",
     "xr": "",
-    "jcr": "",
-    "impactFactor": "",
+    "jcr": "Q1",
+    "impactFactor": "8.7",
     "indexType": "SCIE",
     "recommendedJournals": "",
     "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "situation": "内审中 / Submitted to The Lancet Healthy Longevity。Nature Communications 稿号 NCOMMS-26-050520 于 2026-06-22 14:21:22 -0400 发出 reject without external review 决定，本地接收时间为 2026-06-23 02:21 Asia/Shanghai；编辑未质疑有效性，但认为 advance 不足以进入 Nature Communications。2026-06-23 起改投 The Lancet Healthy Longevity，最终题名为 “Reversibility of frailty across six international ageing cohorts: a longitudinal multi-cohort study”（旧准备题名/状态页旧键为 “Reversible frailty transitions in 459,215 observations across six international ageing cohorts”）。本地提交包位于 NC02 仓库 submission_lancet_healthy_longevity，使用 Elsevier elsarticle LaTeX 模板；正文直接 input 生成的 .bbl，以便 Editorial Manager 单次 LaTeX 编译能显示参考文献；图件以 PDF 依赖上传；正文无行号。2026-06-24 02:59 Asia/Shanghai 保存并核验 EM 生成 PDF：35 页、45 篇参考文献、Figures 1-4 齐全、无 unresolved [?] 引用、无行号。用户于 2026-06-26 确认已完成最终提交，稿号 THELANCETHEALTHYLONGEVITY-S-26-00967，Document ID 36240，MSID {4118A3F8-B5CE-4C7D-953E-F951FEDC2672}，当前按内审中/technical-editorial processing 跟踪。投稿系统作者（portal/PDF）：Quan Wen, Ph.D；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu。LaTeX 作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu。无实质作者或顺序不一致，EM 仅为 Quan Wen 加 Ph.D 学位显示。投稿系统注册邮箱为 wenquan@student.usm.my，稿件通讯邮箱为 wenquan@hngm.edu.cn；ORCID 已认证绑定 0009-0005-3975-8104。Gmail 本轮因 gog OAuth invalid_grant 未能复核确认邮件；未存储密码。",
-    "impactSort": -1
+    "situation": "内审中 / BMC Medicine Technical Check。Nature Communications 稿号 NCOMMS-26-050520 于 2026-06-22 14:21:22 -0400 发出 reject without external review 决定，本地接收时间为 2026-06-23 02:21 Asia/Shanghai；编辑未质疑有效性，但认为 advance 不足以进入 Nature Communications。2026-06-23 起改投 The Lancet Healthy Longevity，最终题名为 “Reversibility of frailty across six international ageing cohorts: a longitudinal multi-cohort study”；用户于 2026-06-26 确认已完成 Lancet Healthy Longevity 最终提交，稿号 THELANCETHEALTHYLONGEVITY-S-26-00967，Document ID 36240，MSID {4118A3F8-B5CE-4C7D-953E-F951FEDC2672}。2026-06-29 The Lancet Healthy Longevity 决定邮件说明该稿无法被优先考虑用于 The Lancet Healthy Longevity 或其他 Lancet 期刊。2026-06-30 已转投 BMC Medicine（IF 8.7，Research article），题名改为 “Frailty is not a one-way path: reversible transitions across six international ageing cohorts”。Springer Nature SNAPP 成功页显示 “Submission received / Thank you for submitting to BMC Medicine”，并说明稿件现在处于 Technical Check。投稿账号显示名 QUAN WEN，账号邮箱 wenquan6328@gmail.com；Research Square/In Review 预印本选项已 opt out。SNAPP 作者顺序与稿件一致：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；Quan Wen 为 primary corresponding author。上传文件包括 LaTeX source zip、cover letter，以及 related files title page 和 highlights。系统生成 review PDF 已下载并核验为 35 页，标题、作者、机构、Declarations、References 和 Figures 1-4 齐全，无 LaTeX error、缺图、unresolved citation markers 或 TeX log pages。当前按内审中 / Technical Check 跟踪。",
+    "impactSort": 8.7
   },
   {
     "statusDot": "🟡",
