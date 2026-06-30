@@ -34,9 +34,9 @@
 <tr><th>状态</th><th>数量</th></tr>
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>11</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>4</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>44</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>45</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>5</td></tr>
-<tr><td><strong>合计</strong></td><td><strong>64</strong></td></tr>
+<tr><td><strong>合计</strong></td><td><strong>65</strong></td></tr>
 </table>
 </td>
 <td valign="top" width="66%">
@@ -180,7 +180,7 @@
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Multidomain ageing-burden trajectories define healthy-ageing transitions across harmonized cohorts</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Nature Aging (Submitted: NATAGING-A14708; 2026-06-30)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature MTS / Nature Aging；tracking number：NATAGING-A14708；2026-06-30 成功提交并确认 Manuscript approved / Submission complete。投稿系统显示名：QUAN WEN；投稿系统用户名：WENQUAN0817；投稿系统注册邮箱：wenquan6328@gmail.com；Nature Aging 账户页显示 ORCID 0009-0005-3975-8104 且为 linked；账户页 secondary email 显示 wenquan@student.usm.my；投稿系统作者（以 portal 为准）：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；portal summary only marked Quan Wen as Corr, while the LaTeX title page marks Dr. Mazran Ismail as co-corresponding; author names otherwise match the manuscript list;上传文件：manuscript.pdf、cover_letter.pdf、reproducibility_package.zip（Additional Review Material）；未存储密码.</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Nature Aging (Submitted: NATAGING-A14708; 2026-06-30)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature MTS / Nature Aging；tracking number：NATAGING-A14708；2026-06-30 成功提交并确认 Manuscript approved / Submission complete。投稿系统显示名：QUAN WEN；投稿系统用户名：WENQUAN0817；投稿系统注册邮箱：wenquan6328@gmail.com；Nature Aging 账户页显示 ORCID 0009-0005-3975-8104 且为 linked；账户页 secondary email 显示 wenquan@student.usm.my；投稿系统作者（以 portal 为准）：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；portal summary only marked Quan Wen as Corr, while the LaTeX title page marks Dr. Mazran Ismail as co-corresponding; authors otherwise match the manuscript list;上传文件：manuscript.pdf、cover_letter.pdf、reproducibility_package.zip（Additional Review Material）；未存储密码.</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
