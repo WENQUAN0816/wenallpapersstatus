@@ -404,28 +404,28 @@
   },
   {
     "statusDot": "🟡",
-    "status": "内审中",
+    "status": "内审中 / 投稿中（尚未最终提交）",
     "statusOrder": 2,
     "title": "Reversibility of frailty across six international ageing cohorts: a longitudinal multi-cohort study",
-    "journalTrack": "Nature Communications (Rejected without external review: NCOMMS-26-050520) → The Lancet Healthy Longevity (Rejected: THELANCETHEALTHYLONGEVITY-D-26-00751 / THELANCETHEALTHYLONGEVITY-S-26-00967; decision 2026-06-29) → BMC Medicine (Submitted / Technical Check: SNAPP draft 46cd20af-e62d-4038-b983-5c2a0d1eff6d; 2026-06-30)",
-    "submissionSystemInfo": "Springer Nature SNAPP / BMC Medicine；SNAPP draft/submission URL id：46cd20af-e62d-4038-b983-5c2a0d1eff6d；2026-06-30 Asia/Shanghai 最终提交成功，成功页显示 “Submission received / Thank you for submitting to BMC Medicine”，并说明稿件已进入 Technical Check。投稿系统账号显示名：QUAN WEN；账号邮箱：wenquan6328@gmail.com；Google 已链接 wenquan6328@gmail.com；Springer Nature Linked accounts 页面中 ORCID 显示 Link，提交后核验为 ORCID 未绑定；Research Square/In Review 预印本选项已选择 No / opted out；投稿系统作者（以 SNAPP Review 页和系统 PDF 为准）：Quan Wen（primary corresponding author，wenquan@hngm.edu.cn；Universiti Sains Malaysia + Henan Industry and Trade Vocational College）、Mazran Ismail（mazran@usm.my；Universiti Sains Malaysia）、Muhammad Hafeez Abdul Nasir（hafeez.abdnasir@usm.my；Universiti Sains Malaysia）、Yanting Wu（wuyanting@kfzxyy.com；Kaifeng Central Hospital）。上传文件：NC02_BMC_Medicine_latex_source.zip；cover_letter_bmc_medicine.pdf；related files：title_page_bmc_medicine.pdf、highlights_bmc_medicine.pdf。系统生成 review PDF 已保存为 NC02 仓库 `submission_bmc_medicine/files_to_upload/BMC_Medicine_SNAPP_generated_review_pdf_20260630.pdf` 并核验：35 页，标题、四位作者、三家机构、Declarations、References 和 Figures 1-4 齐全；无 LaTeX error 文本、缺图文本、unresolved citation markers 或 TeX log pages。历史：Nature Communications 稿号 NCOMMS-26-050520 于 2026-06-22/23 拒稿且未送外审；The Lancet Healthy Longevity 于 2026-06-29 决定邮件说明无法优先考虑该稿用于 The Lancet Healthy Longevity 或其他 Lancet 期刊；随后转投 BMC Medicine。论文仓库：WENQUAN0816/NC02-Frailty-intrinsic-capacity-reversibility-trajectories；未存储密码。",
+    "journalTrack": "Nature Communications (Rejected without external review: NCOMMS-26-050520) → The Lancet Healthy Longevity (Rejected: THELANCETHEALTHYLONGEVITY-D-26-00751 / THELANCETHEALTHYLONGEVITY-S-26-00967; decision 2026-06-29) → BMC Medicine (Rejected after desk/technical editorial assessment; SNAPP id 46cd20af-e62d-4038-b983-5c2a0d1eff6d) → Age and Ageing (ScholarOne draft in progress, not final submitted; 2026-07-05)",
+    "submissionSystemInfo": "Age and Ageing / ScholarOne Manuscripts；2026-07-05 Asia/Shanghai 已开始转投 Age and Ageing，当前为草稿/上传准备中，尚未最终提交。按用户明确授权，本次放宽 kingtou 的 LaTeX-only 规则，按 Age and Ageing 的 Word/equivalent 双匿名流程准备。Age and Ageing 包已提交到论文仓库 commit 6c44a64ec96c4f18c745519ed7140cf7b8ca241a；主稿文件：submission_age_and_ageing/files_to_upload/manuscript_age_and_ageing_anonymous.docx；补充数据/代码结果包：submission_age_and_ageing/files_to_upload/supplementary_data_code_results_anonymous.zip；图件：figure_1_transition_profiles.pdf、figure_2_cohort_profiles.pdf、figure_3_recovery_worsening_profiles.pdf；cover letter/key points 文本已准备。匿名扫描已检查上传 DOCX 和 supplementary ZIP：未发现作者姓名、单位、本地路径、BMC/NC02 等识别性字符串。Age and Ageing 官方要求双匿名审稿，不上传 title page；作者、单位、funding 和贡献信息仅在 ScholarOne 元数据中填写。当前标题：Frailty is not a one-way path: reversible transitions across six international ageing cohorts。作者顺序：Quan Wen；Dr. Mazran Ismail；Dr. Muhammad Hafeez Abdul Nasir；Yanting Wu；Quan Wen 为 corresponding author。历史：BMC Medicine 已拒稿；BMC 决定主要认为稿件对 BMC Medicine 的广泛医学读者而言优先级/新颖性不足，并建议可考虑 BMC Geriatrics 转投。未存储密码。",
     "bg": "#fff8d9",
-    "updatedAt": "2026-06-30",
-    "currentJournal": "BMC Medicine",
+    "updatedAt": "2026-07-05",
+    "currentJournal": "Age and Ageing",
     "similarity": "",
-    "casXr": "CAS大1小1；XR大1小1",
+    "casXr": "CAS大2小1；XR大2小1",
     "cas": "",
     "xr": "",
-    "jcr": "Q1",
-    "impactFactor": "8.7",
+    "jcr": "",
+    "impactFactor": "",
     "indexType": "SCIE",
     "recommendedJournals": "",
     "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "situation": "内审中 / BMC Medicine Technical Check。Nature Communications 稿号 NCOMMS-26-050520 于 2026-06-22 14:21:22 -0400 发出 reject without external review 决定，本地接收时间为 2026-06-23 02:21 Asia/Shanghai；编辑未质疑有效性，但认为 advance 不足以进入 Nature Communications。2026-06-23 起改投 The Lancet Healthy Longevity，最终题名为 “Reversibility of frailty across six international ageing cohorts: a longitudinal multi-cohort study”；用户于 2026-06-26 确认已完成 Lancet Healthy Longevity 最终提交，稿号 THELANCETHEALTHYLONGEVITY-S-26-00967，Document ID 36240，MSID {4118A3F8-B5CE-4C7D-953E-F951FEDC2672}。2026-06-29 The Lancet Healthy Longevity 决定邮件说明该稿无法被优先考虑用于 The Lancet Healthy Longevity 或其他 Lancet 期刊。2026-06-30 已转投 BMC Medicine（IF 8.7，Research article），题名改为 “Frailty is not a one-way path: reversible transitions across six international ageing cohorts”。Springer Nature SNAPP 成功页显示 “Submission received / Thank you for submitting to BMC Medicine”，并说明稿件现在处于 Technical Check。投稿账号显示名 QUAN WEN，投稿系统注册邮箱 wenquan6328@gmail.com；Linked accounts 页面显示 Google 已链接 wenquan6328@gmail.com，ORCID 显示 Link，提交后核验为 ORCID 未绑定；Research Square/In Review 预印本选项已 opt out。SNAPP 作者顺序与稿件一致：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；Quan Wen 为 primary corresponding author。上传文件包括 LaTeX source zip、cover letter，以及 related files title page 和 highlights。系统生成 review PDF 已下载并核验为 35 页，标题、作者、机构、Declarations、References 和 Figures 1-4 齐全，无 LaTeX error、缺图、unresolved citation markers 或 TeX log pages。当前按内审中 / Technical Check 跟踪。",
-    "impactSort": 8.7
+    "situation": "内审中 / Age and Ageing ScholarOne draft in progress（尚未最终提交）。Nature Communications 稿号 NCOMMS-26-050520 于 2026-06-22/23 拒稿且未送外审；The Lancet Healthy Longevity 于 2026-06-29 拒稿，决定邮件说明无法优先考虑该稿用于 The Lancet Healthy Longevity 或其他 Lancet 期刊；2026-06-30 转投 BMC Medicine，SNAPP draft/submission id 46cd20af-e62d-4038-b983-5c2a0d1eff6d，后续 BMC Medicine 拒稿，主要认为稿件对 BMC Medicine 的广泛医学读者而言优先级/新颖性不足，并建议可考虑 BMC Geriatrics。2026-07-05 用户明确授权放宽 kingtou 的 LaTeX-only 规则，按 Age and Ageing 的 Word/equivalent 双匿名投稿流程继续。Age and Ageing 包已准备并推送到论文仓库 commit 6c44a64ec96c4f18c745519ed7140cf7b8ca241a：匿名主稿 DOCX、3 个图件、匿名 supplementary data/code/results ZIP、cover letter、key points 和 ScholarOne 作者元数据。Age and Ageing 不使用 title page；作者与单位将仅在 ScholarOne 元数据中填写。当前尚未最终 Submit。",
+    "impactSort": -1
   },
   {
     "statusDot": "🟡",
