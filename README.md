@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-06-30
+> **最后更新：** 2026-07-11
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -32,9 +32,9 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>11</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>12</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>4</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>45</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>44</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>5</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>65</strong></td></tr>
 </table>
@@ -141,6 +141,12 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Scientific Reports (Rejected: 18f592ab-282a-47fb-91c9-3bd372a0da53)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Springer Nature / Scientific Reports；Submission ID：18f592ab-282a-47fb-91c9-3bd372a0da53；2026-06-23 21:38:42 Asia/Shanghai 收到 Scientific Reports 拒稿决定（Gmail messageId 19ef4b47b69a9f68），编辑认为数据限制使结论无法充分成立，并指出 scientific rigour / validity concerns；2026-06-24 21:27:42 Asia/Shanghai Research Square 通知该稿 no longer undergoing peer review at Scientific Reports（Gmail messageId 19ef9d0c7f5b11c9，RSID rs-8878196）。未发现此后有效新投稿确认；当前待投稿。未存储密码。</td>
 </tr>
 
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Reversibility of frailty across six international ageing cohorts: a longitudinal multi-cohort study</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Nature Communications (Rejected without external review: NCOMMS-26-050520) → The Lancet Healthy Longevity (Rejected: THELANCETHEALTHYLONGEVITY-D-26-00751 / THELANCETHEALTHYLONGEVITY-S-26-00967; decision 2026-06-29) → BMC Medicine (Rejected after desk/technical editorial assessment; SNAPP id 46cd20af-e62d-4038-b983-5c2a0d1eff6d) → Age and Ageing (ScholarOne draft/upload preparation only; not final submitted; 2026-07-05)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Age and Ageing / ScholarOne Manuscripts；2026-07-05 Asia/Shanghai 已开始转投 Age and Ageing，当前只有草稿/上传准备记录，尚无最终 Submit 或投稿确认。按用户明确授权，本次放宽 kingtou 的 LaTeX-only 规则，按 Age and Ageing 的 Word/equivalent 双匿名流程准备。Age and Ageing 包已提交到论文仓库 commit 6c44a64ec96c4f18c745519ed7140cf7b8ca241a，后续 commit 7341d7a 适配 ScholarOne 补充材料上传限制；主稿文件：submission_age_and_ageing/files_to_upload/manuscript_age_and_ageing_anonymous.docx；补充材料改用 supplementary_data_code_results_anonymous.docx 与 supplementary_aggregate_outputs_anonymous.xlsx，原 supplementary_data_code_results_anonymous.zip 因 ScholarOne 不接受 zip 不作为门户上传文件；图件：figure_1_transition_profiles.pdf、figure_2_cohort_profiles.pdf、figure_3_recovery_worsening_profiles.pdf；cover letter/key points 文本已准备。匿名扫描已检查上传 DOCX 和 supplementary 文件：未发现作者姓名、单位、本地路径、BMC/NC02 等识别性字符串。Age and Ageing 官方要求双匿名审稿，不上传 title page；作者、单位、funding 和贡献信息仅在 ScholarOne 元数据中填写。当前标题：Frailty is not a one-way path: reversible transitions across six international ageing cohorts。作者顺序：Quan Wen；Dr. Mazran Ismail；Dr. Muhammad Hafeez Abdul Nasir；Yanting Wu；Quan Wen 为 corresponding author。历史：BMC Medicine 已拒稿；BMC 决定主要认为稿件对 BMC Medicine 的广泛医学读者而言优先级/新颖性不足，并建议可考虑 BMC Geriatrics 转投。2026-07-11 复核时 Gmail MCP 不可用且 gog Gmail OAuth 返回 invalid_grant，未能直接复核拒稿邮件精确时间；本次按现有状态页源记录和 NC02 仓库证据纠正当前状态。未存储密码。</td>
+</tr>
+
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防</td>
@@ -169,12 +175,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">适老社区时序评估的贝叶斯元学习框架</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">BMC Medical Research Methodology (Rejected: f905dc2b-94cd-47e6-b4a4-4423c0a16ec8) → Energy (Rejected: EGY-D-26-10556) → Neurocomputing (Rejected: NEUCOM-D-26-11307) → Big Data Research (Submitted / With Editor: BDR-D-26-00946; 2026-06-29)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier Editorial Manager / Big Data Research；稿号：BDR-D-26-00946；来源为 Neurocomputing article transfer，原稿号 NEUCOM-D-26-11307；2026-06-29 BDR Author Dashboard 显示 Submissions Being Processed (1)，稿件状态 With Editor；2026-06-29 Update My Information 页面确认投稿系统用户名 QWen-782，页面显示名 Quan Wen，注册邮箱 wenquan@student.usm.my；ORCID 字段未显示 / 未确认绑定；投稿系统作者（以 portal 为准）：Quan Wen；Dr. Mazran Ismail；Yanting Wu；Dr. Muhammad Hafeez Abdul Nasir；投稿系统作者与 LaTeX 作者一致；历史：2026-06-28 19:03:35 Asia/Shanghai Neurocomputing 转投通知，2026-06-28 19:03:36 Asia/Shanghai Big Data Research requires action 仅是转投后待作者操作阶段，已被 2026-06-29 的 With Editor 状态覆盖；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Reversibility of frailty across six international ageing cohorts: a longitudinal multi-cohort study</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Nature Communications (Rejected without external review: NCOMMS-26-050520) → The Lancet Healthy Longevity (Rejected: THELANCETHEALTHYLONGEVITY-D-26-00751 / THELANCETHEALTHYLONGEVITY-S-26-00967; decision 2026-06-29) → BMC Medicine (Submitted / Technical Check: SNAPP draft 46cd20af-e62d-4038-b983-5c2a0d1eff6d; 2026-06-30)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / BMC Medicine；SNAPP draft/submission URL id：46cd20af-e62d-4038-b983-5c2a0d1eff6d；2026-06-30 Asia/Shanghai 最终提交成功，成功页显示 “Submission received / Thank you for submitting to BMC Medicine”，并说明稿件已进入 Technical Check。投稿系统账号显示名：QUAN WEN；账号邮箱：wenquan6328@gmail.com；Google 已链接 wenquan6328@gmail.com；Springer Nature Linked accounts 页面中 ORCID 显示 Link，提交后核验为 ORCID 未绑定；Research Square/In Review 预印本选项已选择 No / opted out；投稿系统作者（以 SNAPP Review 页和系统 PDF 为准）：Quan Wen（primary corresponding author，wenquan@hngm.edu.cn；Universiti Sains Malaysia + Henan Industry and Trade Vocational College）、Mazran Ismail（mazran@usm.my；Universiti Sains Malaysia）、Muhammad Hafeez Abdul Nasir（hafeez.abdnasir@usm.my；Universiti Sains Malaysia）、Yanting Wu（wuyanting@kfzxyy.com；Kaifeng Central Hospital）。上传文件：NC02_BMC_Medicine_latex_source.zip；cover_letter_bmc_medicine.pdf；related files：title_page_bmc_medicine.pdf、highlights_bmc_medicine.pdf。系统生成 review PDF 已保存为 NC02 仓库 `submission_bmc_medicine/files_to_upload/BMC_Medicine_SNAPP_generated_review_pdf_20260630.pdf` 并核验：35 页，标题、四位作者、三家机构、Declarations、References 和 Figures 1-4 齐全；无 LaTeX error 文本、缺图文本、unresolved citation markers 或 TeX log pages。历史：Nature Communications 稿号 NCOMMS-26-050520 于 2026-06-22/23 拒稿且未送外审；The Lancet Healthy Longevity 于 2026-06-29 决定邮件说明无法优先考虑该稿用于 The Lancet Healthy Longevity 或其他 Lancet 期刊；随后转投 BMC Medicine。论文仓库：WENQUAN0816/NC02-Frailty-intrinsic-capacity-reversibility-trajectories；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
