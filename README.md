@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-07-10
+> **最后更新：** 2026-07-11
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -438,7 +438,7 @@
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">中国 HIV 老年人适老居住环境因素因果模型：文本挖掘、模糊 DEMATEL 与区域比较</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Journal of Urban Health → Frontiers in Public Health (Under peer review: 1873646)</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Frontiers submission portal / My Frontiers / Frontiers in Public Health；稿号：1873646；2026-06-10 15:41 Asia/Shanghai 收到 Independent Review Report Submitted（Gmail messageId 19eb07a9213a9da3），Reviewer 1 已提交审稿报告，仍等待其他 reviewer；当前按外审中处理。未存储密码。</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Journal of Urban Health → Frontiers in Public Health (Version 2 submitted / external review: 1873646; 2026-07-10)</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Frontiers submission portal / My Frontiers / Frontiers Review Forum；期刊/栏目：Frontiers in Public Health / Aging and Public Health；稿号：1873646；Version 2 于 2026-07-10 06:31（门户显示时间）提交，06:36 已在 Editor tab 提交作者同步请求；当前无作者待办，Reviewer 2--4 待回复，Research Topic 已在 Review Forum 中保留。账号用户名/显示名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；登录方式：ORCID；ORCID：已绑定/可用于登录 0009-0005-3975-8104；2026-07-11 复核时 Frontiers 正常进入 ORCID OAuth 登录页，但保存会话已过期。投稿系统当前作者：Quan Wen（corresponding）、Yanting Wu（non-corresponding）。最终 LaTeX 作者：Quan Wen（corresponding）、Dr. Mazran Ismail（corresponding）、Dr. Muhammad Hafeez Abdul Nasir（corresponding）、Yanting Wu（last、non-corresponding）；两者不一致，编辑同步待处理。最终修订文件已推送至论文仓库 commit 1acc520e7004c6851544ef8d966d028ecf886733；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">

@@ -1520,10 +1520,10 @@
     "status": "外审中",
     "statusOrder": 3,
     "title": "中国 HIV 老年人适老居住环境因素因果模型：文本挖掘、模糊 DEMATEL 与区域比较",
-    "journalTrack": "Journal of Urban Health → Frontiers in Public Health (Under peer review: 1873646)",
-    "submissionSystemInfo": "Frontiers submission portal / My Frontiers / Frontiers in Public Health；稿号：1873646；2026-06-10 15:41 Asia/Shanghai 收到 Independent Review Report Submitted（Gmail messageId 19eb07a9213a9da3），Reviewer 1 已提交审稿报告，仍等待其他 reviewer；当前按外审中处理。未存储密码。",
+    "journalTrack": "Journal of Urban Health → Frontiers in Public Health (Version 2 submitted / external review: 1873646; 2026-07-10)",
+    "submissionSystemInfo": "Frontiers submission portal / My Frontiers / Frontiers Review Forum；期刊/栏目：Frontiers in Public Health / Aging and Public Health；稿号：1873646；Version 2 于 2026-07-10 06:31（门户显示时间）提交，06:36 已在 Editor tab 提交作者同步请求；当前无作者待办，Reviewer 2--4 待回复，Research Topic 已在 Review Forum 中保留。账号用户名/显示名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；登录方式：ORCID；ORCID：已绑定/可用于登录 0009-0005-3975-8104；2026-07-11 复核时 Frontiers 正常进入 ORCID OAuth 登录页，但保存会话已过期。投稿系统当前作者：Quan Wen（corresponding）、Yanting Wu（non-corresponding）。最终 LaTeX 作者：Quan Wen（corresponding）、Dr. Mazran Ismail（corresponding）、Dr. Muhammad Hafeez Abdul Nasir（corresponding）、Yanting Wu（last、non-corresponding）；两者不一致，编辑同步待处理。最终修订文件：manuscript.pdf / .tex、response_to_reviewers.pdf / .tex、references_revised.bib、1873646_revised_manuscript_source_final.zip、figures_revised/、generative_ai_transparency_note.pdf / .tex；论文仓库 commit：1acc520e7004c6851544ef8d966d028ecf886733；未存储密码。",
     "bg": "#e8f9ee",
-    "updatedAt": "2026-06-11",
+    "updatedAt": "2026-07-10",
     "currentJournal": "Frontiers in Public Health",
     "similarity": "9.0%",
     "casXr": "CAS大3小3；XR大3小2",
@@ -1533,11 +1533,11 @@
     "impactFactor": "3.4",
     "indexType": "SCIE&SSCI",
     "recommendedJournals": "",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "authors": "Quan Wen；Yanting Wu；Frontiers portal 名单如前；最终 LaTeX 不一致：Quan Wen、Dr. Mazran Ismail、Dr. Muhammad Hafeez Abdul Nasir、Yanting Wu，前三位为通讯作者，portal 作者同步请求待处理",
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "situation": "外审中。Kingcha 2026-06-11 复核：英文题名为 “A Causality Model of Age-Friendly Living Environment Factors for Older People Living with HIV in China: Text Mining, Fuzzy DEMATEL, and Regional Comparison”。Frontiers in Public Health 稿号 1873646；2026-06-10 15:41 Asia/Shanghai 收到 Independent Review Report Submitted（Gmail messageId 19eb07a9213a9da3），Reviewer 1 已提交审稿报告，仍等待其他 reviewer。按稿号和英文题名搜索 Gmail in:anywhere / in:spam、wenallpapersstatus 和 paper-9 仓库，未发现退回或拒稿；当前按外审中处理。",
+    "situation": "外审中 / Version 2 已提交。最终英文题名为 “Literature-derived criteria and expert-perceived influence structure for age-friendly living environments among older adults living with HIV in China: a text-mining, fuzzy Delphi, and fuzzy DEMATEL study”。Frontiers in Public Health / Aging and Public Health，稿号 1873646；Review Forum 显示 Version 2 于 2026-07-10 06:31 提交，06:36 已在 Editor tab 请求同步作者。当前无作者待办，Reviewer 2--4 待回复，Research Topic 保留。修订删除因果表述和不受支持的 affiliation-based regional EWM，替换不受支持引用并引用 5 篇经核验的 Quan Wen 论文，补充完整 43 项 FDM 表与敏感性分析，并按标准零对角线重算 FDEMATEL。Frontiers 当前作者为 Quan Wen（corresponding）、Yanting Wu（non-corresponding）；最终 LaTeX 作者为 Quan Wen、Dr. Mazran Ismail、Dr. Muhammad Hafeez Abdul Nasir、Yanting Wu，前三位为通讯、Yanting Wu 为末位非通讯，portal 同步仍待编辑处理。最终文件与修订说明已推送至论文仓库 commit 1acc520e7004c6851544ef8d966d028ecf886733。",
     "impactSort": 3.4
   },
   {
