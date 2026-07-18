@@ -1621,9 +1621,9 @@
     "statusOrder": 3,
     "title": "中国老年 HIV 感染者适老居住环境评估的个体中心框架",
     "journalTrack": "BMC Geriatrics",
-    "submissionSystemInfo": "",
+    "submissionSystemInfo": "Springer Nature SNAPP / BMC Geriatrics；Submission ID：c4ee9984-966a-4c9f-a548-2341676a77aa；2026-07-18 Asia/Shanghai major revision 最终提交成功；成功页显示 Submission received / Technical Check，投稿详情页显示 revised submission received、版本 v4.0、Peer review in progress。账号显示名：QUAN WEN；注册邮箱：wenquan6328@gmail.com；Google 已链接 wenquan6328@gmail.com；ORCID 未链接（Linked accounts 页面 ORCID 显示 Link）。投稿系统作者：Quan Wen（primary corresponding，wenquan@hngm.edu.cn）、Dr. Mazran Ismail（corresponding，mazran@usm.my）、Dr. Muhammad Hafeez Abdul Nasir（corresponding，hafeeznasir@usm.my）、Yanting Wu（15093362768@163.com）；作者顺序、单位、邮箱和通讯作者标记与修订 LaTeX 一致。上传文件：BMC_Geriatrics_revised_manuscript_source.zip、response_to_editor_and_reviewers.pdf、Additional_file_1_OPLHIV_questionnaire.pdf、Additional_file_2_Core_LDA_model_selection_code.py、revision_cover_letter.pdf；系统 reviewer PDF：BMC_Geriatrics_system_generated_review.pdf（37 页）。论文仓库提交：167fcc2；仓库：WENQUAN0816/paper-10-Elderly-HIV-Centric-Framework-Topic-Modeling-Delphi-Hierarchical-Needs；未存储密码。",
     "bg": "#e8f9ee",
-    "updatedAt": "2026-07-11",
+    "updatedAt": "2026-07-18",
     "currentJournal": "BMC Geriatrics",
     "similarity": "2.7%",
     "casXr": "CAS大2小2；XR大2小1/2",
@@ -1635,9 +1635,11 @@
     "recommendedJournals": "",
     "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
     "correspondingAuthors": [
-      "Quan Wen"
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
     ],
-    "situation": "外审中。用户确认当前处于 BMC Geriatrics / Peer review（同行评审）状态。",
+    "situation": "外审中。2026-07-18 Asia/Shanghai 已完成 BMC Geriatrics major revision 最终提交。Springer Nature SNAPP 成功页显示 “Submission received / Thank you for submitting to BMC Geriatrics”；投稿详情页显示 “We've received your revised submission”、版本 v4.0，Peer review 为 in progress。Submission ID：c4ee9984-966a-4c9f-a548-2341676a77aa。修订稿标题仅将原题 Elderly 改为 Older；已提交干净 LaTeX source ZIP、编辑及两位审稿人逐点回复 PDF、修订 cover letter、完整 OPLHIV 问卷和核心 LDA model-selection Python code。系统生成 reviewer PDF 为 37 页，已核验新标题、三位通讯作者、Figures 1–8、补充文件引用，无 LaTeX error、缺图、未解析引用或 TeX log pages。投稿系统作者与 LaTeX 一致：Quan Wen（primary corresponding）、Dr. Mazran Ismail（corresponding）、Dr. Muhammad Hafeez Abdul Nasir（corresponding）、Yanting Wu。论文仓库提交：167fcc2。当前等待后续同行评审。",
     "impactSort": 3.8
   },
   {
