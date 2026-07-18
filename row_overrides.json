@@ -137,15 +137,15 @@
     "updatedAt": "2026-06-18"
   },
   "中国 HIV 老年人适老居住环境因素因果模型：文本挖掘、模糊 DEMATEL 与区域比较": {
-    "statusDot": "🟢",
-    "status": "外审中",
-    "journalTrack": "Journal of Urban Health → Frontiers in Public Health (Version 2 submitted / external review: 1873646; 2026-07-10)",
-    "submissionSystemInfo": "Frontiers submission portal / My Frontiers / Frontiers Review Forum；期刊/栏目：Frontiers in Public Health / Aging and Public Health；稿号：1873646；Version 2 于 2026-07-10 06:31（门户显示时间）提交，06:36 已在 Editor tab 提交作者同步请求；当前无作者待办，Reviewer 2--4 待回复，Research Topic 已在 Review Forum 中保留。账号用户名/显示名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；登录方式：ORCID；ORCID：已绑定/可用于登录 0009-0005-3975-8104；2026-07-11 复核时 Frontiers 正常进入 ORCID OAuth 登录页，但保存会话已过期。投稿系统当前作者：Quan Wen（corresponding）、Yanting Wu（non-corresponding）。最终 LaTeX 作者：Quan Wen（corresponding）、Dr. Mazran Ismail（corresponding）、Dr. Muhammad Hafeez Abdul Nasir（corresponding）、Yanting Wu（last、non-corresponding）；两者不一致，编辑同步待处理。最终修订包与说明已推送至 paper repo commit 1acc520e7004c6851544ef8d966d028ecf886733；未存储密码。",
+    "statusDot": "✅",
+    "status": "已接受",
+    "journalTrack": "Journal of Urban Health → Frontiers in Public Health (Accepted: 1873646; 2026-07-16)",
+    "submissionSystemInfo": "Frontiers submission portal / My Frontiers / Frontiers Review Forum；期刊/栏目：Frontiers in Public Health / Aging and Public Health；稿号：1873646；Version 2 于 2026-07-10 06:31（门户显示时间）提交；2026-07-16 15:09:11 Asia/Shanghai 收到正式录用邮件 “Fantastic news: your article has been accepted”（Gmail messageId 19f69c222aea8e1c），确认稿件已接受并进入 production；录用题名更新为 “Literature-derived criteria and expert-perceived influence structure for age-friendly living environments among older adults living with HIV in China: a text-mining, fuzzy Delphi, and fuzzy DEMATEL study”；2026-07-17 已收到 Frontiers invoice，2026-07-18 已发送 authorship change form 签名请求。账号用户名/显示名：Quan Wen；注册邮箱：wenquan@student.usm.my；ORCID：已绑定/可用于登录 0009-0005-3975-8104。Frontiers portal 当前作者：Quan Wen（corresponding）、Yanting Wu（non-corresponding）；最终 LaTeX 作者：Quan Wen、Dr. Mazran Ismail、Dr. Muhammad Hafeez Abdul Nasir、Yanting Wu，前三位为通讯作者，portal 作者同步仍待处理。最终修订包已推送至 paper repo commit 1acc520e7004c6851544ef8d966d028ecf886733；录用状态提交 3dfda39；未存储密码。",
     "authors": "Quan Wen；Yanting Wu；Frontiers portal 名单如前；最终 LaTeX 不一致：Quan Wen、Dr. Mazran Ismail、Dr. Muhammad Hafeez Abdul Nasir、Yanting Wu，前三位为通讯作者，portal 作者同步请求待处理",
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-07-10"
+    "updatedAt": "2026-07-18"
   },
   "面向文化主题公共建筑老年用户的空间意义感知量表开发：因子分析研究设计": {
     "statusDot": "💖",
@@ -169,11 +169,11 @@
     "updatedAt": "2026-06-24"
   },
   "多模态情绪特征可视化映射与智能交互设计": {
-    "statusDot": "💖",
-    "status": "需修订",
-    "journalTrack": "Journal of Visualized Experiments (Revision required: JoVE71171)",
-    "submissionSystemInfo": "Editorial Manager / Journal of Visualized Experiments (JoVE)；稿号：JoVE71171；来信收件人为 Zhenhu Liu，Quan Wen 为 CC；Gmail Spam 决策邮件时间：2026-05-27 16:51 Asia/Shanghai；转发邮件时间：2026-05-29 00:51 Asia/Shanghai；修订截止：2026-06-03；编辑：Harsha PM, Ph.D.；本地状态目录：E:\\GithubRepos\\paper-jove71171（非 git 仓库）；核对时间：2026-05-30；未存储密码。",
-    "updatedAt": "2026-05-30"
+    "statusDot": "✅",
+    "status": "已接受",
+    "journalTrack": "Journal of Visualized Experiments (Accepted: JoVE71171R3; 2026-07-15)",
+    "submissionSystemInfo": "Editorial Manager / Journal of Visualized Experiments (JoVE)；当前稿号：JoVE71171R3；英文题名：“Visual Mapping of Multimodal Emotion Features for Intelligent Interaction Design”；2026-07-15 03:09:33 Asia/Shanghai 收到正式录用邮件 “Your Manuscript JoVE71171R3 Has Been Accepted!”（Gmail messageId 19f620917a5a1113，仅位于 Gmail Spam），邮件收件人为 Zhenhu Liu，Quan Wen 为 CC，并确认录用于 JoVE Engineering section；旧本地状态目录 E:\\GithubRepos\\paper-jove71171 当前因 E: 盘未挂载而无法访问，未能同步该目录的状态文本；核对时间：2026-07-18；未存储密码。",
+    "updatedAt": "2026-07-18"
   },
   "Digital-social connectedness and healthy ageing transitions in a multiple cohort study": {
     "statusDot": "🟡",
@@ -206,15 +206,15 @@
     "updatedAt": "2026-06-11"
   },
   "老年游客对遗产建筑增强现实解说的接受度：扩展技术接受模型": {
-    "statusDot": "🟡",
-    "status": "内审中",
-    "journalTrack": "Applied Sciences (Rejected: applsci-4326225) → Sustainability (Rejected: sustainability-4335606) → Frontiers in Education (R1 resubmitted: 1889292; 2026-06-26)",
-    "submissionSystemInfo": "Frontiers submission portal / My Frontiers；稿号：1889292；2026-06-26 Asia/Shanghai 用户确认 Frontiers interactive review / resubmission 已完成最终提交，当前按内审中 / editorial processing 跟踪；修订版文件：paper4_frontiers_manuscript_revised.pdf、paper4_frontiers_manuscript_revised.docx，已在 Frontiers resubmission 页面替换旧 PDF/DOCX 并保存；投稿系统用户名/显示名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定/可用于登录 0009-0005-3975-8104；投稿系统作者（以 portal 为准）：Xuejia Zhu；Suebsiri Saelee；Quan Wen；通讯作者：Suebsiri Saelee；LaTeX/修订稿作者：Xuejia Zhu；Suebsiri Saelee；注意：投稿系统作者与 LaTeX 作者栏不一致，状态页作者栏已标注。论文仓库 revision commit：a0f0cd9；核对时间：2026-06-26；Gmail 本轮因 gog OAuth invalid_grant 未能复核确认邮件；未存储密码。",
+    "statusDot": "✅",
+    "status": "已接受",
+    "journalTrack": "Applied Sciences (Rejected: applsci-4326225) → Sustainability (Rejected: sustainability-4335606) → Frontiers in Education (Accepted: 1889292; 2026-06-30)",
+    "submissionSystemInfo": "Frontiers submission portal / My Frontiers；稿号：1889292；2026-06-30 14:43:59 Asia/Shanghai 收到正式录用邮件 “Fantastic news: your article has been accepted”（Gmail messageId 19f1745514421de6），确认稿件已接受并进入 production；英文题名：“Older Visitors' Acceptance of Augmented-Reality Heritage Interpretation: An Extended Technology Acceptance Model for Informal Cultural Heritage Learning”；2026-07-11 收到 proof ready 邮件，2026-07-18 收到 completed proof reminder；投稿系统用户名/显示名：Quan Wen；注册邮箱：wenquan@student.usm.my；ORCID：0009-0005-3975-8104；投稿系统作者：Xuejia Zhu、Suebsiri Saelee、Quan Wen；通讯作者：Suebsiri Saelee；LaTeX/修订稿作者栏为 Xuejia Zhu、Suebsiri Saelee，作者栏不一致已标注；论文仓库状态记录同步于 2026-07-18；未存储密码。",
     "authors": "Xuejia Zhu；Suebsiri Saelee；Quan Wen（Frontiers 投稿系统作者；LaTeX/修订稿作者栏为 Xuejia Zhu、Suebsiri Saelee，投稿系统作者与 LaTeX 作者不一致）",
     "correspondingAuthors": [
       "Suebsiri Saelee"
     ],
-    "updatedAt": "2026-06-26"
+    "updatedAt": "2026-07-18"
   },
   "Multidomain ageing-burden trajectories define healthy-ageing transitions across harmonized cohorts": {
     "statusDot": "🟡",

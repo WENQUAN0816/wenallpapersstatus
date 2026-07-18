@@ -33,10 +33,10 @@
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>12</td></tr>
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>4</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>44</td></tr>
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>5</td></tr>
-<tr><td><strong>合计</strong></td><td><strong>65</strong></td></tr>
+<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>3</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>43</td></tr>
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>4</td></tr>
+<tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
 </table>
 </td>
 <td valign="top" width="66%">
@@ -155,12 +155,6 @@
 
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">多模态情绪特征可视化映射与智能交互设计</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Journal of Visualized Experiments (Revision required: JoVE71171)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Editorial Manager / Journal of Visualized Experiments (JoVE)；稿号：JoVE71171；来信收件人为 Zhenhu Liu，Quan Wen 为 CC；Gmail Spam 决策邮件时间：2026-05-27 16:51 Asia/Shanghai；转发邮件时间：2026-05-29 00:51 Asia/Shanghai；修订截止：2026-06-03；编辑：Harsha PM, Ph.D.；本地状态目录：E:\GithubRepos\paper-jove71171（非 git 仓库）；核对时间：2026-05-30；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Computers in Biology and Medicine (Rejected: CIBM-D-26-00934) → Biomedical Signal Processing and Control (Rejected: BSPC-D-26-07670) → Frontiers in Neurology (Rejected: 1901990) → Frontiers in Aging Neuroscience (Data request: 1852729; due 2026-06-24)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Frontiers submission portal / My Frontiers；Frontiers in Neurology 稿号 1901990 于 2026-06-08 20:26 Asia/Shanghai 收到 cannot be accepted 决定（Gmail messageId 19ea732c9f55b293）；同题稿 Frontiers in Aging Neuroscience 稿号 1852729 于 2026-06-08 20:31 Asia/Shanghai 收到 source data/code/original images/ethics approval 原件及英文译文请求，截止 2026-06-24（Gmail messageId 19ea737369baf8cb）。投稿系统账号 Peng Chao / hngmpengchao@gmail.com；未存储密码。</td>
 </tr>
@@ -247,12 +241,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">历史社区智慧适老化改造策略的居民支持：整合地方依恋与技术接受</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Buildings (Rejected: buildings-4326137) → Buildings (Rejected: buildings-4326224) → Land (Rejected: land-4335735) → Frontiers in Environmental Science (Submitted: 1889154)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Frontiers submission portal / My Frontiers；用户名/显示名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定/可用于登录 0009-0005-3975-8104；核对时间：2026-05-23；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">老年游客对遗产建筑增强现实解说的接受度：扩展技术接受模型</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Applied Sciences (Rejected: applsci-4326225) → Sustainability (Rejected: sustainability-4335606) → Frontiers in Education (R1 resubmitted: 1889292; 2026-06-26)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Frontiers submission portal / My Frontiers；稿号：1889292；2026-06-26 Asia/Shanghai 用户确认 Frontiers interactive review / resubmission 已完成最终提交，当前按内审中 / editorial processing 跟踪；修订版文件：paper4_frontiers_manuscript_revised.pdf、paper4_frontiers_manuscript_revised.docx，已在 Frontiers resubmission 页面替换旧 PDF/DOCX 并保存；投稿系统用户名/显示名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定/可用于登录 0009-0005-3975-8104；投稿系统作者（以 portal 为准）：Xuejia Zhu；Suebsiri Saelee；Quan Wen；通讯作者：Suebsiri Saelee；LaTeX/修订稿作者：Xuejia Zhu；Suebsiri Saelee；注意：投稿系统作者与 LaTeX 作者栏不一致，状态页作者栏已标注。论文仓库 revision commit：a0f0cd9；核对时间：2026-06-26；Gmail 本轮因 gog OAuth invalid_grant 未能复核确认邮件；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -437,12 +425,6 @@
 
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">中国 HIV 老年人适老居住环境因素因果模型：文本挖掘、模糊 DEMATEL 与区域比较</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Journal of Urban Health → Frontiers in Public Health (Version 2 submitted / external review: 1873646; 2026-07-10)</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Frontiers submission portal / My Frontiers / Frontiers Review Forum；期刊/栏目：Frontiers in Public Health / Aging and Public Health；稿号：1873646；Version 2 于 2026-07-10 06:31（门户显示时间）提交，06:36 已在 Editor tab 提交作者同步请求；当前无作者待办，Reviewer 2--4 待回复，Research Topic 已在 Review Forum 中保留。账号用户名/显示名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；登录方式：ORCID；ORCID：已绑定/可用于登录 0009-0005-3975-8104；2026-07-11 复核时 Frontiers 正常进入 ORCID OAuth 登录页，但保存会话已过期。投稿系统当前作者：Quan Wen（corresponding）、Yanting Wu（non-corresponding）。最终 LaTeX 作者：Quan Wen（corresponding）、Dr. Mazran Ismail（corresponding）、Dr. Muhammad Hafeez Abdul Nasir（corresponding）、Yanting Wu（last、non-corresponding）；两者不一致，编辑同步待处理。最终修订包与说明已推送至 paper repo commit 1acc520e7004c6851544ef8d966d028ecf886733；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">室内适老环境多维韧性评估框架：基于 Google Gemini Pro 的大模型指标构建</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Humanities and Social Sciences Communications</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
 </tr>
@@ -463,6 +445,24 @@
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">中国老年 HIV 感染者适老居住环境评估的个体中心框架</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">BMC Geriatrics</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
+</tr>
+
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">多模态情绪特征可视化映射与智能交互设计</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Journal of Visualized Experiments (Accepted: JoVE71171R3; 2026-07-15)</td><td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Editorial Manager / Journal of Visualized Experiments (JoVE)；当前稿号：JoVE71171R3；英文题名：“Visual Mapping of Multimodal Emotion Features for Intelligent Interaction Design”；2026-07-15 03:09:33 Asia/Shanghai 收到正式录用邮件 “Your Manuscript JoVE71171R3 Has Been Accepted!”（Gmail messageId 19f620917a5a1113，仅位于 Gmail Spam），邮件收件人为 Zhenhu Liu，Quan Wen 为 CC，并确认录用于 JoVE Engineering section；旧本地状态目录 E:\GithubRepos\paper-jove71171 当前因 E: 盘未挂载而无法访问，未能同步该目录的状态文本；核对时间：2026-07-18；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">老年游客对遗产建筑增强现实解说的接受度：扩展技术接受模型</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Applied Sciences (Rejected: applsci-4326225) → Sustainability (Rejected: sustainability-4335606) → Frontiers in Education (Accepted: 1889292; 2026-06-30)</td><td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Frontiers submission portal / My Frontiers；稿号：1889292；2026-06-30 14:43:59 Asia/Shanghai 收到正式录用邮件 “Fantastic news: your article has been accepted”（Gmail messageId 19f1745514421de6），确认稿件已接受并进入 production；英文题名：“Older Visitors&#39; Acceptance of Augmented-Reality Heritage Interpretation: An Extended Technology Acceptance Model for Informal Cultural Heritage Learning”；2026-07-11 收到 proof ready 邮件，2026-07-18 收到 completed proof reminder；投稿系统用户名/显示名：Quan Wen；注册邮箱：wenquan@student.usm.my；ORCID：0009-0005-3975-8104；投稿系统作者：Xuejia Zhu、Suebsiri Saelee、Quan Wen；通讯作者：Suebsiri Saelee；LaTeX/修订稿作者栏为 Xuejia Zhu、Suebsiri Saelee，作者栏不一致已标注；论文仓库状态记录同步于 2026-07-18；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">中国 HIV 老年人适老居住环境因素因果模型：文本挖掘、模糊 DEMATEL 与区域比较</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Journal of Urban Health → Frontiers in Public Health (Accepted: 1873646; 2026-07-16)</td><td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Frontiers submission portal / My Frontiers / Frontiers Review Forum；期刊/栏目：Frontiers in Public Health / Aging and Public Health；稿号：1873646；Version 2 于 2026-07-10 06:31（门户显示时间）提交；2026-07-16 15:09:11 Asia/Shanghai 收到正式录用邮件 “Fantastic news: your article has been accepted”（Gmail messageId 19f69c222aea8e1c），确认稿件已接受并进入 production；录用题名更新为 “Literature-derived criteria and expert-perceived influence structure for age-friendly living environments among older adults living with HIV in China: a text-mining, fuzzy Delphi, and fuzzy DEMATEL study”；2026-07-17 已收到 Frontiers invoice，2026-07-18 已发送 authorship change form 签名请求。账号用户名/显示名：Quan Wen；注册邮箱：wenquan@student.usm.my；ORCID：已绑定/可用于登录 0009-0005-3975-8104。Frontiers portal 当前作者：Quan Wen（corresponding）、Yanting Wu（non-corresponding）；最终 LaTeX 作者：Quan Wen、Dr. Mazran Ismail、Dr. Muhammad Hafeez Abdul Nasir、Yanting Wu，前三位为通讯作者，portal 作者同步仍待处理。最终修订包已推送至 paper repo commit 1acc520e7004c6851544ef8d966d028ecf886733；录用状态提交 3dfda39；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
