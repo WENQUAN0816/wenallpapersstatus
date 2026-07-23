@@ -407,11 +407,11 @@
     "status": "内审中",
     "statusOrder": 2,
     "title": "Multidomain ageing-burden trajectories define healthy-ageing transitions across harmonized cohorts",
-    "journalTrack": "Nature Aging (Submitted: NATAGING-A14708; 2026-06-30)",
-    "submissionSystemInfo": "Springer Nature MTS / Nature Aging；tracking number：NATAGING-A14708；2026-06-30 成功提交并确认 Manuscript approved / Submission complete。投稿系统显示名：QUAN WEN；投稿系统用户名：WENQUAN0817；投稿系统注册邮箱：wenquan6328@gmail.com；Nature Aging 账户页显示 ORCID 0009-0005-3975-8104 且为 linked；账户页 secondary email 显示 wenquan@student.usm.my；投稿系统作者（以 portal 为准）：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；portal summary only marked Quan Wen as Corr, while the LaTeX title page marks Dr. Mazran Ismail as co-corresponding; authors otherwise match the manuscript list;上传文件：manuscript.pdf、cover_letter.pdf、reproducibility_package.zip（Additional Review Material）；未存储密码.",
+    "journalTrack": "Nature Aging (Rejected: NATAGING-A14708) → eClinicalMedicine (Submitted: eclinm-D-26-03968; 2026-07-22)",
+    "submissionSystemInfo": "Elsevier Editorial Manager / eClinicalMedicine；稿号：eclinm-D-26-03968；temporary submission number：eclinm-S-26-04999；docID：45103；2026-07-22 正式提交，2026-07-23 门户状态为 Submitted to Journal / Submissions Being Processed (1)，且 Submissions Waiting for Author's Approval (0)。投稿系统用户名：wenquan0817；显示名：QUAN WEN；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已认证绑定 0009-0005-3975-8104。投稿系统作者（以 portal 为准）：QUAN WEN, Ph.D（corresponding）；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；与 eClinicalMedicine LaTeX 作者顺序及通讯作者一致。当前系统 PDF：61 页，SHA256 061F2411F71D444A00241D2436081358B521AA2B17A909E7ED013552CF697014；论文仓库提交：e4ddda0；未存储密码、Cookie 或会话文件。",
     "bg": "#fff8d9",
-    "updatedAt": "2026-06-30",
-    "currentJournal": "Nature Aging",
+    "updatedAt": "2026-07-22",
+    "currentJournal": "eClinicalMedicine",
     "similarity": "",
     "casXr": "CAS大1小1；XR大1小1",
     "cas": "",
@@ -424,7 +424,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "situation": "Submission complete on 2026-06-30. Nature Aging tracking number NATAGING-A14708; portal authors match the LaTeX author list except that the portal summary only marked Quan Wen as Corr while the LaTeX title page also marks Dr. Mazran Ismail as co-corresponding; account page shows username WENQUAN0817, email wenquan6328@gmail.com, secondary email wenquan@student.usm.my, and ORCID linked.",
+    "situation": "Nature Aging 稿号 NATAGING-A14708 拒稿后改投 eClinicalMedicine。2026-07-22 通过 Elsevier Editorial Manager 正式提交，稿号 eclinm-D-26-03968；2026-07-23 门户复核显示 Submissions Waiting for Author's Approval (0)、Submissions Being Processed (1)、Submitted to Journal。投稿系统作者为 QUAN WEN, Ph.D（corresponding）、Mazran Ismail、Muhammad Hafeez Abdul Nasir、Yanting Wu，与 eClinicalMedicine LaTeX 作者顺序和通讯作者一致。当前 61 页系统 PDF 已确认双核验者声明为 Quan Wen 与 Yanting Wu。投稿账户用户名 wenquan0817，显示名 QUAN WEN，注册邮箱 wenquan@student.usm.my，ORCID 已认证绑定 0009-0005-3975-8104；论文仓库提交 e4ddda0；未存储密码。",
     "impactSort": -1
   },
   {
