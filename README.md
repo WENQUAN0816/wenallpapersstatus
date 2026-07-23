@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-07-18
+> **最后更新：** 2026-07-23
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -174,7 +174,7 @@
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Multidomain ageing-burden trajectories define healthy-ageing transitions across harmonized cohorts</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Nature Aging (Submitted: NATAGING-A14708; 2026-06-30)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature MTS / Nature Aging；tracking number：NATAGING-A14708；2026-06-30 成功提交并确认 Manuscript approved / Submission complete。投稿系统显示名：QUAN WEN；投稿系统用户名：WENQUAN0817；投稿系统注册邮箱：wenquan6328@gmail.com；Nature Aging 账户页显示 ORCID 0009-0005-3975-8104 且为 linked；账户页 secondary email 显示 wenquan@student.usm.my；投稿系统作者（以 portal 为准）：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；portal summary only marked Quan Wen as Corr, while the LaTeX title page marks Dr. Mazran Ismail as co-corresponding; authors otherwise match the manuscript list;上传文件：manuscript.pdf、cover_letter.pdf、reproducibility_package.zip（Additional Review Material）；未存储密码.</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Nature Aging (Rejected: NATAGING-A14708) → eClinicalMedicine (Submitted: eclinm-D-26-03968; 2026-07-22)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier Editorial Manager / eClinicalMedicine；稿号：eclinm-D-26-03968（temporary submission number：eclinm-S-26-04999；docID：45103）；2026-07-22 正式提交，2026-07-23 门户复核显示 Submissions Waiting for Author&#39;s Approval (0)、Submissions Being Processed (1)、Submitted to Journal。投稿系统显示名：QUAN WEN；用户名：wenquan0817；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已认证绑定 0009-0005-3975-8104。投稿系统作者（以 portal 为准）：QUAN WEN, Ph.D（corresponding）；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；与 eClinicalMedicine LaTeX 作者顺序及通讯作者一致，无作者不一致。当前系统 PDF 为 61 页，已确认 Quan Wen 与 Yanting Wu 为底层数据直接访问及核验者；论文仓库提交：e4ddda0；未存储密码、Cookie 或会话文件。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
