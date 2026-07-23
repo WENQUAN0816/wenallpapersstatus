@@ -32,10 +32,10 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>12</td></tr>
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>3</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>43</td></tr>
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>4</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>13</td></tr>
+<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>4</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>42</td></tr>
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>3</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
 </table>
 </td>
@@ -147,6 +147,12 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Nature Communications (Rejected without external review: NCOMMS-26-050520) → The Lancet Healthy Longevity (Rejected: THELANCETHEALTHYLONGEVITY-D-26-00751 / THELANCETHEALTHYLONGEVITY-S-26-00967; decision 2026-06-29) → BMC Medicine (Rejected after desk/technical editorial assessment; SNAPP id 46cd20af-e62d-4038-b983-5c2a0d1eff6d) → Age and Ageing (ScholarOne draft/upload preparation only; not final submitted; 2026-07-05)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Age and Ageing / ScholarOne Manuscripts；2026-07-05 Asia/Shanghai 已开始转投 Age and Ageing，当前只有草稿/上传准备记录，尚无最终 Submit 或投稿确认。按用户明确授权，本次放宽 kingtou 的 LaTeX-only 规则，按 Age and Ageing 的 Word/equivalent 双匿名流程准备。Age and Ageing 包已提交到论文仓库 commit 6c44a64ec96c4f18c745519ed7140cf7b8ca241a，后续 commit 7341d7a 适配 ScholarOne 补充材料上传限制；主稿文件：submission_age_and_ageing/files_to_upload/manuscript_age_and_ageing_anonymous.docx；补充材料改用 supplementary_data_code_results_anonymous.docx 与 supplementary_aggregate_outputs_anonymous.xlsx，原 supplementary_data_code_results_anonymous.zip 因 ScholarOne 不接受 zip 不作为门户上传文件；图件：figure_1_transition_profiles.pdf、figure_2_cohort_profiles.pdf、figure_3_recovery_worsening_profiles.pdf；cover letter/key points 文本已准备。匿名扫描已检查上传 DOCX 和 supplementary 文件：未发现作者姓名、单位、本地路径、BMC/NC02 等识别性字符串。Age and Ageing 官方要求双匿名审稿，不上传 title page；作者、单位、funding 和贡献信息仅在 ScholarOne 元数据中填写。当前标题：Frailty is not a one-way path: reversible transitions across six international ageing cohorts。作者顺序：Quan Wen；Dr. Mazran Ismail；Dr. Muhammad Hafeez Abdul Nasir；Yanting Wu；Quan Wen 为 corresponding author。历史：BMC Medicine 已拒稿；BMC 决定主要认为稿件对 BMC Medicine 的广泛医学读者而言优先级/新颖性不足，并建议可考虑 BMC Geriatrics 转投。2026-07-11 复核时 Gmail MCP 不可用且 gog Gmail OAuth 返回 invalid_grant，未能直接复核拒稿邮件精确时间；本次按现有状态页源记录和 NC02 仓库证据纠正当前状态。未存储密码。</td>
 </tr>
 
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">适老建成环境专业人员对 AI-BIM 评估工具的接受度</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Buildings (Rejected: buildings-4330016) → Cities (Rejected: JCIT-D-26-03897)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Elsevier Editorial Manager / Cities；稿号：JCIT-D-26-03897；2026-07-19 21:58:29 Asia/Shanghai 收到 Decision on submission to Cities（Gmail Spam，messageId 19f7aac180c47b41）；拒稿原因：lack of sufficient novelty，未送外审；2026-07-19 transfer recommendation 不视为有效新投稿；未发现之后 submission received / manuscript submitted 证据；未存储密码。</td>
+</tr>
+
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防</td>
@@ -163,6 +169,12 @@
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">面向文化主题公共建筑老年用户的空间意义感知量表开发：因子分析研究设计</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Frontiers in Psychology (Editorial appointment assistance requested: 2026-06-09)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Frontiers submission portal / My Frontiers / Frontiers in Psychology；2026-06-09 19:04 Asia/Shanghai 收到 Frontiers 请求协助 appoint handling editor（Gmail messageId 19eac0e485aa751a），要求提供 3 名 editorial board preferred editors、3 名 external editors 及可能 research topics；邮件未列 manuscript ID；当前按需修订/需处理跟进。未存储密码。</td>
+</tr>
+
+<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">社区老年日间照料中心多模态热舒适的时空深度学习评估与预测</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Energy and Buildings (Major revision: ENB-D-26-04086; due 2026-08-04)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Elsevier Editorial Manager / Energy &amp; Buildings；稿号：ENB-D-26-04086；2026-07-07 10:54:33 Asia/Shanghai 收到 major revision 决定（Gmail Spam，messageId 19f3a800155b7790）；修回截止 2026-08-04；主要要求补充数据划分/泄漏防止、seasonal hold-out、cross-building generalization、模型复现细节、运行时间和准确率依据；未发现后续修回提交确认；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -205,18 +217,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">灵活半监督元学习少样本居家安全评估网络</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Sensors (Rejected: sensors-4282374) → IEEE Access (Submitted: Access-2026-26733)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Author Portal / IEEE Access / Research Exchange (Atypon ReX)；稿号：Access-2026-26733；投稿系统用户名/显示名：Peng Chao；注册邮箱：wenquan632@gmail.com；ORCID：已绑定（系统显示 My ORCID iD 菜单项）；投稿系统作者（与 LaTeX 一致）：Peng Chao；核对时间：2026-06-05；来源：IEEE Author Portal 页面右上角用户名 Peng + 所有提交记录显示 by Peng Chao；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">适老建成环境专业人员对 AI-BIM 评估工具的接受度</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Buildings (Rejected: buildings-4330016) → Cities (Submitted: JCIT-D-26-03897)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Cities；稿号：JCIT-D-26-03897；confirmation/draft UUID：746e405f-f8b2-4d54-8d99-b59d6821d2d8；提交时间（门户显示）：02:35, May 30, 2026；邮件确认时间：2026-05-30 02:36 Asia/Shanghai（Gmail Spam）；投稿系统作者（以 portal 为准）：Quan Wen（corresponding author，wenquan@hngm.edu.cn）；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；投稿系统注册邮箱：wenquan@student.usm.my（来源：Elsevier account re-authentication page）；用户名/显示名：confirmation 页面仅显示 Account/Sign out，完整 account settings 需密码重新认证，未能可见获取；ORCID：confirmation 页面未显示，account settings 需密码重新认证，未能可见确认绑定/登录状态；核对时间：2026-05-30；来源：CDP 9227 Cities confirmation page、Elsevier re-authentication page、Gmail Spam confirmation；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">社区老年日间照料中心多模态热舒适的时空深度学习评估与预测</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Energy and Buildings (Submitted: ENB-D-26-04086)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Energy and Buildings；稿号：ENB-D-26-04086；邮件确认时间：2026-05-29 21:23 Asia/Shanghai（Gmail Spam）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；投稿系统注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；ORCID：已绑定/可用于登录 0009-0005-3975-8104（待门户个人资料页复核）；注意：投稿系统作者与当前 LaTeX front matter 作者栏不一致，LaTeX 中 Quan Wen 出现在通讯作者说明中；核对时间：2026-05-30；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -423,6 +423,12 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Humanities and Social Sciences Communications (Editorial Assessment: cfb4556c-32fb-44dc-bd9a-194025fff018)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / Humanities and Social Sciences Communications；Submission ID：cfb4556c-32fb-44dc-bd9a-194025fff018；2026-06-09 16:30 Asia/Shanghai 收到 amendment required（Gmail messageId 19eab813b8409c55），要求修正 funding declaration；2026-06-11 12:56 Asia/Shanghai 编辑确认稿件已 moved forward for the next stage of Editorial Assessment（Gmail messageId 19eb509fae2d02f8）。投稿系统账号显示名 QUAN WEN；页面账号邮箱 wenquan6328@gmail.com；未存储密码。</td>
 </tr>
 
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">中国老年 HIV 感染者适老居住环境评估的个体中心框架</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">BMC Geriatrics (R1 resubmitted / Technical Check: c4ee9984-966a-4c9f-a548-2341676a77aa; v4.1; 2026-07-21)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / BMC Geriatrics；Submission ID：c4ee9984-966a-4c9f-a548-2341676a77aa；2026-07-21 技术检查要求补充 clinical trial number 或声明 Clinical trial not applicable（Gmail messageId 19f8393faff29c28）；同日作者确认 amended manuscript v4.1 已提交并处于 Technical Check（sent messageId 19f83fea53ced266）；未存储密码。</td>
+</tr>
+
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">室内适老环境多维韧性评估框架：基于 Google Gemini Pro 的大模型指标构建</td>
@@ -438,12 +444,6 @@
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">被遗忘之外：中国农村独居老人的低成本智能安全韧性框架</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">BMC Geriatrics</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">中国老年 HIV 感染者适老居住环境评估的个体中心框架</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">BMC Geriatrics</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
 </tr>
 

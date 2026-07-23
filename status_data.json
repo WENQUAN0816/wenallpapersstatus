@@ -302,6 +302,31 @@
     "impactSort": -1
   },
   {
+    "statusDot": "⚪",
+    "status": "待投稿",
+    "statusOrder": 0,
+    "title": "适老建成环境专业人员对 AI-BIM 评估工具的接受度",
+    "journalTrack": "Buildings (Rejected: buildings-4330016) → Cities (Rejected: JCIT-D-26-03897)",
+    "submissionSystemInfo": "Elsevier New Submission Service / Editorial Manager / Cities；稿号：JCIT-D-26-03897；confirmation/draft UUID：746e405f-f8b2-4d54-8d99-b59d6821d2d8；提交时间（门户显示）：02:35, May 30, 2026；邮件确认时间：2026-05-30 02:36 Asia/Shanghai（Gmail Spam）；投稿系统作者（以 portal 为准）：Quan Wen（corresponding author，wenquan@hngm.edu.cn）；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；投稿系统注册邮箱：wenquan@student.usm.my（来源：Elsevier account re-authentication page）；用户名/显示名：confirmation 页面仅显示 Account/Sign out，完整 account settings 需密码重新认证，未能可见获取；ORCID：confirmation 页面未显示，account settings 需密码重新认证，未能可见确认绑定/登录状态；核对时间：2026-05-30；来源：CDP 9227 Cities confirmation page、Elsevier re-authentication page、Gmail Spam confirmation；未存储密码。",
+    "bg": "#f2f2f2",
+    "updatedAt": "2026-07-23",
+    "currentJournal": "",
+    "similarity": "7.0%",
+    "casXr": "",
+    "cas": "",
+    "xr": "",
+    "jcr": "",
+    "impactFactor": "",
+    "indexType": "",
+    "recommendedJournals": "Cities；Buildings",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
+    "situation": "待投稿。英文题名为 “Acceptance of AI-BIM Integrated Tools for Aging-Friendly Assessment Among Built Environment Professionals: An Extended Technology Acceptance Model”。2026-07-19 21:58:29 Asia/Shanghai 收到 Cities Decision on submission（稿号 JCIT-D-26-03897；Gmail Spam，messageId 19f7aac180c47b41），拒稿原因 lack of sufficient novelty；transfer recommendation 不构成有效新投稿；未发现之后 submission received / manuscript submitted 证据；当前回到待投稿。",
+    "impactSort": -1
+  },
+  {
     "statusDot": "💖",
     "status": "需修订",
     "statusOrder": 1,
@@ -375,6 +400,32 @@
     ],
     "situation": "需修订。Kingcha 2026-06-11 复核：英文题名为 “Developing the Spatial Meaning Perception Scale for Older Users of Cultural Themed Public Buildings: A Factor Analysis Research Design”。2026-06-09 19:04 Asia/Shanghai Frontiers in Psychology 来信请求协助 appoint handling editor（Gmail messageId 19eac0e485aa751a），要求提供 3 名 editorial board preferred editors、3 名 external editors 及可能 research topics；邮件未列 manuscript ID。按英文题名搜索 Gmail in:anywhere / in:spam、wenallpapersstatus 和 zhuxuejia paper-3 仓库，未发现该请求之后的处理完成证据；当前按需修订/需处理。",
     "impactSort": 2.9
+  },
+  {
+    "statusDot": "💖",
+    "status": "需修订",
+    "statusOrder": 1,
+    "title": "社区老年日间照料中心多模态热舒适的时空深度学习评估与预测",
+    "journalTrack": "Energy and Buildings (Major revision: ENB-D-26-04086; due 2026-08-04)",
+    "submissionSystemInfo": "Elsevier New Submission Service / Editorial Manager / Energy and Buildings；稿号：ENB-D-26-04086；邮件确认时间：2026-05-29 21:23 Asia/Shanghai（Gmail Spam）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；投稿系统注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；ORCID：已绑定/可用于登录 0009-0005-3975-8104（待门户个人资料页复核）；注意：投稿系统作者与当前 LaTeX front matter 作者栏不一致，LaTeX 中 Quan Wen 出现在通讯作者说明中；核对时间：2026-05-30；未存储密码。",
+    "bg": "#ffd9ec",
+    "updatedAt": "2026-07-23",
+    "currentJournal": "Energy and Buildings",
+    "similarity": "0.0%",
+    "casXr": "CAS大2小2；XR大2小2",
+    "cas": "",
+    "xr": "",
+    "jcr": "Q1",
+    "impactFactor": "6.6",
+    "indexType": "SCIE",
+    "recommendedJournals": "Energy and Buildings；Energy",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "correspondingAuthors": [
+      "Quan Wen",
+      "Mazran Ismail"
+    ],
+    "situation": "需修订。英文题名为 “Spatiotemporal deep learning for multimodal thermal comfort assessment and prediction in community elderly day-care centers”。2026-07-07 10:54:33 Asia/Shanghai 收到 Energy & Buildings major revision 决定（稿号 ENB-D-26-04086；Gmail Spam，messageId 19f3a800155b7790），修回截止 2026-08-04；要求补充数据划分/泄漏防止、seasonal hold-out、cross-building generalization、模型复现细节、运行时间和准确率依据，并改善图表组织；未发现后续修回提交确认；当前需修订。",
+    "impactSort": 6.6
   },
   {
     "statusDot": "🟡",
@@ -553,57 +604,6 @@
     ],
     "situation": "内审中 / Tracking。Kingcha/Kingxiu 2026-06-04 复核：英文题名为 “Flexible Semi-Supervised Meta-Learning Network for Few-Shot Home Environment Safety Level Assessment”。此前 Sensors 稿号 sensors-4282374 于 2026-04-14 06:01 Asia/Shanghai 收到 Declined for Publication；2026-05-18 16:36 Asia/Shanghai MDPI Daisy Wang 回复该稿 rejected 后不能 reopen。2026-06-04 01:21 Asia/Shanghai IEEE Access / Research Exchange 发出 “Manuscript submitted to IEEE Access”（Gmail messageId 19e8e812f42cb966），确认已通过 IEEE Author Portal 成功在线提交并送达 IEEE Access Editorial Office；2026-06-04 01:45 Asia/Shanghai IEEE Access / ScholarOne Manuscripts 发出 “IEEE Access - Manuscript ID Access-2026-26733”（Gmail messageId 19e8e96c638e4f17），确认当前稿号 Access-2026-26733，稿件正在 full consideration。本次最终投稿包已保存并提交到论文仓库 paper-50-Semi-Supervised-Meta-Learning-Few-Shot-Home-Safety-Assessment/kingtou_ieee_access_20260603，包含 manuscript.pdf、manuscript.tex、cover_letter.tex、IEEE Access 模板/图件和 fsmn_home_safety_ieee_access_source_20260603.zip。按 IEEE Access 提交确认当前标注为内审中 / Tracking。",
     "impactSort": 3.6
-  },
-  {
-    "statusDot": "⚪",
-    "status": "待投稿",
-    "statusOrder": 0,
-    "title": "适老建成环境专业人员对 AI-BIM 评估工具的接受度",
-    "journalTrack": "Buildings (Rejected: buildings-4330016) → Cities (Rejected: JCIT-D-26-03897)",
-    "submissionSystemInfo": "Elsevier New Submission Service / Editorial Manager / Cities；稿号：JCIT-D-26-03897；confirmation/draft UUID：746e405f-f8b2-4d54-8d99-b59d6821d2d8；提交时间（门户显示）：02:35, May 30, 2026；邮件确认时间：2026-05-30 02:36 Asia/Shanghai（Gmail Spam）；投稿系统作者（以 portal 为准）：Quan Wen（corresponding author，wenquan@hngm.edu.cn）；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；投稿系统注册邮箱：wenquan@student.usm.my（来源：Elsevier account re-authentication page）；用户名/显示名：confirmation 页面仅显示 Account/Sign out，完整 account settings 需密码重新认证，未能可见获取；ORCID：confirmation 页面未显示，account settings 需密码重新认证，未能可见确认绑定/登录状态；核对时间：2026-05-30；来源：CDP 9227 Cities confirmation page、Elsevier re-authentication page、Gmail Spam confirmation；未存储密码。",
-    "bg": "#f2f2f2",
-    "updatedAt": "2026-07-23",
-    "currentJournal": "",
-    "similarity": "7.0%",
-    "casXr": "",
-    "cas": "",
-    "xr": "",
-    "jcr": "",
-    "impactFactor": "",
-    "indexType": "",
-    "recommendedJournals": "Cities；Buildings",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "situation": "待投稿。英文题名为 “Acceptance of AI-BIM Integrated Tools for Aging-Friendly Assessment Among Built Environment Professionals: An Extended Technology Acceptance Model”。2026-07-19 21:58:29 Asia/Shanghai 收到 Cities Decision on submission（稿号 JCIT-D-26-03897；Gmail Spam，messageId 19f7aac180c47b41），拒稿原因 lack of sufficient novelty；transfer recommendation 不构成有效新投稿；未发现之后 submission received / manuscript submitted 证据；当前回到待投稿。",
-    "impactSort": -1
-  },
-  {
-    "statusDot": "💖",
-    "status": "需修订",
-    "statusOrder": 1,
-    "title": "社区老年日间照料中心多模态热舒适的时空深度学习评估与预测",
-    "journalTrack": "Energy and Buildings (Major revision: ENB-D-26-04086; due 2026-08-04)",
-    "submissionSystemInfo": "Elsevier New Submission Service / Editorial Manager / Energy and Buildings；稿号：ENB-D-26-04086；邮件确认时间：2026-05-29 21:23 Asia/Shanghai（Gmail Spam）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；投稿系统注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；ORCID：已绑定/可用于登录 0009-0005-3975-8104（待门户个人资料页复核）；注意：投稿系统作者与当前 LaTeX front matter 作者栏不一致，LaTeX 中 Quan Wen 出现在通讯作者说明中；核对时间：2026-05-30；未存储密码。",
-    "bg": "#ffd9ec",
-    "updatedAt": "2026-07-23",
-    "currentJournal": "Energy and Buildings",
-    "similarity": "0.0%",
-    "casXr": "CAS大2小2；XR大2小2",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q1",
-    "impactFactor": "6.6",
-    "indexType": "SCIE",
-    "recommendedJournals": "Energy and Buildings；Energy",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
-    "correspondingAuthors": [
-      "Quan Wen",
-      "Mazran Ismail"
-    ],
-    "situation": "需修订。英文题名为 “Spatiotemporal deep learning for multimodal thermal comfort assessment and prediction in community elderly day-care centers”。2026-07-07 10:54:33 Asia/Shanghai 收到 Energy & Buildings major revision 决定（稿号 ENB-D-26-04086；Gmail Spam，messageId 19f3a800155b7790），修回截止 2026-08-04；要求补充数据划分/泄漏防止、seasonal hold-out、cross-building generalization、模型复现细节、运行时间和准确率依据，并改善图表组织；未发现后续修回提交确认；当前需修订。",
-    "impactSort": 6.6
   },
   {
     "statusDot": "🟡",
@@ -1466,6 +1466,33 @@
     "impactSort": 3.6
   },
   {
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
+    "title": "中国老年 HIV 感染者适老居住环境评估的个体中心框架",
+    "journalTrack": "BMC Geriatrics (R1 resubmitted / Technical Check: c4ee9984-966a-4c9f-a548-2341676a77aa; v4.1; 2026-07-21)",
+    "submissionSystemInfo": "Springer Nature SNAPP / BMC Geriatrics；Submission ID：c4ee9984-966a-4c9f-a548-2341676a77aa；2026-07-18 Asia/Shanghai major revision 最终提交成功；成功页显示 Submission received / Technical Check，投稿详情页显示 revised submission received、版本 v4.0、Peer review in progress。用户名：Springer Nature 个人资料未单独显示；账号显示名：QUAN WEN；注册邮箱：wenquan6328@gmail.com；Google 已链接 wenquan6328@gmail.com；ORCID 未链接（Linked accounts 页面 ORCID 显示 Link）。投稿系统作者：Quan Wen（primary corresponding，wenquan@hngm.edu.cn）、Dr. Mazran Ismail（corresponding，mazran@usm.my）、Dr. Muhammad Hafeez Abdul Nasir（corresponding，hafeeznasir@usm.my）、Yanting Wu（15093362768@163.com）；作者顺序、单位、邮箱和通讯作者标记与修订 LaTeX 一致。上传文件：BMC_Geriatrics_revised_manuscript_source.zip、response_to_editor_and_reviewers.pdf、Additional_file_1_OPLHIV_questionnaire.pdf、Additional_file_2_Core_LDA_model_selection_code.py、revision_cover_letter.pdf；系统 reviewer PDF：BMC_Geriatrics_system_generated_review.pdf（37 页）。论文仓库提交：22f97d6；仓库：WENQUAN0816/paper-10-Elderly-HIV-Centric-Framework-Topic-Modeling-Delphi-Hierarchical-Needs；未存储密码。",
+    "bg": "#fff8d9",
+    "updatedAt": "2026-07-18",
+    "currentJournal": "BMC Geriatrics",
+    "similarity": "2.7%",
+    "casXr": "CAS大2小2；XR大2小1/2",
+    "cas": "",
+    "xr": "",
+    "jcr": "Q1",
+    "impactFactor": "3.8",
+    "indexType": "SCIE&SSCI",
+    "recommendedJournals": "",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "correspondingAuthors": [
+      "Quan Wen",
+      "Mazran Ismail",
+      "Muhammad Hafeez Abdul Nasir"
+    ],
+    "situation": "内审中。英文题名为 “An Older HIV-Infected Individual-Centric Framework for Age-Friendly Living Environment Assessment in China: Integrating Topic Modeling, Delphi Consensus, and Hierarchical Needs Analysis”。Submission ID c4ee9984-966a-4c9f-a548-2341676a77aa。2026-07-21 BMC Geriatrics 技术检查要求补充 clinical trial number 或声明 “Clinical trial not applicable”（Gmail messageId 19f8393faff29c28）；同日作者确认 amended manuscript v4.1 已提交并处于 Technical Check（sent messageId 19f83fea53ced266）。此前 2026-07-18 v4.0 修回已进入 Peer review；本次技术检查覆盖旧阶段，当前按内审中处理。",
+    "impactSort": 3.8
+  },
+  {
     "statusDot": "🟢",
     "status": "外审中",
     "statusOrder": 3,
@@ -1538,33 +1565,6 @@
       "Quan Wen"
     ],
     "situation": "外审中。用户确认当前处于 BMC Geriatrics / Peer review（同行评审）状态。",
-    "impactSort": 3.8
-  },
-  {
-    "statusDot": "🟡",
-    "status": "内审中",
-    "statusOrder": 2,
-    "title": "中国老年 HIV 感染者适老居住环境评估的个体中心框架",
-    "journalTrack": "BMC Geriatrics (R1 resubmitted / Technical Check: c4ee9984-966a-4c9f-a548-2341676a77aa; v4.1; 2026-07-21)",
-    "submissionSystemInfo": "Springer Nature SNAPP / BMC Geriatrics；Submission ID：c4ee9984-966a-4c9f-a548-2341676a77aa；2026-07-18 Asia/Shanghai major revision 最终提交成功；成功页显示 Submission received / Technical Check，投稿详情页显示 revised submission received、版本 v4.0、Peer review in progress。用户名：Springer Nature 个人资料未单独显示；账号显示名：QUAN WEN；注册邮箱：wenquan6328@gmail.com；Google 已链接 wenquan6328@gmail.com；ORCID 未链接（Linked accounts 页面 ORCID 显示 Link）。投稿系统作者：Quan Wen（primary corresponding，wenquan@hngm.edu.cn）、Dr. Mazran Ismail（corresponding，mazran@usm.my）、Dr. Muhammad Hafeez Abdul Nasir（corresponding，hafeeznasir@usm.my）、Yanting Wu（15093362768@163.com）；作者顺序、单位、邮箱和通讯作者标记与修订 LaTeX 一致。上传文件：BMC_Geriatrics_revised_manuscript_source.zip、response_to_editor_and_reviewers.pdf、Additional_file_1_OPLHIV_questionnaire.pdf、Additional_file_2_Core_LDA_model_selection_code.py、revision_cover_letter.pdf；系统 reviewer PDF：BMC_Geriatrics_system_generated_review.pdf（37 页）。论文仓库提交：22f97d6；仓库：WENQUAN0816/paper-10-Elderly-HIV-Centric-Framework-Topic-Modeling-Delphi-Hierarchical-Needs；未存储密码。",
-    "bg": "#fff8d9",
-    "updatedAt": "2026-07-18",
-    "currentJournal": "BMC Geriatrics",
-    "similarity": "2.7%",
-    "casXr": "CAS大2小2；XR大2小1/2",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q1",
-    "impactFactor": "3.8",
-    "indexType": "SCIE&SSCI",
-    "recommendedJournals": "",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
-    "correspondingAuthors": [
-      "Quan Wen",
-      "Mazran Ismail",
-      "Muhammad Hafeez Abdul Nasir"
-    ],
-    "situation": "内审中。英文题名为 “An Older HIV-Infected Individual-Centric Framework for Age-Friendly Living Environment Assessment in China: Integrating Topic Modeling, Delphi Consensus, and Hierarchical Needs Analysis”。Submission ID c4ee9984-966a-4c9f-a548-2341676a77aa。2026-07-21 BMC Geriatrics 技术检查要求补充 clinical trial number 或声明 “Clinical trial not applicable”（Gmail messageId 19f8393faff29c28）；同日作者确认 amended manuscript v4.1 已提交并处于 Technical Check（sent messageId 19f83fea53ced266）。此前 2026-07-18 v4.0 修回已进入 Peer review；本次技术检查覆盖旧阶段，当前按内审中处理。",
     "impactSort": 3.8
   },
   {
