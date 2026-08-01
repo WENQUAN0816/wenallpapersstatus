@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-07-23
+> **最后更新：** 2026-08-01
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -252,7 +252,7 @@
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">粮食储藏仓制冷系统真实世界能效评估：来自中国河南 65 个设施的证据</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Scientific Reports → Energy Reports (Submitted: EGYR-D-26-01996) → Scientific Reports (Revision submitted / Technical Check: 2026-08-01; 2a8d0dcd-74c6-4848-86ff-62ad8eb84d62)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / Scientific Reports；2026-08-01 门户显示 Submission received / Technical Check；论文仓库 commit dac9d61；修订包 SHA256 12A7222BFF324621FEA4C132EB601E8523F72ED74028F71618ABFEFE03B36E92；未存储密码。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Scientific Reports → Energy Reports (Submitted: EGYR-D-26-01996) → Scientific Reports (Revision submitted / Technical Check: 2026-08-01; 2a8d0dcd-74c6-4848-86ff-62ad8eb84d62)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / Scientific Reports；2026-08-01 门户显示 Submission received / Technical Check；论文仓库 commit dac9d61；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
