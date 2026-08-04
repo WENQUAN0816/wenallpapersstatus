@@ -171,10 +171,10 @@
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Frontiers in Psychology (Editorial appointment assistance requested: 2026-06-09)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Frontiers submission portal / My Frontiers / Frontiers in Psychology；2026-06-09 19:04 Asia/Shanghai 收到 Frontiers 请求协助 appoint handling editor（Gmail messageId 19eac0e485aa751a），要求提供 3 名 editorial board preferred editors、3 名 external editors 及可能 research topics；邮件未列 manuscript ID；当前按需修订/需处理跟进。未存储密码。</td>
 </tr>
 
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">社区老年日间照料中心多模态热舒适的时空深度学习评估与预测</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Energy and Buildings (Major revision: ENB-D-26-04086; due 2026-08-04)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Elsevier Editorial Manager / Energy &amp; Buildings；稿号：ENB-D-26-04086；2026-07-07 10:54:33 Asia/Shanghai 收到 major revision 决定（Gmail Spam，messageId 19f3a800155b7790）；修回截止 2026-08-04；主要要求补充数据划分/泄漏防止、seasonal hold-out、cross-building generalization、模型复现细节、运行时间和准确率依据；未发现后续修回提交确认；未存储密码。</td>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">社区老年日间照料中心多模态热舒适的时空深度学习评估与预测</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Energy and Buildings (Revision submitted: ENB-D-26-04086R1; 2026-08-04)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier Editorial Manager / Energy &amp; Buildings；修回稿号：ENB-D-26-04086R1；2026-08-04 21:06:47 Asia/Shanghai 收到 Confirming submission to Energy &amp; Buildings（Gmail messageId 19fcce2785748e99），正文确认稿件已收到并进入 Revisions Being Processed；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；与修订版 LaTeX 作者顺序一致；投稿系统用户名/显示名：Quan Wen / WEN QUAN；注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；ORCID：0009-0005-3975-8104（待门户个人资料页复核）；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">

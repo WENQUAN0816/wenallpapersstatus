@@ -402,14 +402,14 @@
     "impactSort": 2.9
   },
   {
-    "statusDot": "💖",
-    "status": "需修订",
-    "statusOrder": 1,
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
     "title": "社区老年日间照料中心多模态热舒适的时空深度学习评估与预测",
-    "journalTrack": "Energy and Buildings (Major revision: ENB-D-26-04086; due 2026-08-04)",
-    "submissionSystemInfo": "Elsevier New Submission Service / Editorial Manager / Energy and Buildings；稿号：ENB-D-26-04086；邮件确认时间：2026-05-29 21:23 Asia/Shanghai（Gmail Spam）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；投稿系统注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；ORCID：已绑定/可用于登录 0009-0005-3975-8104（待门户个人资料页复核）；注意：投稿系统作者与当前 LaTeX front matter 作者栏不一致，LaTeX 中 Quan Wen 出现在通讯作者说明中；核对时间：2026-05-30；未存储密码。",
-    "bg": "#ffd9ec",
-    "updatedAt": "2026-07-23",
+    "journalTrack": "Energy and Buildings (Revision submitted: ENB-D-26-04086R1; 2026-08-04)",
+    "submissionSystemInfo": "Elsevier Editorial Manager / Energy and Buildings；原稿号：ENB-D-26-04086；修回稿号：ENB-D-26-04086R1；2026-08-04 21:06:47 Asia/Shanghai 收到 Confirming submission to Energy & Buildings（Gmail messageId 19fcce2785748e99），正文确认稿件已收到并进入 Revisions Being Processed。投稿系统作者（以 portal 为准）：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；与最终修订版 LaTeX 作者顺序一致。用户名/显示名：Quan Wen / WEN QUAN；注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；ORCID：0009-0005-3975-8104（待门户个人资料页复核）；核对时间：2026-08-04；未存储密码。",
+    "bg": "#fff8d9",
+    "updatedAt": "2026-08-04",
     "currentJournal": "Energy and Buildings",
     "similarity": "0.0%",
     "casXr": "CAS大2小2；XR大2小2",
@@ -419,12 +419,12 @@
     "impactFactor": "6.6",
     "indexType": "SCIE",
     "recommendedJournals": "Energy and Buildings；Energy",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
     "correspondingAuthors": [
       "Quan Wen",
       "Mazran Ismail"
     ],
-    "situation": "需修订。英文题名为 “Spatiotemporal deep learning for multimodal thermal comfort assessment and prediction in community elderly day-care centers”。2026-07-07 10:54:33 Asia/Shanghai 收到 Energy & Buildings major revision 决定（稿号 ENB-D-26-04086；Gmail Spam，messageId 19f3a800155b7790），修回截止 2026-08-04；要求补充数据划分/泄漏防止、seasonal hold-out、cross-building generalization、模型复现细节、运行时间和准确率依据，并改善图表组织；未发现后续修回提交确认；当前需修订。",
+    "situation": "内审中。英文题名为 “Spatiotemporal deep learning for multimodal thermal comfort assessment and prediction in community elderly day-care centers”。原稿号 ENB-D-26-04086 于 2026-07-06/07 收到 major revision，修回截止 2026-08-04。2026-08-04 21:06:47 Asia/Shanghai，Energy & Buildings / Editorial Manager 确认修回稿 ENB-D-26-04086R1 已收到并进入 Revisions Being Processed（Gmail messageId 19fcce2785748e99）；当前等待 technical/editorial processing。修订版 LaTeX 与投稿系统四位作者顺序一致；用户名/显示名：Quan Wen / WEN QUAN；注册邮箱与 ORCID 仍待门户个人资料页最终复核；未存储密码。",
     "impactSort": 6.6
   },
   {
