@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-08-04
+> **最后更新：** 2026-08-05
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -432,7 +432,7 @@
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">室内适老环境多维韧性评估框架：基于 Google Gemini Pro 的大模型指标构建</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Humanities and Social Sciences Communications</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Humanities and Social Sciences Communications (Amended revision v3.1 received: 7875353f-db21-408a-b938-baf0d1ed487f; 2026-08-05)</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Springer Nature SNAPP / Humanities and Social Sciences Communications；Submission ID：7875353f-db21-408a-b938-baf0d1ed487f；历史修订：2026-08-03 以 draft 23d141aa-7278-4fb1-98b7-0ce228c67370 完成 v2.0 修订提交；当前 amendment draft ID：604d14d2-d715-439a-bbec-a84136439e03；2026-08-05 完成 v3.1 amended revision 提交，成功页显示 Submission received，投稿详情页显示 We've received your amended submission、版本 v3.1、Peer review - in progress，并说明技术检查后返回编辑评估。投稿系统未显示独立用户名；账号显示名：QUAN WEN；投稿系统注册邮箱：wenquan6328@gmail.com；Google 已绑定 wenquan6328@gmail.com；ORCID 未绑定（Linked accounts 页面显示 Link）。投稿系统作者以 SNAPP Authors/Review 页为准：Quan Wen（primary corresponding，wenquan@hngm.edu.cn）；Dr. Mazran Ismail（author，mazran@usm.my）；Dr. Muhammad Hafeez Abdul Nasir（author，hafeez@usm.my）。投稿系统作者姓名、顺序、单位和通讯作者标记与 LaTeX 一致；第三作者邮箱不一致，LaTeX 为 hafeeznasir@usm.my。v3.1 主稿：20260805_paper26_anonymous_revision_fig7_no_line_numbers.zip；修正 Fig. 7 正文引用并移除 named/anonymous 稿件行号；point-by-point response 与五个 supplementary files 保持不变；cover_letter.pdf 保留。Springer 生成 reviewer PDF：springer_generated_review_20260805_no_line_numbers.pdf（31 页，左右边距无行号）；ZIP SHA-256：A2865B8AE622722E7AF4DB082163F1F492C4F825EF0261D701F848DEF1E0D404；reviewer PDF SHA-256：B00B875C853E444755FD969AEA8D953A1DAFCCB4BCD653D485773BABD7579138。Declarations 已将过时的 Table 6 数据可用性文本同步为现行声明，并补录伦理审批 HNGM-2024-EC-012；论文仓库 commit：e94f9e988d6cc080b763757767d707f8ea2719eb；未存储密码、Cookie、token 或会话文件。</td>
 </tr>
 
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">

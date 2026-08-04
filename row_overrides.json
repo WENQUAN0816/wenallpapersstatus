@@ -257,11 +257,11 @@
   "室内适老环境多维韧性评估框架：基于 Google Gemini Pro 的大模型指标构建": {
     "statusDot": "🟢",
     "status": "外审中",
-    "journalTrack": "Humanities and Social Sciences Communications",
-    "authors": "Quan Wen；Dr. Mazran Ismail；Dr. Muhammad Hafeez Abdul Nasir（投稿系统姓名与顺序、单位和通讯作者标记与 LaTeX 一致；第三作者邮箱门户为 hafeez@usm.my，LaTeX 为 hafeeznasir@usm.my）",
+    "journalTrack": "Humanities and Social Sciences Communications (Amended revision v3.1 received: 7875353f-db21-408a-b938-baf0d1ed487f; 2026-08-05)",
+    "authors": "Quan Wen；Dr. Mazran Ismail；Dr. Muhammad Hafeez Abdul Nasir（以投稿系统为准；姓名、顺序、单位和通讯作者标记与 LaTeX 一致；邮箱不一致：投稿系统第三作者为 hafeez@usm.my，LaTeX 为 hafeeznasir@usm.my）",
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-05"
   }
 }
