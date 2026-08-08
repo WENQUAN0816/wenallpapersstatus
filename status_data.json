@@ -377,14 +377,14 @@
     "impactSort": -1
   },
   {
-    "statusDot": "💖",
-    "status": "需修订",
-    "statusOrder": 1,
+    "statusDot": "🟢",
+    "status": "外审中",
+    "statusOrder": 3,
     "title": "面向文化主题公共建筑老年用户的空间意义感知量表开发：因子分析研究设计",
-    "journalTrack": "Frontiers in Psychology (Editorial appointment assistance requested: 2026-06-09)",
-    "submissionSystemInfo": "Frontiers submission portal / My Frontiers / Frontiers in Psychology；2026-06-09 19:04 Asia/Shanghai 收到 Frontiers 请求协助 appoint handling editor（Gmail messageId 19eac0e485aa751a），要求提供 3 名 editorial board preferred editors、3 名 external editors 及可能 research topics；邮件未列 manuscript ID；当前按需修订/需处理跟进。未存储密码。",
-    "bg": "#ffd9ec",
-    "updatedAt": "2026-06-11",
+    "journalTrack": "Frontiers in Psychology (Interactive Review; revised manuscript resubmitted: 10537431; 2026-08-08)",
+    "submissionSystemInfo": "Frontiers submission portal / My Frontiers / Frontiers in Psychology - Quantitative Psychology and Measurement；Frontiers 稿件号：1871578；本轮修订提交号：10537431；2026-08-08 02:09 Asia/Shanghai 成功页显示 ‘Completed! Thank you for submitting your revised manuscript.’，修订稿已重新提交并进入外审；投稿系统未显示独立用户名，显示名：Quan Wen，注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104（依据同一 Frontiers 账户既有核验记录，本次会话未重新打开个人资料页复核）；投稿系统作者以门户为准：Xuejia Zhu（zhuxuejia652@gmail.com）、Suebsiri Salelee（s0648792945@gmail.com，通讯作者）、Quan Wen（wenquan@student.usm.my，通讯作者）；门户作者顺序和拼写与最终 LaTeX 完全一致，无作者不一致；最终稿、回复文件和作者指定的 ORdata 分析/复现记录已推送至论文仓库 commit 4c0bd60b7a427ac8259c35330ece1e2412233cd0；未存储密码、Cookie 或浏览器会话。",
+    "bg": "#e8f9ee",
+    "updatedAt": "2026-08-08",
     "currentJournal": "Frontiers in Psychology",
     "similarity": "1.4%",
     "casXr": "CAS大3小3；XR大3小2",
@@ -394,11 +394,12 @@
     "impactFactor": "2.9",
     "indexType": "SSCI",
     "recommendedJournals": "",
-    "authors": "Xuejia Zhu；Suebsiri Saelee",
+    "authors": "Xuejia Zhu；Suebsiri Salelee；Quan Wen",
     "correspondingAuthors": [
-      "Suebsiri Saelee"
+      "Suebsiri Salelee",
+      "Quan Wen"
     ],
-    "situation": "需修订。Kingcha 2026-06-11 复核：英文题名为 “Developing the Spatial Meaning Perception Scale for Older Users of Cultural Themed Public Buildings: A Factor Analysis Research Design”。2026-06-09 19:04 Asia/Shanghai Frontiers in Psychology 来信请求协助 appoint handling editor（Gmail messageId 19eac0e485aa751a），要求提供 3 名 editorial board preferred editors、3 名 external editors 及可能 research topics；邮件未列 manuscript ID。按英文题名搜索 Gmail in:anywhere / in:spam、wenallpapersstatus 和 zhuxuejia paper-3 仓库，未发现该请求之后的处理完成证据；当前按需修订/需处理。",
+    "situation": "外审中。最终英文题名为 “Developing the Spatial Meaning Perception Scale for Older Users of Culturally Themed Public Buildings: A Factor-Analytic Validation Study”。Frontiers in Psychology - Quantitative Psychology and Measurement 稿件号 1871578；2026-08-08 02:09 Asia/Shanghai，Frontiers 成功页显示 ‘Completed! Thank you for submitting your revised manuscript.’，本轮修订提交号 10537431，证明 Reviewer 1 和 Reviewer 3 的回复及修订稿已完成重新提交。修订将原研究设计稿更新为完整的实证量表开发与验证研究，补充理论与方法说明、心理测量结果、伦理声明和逐点回复；最终 PDF 14 页。投稿系统作者以门户为准：Xuejia Zhu、Suebsiri Salelee（通讯作者）、Quan Wen（通讯作者），与最终 LaTeX 的顺序及拼写完全一致。最终稿、回复文件和作者指定的 ORdata 分析/复现记录已归档至论文仓库 commit 4c0bd60b7a427ac8259c35330ece1e2412233cd0。当前等待 Frontiers 后续同行评审。",
     "impactSort": 2.9
   },
   {

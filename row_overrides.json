@@ -149,11 +149,16 @@
     "updatedAt": "2026-07-18"
   },
   "面向文化主题公共建筑老年用户的空间意义感知量表开发：因子分析研究设计": {
-    "statusDot": "💖",
-    "status": "需修订",
-    "journalTrack": "Frontiers in Psychology (Editorial appointment assistance requested: 2026-06-09)",
-    "submissionSystemInfo": "Frontiers submission portal / My Frontiers / Frontiers in Psychology；2026-06-09 19:04 Asia/Shanghai 收到 Frontiers 请求协助 appoint handling editor（Gmail messageId 19eac0e485aa751a），要求提供 3 名 editorial board preferred editors、3 名 external editors 及可能 research topics；邮件未列 manuscript ID；当前按需修订/需处理跟进。未存储密码。",
-    "updatedAt": "2026-06-11"
+    "statusDot": "🟢",
+    "status": "外审中",
+    "journalTrack": "Frontiers in Psychology (Interactive Review; revised manuscript resubmitted: 10537431; 2026-08-08)",
+    "submissionSystemInfo": "Frontiers submission portal / My Frontiers / Frontiers in Psychology - Quantitative Psychology and Measurement；Frontiers 稿件号：1871578；本轮修订提交号：10537431；2026-08-08 02:09 Asia/Shanghai 成功页显示 ‘Completed! Thank you for submitting your revised manuscript.’，修订稿已重新提交并进入外审；投稿系统未显示独立用户名，显示名：Quan Wen，注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104（依据同一 Frontiers 账户既有核验记录，本次会话未重新打开个人资料页复核）；投稿系统作者以门户为准：Xuejia Zhu（zhuxuejia652@gmail.com）、Suebsiri Salelee（s0648792945@gmail.com，通讯作者）、Quan Wen（wenquan@student.usm.my，通讯作者）；门户作者顺序和拼写与最终 LaTeX 完全一致，无作者不一致；最终稿、回复文件和作者指定的 ORdata 分析/复现记录已推送至论文仓库 commit 4c0bd60b7a427ac8259c35330ece1e2412233cd0；未存储密码、Cookie 或浏览器会话。",
+    "authors": "Xuejia Zhu；Suebsiri Salelee；Quan Wen",
+    "correspondingAuthors": [
+      "Suebsiri Salelee",
+      "Quan Wen"
+    ],
+    "updatedAt": "2026-08-08"
   },
   "老年用户对居家养老智能家居传感器系统的接受度：整合技术接受模型、隐私计算理论与空间自主性": {
     "statusDot": "⚪",
