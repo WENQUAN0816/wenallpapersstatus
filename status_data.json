@@ -1419,14 +1419,14 @@
     "impactSort": 3.6
   },
   {
-    "statusDot": "🟡",
-    "status": "内审中",
-    "statusOrder": 2,
+    "statusDot": "🟢",
+    "status": "外审中",
+    "statusOrder": 3,
     "title": "香港高层社区老年居民火灾韧性的循证评估框架",
-    "journalTrack": "Humanities and Social Sciences Communications (Editorial Assessment: cfb4556c-32fb-44dc-bd9a-194025fff018)",
-    "submissionSystemInfo": "Springer Nature SNAPP / Humanities and Social Sciences Communications；Submission ID：cfb4556c-32fb-44dc-bd9a-194025fff018；2026-06-09 16:30 Asia/Shanghai 收到 amendment required（Gmail messageId 19eab813b8409c55），要求修正 funding declaration；2026-06-11 12:56 Asia/Shanghai 编辑确认稿件已 moved forward for the next stage of Editorial Assessment（Gmail messageId 19eb509fae2d02f8）。投稿系统账号显示名 QUAN WEN；页面账号邮箱 wenquan6328@gmail.com；未存储密码。",
-    "bg": "#fff8d9",
-    "updatedAt": "2026-06-11",
+    "journalTrack": "Humanities and Social Sciences Communications (revised submission v.4.0; Submission received 2026-08-08; Peer review - in progress; Submission ID: cfb4556c-32fb-44dc-bd9a-194025fff018)",
+    "submissionSystemInfo": "Springer Nature SNAPP / Humanities and Social Sciences Communications；Submission ID：cfb4556c-32fb-44dc-bd9a-194025fff018；修订版本 v.4.0，draft ID：2ef493f6-b028-4cb8-9708-b054ad9ee933；2026-08-08 成功页显示 Submission received，详情页显示 We've received your revised submission，当前阶段为 Peer review - in progress，状态页记为外审中。投稿系统未显示独立用户名；账号显示名：QUAN WEN；投稿系统注册邮箱：wenquan6328@gmail.com；Google 已链接至 wenquan6328@gmail.com；ORCID 未绑定（Linked accounts 页面显示 Link）。提交后的 SNAPP author-entry 路径回到成功页，submission-details 页面不再显示作者表；保密文件 `Confidential_Cover_Letter_and_Author_Verification.pdf` 已归档并由门户存储一份，但其行政顺序不作为 portal 作者顺序，因此 portal 与 LaTeX 的作者角色、通讯标记和作者邮箱对应关系无法独立复核。作者确认信中的 institutional contacts（Wen Quan：wenquan@student.usm.my；Dr. Mazran Ismail：mazran@usm.my；Dr. Muhammad Hafeez Abdul Nasir：hafeeznasir@usm.my）与投稿系统注册邮箱分开记录。论文仓库 commit：2e4b156；相关数据仓库：https://github.com/WENQUAN0816/paper-15-Fire-Resilience-Assessment-Elderly-Hong-Kong-High-Rise-data；未存储密码、cookie、token 或浏览器会话。",
+    "bg": "#e8f9ee",
+    "updatedAt": "2026-08-08",
     "currentJournal": "HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS",
     "similarity": "5.0%",
     "casXr": "CAS大2小1/2；XR大2小1",
@@ -1436,11 +1436,11 @@
     "impactFactor": "3.6",
     "indexType": "SSCI",
     "recommendedJournals": "",
-    "authors": "Quan Wen",
+    "authors": "Quan Wen；Dr. Mazran Ismail；Dr. Muhammad Hafeez Abdul Nasir（以投稿系统记录为准；提交后无法重新打开 portal author table，portal 与 LaTeX 的作者角色和邮箱对应关系未独立确认）",
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "situation": "内审中。Kingcha 2026-06-11 复核：英文题名为 “Governing Fire Resilience in High-Rise Communities for Older Residents in Hong Kong”。2026-06-06 19:23 Asia/Shanghai 收到 Humanities and Social Sciences Communications major revision 决定；2026-06-08 21:25 Asia/Shanghai 左右 SNAPP 显示 Submission received / Thank you for submitting to Humanities and Social Sciences Communications，返修稿进入 Technical Check。2026-06-09 16:30 Asia/Shanghai 收到 amendment required（Gmail messageId 19eab813b8409c55），要求修正 funding declaration；2026-06-11 12:56 Asia/Shanghai 编辑确认稿件已 moved forward for the next stage of Editorial Assessment（Gmail messageId 19eb509fae2d02f8）。当前按内审中 / Editorial Assessment 处理。",
+    "situation": "外审中。Humanities and Social Sciences Communications / Springer Nature SNAPP 修订提交 v.4.0；Submission ID：cfb4556c-32fb-44dc-bd9a-194025fff018；draft ID：2ef493f6-b028-4cb8-9708-b054ad9ee933。2026-08-08 成功页显示 Submission received，详情页显示 We've received your revised submission，当前阶段为 Peer review - in progress，因此状态由旧的 Editorial Assessment 更新为外审中。最终稿件仓库 commit：2e4b156；作者确认信与作者表复核边界、账号邮箱/Google/ORCID 状态及相关数据仓库均记录在投稿系统信息列。",
     "impactSort": 3.6
   },
   {
