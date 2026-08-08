@@ -34,8 +34,8 @@
 <tr><th>状态</th><th>数量</th></tr>
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>13</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>2</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>43</td></tr>
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>4</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>42</td></tr>
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>5</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
 </table>
 </td>
@@ -413,14 +413,14 @@
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">香港高层社区老年居民火灾韧性的循证评估框架</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Humanities and Social Sciences Communications (Editorial Assessment: cfb4556c-32fb-44dc-bd9a-194025fff018)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / Humanities and Social Sciences Communications；Submission ID：cfb4556c-32fb-44dc-bd9a-194025fff018；2026-06-09 16:30 Asia/Shanghai 收到 amendment required（Gmail messageId 19eab813b8409c55），要求修正 funding declaration；2026-06-11 12:56 Asia/Shanghai 编辑确认稿件已 moved forward for the next stage of Editorial Assessment（Gmail messageId 19eb509fae2d02f8）。投稿系统账号显示名 QUAN WEN；页面账号邮箱 wenquan6328@gmail.com；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">中国老年 HIV 感染者适老居住环境评估的个体中心框架</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">BMC Geriatrics (R1 resubmitted / Technical Check: c4ee9984-966a-4c9f-a548-2341676a77aa; v4.1; 2026-07-21)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / BMC Geriatrics；Submission ID：c4ee9984-966a-4c9f-a548-2341676a77aa；2026-07-21 技术检查要求补充 clinical trial number 或声明 Clinical trial not applicable（Gmail messageId 19f8393faff29c28）；同日作者确认 amended manuscript v4.1 已提交并处于 Technical Check（sent messageId 19f83fea53ced266）；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">香港高层社区老年居民火灾韧性的循证评估框架</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Humanities and Social Sciences Communications (revised submission v.4.0; Submission received 2026-08-08; Peer review - in progress; Submission ID: cfb4556c-32fb-44dc-bd9a-194025fff018)</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Springer Nature SNAPP；Submission ID：cfb4556c-32fb-44dc-bd9a-194025fff018；v.4.0 / draft 2ef493f6-b028-4cb8-9708-b054ad9ee933；2026-08-08 成功页 Submission received，详情页 We&#39;ve received your revised submission，当前 Peer review - in progress。投稿系统未显示独立用户名；显示名 QUAN WEN；投稿系统注册邮箱 wenquan6328@gmail.com；Google 已链接 wenquan6328@gmail.com；ORCID 未绑定（Linked accounts 显示 Link）。投稿系统作者表在提交后无法重新打开，保密作者确认信已作为 `Confidential_Cover_Letter_and_Author_Verification.pdf` 由门户存储一份；其行政顺序不作为 portal 顺序，portal 与 LaTeX 的作者角色、通讯标记和作者邮箱对应关系无法独立确认。作者确认信联系邮箱：Wen Quan wenquan@student.usm.my；Dr. Mazran Ismail mazran@usm.my；Dr. Muhammad Hafeez Abdul Nasir hafeeznasir@usm.my；这些不是投稿系统注册邮箱。论文仓库 commit：2e4b156；数据仓库：https://github.com/WENQUAN0816/paper-15-Fire-Resilience-Assessment-Elderly-Hong-Kong-High-Rise-data；未存储密码、cookie、token 或浏览器会话。</td>
 </tr>
 
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
