@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-08-09
+> **最后更新：** 2026-08-10
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -228,7 +228,7 @@
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Automation in Construction (Rejected: manuscript ID unavailable; portal Completed - Reject 2026-03-18) → Image and Vision Consulting (Sent back to author: manuscript ID unavailable; portal 2026-03-22) → IEEE Access (Rejected: Access-2026-21292) → Applied Sciences (Declined: applsci-4392887) → Signal, Image and Video Processing (Rejected: 60472379-226c-46de-a7e7-3be3cdb878a4; user confirmation 2026-08-10)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Springer Nature SNAPP / Signal, Image and Video Processing；Submission ID 60472379-226c-46de-a7e7-3be3cdb878a4；RSID rs-10071502。2026-06-18 01:05 Asia/Shanghai 收到 Springer Nature receipt（Gmail Spam），01:10 收到 Research Square tracking 邮件，成功页为 Submission received / Technical Check。投稿系统账号/Google 个人信息 chao Peng / hngmpengchao@gmail.com；2026-08-10 用户明确确认该稿已被拒绝，正式决定邮件时间与拒稿原因未提供；仓库在 2026-06-18 之后无更晚有效提交记录。历史门户快照另显示 Automation in Construction Completed - Reject（2026-03-18）及 Image and Vision Computing Sent Back to Author（2026-03-22），均未显示稿号。上传包 paper21_sivp_source_20260617.zip，SHA256 0DFDEDD238F5EF781D7FC044A393E2C50311F40B660AAC71587F6CA4F7464AB5；未存储密码、cookie 或浏览器会话。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Automation in Construction (Rejected: manuscript ID unavailable; portal Completed - Reject 2026-03-18) → Image and Vision Computing (Sent back to author: manuscript ID unavailable; portal 2026-03-22) → IEEE Access (Rejected: Access-2026-21292) → Applied Sciences (Declined: applsci-4392887) → Signal, Image and Video Processing (Rejected: 60472379-226c-46de-a7e7-3be3cdb878a4; user confirmation 2026-08-10)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Springer Nature SNAPP / Signal, Image and Video Processing；Submission ID 60472379-226c-46de-a7e7-3be3cdb878a4；RSID rs-10071502。2026-06-18 01:05 Asia/Shanghai 收到 Springer Nature receipt（Gmail Spam），01:10 收到 Research Square tracking 邮件，成功页为 Submission received / Technical Check。投稿系统账号/Google 个人信息 chao Peng / hngmpengchao@gmail.com；2026-08-10 用户明确确认该稿已被拒绝，正式决定邮件时间与拒稿原因未提供；仓库在 2026-06-18 之后无更晚有效提交记录。历史门户快照另显示 Automation in Construction Completed - Reject（2026-03-18）及 Image and Vision Computing Sent Back to Author（2026-03-22），均未显示稿号。上传包 paper21_sivp_source_20260617.zip，SHA256 0DFDEDD238F5EF781D7FC044A393E2C50311F40B660AAC71587F6CA4F7464AB5；未存储密码、cookie 或浏览器会话。</td>
 </tr>
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">

@@ -544,6 +544,21 @@ def has_rejected_track(track):
     return any(is_rejected_track_segment(part) for part in re.split(r"\s*→\s*", track or ""))
 
 
+def existing_updated_at_by_title():
+    data_path = ROOT / "status_data.json"
+    if not data_path.exists():
+        return {}
+    try:
+        rows = json.loads(data_path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+    return {
+        row.get("title", ""): row.get("updatedAt", "")
+        for row in rows
+        if row.get("title") and row.get("updatedAt")
+    }
+
+
 def current_journal(row):
     track = row["journalTrack"]
     if not track:
@@ -565,6 +580,7 @@ def enrich_rows(rows):
     submission_system_by_title = parse_submission_system_info()
     similarity_by_title = parse_similarity_info()
     row_overrides_by_title = parse_row_overrides()
+    existing_updated_at = existing_updated_at_by_title()
     today = dt.date.today().isoformat()
     for row in rows:
         row_override = row_overrides_by_title.get(row["title"], {})
@@ -592,7 +608,7 @@ def enrich_rows(rows):
             "correspondingAuthors",
             CORRESPONDING_AUTHOR_MAP.get(row["title"], []),
         )
-        row["updatedAt"] = row.get("updatedAt") or today
+        row["updatedAt"] = row.get("updatedAt") or existing_updated_at.get(row["title"], "") or today
         row["submissionSystemInfo"] = submission_system_by_title.get(row["title"], row.get("submissionSystemInfo", ""))
         row["situation"] = situation_by_title.get(row["title"], "")
         row["impactSort"] = float(row["impactFactor"]) if re.fullmatch(r"\d+(\.\d+)?", row["impactFactor"] or "") else -1
