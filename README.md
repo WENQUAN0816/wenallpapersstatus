@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-08-09
+> **最后更新：** 2026-08-10
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -32,9 +32,9 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>25</td></tr>
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>28</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>28</td></tr>
+<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>0</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>26</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>8</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
 </table>
@@ -173,12 +173,6 @@
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Work-role participation and healthy-ageing transitions across harmonized ageing cohorts</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">BMC Medicine (Portal draft created; not final submitted; 2026-08-10)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Springer Nature SNAPP / BMC Medicine；2026-08-10 Asia/Shanghai 已创建 portal draft 34b8a99b-c845-4dd8-921f-0808d0a65882，尚未最终提交。Draft URL：https://submission.springernature.com/new/submission/34b8a99b-c845-4dd8-921f-0808d0a65882/upload-files；CDP 端口：9225；Chrome profile：C:\Users\Administrator\.chrome-profiles\chrome-9225-google；论文仓库：https://github.com/WENQUAN0816/NC04-Work-role-and-healthy-ageing-transitions；提交包固定于 commit 8c8f61c1fdbf97139e3510c04be05a132d8e9267；LaTeX 主稿包和模型代码包均已上传，尚未最终提交；未存储密码、cookie 或会话文件。</td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">VLM 驱动的适老住宅缺陷自动评估与报告生成</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Sensors (Declined: sensors-4282378; 2026-04-13)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">MDPI SuSy / Sensors；稿号 sensors-4282378 于 2026-04-13 Declined。2026-05-06 复核发现 Buildings 稿号 buildings-4331963 实际属于另一篇 cGAN 稿件，不属于本 VLM 稿；三邮箱及论文仓库均无本题之后有效 submission received / manuscript submitted 证据，当前回到待投稿。论文仓库状态提交 2c623f5733ff052b55f6d4c2b03636aeb909fc24；未存储密码。</td>
 </tr>
@@ -225,10 +219,34 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Sensors (Rejected by editor: sensors-4282340)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
 </tr>
 
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">IEEE Access → The Journal of Nutrition, Health and Aging (JNHA) → PLOS ONE (Edits requested: PONE-D-26-22394)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Editorial Manager / PLOS ONE；用户名/显示名：QUAN WEN / quan wen；投稿系统注册邮箱：wenquan6328@gmail.com；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-21；未存储密码。</td>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">IEEE Access (Rejected: Access-2026-08063) → The Journal of Nutrition, Health and Aging (Rejected: TJNHA-D-26-00396) → PLOS ONE (Withdrawn from review process: PONE-D-26-22394; 2026-06-29 09:49 Asia/Shanghai)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Editorial Manager / PLOS ONE；稿号 PONE-D-26-22394；用户名/显示名 QUAN WEN / quan wen；投稿系统注册邮箱 wenquan6328@gmail.com；ORCID 已绑定 0009-0005-3975-8104。2026-06-29 09:48 Asia/Shanghai 的 Your PDF has been built 不是最终提交证据；09:49 官方邮件确认稿件 has now been withdrawn from the review process，未说明撤回原因。Gmail in:anywhere、Gmail Spam、Outlook 所有文件夹、企业邮箱全文搜索及论文仓库均未发现之后有效的新投稿确认。论文仓库状态提交 b8f55e5ee1ae12c2e43997fe4add81a86fd55359；未存储密码、cookie 或浏览器会话。</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Automation in Construction (Rejected: manuscript ID unavailable; portal Completed - Reject 2026-03-18) → Image and Vision Consulting (Sent back to author: manuscript ID unavailable; portal 2026-03-22) → IEEE Access (Rejected: Access-2026-21292) → Applied Sciences (Declined: applsci-4392887) → Signal, Image and Video Processing (Rejected: 60472379-226c-46de-a7e7-3be3cdb878a4; user confirmation 2026-08-10)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Springer Nature SNAPP / Signal, Image and Video Processing；Submission ID 60472379-226c-46de-a7e7-3be3cdb878a4；RSID rs-10071502。2026-06-18 01:05 Asia/Shanghai 收到 Springer Nature receipt（Gmail Spam），01:10 收到 Research Square tracking 邮件，成功页为 Submission received / Technical Check。投稿系统账号/Google 个人信息 chao Peng / hngmpengchao@gmail.com；2026-08-10 用户明确确认该稿已被拒绝，正式决定邮件时间与拒稿原因未提供；仓库在 2026-06-18 之后无更晚有效提交记录。历史门户快照另显示 Automation in Construction Completed - Reject（2026-03-18）及 Image and Vision Computing Sent Back to Author（2026-03-22），均未显示稿号。上传包 paper21_sivp_source_20260617.zip，SHA256 0DFDEDD238F5EF781D7FC044A393E2C50311F40B660AAC71587F6CA4F7464AB5；未存储密码、cookie 或浏览器会话。</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">使用基于深度学习的情绪分析评估并优化老年照护政策实施：一项多源研究</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Computers in Human Behavior (Rejected: CHB-D-26-01370; 2026-02-28) → Health Research Policy and Systems (Rejected / removed from system: bc00141f-041e-406b-9d38-f40639bccb68; 2026-04-14) → Social Science &amp; Medicine (Rejected: SSM-D-26-04252; local preview ID SSM-S-26-05321; 2026-05-07)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Elsevier Editorial Manager / Social Science &amp; Medicine；官方稿号 SSM-D-26-04252；本地 Editorial Manager 预览文件使用 SSM-S-26-05321。2026-05-07 编辑直接拒稿，认为其他期刊可能更适合，并由 Elsevier Article Transfer Service 推荐 Health Policy and Technology；转投建议本身不构成有效新投稿。2026-08-10 用户再次明确确认该稿已被拒绝；现有论文仓库审计未发现之后正式新投稿确认。未存储密码、cookie 或浏览器会话。</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">适老住宅改造的混合现实与条件 GAN 集成框架：两阶段修复与 360 度全景可视化</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Automation in Construction (Rejected: manuscript ID unavailable; user confirmation 2026-08-10)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Elsevier Editorial Manager / Automation in Construction；英文题名：An Integrated Mixed Reality and Conditional GAN Framework for Age-Friendly Home Renovation: Two-Stage Inpainting with 360-Degree Panoramic Visualization。2026-03-17 仅有账号注册邮件，2026-04-17 未完成投稿提醒明确投稿流程尚未完成；2026-08-10 用户明确确认该稿已被拒绝。现有记录无法独立确认正式拒稿期刊、决定时间、稿号或理由；Gmail（含 Spam）、Outlook、企业邮箱及论文仓库均未发现拒稿后的有效新投稿确认。论文仓库状态提交 6836f6e30d321ca38ee6861c3fc4330cdd846852；未存储密码、cookie 或浏览器会话。</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Work-role participation and healthy-ageing transitions across harmonized ageing cohorts</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">BMC Medicine (Submitted; Technical check - in progress; Submission ID: 34b8a99b-c845-4dd8-921f-0808d0a65882; 2026-08-10)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / BMC Medicine；Submission ID：34b8a99b-c845-4dd8-921f-0808d0a65882；2026-08-10 06:09 +08:00 成功页显示 Submission received，详情页显示 We&#39;ve received your submission and are now running technical checks，当前 Technical check - in progress。投稿系统用户名：未显示独立 username；账户显示名：QUAN WEN；注册邮箱：wenquan6328@gmail.com；Google：已绑定；ORCID：未绑定（Linked accounts 显示 Link）。投稿系统作者（以门户为准）：Quan Wen（primary corresponding，wenquan@hngm.edu.cn）；Mazran Ismail（corresponding，mazran@usm.my）；Muhammad Hafeez Abdul Nasir（非通讯，hafeeznasir@usm.my）；Nurdiana Zainol Abidin（corresponding，nurdianaabidin@usm.my）；与 LaTeX 作者顺序一致，无实质性作者不一致。论文仓库：https://github.com/WENQUAN0816/NC04-Work-role-and-healthy-ageing-transitions；最终归档 commit：bcd66d42a17efc498dc401baa30c56433cdd3292；未存储密码、cookie、token 或会话文件。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -247,12 +265,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Digital-social connectedness and healthy ageing transitions in a multiple cohort study</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Nature Communications (Rejected without external review: NCOMMS-26-049136) → npj Digital Medicine (Editorial Assessment: 4d7dc6e8-9792-4955-8464-ac87844c4abf; initial 2026-06-20; resubmitted 2026-06-23; editor confirmed 2026-06-24)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / npj Digital Medicine；Submission ID：4d7dc6e8-9792-4955-8464-ac87844c4abf；draft/submission URL id：46fe13ad-50ce-47e4-ace0-c97a76f652f3；2026-06-20 21:45:33 Asia/Shanghai 收到 Springer Nature receipt 邮件（Gmail messageId 19ee547b345ce5ef），成功页显示 “Submission received / Thank you for submitting to npj Digital Medicine”，稿件进入 initial Technical Check；2026-06-20 21:55:08 Asia/Shanghai 收到 Research Square tracking 邮件（Gmail messageId 19ee55075d692f58）。2026-06-22 16:49 Asia/Shanghai 收到 “Re: npj Digital Medicine-Amendment required”（Gmail messageId 19eee85b3664362f），技术检查要求明确 Table Citation {4,5} 的放置位置；2026-06-23 18:29 Asia/Shanghai 已通过 Springer Nature 成功页重新提交，页面显示 “Submission received / Thank you for submitting to npj Digital Medicine / Technical Check”；2026-06-24 14:08:44 Asia/Shanghai 编辑部回复已 moved forward for the next stage of Editorial Assessment（Gmail messageId 19ef83ecdb724afe）。本次只在 manuscript.tex 中补充 Table~\ref{tab:history} 和 Table~\ref{tab:transitions} 引用，未改动结果数值、图表、作者或声明。上传包：NPJDM_latex_source_package.zip；supplementary_information.pdf；NPJDM_public_reproducibility_package.zip；cover_letter.pdf；revised LaTeX source package SHA256：8CE572C61D98C3EF17EC5259F099A0ADF2DB9E37F050268EF056AA37B8A21773；public reproducibility package SHA256：50E70ACCC1BCD4513A25F74E874F69D22D33DC0D5E9C4877DBFC7556C7CB240C。论文主仓 resubmission commit：60ddeee9aa58279629ab7405a9ea79025d460c09；公开数据/代码子仓 commit：b002fd72948ce71641d87d2ed42b4f41778c887f；成功页截图：F:\Temp\npjdm_resubmission_success_20260623.png。投稿系统账号信息（以 Springer Nature Manage your account / Linked accounts 页面为准）：显示名 QUAN WEN；投稿系统注册邮箱 wenquan6328@gmail.com；收稿确认邮件收件邮箱 Dr Wen &lt;wenquan@student.usm.my&gt;；Google 已链接 wenquan6328@gmail.com；ORCID 未链接（Linked accounts 页面 ORCID 显示 Link）。投稿系统作者（以 SNAPP 作者页/提交表单为准）：Quan Wen（primary corresponding，wenquan@student.usm.my）；Mazran Ismail（corresponding，mazran@usm.my）；Muhammad Hafeez Abdul Nasir；Yanting Wu。投稿系统作者与 LaTeX 作者一致，未发现不一致。公开补充包仅含代码、聚合分析输出、图表源数据、补充材料、探索性中介分析输出和审计说明；未上传或公开再分发 CHARLS/HRS/ELSA/SHARE/KLoSA/LASI/MHAS 等受限个体级原始二手数据。未存储密码。</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">基于多模态特征学习的依赖感知三维场景图生成：用于自动化居家适老环境评估</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Image and Vision Computing → IEEE Access (Rejected: Access-2026-21292) → Applied Sciences (Declined: applsci-4392887) → Signal, Image and Video Processing (Submitted / Technical Check: 2026-06-18)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / Signal, Image and Video Processing；Submission ID：60472379-226c-46de-a7e7-3be3cdb878a4；2026-06-18 01:05 Asia/Shanghai 收到 Springer Nature 收稿/receipt 邮件（Gmail Spam），2026-06-18 01:10 Asia/Shanghai 收到 Research Square track 邮件，RSID：rs-10071502；成功页显示 Submission received / Technical Check。投稿系统账号/Google 个人信息：chao Peng / hngmpengchao@gmail.com；ORCID：提交后 SNAPP/Google 页面未显示绑定状态，未确认绑定；投稿系统作者（以提交包和门户填写为准）：Quan Wen（corresponding，wenquan@hngm.edu.cn）、Mazran Ismail（co-corresponding，mazran@usm.my）、Muhammad Hafeez Abdul Nasir；注意：投稿系统账号 Peng Chao 与稿件作者/LaTeX 作者不一致，状态页作者栏已按稿件作者标注。上传包：paper21_sivp_source_20260617.zip；SHA256：0DFDEDD238F5EF781D7FC044A393E2C50311F40B660AAC71587F6CA4F7464AB5；论文仓库提交：3d0c79bce7785df1cc062877bb977cfba301046f；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -335,12 +347,6 @@
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">使用基于深度学习的情绪分析评估并优化老年照护政策实施：一项多源研究</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Social Science &amp; Medicine(SSM-S-26-05321)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">元学习增强的少样本居家安全等级分类框架</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Transactions on Instrumentation and Measurement</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 </tr>
@@ -379,12 +385,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">相变材料赋能的多层粮仓自适应多温区控制：实验与数值结合研究</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Applied Energy → Applied Thermal Engineering → Physics of Fluids</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">适老住宅改造的混合现实与条件 GAN 集成框架：两阶段修复与 360 度全景可视化</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Automation in Construction</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
