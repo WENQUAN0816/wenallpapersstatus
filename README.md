@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-08-09
+> **最后更新：** 2026-08-10
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -32,9 +32,9 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>24</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>25</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>29</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>28</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>8</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
 </table>
@@ -219,6 +219,12 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">PLOS ONE (Rejected: PONE-D-26-22134) → Journal of Building Engineering (Rejected: JBE-D-26-09313; portal last updated 2026-06-03)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Journal of Building Engineering；稿号 JBE-D-26-09313；2026-05-29 22:46 Asia/Shanghai 收到投稿确认（Gmail Spam，messageId 19e7433eaae52f1d）。用户于 2026-08-10 05:16:54 +08:00 提供的 Elsevier Author Dashboard 快照显示 Completed - Reject，门户 Submitted 2026-05-29、Last updated 2026-06-03；快照未显示正式决定时间或拒稿原因。未发现之后有效新投稿确认，当前回到待投稿。论文仓库状态提交 52747892440558e2d7cdaf1667747c6b81e49073；未存储密码。</td>
 </tr>
 
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">对比学习增强的 RGB-D 居家安全区域分割知识蒸馏</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Sensors (Rejected by editor: sensors-4282340)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+</tr>
+
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防</td>
@@ -361,12 +367,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">基于大语言模型苏格拉底式推理的可解释自动代码审查</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Software: Practice and Experience</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">对比学习增强的 RGB-D 居家安全区域分割知识蒸馏</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Sensors</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
