@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-08-09
+> **最后更新：** 2026-08-10
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -32,11 +32,11 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>18</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>22</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>39</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>34</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>5</td></tr>
-<tr><td><strong>合计</strong></td><td><strong>63</strong></td></tr>
+<tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
 </table>
 </td>
 <td valign="top" width="66%">
@@ -183,6 +183,30 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">BMC Medicine (Portal draft created; not final submitted; 2026-08-10)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Springer Nature SNAPP / BMC Medicine；2026-08-10 Asia/Shanghai 已创建 portal draft 34b8a99b-c845-4dd8-921f-0808d0a65882，尚未最终提交。Draft URL：https://submission.springernature.com/new/submission/34b8a99b-c845-4dd8-921f-0808d0a65882/upload-files；CDP 端口：9225；Chrome profile：C:\Users\Administrator\.chrome-profiles\chrome-9225-google；论文仓库：https://github.com/WENQUAN0816/NC04-Work-role-and-healthy-ageing-transitions；提交包固定于 commit 8c8f61c1fdbf97139e3510c04be05a132d8e9267；LaTeX 主稿包和模型代码包均已上传，尚未最终提交；未存储密码、cookie 或会话文件。</td>
 </tr>
 
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">VLM 驱动的适老住宅缺陷自动评估与报告生成</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Sensors (Declined: sensors-4282378; 2026-04-13)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">MDPI SuSy / Sensors；稿号 sensors-4282378 于 2026-04-13 Declined。2026-05-06 复核发现 Buildings 稿号 buildings-4331963 实际属于另一篇 cGAN 稿件，不属于本 VLM 稿；三邮箱及论文仓库均无本题之后有效 submission received / manuscript submitted 证据，当前回到待投稿。论文仓库状态提交 2c623f5733ff052b55f6d4c2b03636aeb909fc24；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">遗产街区中老年人的意义建构与地方依恋：结构方程模型框架</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Frontiers in Psychology (Rejected: 1871456; 2026-07-28 15:58 Asia/Shanghai)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Frontiers submission portal / Frontiers in Psychology；稿号 1871456；英文题名 Meaning Construction and Older Adults&#39; Place Attachment in Heritage Districts: A Structural Equation Modeling Framework。2026-07-28 15:58 Asia/Shanghai，Outlook 投稿专用文件夹中的 Decision on your manuscript 明确稿件 cannot be accepted for publication；邮件带红色类别。按题名和稿号复核 Outlook、Gmail 与腾讯企业邮箱，未发现决定之后有效新投稿确认；当前回到待投稿。未存储密码。</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">面向居家适老环境评估的室内点云语义分割可迁移深度学习网络</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">ISPRS Journal of Photogrammetry and Remote Sensing (Rejected: PHOTO-D-26-00934) → Displays (Rejected: DISPLA-D-26-00542) → IEEE Access (Returned for resubmission: Access-2026-16569) → The Journal of Supercomputing (Withdrawal authorized for corrected resubmission: 9d94f8e1-d811-4ed9-8697-6707ec0d2848; 2026-05-21)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Springer Nature SNAPP / The Journal of Supercomputing；Submission ID 9d94f8e1-d811-4ed9-8697-6707ec0d2848。2026-05-21 19:21 Asia/Shanghai，作者回复编辑部，同意撤回该稿以提交更新版本；这不是编辑拒稿决定。Gmail 此后无新收稿确认；Outlook 按题名和稿号无结果；腾讯企业邮箱最新仅为 2026-05-12 under-consideration 跟踪提醒。三邮箱截至 2026-08-10 均无有效重投证据，当前按待投稿处理。未存储密码。</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">面向居家适老环境评估的扩散模型点云合成</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Remote Sensing (Declined: remotesensing-4237527; 2026-03-21) → The Journal of Supercomputing (Withdrawal announced for corrected resubmission: 04a64175-83ea-4312-8a4f-8ab16359812d; 2026-05-21)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Springer Nature SNAPP / The Journal of Supercomputing；Submission ID 04a64175-83ea-4312-8a4f-8ab16359812d；Research Square ID rs-9638593。2026-05-19 编辑部说明更换文件只能撤回后重投；2026-05-21 19:19 Asia/Shanghai，作者回复将撤回并重新提交修订版本；这不是编辑拒稿决定。Gmail 此后无新收稿确认；Outlook 按题名和稿号无结果；腾讯企业邮箱最新仅为 2026-05-12 under-consideration 跟踪提醒。三邮箱截至 2026-08-10 均无有效重投证据，当前按待投稿处理。论文仓库状态提交 09f4a2078587de95af118143f4d97f2fd132f704；未存储密码。</td>
+</tr>
+
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防</td>
@@ -305,12 +329,6 @@
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">VLM 驱动的适老住宅缺陷自动评估与报告生成</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Sensors → Buildings</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">中国老龄化背景下农村学校改造养老设施的公平导向服务就绪框架</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">International Journal for Equity in Health</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 </tr>
@@ -395,32 +413,8 @@
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">遗产街区中老年人的意义建构与地方依恋：结构方程模型框架</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Frontiers in Psychology</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">面向居家适老环境评估的室内点云语义分割可迁移深度学习网络</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Supercomputing</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">面向居家适老环境评估的扩散模型点云合成</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Supercomputing</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">面向适老韧性评估的 BIM 集成空间世界模型：概念框架与研究议程</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Humanities and Social Sciences Communications</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">中国老年 HIV 感染者适老居住环境评估的个体中心框架</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">BMC Geriatrics (R1 resubmitted / Technical Check: c4ee9984-966a-4c9f-a548-2341676a77aa; v4.1; 2026-07-21)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / BMC Geriatrics；Submission ID：c4ee9984-966a-4c9f-a548-2341676a77aa；2026-07-21 技术检查要求补充 clinical trial number 或声明 Clinical trial not applicable（Gmail messageId 19f8393faff29c28）；同日作者确认 amended manuscript v4.1 已提交并处于 Technical Check（sent messageId 19f83fea53ced266）；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
@@ -451,6 +445,12 @@
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">被遗忘之外：中国农村独居老人的低成本智能安全韧性框架</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">BMC Geriatrics</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
+</tr>
+
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">中国老年 HIV 感染者适老居住环境评估的个体中心框架</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">BMC Geriatrics (Accepted: c4ee9984-966a-4c9f-a548-2341676a77aa; 2026-08-04 02:00 Asia/Shanghai; DOI: 10.1186/s12877-026-08090-6)</td><td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Springer Nature SNAPP / BMC Geriatrics；Submission ID c4ee9984-966a-4c9f-a548-2341676a77aa。2026-08-04 02:00 Asia/Shanghai，腾讯企业邮箱收到 accepted for publication 正式决定，Gmail Spam 同步保存接受邮件；2026-08-06 Gmail 收到 proofs 及 publishing agreement 相关邮件；DOI 10.1186/s12877-026-08090-6。投稿系统作者：Quan Wen（primary corresponding）、Dr. Mazran Ismail（corresponding）、Dr. Muhammad Hafeez Abdul Nasir（corresponding）、Yanting Wu；论文仓库接受状态提交 15d95c34785ed70bc4a0144e93fc0bd1a6ab794d。未存储密码。</td>
 </tr>
 
 <tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
