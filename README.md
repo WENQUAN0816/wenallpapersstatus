@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-08-09
+> **最后更新：** 2026-08-10
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -32,11 +32,11 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>17</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>18</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>39</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>5</td></tr>
-<tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
+<tr><td><strong>合计</strong></td><td><strong>63</strong></td></tr>
 </table>
 </td>
 <td valign="top" width="66%">
@@ -175,6 +175,12 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于三维点云语义分析的适老住宅合规自动评估</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Virtual Reality (Rejected: c2567b16-7061-4976-a20e-849247d4a33b)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Springer Nature / Virtual Reality；Submission ID：c2567b16-7061-4976-a20e-849247d4a33b；2026-07-28 02:32 Asia/Shanghai 收到 Decision on your submission to Virtual Reality（Gmail Spam）。编辑初筛认为稿件有 41% 内容疑似复制自 https://www.sciencedirect.com/science/article/abs/pii/S092658052400339X?via%3Dihub，因此拒稿。按 Submission ID 与英文题名搜索 Gmail in:anywhere / in:spam，未发现退稿之后有效 submission received / manuscript submitted 证据；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Work-role participation and healthy-ageing transitions across harmonized ageing cohorts</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">BMC Medicine (Submission started; not final submitted; 2026-08-10)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Springer Nature SNAPP / BMC Medicine；2026-08-10 Asia/Shanghai 已开始投稿，尚未最终提交。CDP 端口：9225；Chrome profile：C:\Users\Administrator\.chrome-profiles\chrome-9225-google；论文仓库：https://github.com/WENQUAN0816/NC04-Work-role-and-healthy-ageing-transitions；提交包固定于 commit 8c8f61c1fdbf97139e3510c04be05a132d8e9267；LaTeX 主稿包和模型代码包均已完成本地验证，尚未最终提交；未存储密码、cookie 或会话文件。</td>
 </tr>
 
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
