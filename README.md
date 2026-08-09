@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-08-09
+> **最后更新：** 2026-08-10
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -32,9 +32,9 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>13</td></tr>
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>2</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>42</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>17</td></tr>
+<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>39</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>5</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
 </table>
@@ -153,28 +153,40 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Buildings (Rejected: buildings-4330016) → Cities (Rejected: JCIT-D-26-03897)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Elsevier Editorial Manager / Cities；稿号：JCIT-D-26-03897；2026-07-19 21:58:29 Asia/Shanghai 收到 Decision on submission to Cities（Gmail Spam，messageId 19f7aac180c47b41）；拒稿原因：lack of sufficient novelty，未送外审；2026-07-19 transfer recommendation 不视为有效新投稿；未发现之后 submission received / manuscript submitted 证据；未存储密码。</td>
 </tr>
 
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Computers in Biology and Medicine (Rejected: CIBM-D-26-00934) → Biomedical Signal Processing and Control (Rejected: BSPC-D-26-07670) → Frontiers in Neurology (Rejected: 1901990) → Frontiers in Aging Neuroscience (Rejected: 1852729; user confirmation 2026-08-10)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Frontiers submission portal / My Frontiers；Frontiers in Neurology 稿号 1901990 于 2026-06-08 20:26 Asia/Shanghai 收到 cannot be accepted 决定（Gmail messageId 19ea732c9f55b293）；同题稿 Frontiers in Aging Neuroscience 稿号 1852729 于 2026-06-08 20:31 Asia/Shanghai 收到 source data/code/original images/ethics approval 原件及英文译文请求，截止 2026-06-24（Gmail messageId 19ea737369baf8cb）。2026-08-10 03:42:40 +08:00 用户明确指示：目前在投且论文作者为 Peng Chao 的稿件一律按被拒稿处理；该指示作为 1852729 的当前状态证据，正式决定邮件时间与拒稿原因未提供。投稿系统账号 Peng Chao / hngmpengchao@gmail.com；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">适老社区时序评估的贝叶斯元学习框架</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">BMC Medical Research Methodology (Rejected: f905dc2b-94cd-47e6-b4a4-4423c0a16ec8) → Energy (Rejected: EGY-D-26-10556) → Neurocomputing (Rejected: NEUCOM-D-26-11307) → Big Data Research (Rejected: BDR-D-26-00946)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Elsevier Editorial Manager / Big Data Research；稿号：BDR-D-26-00946；来源为 Neurocomputing article transfer，原稿号 NEUCOM-D-26-11307；2026-06-29 BDR Author Dashboard 显示 With Editor。2026-07-29 14:53 Asia/Shanghai 收到 Decision on submission to Big Data Research：编辑初筛拒稿，主要原因是仅使用 30 个社区的数据，未证明大数据场景的可扩展性、效率或鲁棒性，并且缺少面向大数据平台、架构或处理技术的实质性工程/系统贡献。2026-08-01 transfer recommendation 仅为转投提醒，不视为有效新投稿。投稿系统用户名 QWen-782，页面显示名 Quan Wen，注册邮箱 wenquan@student.usm.my；ORCID 字段未显示 / 未确认绑定；投稿系统作者（以 portal 为准）：Quan Wen；Dr. Mazran Ismail；Yanting Wu；Dr. Muhammad Hafeez Abdul Nasir；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">灵活半监督元学习少样本居家安全评估网络</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Sensors (Rejected: sensors-4282374) → IEEE Access (Rejected: Access-2026-26733; user confirmation 2026-08-10)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">IEEE Author Portal / IEEE Access / Research Exchange (Atypon ReX)；稿号：Access-2026-26733；2026-08-10 03:42:40 +08:00 用户明确指示：目前在投且论文作者为 Peng Chao 的稿件一律按被拒稿处理；该指示作为 Access-2026-26733 的当前状态证据，正式决定邮件时间与拒稿原因未提供。投稿系统用户名/显示名：Peng Chao；注册邮箱：wenquan632@gmail.com；ORCID：已绑定（系统显示 My ORCID iD 菜单项）；投稿系统作者（与 LaTeX 一致）：Peng Chao；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于三维点云语义分析的适老住宅合规自动评估</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Virtual Reality (Rejected: c2567b16-7061-4976-a20e-849247d4a33b)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Springer Nature / Virtual Reality；Submission ID：c2567b16-7061-4976-a20e-849247d4a33b；2026-07-28 02:32 Asia/Shanghai 收到 Decision on your submission to Virtual Reality（Gmail Spam）。编辑初筛认为稿件有 41% 内容疑似复制自 https://www.sciencedirect.com/science/article/abs/pii/S092658052400339X?via%3Dihub，因此拒稿。按 Submission ID 与英文题名搜索 Gmail in:anywhere / in:spam，未发现退稿之后有效 submission received / manuscript submitted 证据；未存储密码。</td>
+</tr>
+
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">IEEE Access → The Journal of Nutrition, Health and Aging (JNHA) → PLOS ONE (Edits requested: PONE-D-26-22394)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Editorial Manager / PLOS ONE；用户名/显示名：QUAN WEN / quan wen；投稿系统注册邮箱：wenquan6328@gmail.com；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-21；未存储密码。</td>
 </tr>
 
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">基于注意力机制与跨模态特征融合的痴呆早期检测多模态情绪分析</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Computers in Biology and Medicine (Rejected: CIBM-D-26-00934) → Biomedical Signal Processing and Control (Rejected: BSPC-D-26-07670) → Frontiers in Neurology (Rejected: 1901990) → Frontiers in Aging Neuroscience (Data request: 1852729; due 2026-06-24)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Frontiers submission portal / My Frontiers；Frontiers in Neurology 稿号 1901990 于 2026-06-08 20:26 Asia/Shanghai 收到 cannot be accepted 决定（Gmail messageId 19ea732c9f55b293）；同题稿 Frontiers in Aging Neuroscience 稿号 1852729 于 2026-06-08 20:31 Asia/Shanghai 收到 source data/code/original images/ethics approval 原件及英文译文请求，截止 2026-06-24（Gmail messageId 19ea737369baf8cb）。投稿系统账号 Peng Chao / hngmpengchao@gmail.com；未存储密码。</td>
-</tr>
-
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">社区老年日间照料中心多模态热舒适的时空深度学习评估与预测</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Energy and Buildings (Revision submitted: ENB-D-26-04086R1; 2026-08-04)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier Editorial Manager / Energy &amp; Buildings；修回稿号：ENB-D-26-04086R1；2026-08-04 21:06:47 Asia/Shanghai 收到 Confirming submission to Energy &amp; Buildings（Gmail messageId 19fcce2785748e99），正文确认稿件已收到并进入 Revisions Being Processed；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；与修订版 LaTeX 作者顺序一致；投稿系统用户名/显示名：Quan Wen / WEN QUAN；注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；ORCID：0009-0005-3975-8104（待门户个人资料页复核）；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">适老社区时序评估的贝叶斯元学习框架</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">BMC Medical Research Methodology (Rejected: f905dc2b-94cd-47e6-b4a4-4423c0a16ec8) → Energy (Rejected: EGY-D-26-10556) → Neurocomputing (Rejected: NEUCOM-D-26-11307) → Big Data Research (Submitted / With Editor: BDR-D-26-00946; 2026-06-29)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier Editorial Manager / Big Data Research；稿号：BDR-D-26-00946；来源为 Neurocomputing article transfer，原稿号 NEUCOM-D-26-11307；2026-06-29 BDR Author Dashboard 显示 Submissions Being Processed (1)，稿件状态 With Editor；2026-06-29 Update My Information 页面确认投稿系统用户名 QWen-782，页面显示名 Quan Wen，注册邮箱 wenquan@student.usm.my；ORCID 字段未显示 / 未确认绑定；投稿系统作者（以 portal 为准）：Quan Wen；Dr. Mazran Ismail；Yanting Wu；Dr. Muhammad Hafeez Abdul Nasir；投稿系统作者与 LaTeX 作者一致；历史：2026-06-28 19:03:35 Asia/Shanghai Neurocomputing 转投通知，2026-06-28 19:03:36 Asia/Shanghai Big Data Research requires action 仅是转投后待作者操作阶段，已被 2026-06-29 的 With Editor 状态覆盖；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -205,12 +217,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Energy and Buildings (Rejected: ENB-D-26-01660) → Energy (Rejected: EGY-D-26-10505) → Journal of Building Engineering (Rejected: JBE-D-26-07821) → Solar Energy (R2 submitted / With Editor: SEJ-D-26-02432R2; 2026-08-08)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier Editorial Manager / Solar Energy；当前稿号：SEJ-D-26-02432R2（原稿 SEJ-D-26-02432；上轮 SEJ-D-26-02432R1）；2026-08-08 02:23 +08:00 完成 Approve Revision；当前文件夹：Revisions Being Processed (1)；当前状态：With Editor；投稿系统用户名：QWen-485；显示名：Quan Wen；注册邮箱：wenquan@hngm.edu.cn；ORCID：字段为空，未绑定、未认证（orcidAuthenticated=False）；投稿系统作者（以 portal 为准）：Ruili Liu；Quan Wen（corresponding author）；Mazran Ismail；portal 与当前 LaTeX 作者及顺序一致，无作者不一致；论文仓库 commit：bed9257，已归档 R2 稿件、回复信、图件、投稿包和数据目录，数据未作为 Editorial Manager 单独补充材料上传；核对时间：2026-08-08；未存储密码、cookie 或会话。</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">灵活半监督元学习少样本居家安全评估网络</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Sensors (Rejected: sensors-4282374) → IEEE Access (Submitted: Access-2026-26733)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Author Portal / IEEE Access / Research Exchange (Atypon ReX)；稿号：Access-2026-26733；投稿系统用户名/显示名：Peng Chao；注册邮箱：wenquan632@gmail.com；ORCID：已绑定（系统显示 My ORCID iD 菜单项）；投稿系统作者（与 LaTeX 一致）：Peng Chao；核对时间：2026-06-05；来源：IEEE Author Portal 页面右上角用户名 Peng + 所有提交记录显示 by Peng Chao；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -337,12 +343,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">基于三维点云特征与 SHAP 可解释集成学习的老年住宅环境跌倒风险空间预测</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Egyptian Informatics Journal (Revised submission received: EGIJ-D-26-00407R1)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Editorial Manager / Egyptian Informatics Journal；稿号：EGIJ-D-26-00407R1（原稿 EGIJ-D-26-00407）；R1 修订稿确认时间：2026-05-20 14:27 Asia/Shanghai；当前文件夹：Revisions Being Processed；用户名：QUAN WEN；右上角显示名：WEN QUAN；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-06-01；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">基于三维点云语义分析的适老住宅合规自动评估</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Virtual Reality</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
