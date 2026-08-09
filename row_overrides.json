@@ -213,13 +213,15 @@
   "香港高层社区老年居民火灾韧性的循证评估框架": {
     "statusDot": "🟢",
     "status": "外审中",
-    "journalTrack": "Humanities and Social Sciences Communications (revised submission v.4.0; Submission received 2026-08-08; Peer review - in progress; Submission ID: cfb4556c-32fb-44dc-bd9a-194025fff018)",
-    "submissionSystemInfo": "Springer Nature SNAPP；Submission ID：cfb4556c-32fb-44dc-bd9a-194025fff018；v.4.0 / draft 2ef493f6-b028-4cb8-9708-b054ad9ee933；2026-08-08 成功页 Submission received，详情页 We've received your revised submission，当前 Peer review - in progress。投稿系统未显示独立用户名；显示名 QUAN WEN；投稿系统注册邮箱 wenquan6328@gmail.com；Google 已链接 wenquan6328@gmail.com；ORCID 未绑定（Linked accounts 显示 Link）。投稿系统作者表在提交后无法重新打开，保密作者确认信已作为 `Confidential_Cover_Letter_and_Author_Verification.pdf` 由门户存储一份；其行政顺序不作为 portal 顺序，portal 与 LaTeX 的作者角色、通讯标记和作者邮箱对应关系无法独立确认。作者确认信联系邮箱：Wen Quan wenquan@student.usm.my；Dr. Mazran Ismail mazran@usm.my；Dr. Muhammad Hafeez Abdul Nasir hafeeznasir@usm.my；这些不是投稿系统注册邮箱。论文仓库 commit：2e4b156；数据仓库：https://github.com/WENQUAN0816/paper-15-Fire-Resilience-Assessment-Elderly-Hong-Kong-High-Rise-data；未存储密码、cookie、token 或浏览器会话。",
-    "authors": "Quan Wen；Dr. Mazran Ismail；Dr. Muhammad Hafeez Abdul Nasir（以投稿系统记录为准；提交后无法重新打开 portal author table，portal 与 LaTeX 的作者角色和邮箱对应关系未独立确认）",
+    "journalTrack": "Humanities and Social Sciences Communications (technical-check amendment v.4.1; Submission received 2026-08-09; Peer review - in progress; Submission ID: cfb4556c-32fb-44dc-bd9a-194025fff018)",
+    "submissionSystemInfo": "Springer Nature SNAPP；Submission ID：cfb4556c-32fb-44dc-bd9a-194025fff018；v.4.1 / technical-check draft 4f120caa-892f-4203-9f12-8ee24a70f6a4；2026-08-09 成功页 Submission received，详情页 We've received your amended submission，当前 Peer review - in progress。投稿系统未显示独立用户名；账号显示名 QUAN WEN；投稿系统注册邮箱 wenquan6328@gmail.com；Google 已链接 wenquan6328@gmail.com；ORCID 未绑定（Linked accounts 显示 Link）。投稿系统作者（以 SNAPP Authors/Review 为准）：QUAN WEN（Primary corresponding author）；Dr. Mazran Ismail（Corresponding author）；Dr. Muhammad Hafeez Abdul Nasir（Corresponding author）。匿名 LaTeX reviewer 稿件使用 [Blinded] 占位，未记录实质作者身份不一致。技术检查修正了 Table 6/7 正文引用、匿名稿伦理与 Funding 文本，并在门户 Ethics Statement 中记录 Declaration of Helsinki、伦理委员会、批准号 HNGM-2024-EC-012 和 28 位专家知情同意。论文仓库 commit：ebe6460；数据仓库：https://github.com/WENQUAN0816/paper-15-Fire-Resilience-Assessment-Elderly-Hong-Kong-High-Rise-data；未存储密码、cookie、token 或浏览器会话。",
+    "authors": "QUAN WEN（Primary corresponding author）；Dr. Mazran Ismail（Corresponding author）；Dr. Muhammad Hafeez Abdul Nasir（Corresponding author）（以投稿系统 Authors/Review 记录为准；匿名 LaTeX reviewer 稿件使用 [Blinded] 占位，未记录实质作者身份不一致）",
     "correspondingAuthors": [
-      "Quan Wen"
+      "QUAN WEN",
+      "Dr. Mazran Ismail",
+      "Dr. Muhammad Hafeez Abdul Nasir"
     ],
-    "updatedAt": "2026-08-08",
+    "updatedAt": "2026-08-10",
     "currentJournal": "HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS"
   },
   "老年游客对遗产建筑增强现实解说的接受度：扩展技术接受模型": {

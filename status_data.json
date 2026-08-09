@@ -1451,10 +1451,10 @@
     "status": "外审中",
     "statusOrder": 3,
     "title": "香港高层社区老年居民火灾韧性的循证评估框架",
-    "journalTrack": "Humanities and Social Sciences Communications (revised submission v.4.0; Submission received 2026-08-08; Peer review - in progress; Submission ID: cfb4556c-32fb-44dc-bd9a-194025fff018)",
-    "submissionSystemInfo": "Springer Nature SNAPP / Humanities and Social Sciences Communications；Submission ID：cfb4556c-32fb-44dc-bd9a-194025fff018；修订版本 v.4.0，draft ID：2ef493f6-b028-4cb8-9708-b054ad9ee933；2026-08-08 成功页显示 Submission received，详情页显示 We've received your revised submission，当前阶段为 Peer review - in progress，状态页记为外审中。投稿系统未显示独立用户名；账号显示名：QUAN WEN；投稿系统注册邮箱：wenquan6328@gmail.com；Google 已链接至 wenquan6328@gmail.com；ORCID 未绑定（Linked accounts 页面显示 Link）。提交后的 SNAPP author-entry 路径回到成功页，submission-details 页面不再显示作者表；保密文件 `Confidential_Cover_Letter_and_Author_Verification.pdf` 已归档并由门户存储一份，但其行政顺序不作为 portal 作者顺序，因此 portal 与 LaTeX 的作者角色、通讯标记和作者邮箱对应关系无法独立复核。作者确认信中的 institutional contacts（Wen Quan：wenquan@student.usm.my；Dr. Mazran Ismail：mazran@usm.my；Dr. Muhammad Hafeez Abdul Nasir：hafeeznasir@usm.my）与投稿系统注册邮箱分开记录。论文仓库 commit：2e4b156；相关数据仓库：https://github.com/WENQUAN0816/paper-15-Fire-Resilience-Assessment-Elderly-Hong-Kong-High-Rise-data；未存储密码、cookie、token 或浏览器会话。",
+    "journalTrack": "Humanities and Social Sciences Communications (technical-check amendment v.4.1; Submission received 2026-08-09; Peer review - in progress; Submission ID: cfb4556c-32fb-44dc-bd9a-194025fff018)",
+    "submissionSystemInfo": "Springer Nature SNAPP / Humanities and Social Sciences Communications；Submission ID：cfb4556c-32fb-44dc-bd9a-194025fff018；提交版本 v.4.1，technical-check draft ID：4f120caa-892f-4203-9f12-8ee24a70f6a4；2026-08-09 成功页显示 Submission received，详情页显示 We've received your amended submission，当前阶段为 Peer review - in progress，状态页记为外审中。投稿系统未显示独立用户名；账号显示名：QUAN WEN；投稿系统注册邮箱：wenquan6328@gmail.com；Google 已链接至 wenquan6328@gmail.com；ORCID 未绑定（Linked accounts 页面显示 Link）。投稿系统作者以 SNAPP Authors/Review 为准：QUAN WEN（Primary corresponding author）；Dr. Mazran Ismail（Corresponding author）；Dr. Muhammad Hafeez Abdul Nasir（Corresponding author）。匿名 LaTeX reviewer 稿件使用 [Blinded] 占位，未记录实质作者身份不一致。论文仓库 commit：ebe6460；相关数据仓库：https://github.com/WENQUAN0816/paper-15-Fire-Resilience-Assessment-Elderly-Hong-Kong-High-Rise-data；未存储密码、cookie、token 或浏览器会话。",
     "bg": "#e8f9ee",
-    "updatedAt": "2026-08-08",
+    "updatedAt": "2026-08-10",
     "currentJournal": "HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS",
     "similarity": "5.0%",
     "casXr": "CAS大2小1/2；XR大2小1",
@@ -1464,11 +1464,13 @@
     "impactFactor": "3.6",
     "indexType": "SSCI",
     "recommendedJournals": "",
-    "authors": "Quan Wen；Dr. Mazran Ismail；Dr. Muhammad Hafeez Abdul Nasir（以投稿系统记录为准；提交后无法重新打开 portal author table，portal 与 LaTeX 的作者角色和邮箱对应关系未独立确认）",
+    "authors": "QUAN WEN（Primary corresponding author）；Dr. Mazran Ismail（Corresponding author）；Dr. Muhammad Hafeez Abdul Nasir（Corresponding author）（以投稿系统 Authors/Review 记录为准；匿名 LaTeX reviewer 稿件使用 [Blinded] 占位，未记录实质作者身份不一致）",
     "correspondingAuthors": [
-      "Quan Wen"
+      "QUAN WEN",
+      "Dr. Mazran Ismail",
+      "Dr. Muhammad Hafeez Abdul Nasir"
     ],
-    "situation": "外审中。Humanities and Social Sciences Communications / Springer Nature SNAPP 修订提交 v.4.0；Submission ID：cfb4556c-32fb-44dc-bd9a-194025fff018；draft ID：2ef493f6-b028-4cb8-9708-b054ad9ee933。2026-08-08 成功页显示 Submission received，详情页显示 We've received your revised submission，当前阶段为 Peer review - in progress，因此状态由旧的 Editorial Assessment 更新为外审中。最终稿件仓库 commit：2e4b156；作者确认信与作者表复核边界、账号邮箱/Google/ORCID 状态及相关数据仓库均记录在投稿系统信息列。",
+    "situation": "外审中。2026-08-09 在 Springer Nature SNAPP 提交 Humanities and Social Sciences Communications 技术检查修订 v.4.1（Submission ID：cfb4556c-32fb-44dc-bd9a-194025fff018；draft ID：4f120caa-892f-4203-9f12-8ee24a70f6a4）。成功页显示 Submission received；详情页显示 We've received your amended submission；进度栏为 Peer review - in progress。修正了 Table 6/7 正文引用、匿名稿伦理和 Funding 文本，并在门户 Ethics Statement 中录入 Declaration of Helsinki、Ethics Review Committee of Henan Industry and Trade Vocational College、批准号 HNGM-2024-EC-012 及 28 位专家知情同意。最终稿件仓库 commit：ebe6460；账号、门户作者和投稿系统信息已记录。",
     "impactSort": 3.6
   },
   {
