@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-08-09
+> **最后更新：** 2026-08-10
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -32,9 +32,9 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>22</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>23</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>34</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>33</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>5</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
 </table>
@@ -143,12 +143,6 @@
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Reversibility of frailty across six international ageing cohorts: a longitudinal multi-cohort study</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Nature Communications (Rejected without external review: NCOMMS-26-050520) → The Lancet Healthy Longevity (Rejected: THELANCETHEALTHYLONGEVITY-D-26-00751 / THELANCETHEALTHYLONGEVITY-S-26-00967; decision 2026-06-29) → BMC Medicine (Rejected after desk/technical editorial assessment; SNAPP id 46cd20af-e62d-4038-b983-5c2a0d1eff6d) → Age and Ageing (ScholarOne draft/upload preparation only; not final submitted; 2026-07-05) → npj Digital Medicine (submission started; not final submitted; 2026-08-10)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Springer Nature SNAPP / npj Digital Medicine；2026-08-10 Asia/Shanghai 已开始投稿，但尚未最终提交。目标门户：https://submission.springernature.com/new-submission/41746/3；CDP 端口：9221；Chrome profile：C:\Users\Administrator\.chrome-profiles\chrome-9221-google；论文仓库：https://github.com/WENQUAN0816/NC02-Frailty-intrinsic-capacity-reversibility-trajectories。SNAPP 文件页明确支持上传包含 LaTeX、图表的 ZIP，并由系统编译审稿 PDF。当前正在按 npj Digital Medicine 要求准备 LaTeX 主稿包、cover letter、title page、highlights 与可重复性材料；尚未上传最终包、尚未到最终 Review/Submit。用户批准的作者顺序为 Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Nurdiana Zainol Abidin；通讯作者为 Quan Wen、Mazran Ismail、Muhammad Hafeez Abdul Nasir。Nurdiana Zainol Abidin 的单位为 Department of Community Health, Advanced Medical and Dental Institute, Universiti Sains Malaysia, Bertam, Kepala Batas, 13200。未存储密码、cookie 或会话文件。</td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">适老建成环境专业人员对 AI-BIM 评估工具的接受度</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Buildings (Rejected: buildings-4330016) → Cities (Rejected: JCIT-D-26-03897)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Elsevier Editorial Manager / Cities；稿号：JCIT-D-26-03897；2026-07-19 21:58:29 Asia/Shanghai 收到 Decision on submission to Cities（Gmail Spam，messageId 19f7aac180c47b41）；拒稿原因：lack of sufficient novelty，未送外审；2026-07-19 transfer recommendation 不视为有效新投稿；未发现之后 submission received / manuscript submitted 证据；未存储密码。</td>
 </tr>
@@ -207,10 +201,28 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Remote Sensing (Declined: remotesensing-4237527; 2026-03-21) → The Journal of Supercomputing (Withdrawal announced for corrected resubmission: 04a64175-83ea-4312-8a4f-8ab16359812d; 2026-05-21)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Springer Nature SNAPP / The Journal of Supercomputing；Submission ID 04a64175-83ea-4312-8a4f-8ab16359812d；Research Square ID rs-9638593。2026-05-19 编辑部说明更换文件只能撤回后重投；2026-05-21 19:19 Asia/Shanghai，作者回复将撤回并重新提交修订版本；这不是编辑拒稿决定。Gmail 此后无新收稿确认；Outlook 按题名和稿号无结果；腾讯企业邮箱最新仅为 2026-05-12 under-consideration 跟踪提醒。三邮箱截至 2026-08-10 均无有效重投证据，当前按待投稿处理。论文仓库状态提交 09f4a2078587de95af118143f4d97f2fd132f704；未存储密码。</td>
 </tr>
 
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">历史社区智慧适老化改造策略的居民支持：整合地方依恋与技术接受</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Buildings (Rejected: buildings-4326137) → Buildings (Rejected: buildings-4326224) → Land (Rejected: land-4335735) → Frontiers in Environmental Science (Rejected: 1889154; user confirmation 2026-08-10 05:08:42 +08:00)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Frontiers submission portal / My Frontiers / Frontiers in Environmental Science；稿号 1889154；2026-05-23 18:13 Asia/Shanghai 正式投稿。2026-08-10 05:08:42 +08:00 用户明确确认该稿已被拒绝；正式决定邮件时间和拒稿原因未提供。未发现拒稿之后有效新投稿确认，当前回到待投稿。投稿系统账号显示名 Quan Wen；注册邮箱 wenquan@student.usm.my；ORCID 0009-0005-3975-8104；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">从空间符号到社会实践：适老文化主题建筑空间意义建构的动态框架</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Buildings (Rejected: ID unavailable; user confirmation 2026-08-10 05:08:42 +08:00)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">MDPI SuSy / Buildings；英文题名 From Spatial Symbols to Social Practice: A Dynamic Framework for Meaning Construction in Age-Friendly Culturally Themed Architectural Spaces。2026-08-10 05:08:42 +08:00 用户明确确认该稿已被拒绝；正式 Manuscript ID、决定邮件时间和拒稿原因未提供。论文仓库此前只有 Buildings 投稿包及 2026-05-14 暂无同题名正式邮件证据的核查记录；未发现拒稿之后有效新投稿确认，当前回到待投稿。论文仓库状态提交 2da059471092752909d807dd8b0bce257cf694a7；未存储密码。</td>
+</tr>
+
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">基于图神经网络与注意力机制的养老社区社会情感网络分析与孤独预防</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">IEEE Access → The Journal of Nutrition, Health and Aging (JNHA) → PLOS ONE (Edits requested: PONE-D-26-22394)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Editorial Manager / PLOS ONE；用户名/显示名：QUAN WEN / quan wen；投稿系统注册邮箱：wenquan6328@gmail.com；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-21；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Reversibility of frailty across six international ageing cohorts: a longitudinal multi-cohort study</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Nature Communications (Rejected without external review: NCOMMS-26-050520) → The Lancet Healthy Longevity (Rejected: THELANCETHEALTHYLONGEVITY-D-26-00751 / THELANCETHEALTHYLONGEVITY-S-26-00967; decision 2026-06-29) → BMC Medicine (Rejected after desk/technical editorial assessment; SNAPP id 46cd20af-e62d-4038-b983-5c2a0d1eff6d) → Age and Ageing (ScholarOne draft/upload preparation only; not final submitted; 2026-07-05) → npj Digital Medicine (Submitted; Technical Check; Submission ID 75c3370b-7b4e-4953-b837-767f53406a80; 2026-08-10)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / npj Digital Medicine；Submission ID：75c3370b-7b4e-4953-b837-767f53406a80；2026-08-10 成功页显示 Submission received，详情页显示 We&#39;ve received your submission and are now running technical checks；版本 v.1.0；文章类型 Article；同行评审类型 Single anonymous。系统账户显示名 QUAN WEN；投稿系统注册邮箱 wenquan6328@gmail.com；Google 已绑定；ORCID 未绑定（Linked accounts 显示 Link）；未显示独立 username 字段。投稿系统作者（以门户为准）：Quan Wen（primary corresponding，wenquan@hngm.edu.cn）；Mazran Ismail（corresponding，mazran@usm.my）；Muhammad Hafeez Abdul Nasir（corresponding，hafeez.abdnasir@usm.my）；Nurdiana Zainol Abidin（non-corresponding，nurdianaabidin@usm.my）；与 LaTeX 作者顺序一致，无实质性作者不一致。上传文件：NC02_NPJDM_latex_source_package.zip、NC02_NPJDM_reproducibility_package.zip、cover_letter_npj_digital_medicine.pdf、title_page_npj_digital_medicine.pdf、highlights_npj_digital_medicine.pdf；LaTeX 包由 SNAPP 编译为 35 页 A4 reviewer PDF。复现包仅含代码、汇总结果、图表源文件/PDF、变量字典、依赖和数据访问说明，不含受限个体数据或参与者标识。论文仓库：https://github.com/WENQUAN0816/NC02-Frailty-intrinsic-capacity-reversibility-trajectories（commit 83ec082）；公共复现仓库 commit 3bb3d05；投稿详情：https://submission.springernature.com/submission-details/75c3370b-7b4e-4953-b837-767f53406a80；9221 Chrome/CDP 实例已关闭；当前 Technical Check。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -265,12 +277,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">代码漏洞检测深度学习模型的系统评估：具有多种表示策略的模块化框架</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">International Journal of Information and Computer Security (Submitted: IJICS-336943; previous IJICS-332808 withdrawn for correction)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Inderscience Submissions / International Journal of Information and Computer Security；用户名：WENQUAN0817；个人资料名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；备用邮箱：wenquan6328@gmail.com；ORCID：未绑定，个人资料 ORCID 字段为空；核对时间：2026-05-23；来源：Inderscience Edit your profile 页面。未存储密码。</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">历史社区智慧适老化改造策略的居民支持：整合地方依恋与技术接受</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Buildings (Rejected: buildings-4326137) → Buildings (Rejected: buildings-4326224) → Land (Rejected: land-4335735) → Frontiers in Environmental Science (Submitted: 1889154)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Frontiers submission portal / My Frontiers；用户名/显示名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定/可用于登录 0009-0005-3975-8104；核对时间：2026-05-23；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -331,12 +337,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">中国老龄化背景下农村学校改造养老设施的公平导向服务就绪框架</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">International Journal for Equity in Health</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">从空间符号到社会实践：适老文化主题建筑空间意义建构的动态框架</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Buildings</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
