@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-08-09
+> **最后更新：** 2026-08-10
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -32,10 +32,10 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>23</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>24</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>33</td></tr>
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>5</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>29</td></tr>
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>8</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
 </table>
 </td>
@@ -204,13 +204,19 @@
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">历史社区智慧适老化改造策略的居民支持：整合地方依恋与技术接受</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Buildings (Rejected: buildings-4326137) → Buildings (Rejected: buildings-4326224) → Land (Rejected: land-4335735) → Frontiers in Environmental Science (Rejected: 1889154; user confirmation 2026-08-10 05:08:42 +08:00)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Frontiers submission portal / My Frontiers / Frontiers in Environmental Science；稿号 1889154；2026-05-23 18:13 Asia/Shanghai 正式投稿。2026-08-10 05:08:42 +08:00 用户明确确认该稿已被拒绝；正式决定邮件时间和拒稿原因未提供。未发现拒稿之后有效新投稿确认，当前回到待投稿。投稿系统账号显示名 Quan Wen；注册邮箱 wenquan@student.usm.my；ORCID 0009-0005-3975-8104；未存储密码。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Buildings (Rejected: buildings-4326137) → Buildings (Rejected: buildings-4326224) → Land (Rejected: land-4335735) → Frontiers in Environmental Science (Rejected: 1889154; user confirmation 2026-08-10 05:08:42 +08:00)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Frontiers submission portal / My Frontiers / Frontiers in Environmental Science；稿号 1889154；2026-05-23 18:13 Asia/Shanghai 正式投稿。2026-08-10 05:08:42 +08:00 用户明确确认该稿已被拒绝；正式决定邮件时间和拒稿原因未提供。未发现拒稿之后有效新投稿确认，当前回到待投稿。论文仓库状态提交 641d795ae3bcc7424d8fcb1ac52f1c9b72c7ebc1；投稿系统账号显示名 Quan Wen；注册邮箱 wenquan@student.usm.my；ORCID 0009-0005-3975-8104；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">从空间符号到社会实践：适老文化主题建筑空间意义建构的动态框架</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Buildings (Rejected: ID unavailable; user confirmation 2026-08-10 05:08:42 +08:00)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">MDPI SuSy / Buildings；英文题名 From Spatial Symbols to Social Practice: A Dynamic Framework for Meaning Construction in Age-Friendly Culturally Themed Architectural Spaces。2026-08-10 05:08:42 +08:00 用户明确确认该稿已被拒绝；正式 Manuscript ID、决定邮件时间和拒稿原因未提供。论文仓库此前只有 Buildings 投稿包及 2026-05-14 暂无同题名正式邮件证据的核查记录；未发现拒稿之后有效新投稿确认，当前回到待投稿。论文仓库状态提交 2da059471092752909d807dd8b0bce257cf694a7；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">住宅环境设计特征对老年人生理心理福祉影响的 VR 实验</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">PLOS ONE (Rejected: PONE-D-26-22134) → Journal of Building Engineering (Rejected: JBE-D-26-09313; portal last updated 2026-06-03)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Journal of Building Engineering；稿号 JBE-D-26-09313；2026-05-29 22:46 Asia/Shanghai 收到投稿确认（Gmail Spam，messageId 19e7433eaae52f1d）。用户于 2026-08-10 05:16:54 +08:00 提供的 Elsevier Author Dashboard 快照显示 Completed - Reject，门户 Submitted 2026-05-29、Last updated 2026-06-03；快照未显示正式决定时间或拒稿原因。未发现之后有效新投稿确认，当前回到待投稿。论文仓库状态提交 52747892440558e2d7cdaf1667747c6b81e49073；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
@@ -223,12 +229,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Reversibility of frailty across six international ageing cohorts: a longitudinal multi-cohort study</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Nature Communications (Rejected without external review: NCOMMS-26-050520) → The Lancet Healthy Longevity (Rejected: THELANCETHEALTHYLONGEVITY-D-26-00751 / THELANCETHEALTHYLONGEVITY-S-26-00967; decision 2026-06-29) → BMC Medicine (Rejected after desk/technical editorial assessment; SNAPP id 46cd20af-e62d-4038-b983-5c2a0d1eff6d) → Age and Ageing (ScholarOne draft/upload preparation only; not final submitted; 2026-07-05) → npj Digital Medicine (Submitted; Technical Check; Submission ID 75c3370b-7b4e-4953-b837-767f53406a80; 2026-08-10)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / npj Digital Medicine；Submission ID：75c3370b-7b4e-4953-b837-767f53406a80；2026-08-10 成功页显示 Submission received，详情页显示 We&#39;ve received your submission and are now running technical checks；版本 v.1.0；文章类型 Article；同行评审类型 Single anonymous。系统账户显示名 QUAN WEN；投稿系统注册邮箱 wenquan6328@gmail.com；Google 已绑定；ORCID 未绑定（Linked accounts 显示 Link）；未显示独立 username 字段。投稿系统作者（以门户为准）：Quan Wen（primary corresponding，wenquan@hngm.edu.cn）；Mazran Ismail（corresponding，mazran@usm.my）；Muhammad Hafeez Abdul Nasir（corresponding，hafeez.abdnasir@usm.my）；Nurdiana Zainol Abidin（non-corresponding，nurdianaabidin@usm.my）；与 LaTeX 作者顺序一致，无实质性作者不一致。上传文件：NC02_NPJDM_latex_source_package.zip、NC02_NPJDM_reproducibility_package.zip、cover_letter_npj_digital_medicine.pdf、title_page_npj_digital_medicine.pdf、highlights_npj_digital_medicine.pdf；LaTeX 包由 SNAPP 编译为 35 页 A4 reviewer PDF。复现包仅含代码、汇总结果、图表源文件/PDF、变量字典、依赖和数据访问说明，不含受限个体数据或参与者标识。论文仓库：https://github.com/WENQUAN0816/NC02-Frailty-intrinsic-capacity-reversibility-trajectories（commit 83ec082）；公共复现仓库 commit 3bb3d05；投稿详情：https://submission.springernature.com/submission-details/75c3370b-7b4e-4953-b837-767f53406a80；9221 Chrome/CDP 实例已关闭；当前 Technical Check。</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">社区老年日间照料中心多模态热舒适的时空深度学习评估与预测</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Energy and Buildings (Revision submitted: ENB-D-26-04086R1; 2026-08-04)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier Editorial Manager / Energy &amp; Buildings；修回稿号：ENB-D-26-04086R1；2026-08-04 21:06:47 Asia/Shanghai 收到 Confirming submission to Energy &amp; Buildings（Gmail messageId 19fcce2785748e99），正文确认稿件已收到并进入 Revisions Being Processed；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；与修订版 LaTeX 作者顺序一致；投稿系统用户名/显示名：Quan Wen / WEN QUAN；注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；ORCID：0009-0005-3975-8104（待门户个人资料页复核）；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -263,12 +263,6 @@
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">住宅环境设计特征对老年人生理心理福祉影响的 VR 实验</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">PLOS ONE (Rejected: PONE-D-26-22134) → Journal of Building Engineering (Submitted: JBE-D-26-09313)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier New Submission Service / Editorial Manager / Journal of Building Engineering；稿号：JBE-D-26-09313；JBE draft id：1673b4dd-2e7c-4d8b-a288-58b67af268d9；邮件确认时间：2026-05-29 22:46 Asia/Shanghai（Gmail Spam）；投稿系统作者：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；投稿系统注册邮箱：wenquan@student.usm.my（待门户个人资料页复核）；ORCID：已绑定/可用于登录 0009-0005-3975-8104（待门户个人资料页复核）；核对时间：2026-05-30；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">FRSPTNet：老年居家点云环境跌倒风险区域分割的多尺度超补丁 Transformer</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE TNSRE (Unsubmitted: TNSRE-2026-00398) → IEEE Access (Rejected: Access-2026-16570) → IEEE Access (Submitted: Access-2026-25496)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Author Portal / IEEE Access / Research Exchange (Atypon ReX)；当前稿号：Access-2026-25496；初始重投提交确认时间：2026-05-28 11:45 Asia/Shanghai（Gmail messageId 19e6cb098ccc6258）；IEEE Access 稿号确认时间：2026-05-28 12:12 Asia/Shanghai（Gmail messageId 19e6cc91631350a1）；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-06-03；未存储密码。</td>
 </tr>
@@ -277,12 +271,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">代码漏洞检测深度学习模型的系统评估：具有多种表示策略的模块化框架</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">International Journal of Information and Computer Security (Submitted: IJICS-336943; previous IJICS-332808 withdrawn for correction)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Inderscience Submissions / International Journal of Information and Computer Security；用户名：WENQUAN0817；个人资料名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；备用邮箱：wenquan6328@gmail.com；ORCID：未绑定，个人资料 ORCID 字段为空；核对时间：2026-05-23；来源：Inderscience Edit your profile 页面。未存储密码。</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">健康老龄化评估的元学习框架：具有人群泛化能力的注意力神经过程</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Neural Networks (Approved/submitted revision: NEUNET-D-26-01296R1)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Editorial Manager / Neural Networks；用户名：QuanWen_USM；右上角显示名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-23；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -383,12 +371,6 @@
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">智慧养老系统中智能情绪监测与干预的双通道注意力机制</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Biomedical Signal Processing and Control</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">用于自动代码审查评论生成的上下文与结构特征融合混合 Transformer-MLP 模型</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Software: Practice and Experience</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 </tr>
@@ -415,6 +397,24 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">面向适老韧性评估的 BIM 集成空间世界模型：概念框架与研究议程</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Humanities and Social Sciences Communications</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
+</tr>
+
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">社区老年日间照料中心多模态热舒适的时空深度学习评估与预测</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Energy and Buildings (R1 Required Reviews Completed: ENB-D-26-04086R1; portal last updated 2026-08-08)</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Elsevier Editorial Manager / Energy &amp; Buildings；原稿号 ENB-D-26-04086；修回稿号 ENB-D-26-04086R1；2026-08-04 21:06:47 Asia/Shanghai 收到 R1 修回确认（Gmail messageId 19fcce2785748e99）。用户于 2026-08-10 05:16:54 +08:00 提供的 Elsevier Author Dashboard 快照显示 Required Reviews Completed，门户 Submitted 2026-05-29、Last updated 2026-08-08；该状态表示所需外审意见已返回，尚非最终接受或拒稿决定，当前按外审中处理。投稿系统作者：Quan Wen、Mazran Ismail、Muhammad Hafeez Abdul Nasir、Yanting Wu；论文仓库状态提交 84bf25345966abcd64a6e4e49a9a767bc424a736；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">健康老龄化评估的元学习框架：具有人群泛化能力的注意力神经过程</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Neural Networks (R1 Under Review: NEUNET-D-26-01296R1; portal last updated 2026-07-23)</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Elsevier Editorial Manager / Neural Networks；原稿号 NEUNET-D-26-01296；修回稿号 NEUNET-D-26-01296R1。用户于 2026-08-10 05:16:54 +08:00 提供的 Elsevier Author Dashboard 快照显示 Under Review，门户 Submitted 2026-02-22、Last updated 2026-07-23；当前按外审中处理。用户名 QuanWen_USM；显示名 Quan Wen；注册邮箱 wenquan@student.usm.my；ORCID 0009-0005-3975-8104；论文仓库状态提交 48d7202dda506ede057685c908e64237205a7ea0；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">智慧养老系统中智能情绪监测与干预的双通道注意力机制</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Biomedical Signal Processing and Control (Decision in Process: BSPC-D-26-02864; portal last updated 2026-08-03)</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Elsevier Editorial Manager / Biomedical Signal Processing and Control；稿号 BSPC-D-26-02864；Submitted 2026-02-22。用户于 2026-08-10 05:16:54 +08:00 提供的 Elsevier Author Dashboard 快照显示 Decision in Process，门户 Last updated 为 2026-08-03；尚无最终接受或拒稿决定，当前按外审中/编辑决定处理中处理。论文仓库状态提交 f5fa6fed93ab67e0491930e56d21237cf7e8cb18；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
