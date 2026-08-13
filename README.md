@@ -34,8 +34,8 @@
 <tr><th>状态</th><th>数量</th></tr>
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>32</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>0</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>26</td></tr>
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>8</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>27</td></tr>
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>7</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>66</strong></td></tr>
 </table>
 </td>
@@ -423,10 +423,10 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Humanities and Social Sciences Communications</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 </tr>
 
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">社区老年日间照料中心多模态热舒适的时空深度学习评估与预测</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Energy and Buildings (R1 Required Reviews Completed: ENB-D-26-04086R1; portal last updated 2026-08-08)</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Elsevier Editorial Manager / Energy &amp; Buildings；原稿号 ENB-D-26-04086；修回稿号 ENB-D-26-04086R1；2026-08-04 21:06:47 Asia/Shanghai 收到 R1 修回确认（Gmail messageId 19fcce2785748e99）。用户于 2026-08-10 05:16:54 +08:00 提供的 Elsevier Author Dashboard 快照显示 Required Reviews Completed，门户 Submitted 2026-05-29、Last updated 2026-08-08；该状态表示所需外审意见已返回，尚非最终接受或拒稿决定，当前按外审中处理。投稿系统作者：Quan Wen、Mazran Ismail、Muhammad Hafeez Abdul Nasir、Yanting Wu；论文仓库状态提交 84bf25345966abcd64a6e4e49a9a767bc424a736；未存储密码。</td>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">社区老年日间照料中心多模态热舒适的时空深度学习评估与预测</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Energy and Buildings (R2 submitted / With Editor: ENB-D-26-04086R2; 2026-08-13)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier Editorial Manager / Energy &amp; Buildings；原稿号 ENB-D-26-04086；R1 稿号 ENB-D-26-04086R1；当前修订稿号 ENB-D-26-04086R2。2026-08-13 完成 R2 Approve Revision；2026-08-14 认证门户显示 Revisions Being Processed (1)、Revisions Waiting for Author&#39;s Approval (0)，处理列表中 R2 的提交日期和状态日期均为 Aug 13, 2026，当前状态 With Editor。投稿系统作者（以 portal 为准）：Quan Wen（corresponding author）、Dr. Mazran Ismail、Dr. Muhammad Hafeez Abdul Nasir、Yanting Wu；与最终 LaTeX 作者名单和顺序一致，但 LaTeX 另将 Dr. Mazran Ismail 标为通讯作者，投稿系统只将 Quan Wen 标为通讯作者，角色不一致且以 portal 为准。用户名 QWen-496；显示名 Quan Wen；注册邮箱 wenquan@hngm.edu.cn；ORCID 未绑定/未认证（个人资料页显示 Fetch/Register）；R2 稿件、源文件、回复信和权威系统 PDF 已归档至论文仓库 commit 978066e5135f9f803e6b8e7f908198c0d4835521；核对时间 2026-08-14；未存储密码、cookie 或会话。</td>
 </tr>
 
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
