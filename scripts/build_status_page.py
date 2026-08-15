@@ -440,6 +440,7 @@ def parse_rows():
                     "status": row.get("status") or STATUS_META[dot]["label"],
                     "statusOrder": STATUS_META[dot]["order"],
                     "title": row.get("title", ""),
+                    "qualityRisk": row.get("qualityRisk", ""),
                     "journalTrack": row.get("journalTrack", ""),
                     "submissionSystemInfo": row.get("submissionSystemInfo", ""),
                     "bg": row.get("bg") or STATUS_META[dot]["bg"],
@@ -487,6 +488,13 @@ def parse_submission_system_info():
 
 def parse_similarity_info():
     path = ROOT / "similarity_overrides.json"
+    if not path.exists():
+        return {}
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def parse_quality_risk_info():
+    path = ROOT / "quality_risk_overrides.json"
     if not path.exists():
         return {}
     return json.loads(path.read_text(encoding="utf-8"))
@@ -579,6 +587,7 @@ def enrich_rows(rows):
     situation_by_title = parse_situation_from_readme()
     submission_system_by_title = parse_submission_system_info()
     similarity_by_title = parse_similarity_info()
+    quality_risk_by_title = parse_quality_risk_info()
     row_overrides_by_title = parse_row_overrides()
     existing_updated_at = existing_updated_at_by_title()
     today = dt.date.today().isoformat()
@@ -597,6 +606,7 @@ def enrich_rows(rows):
         journal = current_journal(row)
         row["currentJournal"] = journal
         row["similarity"] = similarity_by_title.get(row["title"], "")
+        row["qualityRisk"] = quality_risk_by_title.get(row["title"], row.get("qualityRisk", ""))
         row["casXr"] = cas_xr_info(journal, cas_index, xr_index) if journal else ""
         row["cas"] = ""
         row["xr"] = ""
@@ -661,6 +671,7 @@ def render(rows):
     .legend-panel td {{ padding:12px 8px; border-bottom:1px solid var(--line); }}
     .legend-panel td:first-child {{ width:42px; font-size:24px; line-height:1; }}
     .legend-panel td:last-child {{ text-align:right; font-size:20px; font-weight:800; }}
+    .risk-note {{ margin:0 0 18px; padding:10px 12px; border:1px solid #ef4444; border-radius:6px; background:#fff1f2; color:#991b1b; font-size:13px; font-weight:700; }}
     .controls {{ display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin:0 0 12px; }}
     .controls button {{ border:1px solid var(--line); background:#fff; color:var(--text); border-radius:6px; padding:8px 10px; cursor:pointer; font-weight:700; }}
     .controls button.active {{ border-color:#2563eb; color:#1d4ed8; background:#eff6ff; }}
@@ -674,9 +685,11 @@ def render(rows):
     table.paper-status-table th[data-key="title"], table.paper-status-table td[data-key="title"] {{ min-width:var(--title-width); width:var(--title-width); position:sticky; left:54px; z-index:3; }}
     table.paper-status-table th[data-key="title"] {{ z-index:4; }}
     table.paper-status-table td[data-key="similarity"] {{ min-width:82px; white-space:nowrap; text-align:center; }}
+    table.paper-status-table td[data-key="qualityRisk"] {{ min-width:150px; white-space:nowrap; text-align:center; }}
     table.paper-status-table td.similarity-low {{ color:#15803d; }}
     table.paper-status-table td.similarity-mid {{ color:#d97706; }}
     table.paper-status-table td.similarity-high {{ color:#dc2626; font-weight:800; }}
+    .quality-risk-high {{ display:inline-block; padding:4px 7px; border:1px solid #ef4444; border-radius:5px; background:#fee2e2; color:#991b1b; font-weight:800; }}
     table.paper-status-table td[data-key="currentJournal"] {{ min-width:230px; }}
     table.paper-status-table td[data-key="journalTrack"], table.paper-status-table td[data-key="recommendedJournals"], table.paper-status-table td[data-key="situation"], table.paper-status-table td[data-key="submissionSystemInfo"] {{ min-width:320px; }}
     table.paper-status-table td[data-key="casXr"] {{ min-width:180px; }}
@@ -702,6 +715,7 @@ def render(rows):
       <div class="panel chart-panel"><img src="status_bar_chart.svg" alt="论文状态统计饼图"></div>
       <aside class="panel legend-panel"><h2>颜色图例</h2><table><tbody>{legend_rows}</tbody></table></aside>
     </section>
+    <p class="risk-note"><span class="quality-risk-high">⚠ 低质量高风险</span> 表示编辑决定或版本审计显示存在严重原创性或文本重叠风险。</p>
     <section class="panel table-panel">
       <h2>全部论文状态总表</h2>
       <div class="controls">
@@ -726,6 +740,7 @@ def render(rows):
     const columns = [
       ["status", "状态"],
       ["title", "论文标题"],
+      ["qualityRisk", "质量风险"],
       ["similarity", "重复率"],
       ["currentJournal", "当前所在期刊名称"],
       ["submissionSystemInfo", "投稿系统信息"],
@@ -769,6 +784,10 @@ def render(rows):
         const escaped = cell(clean);
         return corresponding.has(normalizeAuthorName(clean)) ? `<span class="corresponding-author">${{escaped}}</span>` : escaped;
       }}).join("；");
+    }}
+
+    function qualityRiskMarkup(value) {{
+      return value ? `<span class="quality-risk-high">⚠ ${{cell(value)}}</span>` : '<span class="empty"></span>';
     }}
 
     function similarityClass(value) {{
@@ -821,7 +840,7 @@ def render(rows):
       document.getElementById("tableBody").innerHTML = sortedRows().map(row => {{
         return `<tr style="background-color:${{row.bg}};">${{cols.map(([key]) => {{
           const value = key === "status" ? row.statusDot : row[key];
-          const htmlValue = key === "authors" ? formatAuthors(row) : cell(value);
+          const htmlValue = key === "authors" ? formatAuthors(row) : key === "qualityRisk" ? qualityRiskMarkup(value) : cell(value);
           const extraClass = key === "similarity" ? similarityClass(value) : "";
           const classAttr = extraClass ? ` class="${{extraClass}}"` : "";
           return `<td data-key="${{key}}"${{classAttr}} style="background-color:${{row.bg}};">${{htmlValue}}</td>`;
