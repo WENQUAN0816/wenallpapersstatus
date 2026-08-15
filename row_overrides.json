@@ -172,11 +172,25 @@
     "updatedAt": "2026-06-03"
   },
   "FRSPTNet：老年居家点云环境跌倒风险区域分割的多尺度超补丁 Transformer": {
-    "statusDot": "🟡",
-    "status": "内审中",
-    "journalTrack": "IEEE TNSRE (Unsubmitted: TNSRE-2026-00398) → IEEE Access (Rejected: Access-2026-16570) → IEEE Access (Submitted: Access-2026-25496)",
-    "submissionSystemInfo": "IEEE Author Portal / IEEE Access / Research Exchange (Atypon ReX)；当前稿号：Access-2026-25496；初始重投提交确认时间：2026-05-28 11:45 Asia/Shanghai（Gmail messageId 19e6cb098ccc6258）；IEEE Access 稿号确认时间：2026-05-28 12:12 Asia/Shanghai（Gmail messageId 19e6cc91631350a1）；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-06-03；未存储密码。",
-    "updatedAt": "2026-06-03"
+    "statusDot": "⚪",
+    "status": "待投稿",
+    "journalTrack": "IEEE TNSRE (Unsubmitted: TNSRE-2026-00398) → IEEE Access (Rejected: Access-2026-16570) → IEEE Access (Rejected: Access-2026-25496; final decision 2026-06-04 21:15:58 Asia/Shanghai)",
+    "submissionSystemInfo": "IEEE Author Portal / IEEE Access / Research Exchange (Atypon ReX)；最近稿号：Access-2026-25496；2026-06-04 21:15:58 Asia/Shanghai 收到最终拒稿决定（Gmail messageId 19e92c70d8bb2e81）：质量与技术深度仍未达到 IEEE 标准，编辑部拒绝该稿且不允许再次提交此稿，决定为 final。投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；未存储密码。",
+    "updatedAt": "2026-08-15"
+  },
+  "通过基于扩散的生成式设计提升适老住宅改造：面向安全与视觉舒适的双目标框架": {
+    "statusDot": "⚪",
+    "status": "待投稿",
+    "journalTrack": "Automation in Construction (Rejected: manuscript ID unavailable; user confirmation 2026-08-15)",
+    "submissionSystemInfo": "Elsevier / Automation in Construction；英文题名：Enhancing Aging-Friendly Home Renovation Through Diffusion-Based Generative Design: A Dual-Objective Framework for Safety and Visual Comfort。2026-08-15 14:12:33 +08:00 用户明确确认该稿已被拒绝；正式稿号、决定邮件时间与拒稿原因未提供。Gmail（含 Spam）未发现该题名的正式决定或拒稿后的有效新投稿确认；未存储密码。",
+    "updatedAt": "2026-08-15"
+  },
+  "面向适老韧性评估的 BIM 集成空间世界模型：概念框架与研究议程": {
+    "statusDot": "⚪",
+    "status": "待投稿",
+    "journalTrack": "Humanities and Social Sciences Communications (Rejected: fc3f94dd-f382-46b3-a756-afaf52efc243; 2026-08-13 21:31:14 Asia/Shanghai)",
+    "submissionSystemInfo": "Springer Nature SNAPP / Humanities and Social Sciences Communications；Submission ID：fc3f94dd-f382-46b3-a756-afaf52efc243；RSID：rs-9348844。2026-08-13 21:31:14 Asia/Shanghai 收到正式拒稿决定（Gmail Spam，messageId 19ffb521f569c285）：研究主要贡献为计算型 BIM-world-model 预测韧性评估框架，与期刊范围不够一致；Reviewer 1 另指出研究目标/问题、方法来源、研究缺口与增量贡献阐述不足。2026-08-14 21:40:18 Asia/Shanghai Research Square 确认已不再接受该期刊同行评审；未发现拒稿后有效新投稿确认；未存储密码。",
+    "updatedAt": "2026-08-15"
   },
   "灵活半监督元学习少样本居家安全评估网络": {
     "statusDot": "⚪",
@@ -365,9 +379,9 @@
   "基于三维点云语义分析的适老住宅合规自动评估": {
     "statusDot": "⚪",
     "status": "待投稿",
-    "journalTrack": "Virtual Reality (Rejected: c2567b16-7061-4976-a20e-849247d4a33b)",
-    "submissionSystemInfo": "Springer Nature / Virtual Reality；Submission ID：c2567b16-7061-4976-a20e-849247d4a33b；2026-07-28 02:32 Asia/Shanghai 收到 Decision on your submission to Virtual Reality（Gmail Spam）。编辑初筛认为稿件有 41% 内容疑似复制自 https://www.sciencedirect.com/science/article/abs/pii/S092658052400339X?via%3Dihub，因此拒稿。按 Submission ID 与英文题名搜索 Gmail in:anywhere / in:spam，未发现退稿之后有效 submission received / manuscript submitted 证据；未存储密码。",
-    "updatedAt": "2026-08-10"
+    "journalTrack": "Sensors (Rejected: sensors-4281712) → Virtual Reality (Rejected: c2567b16-7061-4976-a20e-849247d4a33b; 2026-07-28 02:32:27 Asia/Shanghai)",
+    "submissionSystemInfo": "Springer Nature / Virtual Reality；Submission ID：c2567b16-7061-4976-a20e-849247d4a33b；2026-07-28 02:32:27 Asia/Shanghai 收到正式拒稿决定（Gmail Spam，messageId 19fa4d9d137a0343）。Editor-in-Chief 指出 41% 内容疑似复制自 https://www.sciencedirect.com/science/article/abs/pii/S092658052400339X?via%3Dihub，因此在送审前拒稿。按 Submission ID 与英文题名搜索 Gmail in:anywhere / in:spam，未发现退稿之后有效 submission received / manuscript submitted 证据；未存储密码。",
+    "updatedAt": "2026-08-15"
   },
   "室内适老环境多维韧性评估框架：基于 Google Gemini Pro 的大模型指标构建": {
     "statusDot": "🟢",

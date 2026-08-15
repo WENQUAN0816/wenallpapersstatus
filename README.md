@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-08-13
+> **最后更新：** 2026-08-15
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -32,9 +32,9 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>32</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>35</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>0</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>27</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>24</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>7</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>66</strong></td></tr>
 </table>
@@ -192,7 +192,7 @@
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于三维点云语义分析的适老住宅合规自动评估</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Virtual Reality (Rejected: c2567b16-7061-4976-a20e-849247d4a33b)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Springer Nature / Virtual Reality；Submission ID：c2567b16-7061-4976-a20e-849247d4a33b；2026-07-28 02:32 Asia/Shanghai 收到 Decision on your submission to Virtual Reality（Gmail Spam）。编辑初筛认为稿件有 41% 内容疑似复制自 https://www.sciencedirect.com/science/article/abs/pii/S092658052400339X?via%3Dihub，因此拒稿。按 Submission ID 与英文题名搜索 Gmail in:anywhere / in:spam，未发现退稿之后有效 submission received / manuscript submitted 证据；未存储密码。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Sensors (Rejected: sensors-4281712) → Virtual Reality (Rejected: c2567b16-7061-4976-a20e-849247d4a33b; 2026-07-28 02:32:27 Asia/Shanghai)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Springer Nature / Virtual Reality；Submission ID：c2567b16-7061-4976-a20e-849247d4a33b；2026-07-28 02:32:27 Asia/Shanghai 收到正式拒稿决定（Gmail Spam，messageId 19fa4d9d137a0343）。Editor-in-Chief 指出 41% 内容疑似复制自 https://www.sciencedirect.com/science/article/abs/pii/S092658052400339X?via%3Dihub，因此在送审前拒稿。按 Submission ID 与英文题名搜索 Gmail in:anywhere / in:spam，未发现退稿之后有效 submission received / manuscript submitted 证据；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
@@ -267,6 +267,24 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Automation in Construction (Rejected: manuscript ID unavailable; user confirmation 2026-08-10)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Elsevier Editorial Manager / Automation in Construction；英文题名：An Integrated Mixed Reality and Conditional GAN Framework for Age-Friendly Home Renovation: Two-Stage Inpainting with 360-Degree Panoramic Visualization。2026-03-17 仅有账号注册邮件，2026-04-17 未完成投稿提醒明确投稿流程尚未完成；2026-08-10 用户明确确认该稿已被拒绝。现有记录无法独立确认正式拒稿期刊、决定时间、稿号或理由；Gmail（含 Spam）、Outlook、企业邮箱及论文仓库均未发现拒稿后的有效新投稿确认。论文仓库状态提交 6836f6e30d321ca38ee6861c3fc4330cdd846852；未存储密码、cookie 或浏览器会话。</td>
 </tr>
 
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">FRSPTNet：老年居家点云环境跌倒风险区域分割的多尺度超补丁 Transformer</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">IEEE TNSRE (Unsubmitted: TNSRE-2026-00398) → IEEE Access (Rejected: Access-2026-16570) → IEEE Access (Rejected: Access-2026-25496; final decision 2026-06-04 21:15:58 Asia/Shanghai)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">IEEE Author Portal / IEEE Access / Research Exchange (Atypon ReX)；最近稿号：Access-2026-25496；2026-06-04 21:15:58 Asia/Shanghai 收到最终拒稿决定（Gmail messageId 19e92c70d8bb2e81）：质量与技术深度仍未达到 IEEE 标准，编辑部拒绝该稿且不允许再次提交此稿，决定为 final。投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">通过基于扩散的生成式设计提升适老住宅改造：面向安全与视觉舒适的双目标框架</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Automation in Construction (Rejected: manuscript ID unavailable; user confirmation 2026-08-15)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Elsevier / Automation in Construction；英文题名：Enhancing Aging-Friendly Home Renovation Through Diffusion-Based Generative Design: A Dual-Objective Framework for Safety and Visual Comfort。2026-08-15 14:12:33 +08:00 用户明确确认该稿已被拒绝；正式稿号、决定邮件时间与拒稿原因未提供。Gmail（含 Spam）未发现该题名的正式决定或拒稿后的有效新投稿确认；未存储密码。</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">面向适老韧性评估的 BIM 集成空间世界模型：概念框架与研究议程</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Humanities and Social Sciences Communications (Rejected: fc3f94dd-f382-46b3-a756-afaf52efc243; 2026-08-13 21:31:14 Asia/Shanghai)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Springer Nature SNAPP / Humanities and Social Sciences Communications；Submission ID：fc3f94dd-f382-46b3-a756-afaf52efc243；RSID：rs-9348844。2026-08-13 21:31:14 Asia/Shanghai 收到正式拒稿决定（Gmail Spam，messageId 19ffb521f569c285）：研究主要贡献为计算型 BIM-world-model 预测韧性评估框架，与期刊范围不够一致；Reviewer 1 另指出研究目标/问题、方法来源、研究缺口与增量贡献阐述不足。2026-08-14 21:40:18 Asia/Shanghai Research Square 确认已不再接受该期刊同行评审；未发现拒稿后有效新投稿确认；未存储密码。</td>
+</tr>
+
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Work-role participation and healthy-ageing transitions across harmonized ageing cohorts</td>
@@ -301,12 +319,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Energy and Buildings (Rejected: ENB-D-26-01660) → Energy (Rejected: EGY-D-26-10505) → Journal of Building Engineering (Rejected: JBE-D-26-07821) → Solar Energy (R2 submitted / With Editor: SEJ-D-26-02432R2; 2026-08-08)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier Editorial Manager / Solar Energy；当前稿号：SEJ-D-26-02432R2（原稿 SEJ-D-26-02432；上轮 SEJ-D-26-02432R1）；2026-08-08 02:23 +08:00 完成 Approve Revision；当前文件夹：Revisions Being Processed (1)；当前状态：With Editor；投稿系统用户名：QWen-485；显示名：Quan Wen；注册邮箱：wenquan@hngm.edu.cn；ORCID：字段为空，未绑定、未认证（orcidAuthenticated=False）；投稿系统作者（以 portal 为准）：Ruili Liu；Quan Wen（corresponding author）；Mazran Ismail；portal 与当前 LaTeX 作者及顺序一致，无作者不一致；论文仓库 commit：bed9257，已归档 R2 稿件、回复信、图件、投稿包和数据目录，数据未作为 Editorial Manager 单独补充材料上传；核对时间：2026-08-08；未存储密码、cookie 或会话。</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">FRSPTNet：老年居家点云环境跌倒风险区域分割的多尺度超补丁 Transformer</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE TNSRE (Unsubmitted: TNSRE-2026-00398) → IEEE Access (Rejected: Access-2026-16570) → IEEE Access (Submitted: Access-2026-25496)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Author Portal / IEEE Access / Research Exchange (Atypon ReX)；当前稿号：Access-2026-25496；初始重投提交确认时间：2026-05-28 11:45 Asia/Shanghai（Gmail messageId 19e6cb098ccc6258）；IEEE Access 稿号确认时间：2026-05-28 12:12 Asia/Shanghai（Gmail messageId 19e6cc91631350a1）；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-06-03；未存储密码。</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -413,18 +425,6 @@
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">通过基于扩散的生成式设计提升适老住宅改造：面向安全与视觉舒适的双目标框架</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Automation in Construction</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">面向适老韧性评估的 BIM 集成空间世界模型：概念框架与研究议程</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Humanities and Social Sciences Communications</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">社区老年日间照料中心多模态热舒适的时空深度学习评估与预测</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Energy and Buildings (R2 submitted / With Editor: ENB-D-26-04086R2; 2026-08-13)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier Editorial Manager / Energy &amp; Buildings；原稿号 ENB-D-26-04086；R1 稿号 ENB-D-26-04086R1；当前修订稿号 ENB-D-26-04086R2。2026-08-13 完成 R2 Approve Revision；2026-08-14 认证门户显示 Revisions Being Processed (1)、Revisions Waiting for Author&#39;s Approval (0)，处理列表中 R2 的提交日期和状态日期均为 Aug 13, 2026，当前状态 With Editor。投稿系统作者（以 portal 为准）：Quan Wen（corresponding author）、Dr. Mazran Ismail、Dr. Muhammad Hafeez Abdul Nasir、Yanting Wu；与最终 LaTeX 作者名单和顺序一致，但 LaTeX 另将 Dr. Mazran Ismail 标为通讯作者，投稿系统只将 Quan Wen 标为通讯作者，角色不一致且以 portal 为准。用户名 QWen-496；显示名 Quan Wen；注册邮箱 wenquan@hngm.edu.cn；ORCID 未绑定/未认证（个人资料页显示 Fetch/Register）；R2 稿件、源文件、回复信和权威系统 PDF 已归档至论文仓库 commit 978066e5135f9f803e6b8e7f908198c0d4835521；核对时间 2026-08-14；未存储密码、cookie 或会话。</td>
 </tr>
@@ -469,36 +469,6 @@
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">被遗忘之外：中国农村独居老人的低成本智能安全韧性框架</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">BMC Geriatrics</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
-</tr>
-
-<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
-<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
-<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">中国老年 HIV 感染者适老居住环境评估的个体中心框架</td>
-<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">BMC Geriatrics (Accepted: c4ee9984-966a-4c9f-a548-2341676a77aa; 2026-08-04 02:00 Asia/Shanghai; DOI: 10.1186/s12877-026-08090-6)</td><td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Springer Nature SNAPP / BMC Geriatrics；Submission ID c4ee9984-966a-4c9f-a548-2341676a77aa。2026-08-04 02:00 Asia/Shanghai，腾讯企业邮箱收到 accepted for publication 正式决定，Gmail Spam 同步保存接受邮件；2026-08-06 Gmail 收到 proofs 及 publishing agreement 相关邮件；DOI 10.1186/s12877-026-08090-6。投稿系统作者：Quan Wen（primary corresponding）、Dr. Mazran Ismail（corresponding）、Dr. Muhammad Hafeez Abdul Nasir（corresponding）、Yanting Wu；论文仓库接受状态提交 15d95c34785ed70bc4a0144e93fc0bd1a6ab794d。未存储密码。</td>
-</tr>
-
-<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
-<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
-<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">多模态情绪特征可视化映射与智能交互设计</td>
-<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Journal of Visualized Experiments (Accepted: JoVE71171R3; 2026-07-15)</td><td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Editorial Manager / Journal of Visualized Experiments (JoVE)；当前稿号：JoVE71171R3；英文题名：“Visual Mapping of Multimodal Emotion Features for Intelligent Interaction Design”；2026-07-15 03:09:33 Asia/Shanghai 收到正式录用邮件 “Your Manuscript JoVE71171R3 Has Been Accepted!”（Gmail messageId 19f620917a5a1113，仅位于 Gmail Spam），邮件收件人为 Zhenhu Liu，Quan Wen 为 CC，并确认录用于 JoVE Engineering section；旧本地状态目录 E:\GithubRepos\paper-jove71171 当前因 E: 盘未挂载而无法访问，未能同步该目录的状态文本；核对时间：2026-07-18；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
-<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
-<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">老年游客对遗产建筑增强现实解说的接受度：扩展技术接受模型</td>
-<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Applied Sciences (Rejected: applsci-4326225) → Sustainability (Rejected: sustainability-4335606) → Frontiers in Education (Accepted: 1889292; 2026-06-30)</td><td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Frontiers submission portal / My Frontiers；稿号：1889292；2026-06-30 14:43:59 Asia/Shanghai 收到正式录用邮件 “Fantastic news: your article has been accepted”（Gmail messageId 19f1745514421de6），确认稿件已接受并进入 production；英文题名：“Older Visitors&#39; Acceptance of Augmented-Reality Heritage Interpretation: An Extended Technology Acceptance Model for Informal Cultural Heritage Learning”；2026-07-11 收到 proof ready 邮件，2026-07-18 收到 completed proof reminder；投稿系统用户名/显示名：Quan Wen；注册邮箱：wenquan@student.usm.my；ORCID：0009-0005-3975-8104；投稿系统作者：Xuejia Zhu、Suebsiri Saelee、Quan Wen；通讯作者：Suebsiri Saelee；LaTeX/修订稿作者栏为 Xuejia Zhu、Suebsiri Saelee，作者栏不一致已标注；论文仓库状态记录同步于 2026-07-18；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
-<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
-<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">中国 HIV 老年人适老居住环境因素因果模型：文本挖掘、模糊 DEMATEL 与区域比较</td>
-<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Journal of Urban Health → Frontiers in Public Health (Accepted: 1873646; 2026-07-16)</td><td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Frontiers submission portal / My Frontiers / Frontiers Review Forum；期刊/栏目：Frontiers in Public Health / Aging and Public Health；稿号：1873646；Version 2 于 2026-07-10 06:31（门户显示时间）提交；2026-07-16 15:09:11 Asia/Shanghai 收到正式录用邮件 “Fantastic news: your article has been accepted”（Gmail messageId 19f69c222aea8e1c），确认稿件已接受并进入 production；录用题名更新为 “Literature-derived criteria and expert-perceived influence structure for age-friendly living environments among older adults living with HIV in China: a text-mining, fuzzy Delphi, and fuzzy DEMATEL study”；2026-07-17 已收到 Frontiers invoice，2026-07-18 已发送 authorship change form 签名请求。账号用户名/显示名：Quan Wen；注册邮箱：wenquan@student.usm.my；ORCID：已绑定/可用于登录 0009-0005-3975-8104。Frontiers portal 当前作者：Quan Wen（corresponding）、Yanting Wu（non-corresponding）；最终 LaTeX 作者：Quan Wen、Dr. Mazran Ismail、Dr. Muhammad Hafeez Abdul Nasir、Yanting Wu，前三位为通讯作者，portal 作者同步仍待处理。最终修订包已推送至 paper repo commit 1acc520e7004c6851544ef8d966d028ecf886733；录用状态提交 3dfda39；未存储密码。</td>
-</tr>
-
-<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
-<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
-<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">挖掘马来西亚商业建筑能源灵活性的基于 LSTM 的模型预测控制方法</td>
-<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Scientific Reports (Accepted: 93b8c252-e284-4e40-926f-a4b92d907273)</td><td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
 </tr>
 
 

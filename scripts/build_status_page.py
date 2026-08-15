@@ -854,7 +854,11 @@ def render(rows):
 
 
 def main():
-    rows = enrich_rows(parse_rows())
+    rows = [
+        row
+        for row in enrich_rows(parse_rows())
+        if not STATUS_META.get(row.get("statusDot", ""), {}).get("excludeFromStats")
+    ]
     (ROOT / "status_data.json").write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
     (ROOT / "index.html").write_text(render(rows), encoding="utf-8")
     print(f"generated {len(rows)} rows")

@@ -584,6 +584,7 @@ for ($i = 0; $i -lt $Rows.Count; $i++) {
 }
 
 $SortedRows = $ParsedRows |
+    Where-Object { -not $StatusByName[$_.Status].Meta.ExcludeFromStats } |
     Sort-Object @{ Expression = { $StatusByName[$_.Status].Order }; Ascending = $true }, @{ Expression = { $_.Index }; Ascending = $true }
 $NewBody = ($SortedRows | ForEach-Object { $_.Row }) -join ($NewLine + $NewLine)
 $Readme = $Readme.Substring(0, $BodyMatch.Groups[2].Index) + $NewBody + $Readme.Substring($BodyMatch.Groups[2].Index + $BodyMatch.Groups[2].Length)
