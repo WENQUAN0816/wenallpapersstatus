@@ -507,6 +507,24 @@ def parse_row_overrides():
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def parse_visibility_overrides():
+    path = ROOT / "visibility_overrides.json"
+    if not path.exists():
+        return {"excludedAuthors": [], "hiddenTitles": []}
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def is_hidden_row(row, visibility_overrides):
+    if row.get("title", "") in set(visibility_overrides.get("hiddenTitles", [])):
+        return True
+    authors = re.split(r"[；;]", row.get("authors", ""))
+    normalized_authors = {display_norm(author).casefold() for author in authors if author.strip()}
+    return any(
+        display_norm(author).casefold() in normalized_authors
+        for author in visibility_overrides.get("excludedAuthors", [])
+    )
+
+
 def parse_situation_from_readme():
     out = {}
     path = ROOT / "README.md"
@@ -873,10 +891,12 @@ def render(rows):
 
 
 def main():
+    visibility_overrides = parse_visibility_overrides()
     rows = [
         row
         for row in enrich_rows(parse_rows())
         if not STATUS_META.get(row.get("statusDot", ""), {}).get("excludeFromStats")
+        and not is_hidden_row(row, visibility_overrides)
     ]
     (ROOT / "status_data.json").write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
     (ROOT / "index.html").write_text(render(rows), encoding="utf-8")

@@ -7,6 +7,7 @@ $ChartHtmlPath = Join-Path $RepoRoot "status_chart.html"
 $SvgPath = Join-Path $RepoRoot "status_bar_chart.svg"
 $IndexPath = Join-Path $RepoRoot "index.html"
 $RowOverridesPath = Join-Path $RepoRoot "row_overrides.json"
+$VisibilityOverridesPath = Join-Path $RepoRoot "visibility_overrides.json"
 $Utf8NoBom = [System.Text.UTF8Encoding]::new($false)
 $NewLine = "`n"
 
@@ -36,6 +37,16 @@ if (Test-Path $RowOverridesPath) {
     $RawRowOverrides = Get-Content -Raw -Encoding UTF8 $RowOverridesPath | ConvertFrom-Json
     foreach ($Property in $RawRowOverrides.PSObject.Properties) {
         $RowOverrides[$Property.Name] = $Property.Value
+    }
+}
+
+$HiddenTitles = @{}
+if (Test-Path $VisibilityOverridesPath) {
+    $VisibilityOverrides = Get-Content -Raw -Encoding UTF8 $VisibilityOverridesPath | ConvertFrom-Json
+    foreach ($Title in @($VisibilityOverrides.hiddenTitles)) {
+        if (-not [string]::IsNullOrWhiteSpace([string]$Title)) {
+            $HiddenTitles[[string]$Title] = $true
+        }
     }
 }
 
@@ -578,6 +589,7 @@ for ($i = 0; $i -lt $Rows.Count; $i++) {
 
     $ParsedRows.Add([pscustomobject]@{
         Index = $i
+        Title = Get-RowTitle $Row
         Status = $Status
         Row = Normalize-StatusRow $Row $Status
     })
@@ -585,6 +597,7 @@ for ($i = 0; $i -lt $Rows.Count; $i++) {
 
 $SortedRows = $ParsedRows |
     Where-Object { -not $StatusByName[$_.Status].Meta.ExcludeFromStats } |
+    Where-Object { -not $HiddenTitles.ContainsKey($_.Title) } |
     Sort-Object @{ Expression = { $StatusByName[$_.Status].Order }; Ascending = $true }, @{ Expression = { $_.Index }; Ascending = $true }
 $NewBody = ($SortedRows | ForEach-Object { $_.Row }) -join ($NewLine + $NewLine)
 $Readme = $Readme.Substring(0, $BodyMatch.Groups[2].Index) + $NewBody + $Readme.Substring($BodyMatch.Groups[2].Index + $BodyMatch.Groups[2].Length)

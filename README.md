@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-08-15
+> **最后更新：** 2026-08-18
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -34,11 +34,11 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>35</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>31</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>0</td></tr>
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>24</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>7</td></tr>
-<tr><td><strong>合计</strong></td><td><strong>66</strong></td></tr>
+<tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
 </table>
 </td>
 <td valign="top" width="66%">
@@ -77,30 +77,6 @@
 </thead>
 
 <tbody>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">精英与普通中国大学篮球运动员的认知运动速度和心率恢复差异：探索性横断面分析</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">BMC Public Health (Submission started; not yet completed; 2026-08-11)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Springer Nature SNAPP / BMC Public Health；已创建非最终草稿，当前在 Declarations 页，尚未上传文件、尚未最终提交；Draft URL：https://submission.springernature.com/new/submission/5cac3776-8bfd-42d3-ace4-6598e3e6704f/declarations；CDP 端口：9221；Chrome profile：C:\Users\Administrator\.chrome-profiles\chrome-9221-google；论文仓库：https://github.com/WENQUAN0816/huang-weijie；伦理、知情同意、资助、利益冲突及投稿确认字段等待作者团队核实；未存储密码、cookie 或会话文件。</td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">心理技能训练减弱比赛皮质醇反应并维持中国大学篮球运动员的认知运动速度</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">iScience (Submission started; not yet completed; format blocker; 2026-08-11)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Elsevier Editorial Manager / iScience；Research Article；官方作者指南要求初次投稿上传 PDF 或 Word，LaTeX 仅要求提供可读 PDF，未提供服务器 LaTeX 编译路径；按 LaTeX-only 门禁停在 Attach Files，未上传 PDF、未最终提交；CDP 端口：9222；Chrome profile：C:\Users\Administrator\.chrome-profiles\chrome-9222-google；论文仓库：https://github.com/WENQUAN0816/huang-weijie；另有伦理批准、资助、利益冲突、生成式 AI 声明和 lead contact 待核实；未存储密码、cookie 或会话文件。</td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">文化内部的文化取向差异影响中国大学篮球运动员参与心理技能训练</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">SAGE Open (Submission started; not yet completed; format check; 2026-08-11)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">ScholarOne Manuscripts / SAGE Open；已进入 Begin Submission，未上传文件、未最终提交；CDP 端口：9223；Chrome profile：C:\Users\Administrator\.chrome-profiles\chrome-9223-google；论文仓库：https://github.com/WENQUAN0816/huang-weijie；当前待确认 SAGE Open 是否提供可服务器编译的 LaTeX source/package 路径；伦理、知情同意、资助及利益冲突声明仍待作者团队核实；未存储密码、cookie 或会话文件。</td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">超越平均分：中国大学篮球运动员的心理训练特征与表现准备度</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">BMC Psychology (Submission started; not yet completed; 2026-08-11)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Springer Nature SNAPP / BMC Psychology；已创建 portal draft c4ad847f-9060-42ea-8757-e0b72af70718，确认支持 LaTeX ZIP 并服务器编译 reviewer PDF，但尚未上传文件、尚未最终提交；Draft URL：https://submission.springernature.com/new/submission/c4ad847f-9060-42ea-8757-e0b72af70718/upload-files；CDP 端口：9224；Chrome profile：C:\Users\Administrator\.chrome-profiles\chrome-9224-google；论文仓库：https://github.com/WENQUAN0816/huang-weijie；伦理、知情同意、资助和利益冲突声明以及 Git clean/sync 等待处理；未存储密码、cookie 或会话文件。</td>
-</tr>
-
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">AccessPath：面向老年居家环境自动无障碍评估的拓扑图式无障碍通行分析</td>
