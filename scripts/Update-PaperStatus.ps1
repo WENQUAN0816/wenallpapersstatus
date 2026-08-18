@@ -184,6 +184,41 @@ function Set-RowCellContent {
     return $Row.Substring(0, $Cell.Index) + $Replacement + $Row.Substring($Cell.Index + $Cell.Length)
 }
 
+function Ensure-RowCells {
+    param(
+        [string]$Row,
+        [int]$CellCount
+    )
+
+    $CellMatches = [regex]::Matches($Row, '(?s)<td(?<attrs>[^>]*)>(?<content>.*?)</td>')
+    if ($CellMatches.Count -eq 0) {
+        return $Row
+    }
+    $TemplateAttrs = $CellMatches[$CellMatches.Count - 1].Groups["attrs"].Value
+    while ($CellMatches.Count -lt $CellCount) {
+        $Row = [regex]::Replace($Row, '(?s)</tr>\s*$', "<td$TemplateAttrs>&nbsp;</td>`n</tr>", 1)
+        $CellMatches = [regex]::Matches($Row, '(?s)<td(?<attrs>[^>]*)>(?<content>.*?)</td>')
+    }
+    return $Row
+}
+
+function Get-RejectionIndex {
+    param([string]$Track)
+
+    if ([string]::IsNullOrWhiteSpace($Track)) {
+        return 0
+    }
+    $Segments = @($Track -split '\s*→\s*' | Where-Object { -not [string]::IsNullOrWhiteSpace($_) })
+    if ($Segments.Count -eq 0) {
+        return 0
+    }
+    $Count = [math]::Max(0, $Segments.Count - 1)
+    if ($Segments[-1] -match '(?i)\b(rejected|declined|reject)\b|拒稿|拒绝|退稿') {
+        $Count++
+    }
+    return $Count
+}
+
 function Apply-RowOverride {
     param(
         [string]$Row,
@@ -191,6 +226,7 @@ function Apply-RowOverride {
     )
 
     $Title = Get-RowTitle $Row
+    $Row = Ensure-RowCells $Row 7
     if (-not $Title -or -not $RowOverrides.ContainsKey($Title)) {
         return $Row
     }
@@ -204,6 +240,12 @@ function Apply-RowOverride {
     }
     if ($Override.PSObject.Properties.Name -contains "submissionSystemInfo") {
         $Row = Set-RowCellContent $Row 3 ([string]$Override.submissionSystemInfo)
+    }
+    if ($Override.PSObject.Properties.Name -contains "loginInfo") {
+        $Row = Set-RowCellContent $Row 4 ([string]$Override.loginInfo)
+    }
+    if ($Override.PSObject.Properties.Name -contains "codexCode") {
+        $Row = Set-RowCellContent $Row 5 ([string]$Override.codexCode)
     }
     return $Row
 }
@@ -560,6 +602,16 @@ $Readme = [System.IO.File]::ReadAllText($ReadmePath, $Utf8NoBom)
 $Today = Get-Date -Format 'yyyy-MM-dd'
 $Readme = [regex]::Replace($Readme, '(?m)^> \*\*最后更新：\*\* \d{4}-\d{2}-\d{2}', "> **最后更新：** $Today", 1)
 $Readme = [regex]::Replace($Readme, '(?s)\s*<style>.*?</style>\s*', "$NewLine$NewLine", 1)
+$Readme = $Readme.Replace(
+    '<tr><th>状态</th><th>论文标题</th><th>Journal Track</th><th>投稿系统信息</th></tr>',
+    '<tr><th>状态</th><th>论文标题</th><th>Journal Track</th><th>投稿系统信息</th><th>登录信息</th><th>codex代码</th><th>拒绝指数</th></tr>'
+)
+$Readme = [regex]::Replace(
+    $Readme,
+    '(?s)<colgroup>.*?</colgroup>',
+    '<colgroup><col width="5%"><col width="27%"><col width="24%"><col width="18%"><col width="15%"><col width="8%"><col width="3%"></colgroup>',
+    1
+)
 $BodyMatch = [regex]::Match($Readme, '(?s)(<tbody>\s*)(.*?)(\s*</tbody>)')
 if (-not $BodyMatch.Success) {
     throw "README.md 中没有找到论文状态表 <tbody>。"
@@ -583,6 +635,11 @@ for ($i = 0; $i -lt $Rows.Count; $i++) {
     }
 
     $Row = Apply-RowOverride $Row ([ref]$Status)
+    $CellMatches = [regex]::Matches($Row, '(?s)<td(?<attrs>[^>]*)>(?<content>.*?)</td>')
+    if ($CellMatches.Count -ge 4) {
+        $TrackText = [System.Net.WebUtility]::HtmlDecode(([regex]::Replace($CellMatches[2].Groups["content"].Value, '<[^>]+>', '')))
+        $Row = Set-RowCellContent $Row 6 ([string](Get-RejectionIndex $TrackText))
+    }
     if (-not $StatusByName.ContainsKey($Status)) {
         throw "发现未知状态：$Status"
     }

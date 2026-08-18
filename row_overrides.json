@@ -208,7 +208,9 @@
     "correspondingAuthors": [
       "Xueping Han"
     ],
-    "updatedAt": "2026-06-18"
+    "updatedAt": "2026-06-18",
+    "loginInfo": "投稿系统：Springer Nature SNAPP / Telecommunication Systems；投稿系统账号：chao Peng（Google 个人信息，独立用户名未显示）；投稿邮箱：hngmpengchao@gmail.com；投稿系统网址：https://submission.springernature.com/；稿件作者邮箱：xuepinghan118@gmail.com。未存储密码。",
+    "codexCode": "01a01717-398a-70c3-b411-f1736601a234"
   },
   "基于条件 GAN 与随机森林的多源数据融合社区韧性评估：来自中国河南的证据": {
     "statusDot": "⚪",
@@ -405,5 +407,25 @@
       "Nurdiana Zainol Abidin"
     ],
     "updatedAt": "2026-08-10"
+  },
+  "代码漏洞检测深度学习模型的系统评估：具有多种表示策略的模块化框架": {
+    "loginInfo": "投稿系统：Inderscience Submissions / International Journal of Information and Computer Security；投稿系统账号：WENQUAN0817；投稿邮箱：wenquan@student.usm.my；备用邮箱：wenquan6328@gmail.com；投稿系统网址：https://indersciencesubmissions.com/；个人资料名：Quan Wen。未存储密码。",
+    "codexCode": "01a01717-398a-70c3-b411-f1736601a234"
+  },
+  "DHA-BiGRU：用于自动代码审查评论分类的双注意力层次门控 BiGRU": {
+    "loginInfo": "投稿系统：Wiley Atypon ReX / ScholarOne Manuscripts / Software Testing, Verification and Reliability；投稿系统账号：QUAN WEN（邮件显示名，独立用户名未显示）；投稿邮箱：wenquan6328@gmail.com；投稿系统网址：https://mc.manuscriptcentral.com/stvr。未存储密码。",
+    "codexCode": "01a01717-398a-70c3-b411-f1736601a234"
+  },
+  "LLM 生成测试用例优化：AI 辅助软件测试中的质量缺陷表征与缓解": {
+    "loginInfo": "投稿系统：Wiley Atypon ReX / ScholarOne Manuscripts / Software Testing, Verification and Reliability；投稿系统账号：QUAN WEN（邮件显示名，独立用户名未显示）；投稿邮箱：wenquan6328@gmail.com；投稿系统网址：https://mc.manuscriptcentral.com/stvr。未存储密码。",
+    "codexCode": "01a01717-398a-70c3-b411-f1736601a234"
+  },
+  "基于大语言模型苏格拉底式推理的可解释自动代码审查": {
+    "loginInfo": "投稿系统：Wiley Atypon ReX / ScholarOne Manuscripts / Software: Practice and Experience；投稿系统账号：QUAN WEN（邮件显示名，独立用户名未显示）；投稿邮箱：wenquan6328@gmail.com；投稿系统网址：https://mc.manuscriptcentral.com/spe。未存储密码。",
+    "codexCode": "01a01717-398a-70c3-b411-f1736601a234"
+  },
+  "用于自动代码审查评论生成的上下文与结构特征融合混合 Transformer-MLP 模型": {
+    "loginInfo": "投稿系统：Wiley Atypon ReX / ScholarOne Manuscripts / Software: Practice and Experience；投稿系统账号：QUAN WEN（邮件显示名，独立用户名未显示）；投稿邮箱：wenquan6328@gmail.com；投稿系统网址：https://mc.manuscriptcentral.com/spe。未存储密码。",
+    "codexCode": "01a01717-398a-70c3-b411-f1736601a234"
   }
 }

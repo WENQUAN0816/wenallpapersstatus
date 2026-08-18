@@ -443,6 +443,9 @@ def parse_rows():
                     "qualityRisk": row.get("qualityRisk", ""),
                     "journalTrack": row.get("journalTrack", ""),
                     "submissionSystemInfo": row.get("submissionSystemInfo", ""),
+                    "loginInfo": row.get("loginInfo", ""),
+                    "codexCode": row.get("codexCode", ""),
+                    "rejectionIndex": row.get("rejectionIndex", 0),
                     "bg": row.get("bg") or STATUS_META[dot]["bg"],
                     "updatedAt": row.get("updatedAt", ""),
                 })
@@ -463,6 +466,10 @@ def parse_rows():
         title = clean_cell(cells[1])
         track = clean_cell(cells[2])
         submission_system_info = clean_cell(cells[3]) if len(cells) >= 4 else ""
+        login_info = clean_cell(cells[4]) if len(cells) >= 5 else ""
+        codex_code = clean_cell(cells[5]) if len(cells) >= 6 else ""
+        rejection_value = clean_cell(cells[6]) if len(cells) >= 7 else ""
+        rejection_count = int(rejection_value) if rejection_value.isdigit() else 0
         dot = status[0] if status else "⚪"
         if dot not in STATUS_META:
             dot = "⚪"
@@ -473,6 +480,9 @@ def parse_rows():
             "title": title,
             "journalTrack": track,
             "submissionSystemInfo": submission_system_info,
+            "loginInfo": login_info,
+            "codexCode": codex_code,
+            "rejectionIndex": rejection_count,
             "bg": bgcolor.group(1) if bgcolor else STATUS_META[dot]["bg"],
             "updatedAt": "",
         })
@@ -570,6 +580,19 @@ def has_rejected_track(track):
     return any(is_rejected_track_segment(part) for part in re.split(r"\s*→\s*", track or ""))
 
 
+def rejection_index(track):
+    """Count transfers plus an explicit rejection at the current/final journal."""
+    parts = [part.strip() for part in re.split(r"\s*→\s*", track or "") if part.strip()]
+    if not parts:
+        return 0
+    transfers = max(0, len(parts) - 1)
+    final_rejected = bool(re.search(
+        r"(?i)\b(rejected|declined|reject)\b|拒稿|拒绝|退稿",
+        parts[-1],
+    ))
+    return transfers + int(final_rejected)
+
+
 def existing_updated_at_by_title():
     data_path = ROOT / "status_data.json"
     if not data_path.exists():
@@ -618,7 +641,7 @@ def enrich_rows(rows):
                 row["status"] = row_override.get("status") or STATUS_META[dot]["label"]
                 row["statusOrder"] = STATUS_META[dot]["order"]
                 row["bg"] = STATUS_META[dot]["bg"]
-            for key in ("journalTrack", "submissionSystemInfo", "updatedAt"):
+            for key in ("journalTrack", "submissionSystemInfo", "loginInfo", "codexCode", "updatedAt"):
                 if key in row_override:
                     row[key] = row_override[key]
         journal = current_journal(row)
@@ -638,6 +661,9 @@ def enrich_rows(rows):
         )
         row["updatedAt"] = row.get("updatedAt") or existing_updated_at.get(row["title"], "") or today
         row["submissionSystemInfo"] = submission_system_by_title.get(row["title"], row.get("submissionSystemInfo", ""))
+        row["loginInfo"] = row_override.get("loginInfo", row.get("loginInfo", ""))
+        row["codexCode"] = row_override.get("codexCode", row.get("codexCode", ""))
+        row["rejectionIndex"] = rejection_index(row["journalTrack"])
         row["situation"] = situation_by_title.get(row["title"], "")
         row["impactSort"] = float(row["impactFactor"]) if re.fullmatch(r"\d+(\.\d+)?", row["impactFactor"] or "") else -1
     return rows
@@ -709,7 +735,7 @@ def render(rows):
     table.paper-status-table td.similarity-high {{ color:#dc2626; font-weight:800; }}
     .quality-risk-high {{ display:inline-block; padding:4px 7px; border:1px solid #ef4444; border-radius:5px; background:#fee2e2; color:#991b1b; font-weight:800; }}
     table.paper-status-table td[data-key="currentJournal"] {{ min-width:230px; }}
-    table.paper-status-table td[data-key="journalTrack"], table.paper-status-table td[data-key="recommendedJournals"], table.paper-status-table td[data-key="situation"], table.paper-status-table td[data-key="submissionSystemInfo"] {{ min-width:320px; }}
+    table.paper-status-table td[data-key="journalTrack"], table.paper-status-table td[data-key="recommendedJournals"], table.paper-status-table td[data-key="situation"], table.paper-status-table td[data-key="submissionSystemInfo"], table.paper-status-table td[data-key="loginInfo"], table.paper-status-table td[data-key="codexCode"] {{ min-width:320px; }}
     table.paper-status-table td[data-key="casXr"] {{ min-width:180px; }}
     table.paper-status-table td[data-key="authors"] {{ min-width:260px; }}
     .corresponding-author {{ color:#dc2626; font-weight:800; }}
@@ -762,6 +788,9 @@ def render(rows):
       ["similarity", "重复率"],
       ["currentJournal", "当前所在期刊名称"],
       ["submissionSystemInfo", "投稿系统信息"],
+      ["loginInfo", "登录信息"],
+      ["codexCode", "codex代码"],
+      ["rejectionIndex", "拒绝指数"],
       ["casXr", "CAS/XR分区"],
       ["jcr", "JCR分区"],
       ["impactFactor", "IF"],
