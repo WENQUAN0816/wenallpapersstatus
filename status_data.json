@@ -906,6 +906,36 @@
     "impactSort": -1
   },
   {
+    "statusDot": "⚪",
+    "status": "待投稿",
+    "statusOrder": 0,
+    "title": "老龄化夹缝：面向中国老旧居住社区低收入独居老人的智能安全韧性评估框架",
+    "journalTrack": "Environment, Development and Sustainability (Rejected: ENVI-D-26-05792)",
+    "submissionSystemInfo": "Editorial Manager / Environment, Development and Sustainability；用户名：QUAN WEN；右上角显示名：WEN QUAN；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-13；未存储密码。",
+    "loginInfo": "",
+    "codexCode": "",
+    "rejectionIndex": 1,
+    "bg": "#f2f2f2",
+    "updatedAt": "2026-08-21",
+    "currentJournal": "",
+    "similarity": "1.4%",
+    "qualityRisk": "",
+    "casXr": "",
+    "cas": "",
+    "xr": "",
+    "jcr": "",
+    "impactFactor": "",
+    "indexType": "",
+    "recommendedJournals": "Environment, Development and Sustainability；International Journal for Equity in Health；BMC Geriatrics",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Nooriati Binti Taib；Jestin Bin Nordin",
+    "correspondingAuthors": [
+      "Quan Wen",
+      "Mazran Ismail"
+    ],
+    "situation": "待投稿。英文题名为 “Aging in the Cracks: An Intelligent Safety Resilience Assessment Framework for Low-Income Urban Elderly Living Alone in China's Old Residential Communities”。Environment, Development and Sustainability / Editorial Manager 稿号 ENVI-D-26-05792：2026-05-13 已完成修订提交并无待作者批准项目。2026-08-21 用户明确确认该稿已被拒稿；正式决定邮件的准确时间和具体拒稿原因尚未提供。按稿号、英文题名及稳定题名片段检索 Gmail（含 Spam/Trash），未找到 2026-05-26 之后的直接拒稿通知，也未找到后续有效投稿/收稿确认；论文仓库无 2026-05-13 之后的有效重投证据。当前回到待投稿，等待选择新目标期刊。论文仓库状态记录随本次审计更新。",
+    "impactSort": -1
+  },
+  {
     "statusDot": "🟡",
     "status": "内审中",
     "statusOrder": 2,
@@ -1144,36 +1174,6 @@
     ],
     "situation": "内审中。2026-08-01 Springer Nature SNAPP / Scientific Reports 显示 Submission received / Thank you for submitting to Scientific Reports，修订稿已进入 Technical Check。原投稿记录 ID：2a8d0dcd-74c6-4848-86ff-62ad8eb84d62；投稿详情：https://submission.springernature.com/submission-details/2a8d0dcd-74c6-4848-86ff-62ad8eb84d62。修订包已上传并同步至论文仓库分支 srep-revision-20260717，commit dac9d61；当前等待技术检查和编辑处理。此前 Energy Reports 记录保留在历史中。",
     "impactSort": 3.9
-  },
-  {
-    "statusDot": "🟡",
-    "status": "内审中",
-    "statusOrder": 2,
-    "title": "老龄化夹缝：面向中国老旧居住社区低收入独居老人的智能安全韧性评估框架",
-    "journalTrack": "Environment, Development and Sustainability (Resubmitted: ENVI-D-26-05792)",
-    "submissionSystemInfo": "Editorial Manager / Environment, Development and Sustainability；用户名：QUAN WEN；右上角显示名：WEN QUAN；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-05-13；未存储密码。",
-    "loginInfo": "",
-    "codexCode": "",
-    "rejectionIndex": 0,
-    "bg": "#fff8d9",
-    "updatedAt": "2026-08-09",
-    "currentJournal": "Environment, Development and Sustainability",
-    "similarity": "1.4%",
-    "qualityRisk": "",
-    "casXr": "CAS大3小3/4；XR大3小3/4",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q2",
-    "impactFactor": "4.2",
-    "indexType": "SCIE",
-    "recommendedJournals": "Environment, Development and Sustainability；International Journal for Equity in Health；BMC Geriatrics",
-    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Nooriati Binti Taib；Jestin Bin Nordin",
-    "correspondingAuthors": [
-      "Quan Wen",
-      "Mazran Ismail"
-    ],
-    "situation": "内审中。2026-05-13 Environment, Development and Sustainability / Editorial Manager 显示 no submissions awaiting approval，作者 approval 后 ENVI-D-26-05792 已 approved-submitted。题名 Aging in the Cracks: An Intelligent Safety Resilience Assessment Framework for Low-Income Urban Elderly Living Alone in China's Old Residential Communities。本次修订已更新并重传 title page，加入系统要求的 Conflict of interest statement；系统生成 PDF 已审核并提交。论文仓库已推送 commit b22062407c2318a173d24bfab0245fa1c31b6656。",
-    "impactSort": 4.2
   },
   {
     "statusDot": "🟡",
