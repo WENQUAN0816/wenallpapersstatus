@@ -1645,6 +1645,37 @@
     "impactSort": 6.6
   },
   {
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
+    "title": "粮食储藏制冷资产的同类归一化检查队列：12个月研究中的权重与阈值敏感性",
+    "journalTrack": "Energy Reports (Revision submitted / With Editor: EGYR-D-26-01996R1; 2026-09-04)",
+    "submissionSystemInfo": "Elsevier Editorial Manager / Energy Reports；稿号：EGYR-D-26-01996R1；2026-09-04 修订稿完成提交，2026-09-05 门户显示 Revisions Being Processed / With Editor。投稿系统用户名：EMIdentity_a1c9f4a8-1d8d-4cd5-ba94-92bf38e8b5d4；显示名：wen quan；投稿系统注册邮箱：wenquan@hngm.edu.cn；wenquan@student.usm.my；ORCID：已认证绑定 0009-0005-3975-8104。投稿系统作者清单在本次验证会话未显示，不能以 LaTeX 作者替代或判定两者一致性；LaTeX 作者为 Quan Wen、Dr. Mazran Ismail、Dr. Muhammad Hafeez Abdul Nasir、Ruili Liu，前三位为通讯作者。论文仓库已归档 R1 源包、clean/marked TeX、编译 PDF、回复文件、图件、截图和 SHA-256 清单；未存储密码、Cookie、token 或会话文件。",
+    "loginInfo": "投稿系统：Elsevier Editorial Manager / Energy Reports；用户名：EMIdentity_a1c9f4a8-1d8d-4cd5-ba94-92bf38e8b5d4；显示名：wen quan；注册邮箱：wenquan@hngm.edu.cn；wenquan@student.usm.my；ORCID 已认证绑定 0009-0005-3975-8104。未存储密码。",
+    "codexCode": "",
+    "rejectionIndex": 0,
+    "bg": "#fff8d9",
+    "updatedAt": "2026-09-05",
+    "currentJournal": "Energy Reports",
+    "similarity": "",
+    "qualityRisk": "",
+    "casXr": "CAS大3小4；XR大3小3",
+    "cas": "",
+    "xr": "",
+    "jcr": "Q2",
+    "impactFactor": "4.7",
+    "indexType": "SCIE",
+    "recommendedJournals": "",
+    "authors": "Quan Wen；Dr. Mazran Ismail；Dr. Muhammad Hafeez Abdul Nasir；Ruili Liu（LaTeX 作者；投稿系统作者清单未独立核验）",
+    "correspondingAuthors": [
+      "Quan Wen",
+      "Dr. Mazran Ismail",
+      "Dr. Muhammad Hafeez Abdul Nasir"
+    ],
+    "situation": "内审中。Energy Reports 修订稿 EGYR-D-26-01996R1 于 2026-09-04 通过 Elsevier Editorial Manager 提交；2026-09-05 门户显示 Revisions Being Processed / With Editor，表明作者提交与批准步骤已完成，当前等待期刊处理。提交状态截图及完整 R1 源包、clean/marked TeX、编译 PDF、回复信、cover letter、图件和 SHA-256 清单已归档至论文仓库 submission/energy_reports_r1_20260904/。",
+    "impactSort": 4.7
+  },
+  {
     "statusDot": "🟢",
     "status": "外审中",
     "statusOrder": 3,

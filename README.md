@@ -36,9 +36,9 @@
 <tr><th>状态</th><th>数量</th></tr>
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>33</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>22</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>23</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>6</td></tr>
-<tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
+<tr><td><strong>合计</strong></td><td><strong>63</strong></td></tr>
 </table>
 </td>
 <td valign="top" width="66%">
@@ -576,6 +576,16 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">0</td>
 </tr>
 
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">粮食储藏制冷资产的同类归一化检查队列：12个月研究中的权重与阈值敏感性</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Energy Reports (Revision submitted / With Editor: EGYR-D-26-01996R1; 2026-09-04)</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier Editorial Manager / Energy Reports；稿号：EGYR-D-26-01996R1；2026-09-04 完成修订稿提交，2026-09-05 门户显示 Revisions Being Processed / With Editor。投稿系统用户名：EMIdentity_a1c9f4a8-1d8d-4cd5-ba94-92bf38e8b5d4；显示名：wen quan；注册邮箱：wenquan@hngm.edu.cn；wenquan@student.usm.my；ORCID 已认证绑定 0009-0005-3975-8104。投稿系统作者清单本次会话未显示，未独立核验；论文作者栏记录 LaTeX 作者。未存储密码、cookie、token 或会话文件。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">投稿系统：Elsevier Editorial Manager / Energy Reports；用户名：EMIdentity_a1c9f4a8-1d8d-4cd5-ba94-92bf38e8b5d4；显示名：wen quan；注册邮箱：wenquan@hngm.edu.cn；wenquan@student.usm.my；ORCID 已认证绑定 0009-0005-3975-8104。未存储密码。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">0</td>
+</tr>
+
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">健康老龄化评估的元学习框架：具有人群泛化能力的注意力神经过程</td>
@@ -629,7 +639,6 @@
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">0</td>
 </tr>
-
 
 </tbody>
 
