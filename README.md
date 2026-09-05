@@ -34,10 +34,10 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>32</td></tr>
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>0</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>23</td></tr>
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>7</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>33</td></tr>
+<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>22</td></tr>
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>6</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>62</strong></td></tr>
 </table>
 </td>
@@ -360,6 +360,24 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">1</td>
 </tr>
 
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">中国老龄化背景下农村学校改造养老设施的公平导向服务就绪框架</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">International Journal for Equity in Health (Rejected: 298e6402-a6ba-45f1-adeb-9ba17a6095b6; 2026-08-28 Asia/Shanghai)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Springer Nature / International Journal for Equity in Health；Submission ID 298e6402-a6ba-45f1-adeb-9ba17a6095b6。2026-08-28 06:02:21 +08:00 的 Gmail Spam 决定信通知拒稿；邮件未提供审稿意见或具体理由。按该 ID 与完整英文题名检索 Gmail（含 Spam/Trash），未发现此后有效投稿或收稿确认；论文仓库状态记录随本次审计更新；未存储密码。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">1</td>
+</tr>
+
+<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">智慧养老系统中智能情绪监测与干预的双通道注意力机制</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Biomedical Signal Processing and Control (Major revision requested: BSPC-D-26-02864; due 2026-11-02)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Elsevier Editorial Manager / Biomedical Signal Processing and Control；稿号 BSPC-D-26-02864；Submitted 2026-02-22。2026-08-29 22:52:32 +08:00 收到编辑决定邮件，要求 major revision，修回截止 2026-11-02；该邮件覆盖此前 2026-08-03 的 Decision in Process 门户快照。论文仓库状态记录随本次审计更新；未存储密码。</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">0</td>
+</tr>
+
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Work-role participation and healthy-ageing transitions across harmonized ageing cohorts</td>
@@ -488,15 +506,6 @@
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">中国老龄化背景下农村学校改造养老设施的公平导向服务就绪框架</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">International Journal for Equity in Health</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">0</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">元学习增强的少样本居家安全等级分类框架</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Transactions on Instrumentation and Measurement</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
@@ -571,15 +580,6 @@
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">健康老龄化评估的元学习框架：具有人群泛化能力的注意力神经过程</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Neural Networks (R1 Under Review: NEUNET-D-26-01296R1; portal last updated 2026-07-23)</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Elsevier Editorial Manager / Neural Networks；原稿号 NEUNET-D-26-01296；修回稿号 NEUNET-D-26-01296R1。用户于 2026-08-10 05:16:54 +08:00 提供的 Elsevier Author Dashboard 快照显示 Under Review，门户 Submitted 2026-02-22、Last updated 2026-07-23；当前按外审中处理。用户名 QuanWen_USM；显示名 Quan Wen；注册邮箱 wenquan@student.usm.my；ORCID 0009-0005-3975-8104；论文仓库状态提交 48d7202dda506ede057685c908e64237205a7ea0；未存储密码。</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">0</td>
-</tr>
-
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">智慧养老系统中智能情绪监测与干预的双通道注意力机制</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Biomedical Signal Processing and Control (Decision in Process: BSPC-D-26-02864; portal last updated 2026-08-03)</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Elsevier Editorial Manager / Biomedical Signal Processing and Control；稿号 BSPC-D-26-02864；Submitted 2026-02-22。用户于 2026-08-10 05:16:54 +08:00 提供的 Elsevier Author Dashboard 快照显示 Decision in Process，门户 Last updated 为 2026-08-03；尚无最终接受或拒稿决定，当前按外审中/编辑决定处理中处理。论文仓库状态提交 f5fa6fed93ab67e0491930e56d21237cf7e8cb18；未存储密码。</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">0</td>

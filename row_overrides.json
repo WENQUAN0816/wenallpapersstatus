@@ -51,11 +51,19 @@
     "updatedAt": "2026-08-10"
   },
   "智慧养老系统中智能情绪监测与干预的双通道注意力机制": {
-    "statusDot": "🟢",
-    "status": "外审中",
-    "journalTrack": "Biomedical Signal Processing and Control (Decision in Process: BSPC-D-26-02864; portal last updated 2026-08-03)",
-    "submissionSystemInfo": "Elsevier Editorial Manager / Biomedical Signal Processing and Control；稿号 BSPC-D-26-02864；Submitted 2026-02-22。用户于 2026-08-10 05:16:54 +08:00 提供的 Elsevier Author Dashboard 快照显示 Decision in Process，门户 Last updated 为 2026-08-03；尚无最终接受或拒稿决定，当前按外审中/编辑决定处理中处理。论文仓库状态提交 f5fa6fed93ab67e0491930e56d21237cf7e8cb18；未存储密码。",
-    "updatedAt": "2026-08-10"
+    "statusDot": "💖",
+    "status": "需修订",
+    "journalTrack": "Biomedical Signal Processing and Control (Major revision requested: BSPC-D-26-02864; due 2026-11-02)",
+    "submissionSystemInfo": "Elsevier Editorial Manager / Biomedical Signal Processing and Control；稿号 BSPC-D-26-02864；Submitted 2026-02-22。2026-08-29 22:52:32 +08:00 收到编辑决定邮件，要求 major revision，修回截止 2026-11-02；该邮件覆盖此前 2026-08-03 的 Decision in Process 门户快照。论文仓库状态记录随本次审计更新；未存储密码。",
+    "updatedAt": "2026-08-29"
+  },
+  "中国老龄化背景下农村学校改造养老设施的公平导向服务就绪框架": {
+    "statusDot": "⚪",
+    "status": "待投稿",
+    "journalTrack": "International Journal for Equity in Health (Rejected: 298e6402-a6ba-45f1-adeb-9ba17a6095b6; 2026-08-28 Asia/Shanghai)",
+    "submissionSystemInfo": "Springer Nature / International Journal for Equity in Health；Submission ID 298e6402-a6ba-45f1-adeb-9ba17a6095b6。2026-08-28 06:02:21 +08:00 的 Gmail Spam 决定信通知拒稿；邮件未提供审稿意见或具体理由。按该 ID 与完整英文题名检索 Gmail（含 Spam/Trash），未发现此后有效投稿或收稿确认；论文仓库状态记录随本次审计更新；未存储密码。",
+    "currentJournal": "",
+    "updatedAt": "2026-08-28"
   },
   "健康老龄化评估的元学习框架：具有人群泛化能力的注意力神经过程": {
     "statusDot": "🟢",
