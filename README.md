@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-09-04
+> **最后更新：** 2026-09-05
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -426,7 +426,7 @@
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">粮食储藏仓制冷系统真实世界能效评估：来自中国河南 65 个设施的证据</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Scientific Reports → Energy Reports (Submitted: EGYR-D-26-01996) → Scientific Reports (Revision submitted / Technical Check: 2026-08-01; 2a8d0dcd-74c6-4848-86ff-62ad8eb84d62)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / Scientific Reports；2026-08-01 门户显示 Submission received / Technical Check；论文仓库 commit dac9d61；未存储密码。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Scientific Reports → Energy Reports (Submitted: EGYR-D-26-01996) → Scientific Reports (Revision v.3.0 submitted; Peer review - in progress; 2026-09-05; 2a8d0dcd-74c6-4848-86ff-62ad8eb84d62)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / Scientific Reports；Submission ID：2a8d0dcd-74c6-4848-86ff-62ad8eb84d62；2026-09-05 完成修订版 v.3.0 最终提交，成功页显示 Submission received，详情页显示 We&#39;ve received your revised submission，当前阶段 Peer review - in progress。门户生成稿件 PDF 36 页；修订包 SHA256：35C70308515CCD0816DFBBE024A93F1B9EB2957B9C8226E1F8170173DBD0E1A9；门户 PDF SHA256：5A11F86A7E6970B8051DE497DAA338FB7C7D850F9844375AC3E04D01289CB8E3。论文仓库分支 srep-revision-20260717，commit 34a297e；账号显示名 QUAN WEN，注册邮箱 wenquan6328@gmail.com，Google 已关联，ORCID 未绑定（Linked accounts 显示 Link）；未存储密码、cookie、token 或会话文件。</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">2</td>
