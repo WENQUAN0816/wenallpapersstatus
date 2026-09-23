@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-09-05
+> **最后更新：** 2026-09-24
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -598,8 +598,8 @@
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">香港高层社区老年居民火灾韧性的循证评估框架</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Humanities and Social Sciences Communications (technical-check amendment v.4.1; Submission received 2026-08-09; Peer review - in progress; Submission ID: cfb4556c-32fb-44dc-bd9a-194025fff018)</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Springer Nature SNAPP；Submission ID：cfb4556c-32fb-44dc-bd9a-194025fff018；v.4.1 / technical-check draft 4f120caa-892f-4203-9f12-8ee24a70f6a4；2026-08-09 成功页 Submission received，详情页 We&#39;ve received your amended submission，当前 Peer review - in progress。投稿系统未显示独立用户名；账号显示名 QUAN WEN；投稿系统注册邮箱 wenquan6328@gmail.com；Google 已链接 wenquan6328@gmail.com；ORCID 未绑定（Linked accounts 显示 Link）。投稿系统作者（以 SNAPP Authors/Review 为准）：QUAN WEN（Primary corresponding author）；Dr. Mazran Ismail（Corresponding author）；Dr. Muhammad Hafeez Abdul Nasir（Corresponding author）。匿名 LaTeX reviewer 稿件使用 [Blinded] 占位，未记录实质作者身份不一致。技术检查修正了 Table 6/7 正文引用、匿名稿伦理与 Funding 文本，并在门户 Ethics Statement 中记录 Declaration of Helsinki、伦理委员会、批准号 HNGM-2024-EC-012 和 28 位专家知情同意。论文仓库 commit：ebe6460；数据仓库：https://github.com/WENQUAN0816/paper-15-Fire-Resilience-Assessment-Elderly-Hong-Kong-High-Rise-data；未存储密码、cookie、token 或浏览器会话。</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Humanities and Social Sciences Communications (v.5.0; Peer review - in progress; Submission ID: cfb4556c-32fb-44dc-bd9a-194025fff018)</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Springer Nature SNAPP；Submission ID：cfb4556c-32fb-44dc-bd9a-194025fff018；active draft e6188483-bb07-4c12-94a1-ee6287c04061；2026-09-24 用户确认已从 Review 页面完成最终提交，最后可见阶段为 Peer review - in progress。投稿系统未显示独立用户名；账号显示名 QUAN WEN；投稿系统注册邮箱 wenquan6328@gmail.com；Google 已链接 wenquan6328@gmail.com；ORCID 未绑定（Linked accounts 显示 Link）。投稿系统作者（以 SNAPP Authors/Review 为准）：QUAN WEN（Primary corresponding author）；Dr. Mazran Ismail（Corresponding author）；Dr. Muhammad Hafeez Abdul Nasir（Corresponding author）。reviewer LaTeX 使用 blinded 占位，未记录实质作者不一致。最新上传包、复现材料和门户生成 31 页 reviewer PDF 已归档；论文仓库 commit：d29daee；数据仓库：https://github.com/WENQUAN0816/paper-15-Fire-Resilience-Assessment-Elderly-Hong-Kong-High-Rise-data；未存储密码、cookie、token 或浏览器会话。</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">投稿系统账号：未显示独立用户名；显示名：QUAN WEN；注册邮箱：wenquan6328@gmail.com；ORCID：未绑定（Linked accounts 显示 Link）。门户作者邮箱：wenquan@student.usm.my；mazran@usm.my；hafeeznasir@usm.my。</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">0</td>
 </tr>
