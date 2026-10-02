@@ -1148,13 +1148,13 @@
     "status": "内审中",
     "statusOrder": 2,
     "title": "用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统",
-    "journalTrack": "Energy and Buildings (Rejected: ENB-D-26-01660) → Energy (Rejected: EGY-D-26-10505) → Journal of Building Engineering (Rejected: JBE-D-26-07821) → Solar Energy (R2 submitted / With Editor: SEJ-D-26-02432R2; 2026-08-08)",
-    "submissionSystemInfo": "Elsevier Editorial Manager / Solar Energy；当前稿号：SEJ-D-26-02432R2（原稿 SEJ-D-26-02432；上轮 SEJ-D-26-02432R1）；2026-08-08 02:23 +08:00 完成 Approve Revision；当前文件夹：Revisions Being Processed (1)；当前状态：With Editor；投稿系统用户名：QWen-485；显示名：Quan Wen；注册邮箱：wenquan@hngm.edu.cn；ORCID：字段为空，未绑定、未认证（orcidAuthenticated=False）；投稿系统作者（以 portal 为准）：Ruili Liu；Quan Wen（corresponding author）；Mazran Ismail；portal 与当前 LaTeX 作者及顺序一致，无作者不一致；论文仓库 commit：bed9257，已归档 R2 稿件、回复信、图件、投稿包和数据目录，数据未作为 Editorial Manager 单独补充材料上传；核对时间：2026-08-08；来源：Editorial Manager R2 完成页、Author Main Menu、投稿系统个人信息、论文仓库；未存储密码、cookie 或会话。",
+    "journalTrack": "Energy and Buildings (Rejected: ENB-D-26-01660) → Energy (Rejected: EGY-D-26-10505) → Journal of Building Engineering (Rejected: JBE-D-26-07821) → Solar Energy (R1 submitted: SEJ-D-26-02432R1; 2026-06-12; R2 approved: SEJ-D-26-02432R2; 2026-08-08; R3 submitted: SEJ-D-26-02432R3; 2026-10-01)",
+    "submissionSystemInfo": "Elsevier Editorial Manager / Solar Energy；当前稿号：SEJ-D-26-02432R3（原稿 SEJ-D-26-02432；R1：SEJ-D-26-02432R1；R2：SEJ-D-26-02432R2）；2026-10-01 00:11:35 +08:00 收到 Submission Confirmation，正文确认 revised manuscript received for reconsideration；当前阶段按收稿证据记为内审中；投稿系统用户名：QWen-485；显示名：Quan Wen；注册邮箱：wenquan@hngm.edu.cn；ORCID：上次账户核验字段为空、未绑定、未认证（orcidAuthenticated=False），本次未重新绑定；投稿系统作者（以 portal 为准）：Ruili Liu（第一作者）；Quan Wen（第二作者、sole corresponding author）；Dr. Mazran Ismail（第三作者）；与本轮提交的 LaTeX 作者顺序一致，无作者不一致；论文仓库 commit：f053e3b，已归档 R3 稿件、图件、源 ZIP、清洁/标记稿件和数据目录，数据未作为 Editorial Manager 单独补充材料上传；收稿证据：Gmail Spam message 1a0f31628a7fa6da；核对时间：2026-10-01；来源：Editorial Manager R3 Submission Confirmation、此前个人信息核验、论文仓库；未存储密码、cookie 或会话。",
     "loginInfo": "",
     "codexCode": "",
     "rejectionIndex": 3,
     "bg": "#fff8d9",
-    "updatedAt": "2026-08-08",
+    "updatedAt": "2026-10-01",
     "currentJournal": "Solar Energy",
     "similarity": "4.5%",
     "qualityRisk": "",
@@ -1165,11 +1165,11 @@
     "impactFactor": "",
     "indexType": "SCIE",
     "recommendedJournals": "Solar Energy；Journal of Building Engineering；Energy；Energy and Buildings",
-    "authors": "Ruili Liu；Quan Wen；Mazran Ismail",
+    "authors": "Ruili Liu；Quan Wen；Dr. Mazran Ismail",
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "situation": "内审中。Solar Energy / Elsevier Editorial Manager 修订稿 SEJ-D-26-02432R2 已于 2026-08-08 02:23 +08:00 完成 Approve Revision；Author Main Menu 显示 Revisions Being Processed (1)，当前状态 With Editor。投稿系统作者为 Ruili Liu；Quan Wen（corresponding author）；Mazran Ismail，与当前 LaTeX 作者及顺序一致。投稿系统账号为 QWen-485，注册邮箱 wenquan@hngm.edu.cn，ORCID 字段为空且未绑定/未认证。论文仓库 commit bed9257 已归档 R2 稿件、回复信、图件、投稿包和数据目录；数据未作为 Editorial Manager 的单独补充材料上传。当前等待 Solar Energy 后续编辑决定。",
+    "situation": "内审中。Solar Energy / Elsevier Editorial Manager 修订稿 SEJ-D-26-02432R3 已于 2026-10-01 00:11:35 +08:00 收到正式 Submission Confirmation；邮件正文为 `Your revised manuscript was received for reconsideration for publication in Solar Energy.`，Gmail Spam message 1a0f31628a7fa6da。此前 2026-09-27 的修订请求已由该后续收稿回执关闭。投稿系统用户名为 QWen-485，注册邮箱 wenquan@hngm.edu.cn；ORCID 上次账户核验为空、未绑定、未认证，本次未重新绑定。提交作者保持旧署名：Ruili Liu 第一作者；Quan Wen 第二作者、唯一通讯作者；Dr. Mazran Ismail 第三作者；无作者顺序或通讯作者变更。论文仓库 commit f053e3b 已归档 R3 稿件、图件、源 ZIP、清洁/标记稿件和数据目录，数据未作为 Editorial Manager 单独补充材料上传。9221 端口在 2026-10-01 记录更新时无监听；未存储密码、cookie、token 或会话。",
     "impactSort": -1
   },
   {
