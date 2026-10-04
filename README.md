@@ -34,10 +34,10 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>40</td></tr>
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>2</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>43</td></tr>
+<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>13</td></tr>
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>5</td></tr>
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>3</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>60</strong></td></tr>
 </table>
 </td>
@@ -433,19 +433,37 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">1</td>
 </tr>
 
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">智慧养老系统中智能情绪监测与干预的双通道注意力机制</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Biomedical Signal Processing and Control (Major revision requested: BSPC-D-26-02864; due 2026-11-02)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Elsevier Editorial Manager / Biomedical Signal Processing and Control；稿号 BSPC-D-26-02864；Submitted 2026-02-22。2026-08-29 22:52:32 +08:00 收到编辑决定邮件，要求 major revision，修回截止 2026-11-02；该邮件覆盖此前 2026-08-03 的 Decision in Process 门户快照。论文仓库状态记录随本次审计更新；未存储密码。</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">0</td>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Work-role participation and healthy-ageing transitions across harmonized ageing cohorts</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">BMC Medicine (Rejected: 34b8a99b-c845-4dd8-921f-0808d0a65882; user confirmation 2026-10-04)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">BMC Medicine；稿号/Submission ID：34b8a99b-c845-4dd8-921f-0808d0a65882；当前待投稿。2026-10-04（Asia/Shanghai）用户明确确认本稿已被 BMC Medicine 拒稿。该日期为用户确认日期，不是正式拒稿决定日期；正式决定日期/时间和拒稿原因未提供，本次未重新核验邮件或投稿门户。用户未报告拒稿后新投稿，现有状态库与论文仓库最新记录亦未见后续成功提交，当前按用户确认回到待投稿。 论文仓库：https://github.com/WENQUAN0816/NC04-Work-role-and-healthy-ageing-transitions；未存储密码、cookie、token 或会话。 历史系统信息（保留原核验时间）：BMC Medicine；稿号/Submission ID：34b8a99b-c845-4dd8-921f-0808d0a65882；2026-10-04 核对后状态：需修订。2026-08-12 19:25:17 Asia/Shanghai 收到 Re: BMC Medicine-Amendment required（Gmail messageId 19ff5b835714faed）。ED.1–ED.4 要求在正文明确引用并指示 Fig. 1、Fig. 2、Fig. 3、Fig. 4 的放置位置；稿件已退回作者菜单，邮件要求收到后两天内完成技术修订，并且不要修改其他内容。2026-08-10 收稿证据早于本次退回；2026-08-14 作者自述 undergoing technical checks 不构成后续最终重新提交确认。Gmail、状态仓库与论文仓库截至 2026-10-04 均未见晚于退回的 Submission received / amended submission received / 最终提交记录，因此按当前未完成作者操作标为需修订，不把过去期限改写为新期限。 历史门户与账户资料（保留原验证时间，不表示本次已重新核验门户）：Springer Nature SNAPP / BMC Medicine；Submission ID：34b8a99b-c845-4dd8-921f-0808d0a65882；2026-08-10 06:09 +08:00 成功页显示 Submission received，详情页显示 We&#39;ve received your submission and are now running technical checks，当前 Technical check - in progress。投稿系统用户名：未显示独立 username；账户显示名：QUAN WEN；注册邮箱：wenquan6328@gmail.com；Google：已绑定；ORCID：未绑定（Linked accounts 显示 Link）。投稿系统作者（以门户为准）：Quan Wen（primary corresponding，wenquan@hngm.edu.cn）；Mazran Ismail（corresponding，mazran@usm.my）；Muhammad Hafeez Abdul Nasir（非通讯，hafeeznasir@usm.my）；Nurdiana Zainol Abidin（corresponding，nurdianaabidin@usm.my）；与 LaTeX 作者顺序一致，无实质性作者不一致。论文仓库：https://github.com/WENQUAN0816/NC04-Work-role-and-healthy-ageing-transitions；最终归档 commit：bcd66d42a17efc498dc401baa30c56433cdd3292；未存储密码、cookie、token 或会话文件。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">1</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">面向文化主题公共建筑老年用户的空间意义感知量表开发：因子分析研究设计</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Frontiers in Psychology (Rejected: 1871578; user confirmation 2026-10-04)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Frontiers in Psychology；稿号/Submission ID：1871578；当前待投稿。2026-10-04（Asia/Shanghai）用户明确确认本稿已被 Frontiers in Psychology 拒稿。该日期为用户确认日期，不是正式拒稿决定日期；正式决定日期/时间和拒稿原因未提供，本次未重新核验邮件或投稿门户。用户未报告拒稿后新投稿，现有状态库与论文仓库最新记录亦未见后续成功提交，当前按用户确认回到待投稿。 论文仓库：https://github.com/WENQUAN0816/zhuxuejia-paper-3-spatial-meaning-perception-scale-older-users-cultural-public-buildings；未存储密码、cookie、token 或会话。 历史系统信息（保留原核验时间）：Frontiers submission portal / My Frontiers / Frontiers in Psychology - Quantitative Psychology and Measurement；Frontiers 稿件号：1871578；本轮修订提交号：10537431；2026-08-08 02:09 Asia/Shanghai 成功页显示 ‘Completed! Thank you for submitting your revised manuscript.’，修订稿已重新提交并进入外审；投稿系统未显示独立用户名，显示名：Quan Wen，注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104（依据同一 Frontiers 账户既有核验记录，本次会话未重新打开个人资料页复核）；投稿系统作者以门户为准：Xuejia Zhu（zhuxuejia652@gmail.com）、Suebsiri Salelee（s0648792945@gmail.com，通讯作者）、Quan Wen（wenquan@student.usm.my，通讯作者）；门户作者顺序和拼写与最终 LaTeX 完全一致，无作者不一致；最终稿、回复文件和作者指定的 ORdata 分析/复现记录已推送至论文仓库 commit 4c0bd60b7a427ac8259c35330ece1e2412233cd0；未存储密码、Cookie 或浏览器会话。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">1</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">被遗忘之外：中国农村独居老人的低成本智能安全韧性框架</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">BMC Geriatrics (Rejected: manuscript ID not confirmed; user confirmation 2026-10-04)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">BMC Geriatrics；正式稿号未确认；当前待投稿。2026-10-04（Asia/Shanghai）用户明确确认本稿已被 BMC Geriatrics 拒稿。该日期为用户确认日期，不是正式拒稿决定日期；正式决定日期/时间和拒稿原因未提供，本次未重新核验邮件或投稿门户。用户未报告拒稿后新投稿，现有状态库与论文仓库最新记录亦未见后续成功提交，当前按用户确认回到待投稿。 论文仓库：https://github.com/WENQUAN0816/paper-29-Left-Behind-Not-Forgotten-Low-Cost-Safety-Resilience-Framework-Rural-Elderly-China；未存储密码、cookie、token 或会话。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">1</td>
 </tr>
 
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Work-role participation and healthy-ageing transitions across harmonized ageing cohorts</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">BMC Medicine (Amendment required: 34b8a99b-c845-4dd8-921f-0808d0a65882; 2026-08-12)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">BMC Medicine；稿号/Submission ID：34b8a99b-c845-4dd8-921f-0808d0a65882；2026-10-04 核对后状态：需修订。2026-08-12 19:25:17 Asia/Shanghai 收到 Re: BMC Medicine-Amendment required（Gmail messageId 19ff5b835714faed）。ED.1–ED.4 要求在正文明确引用并指示 Fig. 1、Fig. 2、Fig. 3、Fig. 4 的放置位置；稿件已退回作者菜单，邮件要求收到后两天内完成技术修订，并且不要修改其他内容。2026-08-10 收稿证据早于本次退回；2026-08-14 作者自述 undergoing technical checks 不构成后续最终重新提交确认。Gmail、状态仓库与论文仓库截至 2026-10-04 均未见晚于退回的 Submission received / amended submission received / 最终提交记录，因此按当前未完成作者操作标为需修订，不把过去期限改写为新期限。 历史门户与账户资料（保留原验证时间，不表示本次已重新核验门户）：Springer Nature SNAPP / BMC Medicine；Submission ID：34b8a99b-c845-4dd8-921f-0808d0a65882；2026-08-10 06:09 +08:00 成功页显示 Submission received，详情页显示 We&#39;ve received your submission and are now running technical checks，当前 Technical check - in progress。投稿系统用户名：未显示独立 username；账户显示名：QUAN WEN；注册邮箱：wenquan6328@gmail.com；Google：已绑定；ORCID：未绑定（Linked accounts 显示 Link）。投稿系统作者（以门户为准）：Quan Wen（primary corresponding，wenquan@hngm.edu.cn）；Mazran Ismail（corresponding，mazran@usm.my）；Muhammad Hafeez Abdul Nasir（非通讯，hafeeznasir@usm.my）；Nurdiana Zainol Abidin（corresponding，nurdianaabidin@usm.my）；与 LaTeX 作者顺序一致，无实质性作者不一致。论文仓库：https://github.com/WENQUAN0816/NC04-Work-role-and-healthy-ageing-transitions；最终归档 commit：bcd66d42a17efc498dc401baa30c56433cdd3292；未存储密码、cookie、token 或会话文件。</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">智慧养老系统中智能情绪监测与干预的双通道注意力机制</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Biomedical Signal Processing and Control (Major revision requested: BSPC-D-26-02864; due 2026-11-02)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Elsevier Editorial Manager / Biomedical Signal Processing and Control；稿号 BSPC-D-26-02864；Submitted 2026-02-22。2026-08-29 22:52:32 +08:00 收到编辑决定邮件，要求 major revision，修回截止 2026-11-02；该邮件覆盖此前 2026-08-03 的 Decision in Process 门户快照。论文仓库状态记录随本次审计更新；未存储密码。</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">0</td>
@@ -588,26 +606,8 @@
 
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">面向文化主题公共建筑老年用户的空间意义感知量表开发：因子分析研究设计</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Frontiers in Psychology (Interactive Review; revised manuscript resubmitted: 10537431; 2026-08-08)</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Frontiers submission portal / My Frontiers / Frontiers in Psychology - Quantitative Psychology and Measurement；Frontiers 稿件号：1871578；本轮修订提交号：10537431；2026-08-08 02:09 Asia/Shanghai 成功页显示 ‘Completed! Thank you for submitting your revised manuscript.’，修订稿已重新提交并进入外审；投稿系统未显示独立用户名，显示名：Quan Wen，注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104（依据同一 Frontiers 账户既有核验记录，本次会话未重新打开个人资料页复核）；投稿系统作者以门户为准：Xuejia Zhu（zhuxuejia652@gmail.com）、Suebsiri Salelee（s0648792945@gmail.com，通讯作者）、Quan Wen（wenquan@student.usm.my，通讯作者）；门户作者顺序和拼写与最终 LaTeX 完全一致，无作者不一致；最终稿、回复文件和作者指定的 ORdata 分析/复现记录已推送至论文仓库 commit 4c0bd60b7a427ac8259c35330ece1e2412233cd0；未存储密码、Cookie 或浏览器会话。</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">0</td>
-</tr>
-
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">后疫情时代中国适老社区韧性建设：循证多准则评估框架</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Journal of Health, Population and Nutrition</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">0</td>
-</tr>
-
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">被遗忘之外：中国农村独居老人的低成本智能安全韧性框架</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">BMC Geriatrics</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">0</td>
