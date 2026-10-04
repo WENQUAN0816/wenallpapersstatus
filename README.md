@@ -34,9 +34,9 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>35</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>40</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>2</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>18</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>13</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>5</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>60</strong></td></tr>
 </table>
@@ -388,6 +388,51 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">1</td>
 </tr>
 
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">轻量级 Transformer：面向资源受限老年智能家居边缘 IoT 入侵检测的知识蒸馏与区块链协同</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Cluster Computing (Rejected: eec18a2a-115f-4885-b114-202a0368f2ed) → IEEE Access (Rejected: Access-2026-26726) → Telecommunication Systems (Rejected: 1336ddcb-2f5c-4ccd-b36b-97a1156489f7; 2026-09-12)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Telecommunication Systems；稿号/Submission ID：1336ddcb-2f5c-4ccd-b36b-97a1156489f7；2026-10-04 Gmail 网页核对后状态：待投稿；2026-09-12 23:46 Asia/Shanghai（显示到分钟）正式拒稿。编辑指出方法主要组合既有模型压缩与分布式安全技术，算法创新不足；真实场景验证有限，区块链集成的必要性论证薄弱，安全性与可扩展性分析不足。 决定邮件收件邮箱为 xuepinghan118@gmail.com；收件邮箱不代表投稿系统注册邮箱，本次未访问投稿门户或重新核验账号/ORCID。论文仓库：https://github.com/WENQUAN0816/han-Lightweight-Edge-IoT；未存储密码、cookie、token 或会话。 历史账户和投稿资料（保留原核验时间）：Springer Nature SNAPP / Telecommunication Systems；Submission ID：1336ddcb-2f5c-4ccd-b36b-97a1156489f7；2026-06-17 23:59 Asia/Shanghai 收到 “You started a submission” 邮件，2026-06-18 00:07/01:04 Asia/Shanghai 收到 Springer Nature “checks completed and manuscript submitted” 通知；用户随后在门户确认成功页 “Submission received / Thank you for submitting to Telecommunication Systems / Technical Check”。投稿系统账号/Google 个人信息：chao Peng / hngmpengchao@gmail.com；ORCID：提交后 SNAPP/Google 页面未显示绑定状态，未确认绑定；投稿系统作者（以本次 Telecommunication Systems 提交包/门户填写为准）：Xueping Han（corresponding，xuepinghan118@gmail.com）；注意：投稿账号 Peng Chao 与稿件/LaTeX 作者 Xueping Han 不一致，状态页作者栏已标注。上传包：iot_telecommunication_systems_source_20260617.zip；SHA256：72D8874951A92CB9970ED9350C3864E8521EB15757D61A77C5BDC5F5327B39C1；论文仓库提交：43e404ba2760e1085a2535f1163366dc1a9d3986；未存储密码。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">投稿系统：Springer Nature SNAPP / Telecommunication Systems；投稿系统账号：chao Peng（Google 个人信息，独立用户名未显示）；投稿邮箱：hngmpengchao@gmail.com；投稿系统网址：https://submission.springernature.com/；稿件作者邮箱：xuepinghan118@gmail.com。未存储密码。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">01a01717-398a-70c3-b411-f1736601a234</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">3</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">DHA-BiGRU：用于自动代码审查评论分类的双注意力层次门控 BiGRU</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Software Testing, Verification and Reliability (Rejected: 2654260; 2026-06-22)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Software Testing, Verification and Reliability；稿号/Submission ID：2654260；2026-10-04 Gmail 网页核对后状态：待投稿；2026-06-22 22:49 Asia/Shanghai（显示到分钟）正式拒稿。编辑认为架构主要沿用现有注意力与门控融合框架，方法创新性不足；需要补充分类数据集、标注流程和标签可靠性验证，检验跨设置泛化，并提升实验可复现性。 决定邮件收件邮箱为 xuepinghan118@gmail.com；收件邮箱不代表投稿系统注册邮箱，本次未访问投稿门户或重新核验账号/ORCID。论文仓库：https://github.com/WENQUAN0816/han-DHA-BiGRU；未存储密码、cookie、token 或会话。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">投稿系统：Wiley Atypon ReX / ScholarOne Manuscripts / Software Testing, Verification and Reliability；投稿系统账号：QUAN WEN（邮件显示名，独立用户名未显示）；投稿邮箱：wenquan6328@gmail.com；投稿系统网址：https://mc.manuscriptcentral.com/stvr。未存储密码。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">01a01717-398a-70c3-b411-f1736601a234</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">1</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">LLM 生成测试用例优化：AI 辅助软件测试中的质量缺陷表征与缓解</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Software Testing, Verification and Reliability (Rejected: 3670125; 2026-06-22)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Software Testing, Verification and Reliability；稿号/Submission ID：3670125；2026-10-04 Gmail 网页核对后状态：待投稿；2026-06-22 20:43 Asia/Shanghai（显示到分钟）正式拒稿。编辑认为 TestRefiner 的创新性、方法进展、实证验证强度及泛化能力不足；迭代将编译、覆盖率与变异测试反馈给 LLM 的机制需要证明超越已有反馈驱动改进技术的整合，并补充更深入的验证与可复现证据。 决定邮件收件邮箱为 xuepinghan118@gmail.com；收件邮箱不代表投稿系统注册邮箱，本次未访问投稿门户或重新核验账号/ORCID。论文仓库：https://github.com/WENQUAN0816/han-LLM-Test-Refinement；未存储密码、cookie、token 或会话。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">投稿系统：Wiley Atypon ReX / ScholarOne Manuscripts / Software Testing, Verification and Reliability；投稿系统账号：QUAN WEN（邮件显示名，独立用户名未显示）；投稿邮箱：wenquan6328@gmail.com；投稿系统网址：https://mc.manuscriptcentral.com/stvr。未存储密码。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">01a01717-398a-70c3-b411-f1736601a234</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">1</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">基于大语言模型苏格拉底式推理的可解释自动代码审查</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Software: Practice and Experience (Rejected: 1936445; 2026-09-15)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Software: Practice and Experience；稿号/Submission ID：1936445；2026-10-04 Gmail 网页核对后状态：待投稿；2026-09-15 16:10 Asia/Shanghai（显示到分钟）正式拒稿。邮件明确决定不考虑发表，未给具体技术拒稿理由；后续 Wiley Transfer Desk 推荐仅为转投邀请，不构成正式新投稿。 决定邮件收件邮箱为 xuepinghan118@gmail.com；收件邮箱不代表投稿系统注册邮箱，本次未访问投稿门户或重新核验账号/ORCID。论文仓库：https://github.com/WENQUAN0816/han-Explainable-Debugging；未存储密码、cookie、token 或会话。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">投稿系统：Wiley Atypon ReX / ScholarOne Manuscripts / Software: Practice and Experience；投稿系统账号：QUAN WEN（邮件显示名，独立用户名未显示）；投稿邮箱：wenquan6328@gmail.com；投稿系统网址：https://mc.manuscriptcentral.com/spe。未存储密码。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">01a01717-398a-70c3-b411-f1736601a234</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">1</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">用于自动代码审查评论生成的上下文与结构特征融合混合 Transformer-MLP 模型</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Software: Practice and Experience (Rejected: 3978540; 2026-09-15)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Software: Practice and Experience；稿号/Submission ID：3978540；2026-10-04 Gmail 网页核对后状态：待投稿；2026-09-15 16:12 Asia/Shanghai（显示到分钟）正式拒稿。邮件明确决定不考虑发表，未给具体技术拒稿理由；后续 Wiley Transfer Desk 推荐仅为转投邀请，不构成正式新投稿。 决定邮件收件邮箱为 xuepinghan118@gmail.com；收件邮箱不代表投稿系统注册邮箱，本次未访问投稿门户或重新核验账号/ORCID。论文仓库：https://github.com/WENQUAN0816/han-Semantic-Feature-Fusion；未存储密码、cookie、token 或会话。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">投稿系统：Wiley Atypon ReX / ScholarOne Manuscripts / Software: Practice and Experience；投稿系统账号：QUAN WEN（邮件显示名，独立用户名未显示）；投稿邮箱：wenquan6328@gmail.com；投稿系统网址：https://mc.manuscriptcentral.com/spe。未存储密码。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">01a01717-398a-70c3-b411-f1736601a234</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">1</td>
+</tr>
+
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">智慧养老系统中智能情绪监测与干预的双通道注意力机制</td>
@@ -422,15 +467,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">1</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">轻量级 Transformer：面向资源受限老年智能家居边缘 IoT 入侵检测的知识蒸馏与区块链协同</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Cluster Computing (Rejected: eec18a2a-115f-4885-b114-202a0368f2ed) → IEEE Access (Rejected: Access-2026-26726) → Telecommunication Systems (Submitted / Technical Check: 2026-06-17)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Springer Nature SNAPP / Telecommunication Systems；Submission ID：1336ddcb-2f5c-4ccd-b36b-97a1156489f7；2026-06-17 23:59 Asia/Shanghai 收到 “You started a submission” 邮件，2026-06-18 00:07/01:04 Asia/Shanghai 收到 Springer Nature “checks completed and manuscript submitted” 通知；用户随后在门户确认成功页 “Submission received / Thank you for submitting to Telecommunication Systems / Technical Check”。投稿系统账号/Google 个人信息：chao Peng / hngmpengchao@gmail.com；ORCID：提交后 SNAPP/Google 页面未显示绑定状态，未确认绑定；投稿系统作者（以本次 Telecommunication Systems 提交包/门户填写为准）：Xueping Han（corresponding，xuepinghan118@gmail.com）；注意：投稿账号 Peng Chao 与稿件/LaTeX 作者 Xueping Han 不一致，状态页作者栏已标注。上传包：iot_telecommunication_systems_source_20260617.zip；SHA256：72D8874951A92CB9970ED9350C3864E8521EB15757D61A77C5BDC5F5327B39C1；论文仓库提交：43e404ba2760e1085a2535f1163366dc1a9d3986；未存储密码。</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">投稿系统：Springer Nature SNAPP / Telecommunication Systems；投稿系统账号：chao Peng（Google 个人信息，独立用户名未显示）；投稿邮箱：hngmpengchao@gmail.com；投稿系统网址：https://submission.springernature.com/；稿件作者邮箱：xuepinghan118@gmail.com。未存储密码。</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">01a01717-398a-70c3-b411-f1736601a234</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">2</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -489,24 +525,6 @@
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">DHA-BiGRU：用于自动代码审查评论分类的双注意力层次门控 BiGRU</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Software Testing, Verification and Reliability</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">投稿系统：Wiley Atypon ReX / ScholarOne Manuscripts / Software Testing, Verification and Reliability；投稿系统账号：QUAN WEN（邮件显示名，独立用户名未显示）；投稿邮箱：wenquan6328@gmail.com；投稿系统网址：https://mc.manuscriptcentral.com/stvr。未存储密码。</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">01a01717-398a-70c3-b411-f1736601a234</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">0</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">LLM 生成测试用例优化：AI 辅助软件测试中的质量缺陷表征与缓解</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Software Testing, Verification and Reliability</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">投稿系统：Wiley Atypon ReX / ScholarOne Manuscripts / Software Testing, Verification and Reliability；投稿系统账号：QUAN WEN（邮件显示名，独立用户名未显示）；投稿邮箱：wenquan6328@gmail.com；投稿系统网址：https://mc.manuscriptcentral.com/stvr。未存储密码。</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">01a01717-398a-70c3-b411-f1736601a234</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">0</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">元学习增强的少样本居家安全等级分类框架</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Transactions on Instrumentation and Measurement</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
@@ -538,24 +556,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Egyptian Informatics Journal (Revised submission received: EGIJ-D-26-00407R1)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Editorial Manager / Egyptian Informatics Journal；稿号：EGIJ-D-26-00407R1（原稿 EGIJ-D-26-00407）；R1 修订稿确认时间：2026-05-20 14:27 Asia/Shanghai；当前文件夹：Revisions Being Processed；用户名：QUAN WEN；右上角显示名：WEN QUAN；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-06-01；未存储密码。</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">0</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">基于大语言模型苏格拉底式推理的可解释自动代码审查</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Software: Practice and Experience</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">投稿系统：Wiley Atypon ReX / ScholarOne Manuscripts / Software: Practice and Experience；投稿系统账号：QUAN WEN（邮件显示名，独立用户名未显示）；投稿邮箱：wenquan6328@gmail.com；投稿系统网址：https://mc.manuscriptcentral.com/spe。未存储密码。</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">01a01717-398a-70c3-b411-f1736601a234</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">0</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">用于自动代码审查评论生成的上下文与结构特征融合混合 Transformer-MLP 模型</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Software: Practice and Experience</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">投稿系统：Wiley Atypon ReX / ScholarOne Manuscripts / Software: Practice and Experience；投稿系统账号：QUAN WEN（邮件显示名，独立用户名未显示）；投稿邮箱：wenquan6328@gmail.com；投稿系统网址：https://mc.manuscriptcentral.com/spe。未存储密码。</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">01a01717-398a-70c3-b411-f1736601a234</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">0</td>
 </tr>
 
