@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-10-04
+> **最后更新：** 2026-10-11
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -36,8 +36,8 @@
 <tr><th>状态</th><th>数量</th></tr>
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>43</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>2</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>13</td></tr>
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>2</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>12</td></tr>
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>3</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>60</strong></td></tr>
 </table>
 </td>
@@ -570,15 +570,6 @@
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">双层级注意力增强迁移学习用于居家适老环境评估中的点云语义分割</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Big Data (Second-round revision submitted: f71f3b8a-a098-4596-ba7f-a02dcf6cf86e; 2026-09-27)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Big Data；稿号/Submission ID：f71f3b8a-a098-4596-ba7f-a02dcf6cf86e；2026-10-04 核对后状态：内审中。2026-09-25 04:11:53 Asia/Shanghai 收到 minor revision 决定（Gmail Spam，messageId 1a0d50c005222070；原始 UTC 日期 2026-09-24），截止日 2026-10-08，要求修订稿及逐点回复。2026-09-27 14:58:17 Asia/Shanghai 收到 Springer Nature 邮件，正文明确 has been submitted（Gmail Spam，messageId 1a0e1a88f2a0c74a）；论文仓库 commit b2aba7c 同日记录第二轮小修正式提交、相同 Submission ID 和更新后的英文题名。此次收稿晚于小修通知，作者操作已完成，当前按内审中等待期刊处理；邮件并未证明当前正在外审。第二轮修改补充空间区域划分、重叠阈值选择及 R1.1–R1.3 回复。 本次仅核对 Gmail 和论文仓库，未重新访问投稿门户，账户/ORCID 未独立核验；未存储密码。</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">0</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">基于三维点云特征与 SHAP 可解释集成学习的老年住宅环境跌倒风险空间预测</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Egyptian Informatics Journal (Revised submission received: EGIJ-D-26-00407R1)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Editorial Manager / Egyptian Informatics Journal；稿号：EGIJ-D-26-00407R1（原稿 EGIJ-D-26-00407）；R1 修订稿确认时间：2026-05-20 14:27 Asia/Shanghai；当前文件夹：Revisions Being Processed；用户名：QUAN WEN；右上角显示名：WEN QUAN；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；核对时间：2026-06-01；未存储密码。</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
@@ -593,6 +584,15 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">2</td>
+</tr>
+
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">双层级注意力增强迁移学习用于居家适老环境评估中的点云语义分割</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Journal of Big Data (Administrative resubmission received: f71f3b8a-a098-4596-ba7f-a02dcf6cf86e; v.4.0; 2026-10-11; Peer review - in progress)</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Springer Nature SNAPP / Journal of Big Data；Submission ID f71f3b8a-a098-4596-ba7f-a02dcf6cf86e；v.4.0；2026-10-11 已提交，Peer review - in progress。账号显示名 QUAN WEN；未显示独立用户名；注册邮箱 wenquan6328@gmail.com；Google 绑定同一邮箱；ORCID 未绑定（显示 Link）。门户作者：Quan Wen（主要通讯，wenquan@hngm.edu.cn）、Dr. Mazran Ismail（通讯，mazran@usm.my）、Dr. Muhammad Hafeez Abdul Nasir（hafeeznasir@usm.my）、Yanting Wu（15093362768@163.com）；作者身份、顺序和通讯角色与稿件一致。未存储密码。</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">0</td>
 </tr>
 
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
