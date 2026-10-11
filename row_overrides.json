@@ -316,10 +316,10 @@
   "香港高层社区老年居民火灾韧性的循证评估框架": {
     "statusDot": "🟢",
     "status": "外审中",
-      "journalTrack": "Humanities and Social Sciences Communications (v.5.0; Peer review - in progress; Submission ID: cfb4556c-32fb-44dc-bd9a-194025fff018)",
+    "journalTrack": "Humanities and Social Sciences Communications (v.5.0; Peer review - in progress; Submission ID: cfb4556c-32fb-44dc-bd9a-194025fff018)",
     "submissionSystemInfo": "Springer Nature SNAPP；Submission ID：cfb4556c-32fb-44dc-bd9a-194025fff018；active draft e6188483-bb07-4c12-94a1-ee6287c04061；2026-09-24 用户确认已从 Review 页面完成最终提交，最后可见阶段为 Peer review - in progress。投稿系统未显示独立用户名；账号显示名 QUAN WEN；投稿系统注册邮箱 wenquan6328@gmail.com；Google 已链接 wenquan6328@gmail.com；ORCID 未绑定（Linked accounts 显示 Link）。投稿系统作者（以 SNAPP Authors/Review 为准）：QUAN WEN（Primary corresponding author）；Dr. Mazran Ismail（Corresponding author）；Dr. Muhammad Hafeez Abdul Nasir（Corresponding author）。reviewer LaTeX 使用 blinded 占位，未记录实质作者不一致。最新上传包、复现材料和门户生成 31 页 reviewer PDF 已归档；论文仓库 commit：d29daee；数据仓库：https://github.com/WENQUAN0816/paper-15-Fire-Resilience-Assessment-Elderly-Hong-Kong-High-Rise-data；未存储密码、cookie、token 或浏览器会话。",
-      "loginInfo": "投稿系统账号：未显示独立用户名；显示名：QUAN WEN；注册邮箱：wenquan6328@gmail.com；ORCID：未绑定（Linked accounts 显示 Link）。门户作者邮箱：wenquan@student.usm.my；mazran@usm.my；hafeeznasir@usm.my。",
-      "authors": "QUAN WEN（Primary corresponding author）；Dr. Mazran Ismail（Corresponding author）；Dr. Muhammad Hafeez Abdul Nasir（Corresponding author）（以投稿系统 Authors/Review 记录为准；匿名 LaTeX reviewer 稿件使用 [Blinded] 占位，未记录实质作者身份不一致）",
+    "loginInfo": "投稿系统账号：未显示独立用户名；显示名：QUAN WEN；注册邮箱：wenquan6328@gmail.com；ORCID：未绑定（Linked accounts 显示 Link）。门户作者邮箱：wenquan@student.usm.my；mazran@usm.my；hafeeznasir@usm.my。",
+    "authors": "QUAN WEN（Primary corresponding author）；Dr. Mazran Ismail（Corresponding author）；Dr. Muhammad Hafeez Abdul Nasir（Corresponding author）（以投稿系统 Authors/Review 记录为准；匿名 LaTeX reviewer 稿件使用 [Blinded] 占位，未记录实质作者身份不一致）",
     "correspondingAuthors": [
       "QUAN WEN",
       "Dr. Mazran Ismail",
@@ -495,10 +495,10 @@
     "updatedAt": "2026-10-04"
   },
   "双层级注意力增强迁移学习用于居家适老环境评估中的点云语义分割": {
-    "statusDot": "🟡",
-    "status": "内审中",
-    "journalTrack": "Journal of Big Data (Second-round revision submitted: f71f3b8a-a098-4596-ba7f-a02dcf6cf86e; 2026-09-27)",
-    "submissionSystemInfo": "Journal of Big Data；稿号/Submission ID：f71f3b8a-a098-4596-ba7f-a02dcf6cf86e；2026-10-04 核对后状态：内审中。2026-09-25 04:11:53 Asia/Shanghai 收到 minor revision 决定（Gmail Spam，messageId 1a0d50c005222070；原始 UTC 日期 2026-09-24），截止日 2026-10-08，要求修订稿及逐点回复。2026-09-27 14:58:17 Asia/Shanghai 收到 Springer Nature 邮件，正文明确 has been submitted（Gmail Spam，messageId 1a0e1a88f2a0c74a）；论文仓库 commit b2aba7c 同日记录第二轮小修正式提交、相同 Submission ID 和更新后的英文题名。此次收稿晚于小修通知，作者操作已完成，当前按内审中等待期刊处理；邮件并未证明当前正在外审。第二轮修改补充空间区域划分、重叠阈值选择及 R1.1–R1.3 回复。 本次仅核对 Gmail 和论文仓库，未重新访问投稿门户，账户/ORCID 未独立核验；未存储密码。",
-    "updatedAt": "2026-10-04"
+    "statusDot": "🟢",
+    "status": "外审中",
+    "journalTrack": "Journal of Big Data (Administrative resubmission received: f71f3b8a-a098-4596-ba7f-a02dcf6cf86e; v.4.0; 2026-10-11; Peer review - in progress)",
+    "submissionSystemInfo": "Springer Nature SNAPP / Journal of Big Data；Submission ID f71f3b8a-a098-4596-ba7f-a02dcf6cf86e；v.4.0；2026-10-11 已提交，Peer review - in progress。账号显示名 QUAN WEN；未显示独立用户名；注册邮箱 wenquan6328@gmail.com；Google 绑定同一邮箱；ORCID 未绑定（显示 Link）。门户作者：Quan Wen（主要通讯，wenquan@hngm.edu.cn）、Dr. Mazran Ismail（通讯，mazran@usm.my）、Dr. Muhammad Hafeez Abdul Nasir（hafeeznasir@usm.my）、Yanting Wu（15093362768@163.com）；作者身份、顺序和通讯角色与稿件一致。未存储密码。",
+    "updatedAt": "2026-10-11"
   }
 }
