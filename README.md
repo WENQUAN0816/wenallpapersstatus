@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-10-25
+> **最后更新：** 2026-10-31
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -19,6 +19,7 @@
 <tr><td>&#128150;</td><td>需修订</td></tr>
 <tr><td>&#128993;</td><td>内审中</td></tr>
 <tr><td>&#128994;</td><td>外审中</td></tr>
+<tr><td>&#9989;</td><td>已接受</td></tr>
 </table>
 
 > **质量风险标识：** `⚠ 低质量高风险` 使用独立红色标识，表示编辑决定或版本审计显示存在严重原创性或文本重叠风险；该标识不计入投稿状态统计。
@@ -34,10 +35,11 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>43</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>42</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>2</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>12</td></tr>
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>3</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>11</td></tr>
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>4</td></tr>
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;"><td>&#9989; 已接受</td><td>1</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>60</strong></td></tr>
 </table>
 </td>
@@ -444,15 +446,6 @@
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">面向文化主题公共建筑老年用户的空间意义感知量表开发：因子分析研究设计</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Frontiers in Psychology (Rejected: 1871578; user confirmation 2026-10-04)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Frontiers in Psychology；稿号/Submission ID：1871578；当前待投稿。2026-10-04（Asia/Shanghai）用户明确确认本稿已被 Frontiers in Psychology 拒稿。该日期为用户确认日期，不是正式拒稿决定日期；正式决定日期/时间和拒稿原因未提供，本次未重新核验邮件或投稿门户。用户未报告拒稿后新投稿，现有状态库与论文仓库最新记录亦未见后续成功提交，当前按用户确认回到待投稿。 论文仓库：https://github.com/WENQUAN0816/zhuxuejia-paper-3-spatial-meaning-perception-scale-older-users-cultural-public-buildings；未存储密码、cookie、token 或会话。 历史系统信息（保留原核验时间）：Frontiers submission portal / My Frontiers / Frontiers in Psychology - Quantitative Psychology and Measurement；Frontiers 稿件号：1871578；本轮修订提交号：10537431；2026-08-08 02:09 Asia/Shanghai 成功页显示 ‘Completed! Thank you for submitting your revised manuscript.’，修订稿已重新提交并进入外审；投稿系统未显示独立用户名，显示名：Quan Wen，注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104（依据同一 Frontiers 账户既有核验记录，本次会话未重新打开个人资料页复核）；投稿系统作者以门户为准：Xuejia Zhu（zhuxuejia652@gmail.com）、Suebsiri Salelee（s0648792945@gmail.com，通讯作者）、Quan Wen（wenquan@student.usm.my，通讯作者）；门户作者顺序和拼写与最终 LaTeX 完全一致，无作者不一致；最终稿、回复文件和作者指定的 ORdata 分析/复现记录已推送至论文仓库 commit 4c0bd60b7a427ac8259c35330ece1e2412233cd0；未存储密码、Cookie 或浏览器会话。</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">1</td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">被遗忘之外：中国农村独居老人的低成本智能安全韧性框架</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">BMC Geriatrics (Rejected: manuscript ID not confirmed; user confirmation 2026-10-04)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">BMC Geriatrics；正式稿号未确认；当前待投稿。2026-10-04（Asia/Shanghai）用户明确确认本稿已被 BMC Geriatrics 拒稿。该日期为用户确认日期，不是正式拒稿决定日期；正式决定日期/时间和拒稿原因未提供，本次未重新核验邮件或投稿门户。用户未报告拒稿后新投稿，现有状态库与论文仓库最新记录亦未见后续成功提交，当前按用户确认回到待投稿。 论文仓库：https://github.com/WENQUAN0816/paper-29-Left-Behind-Not-Forgotten-Low-Cost-Safety-Resilience-Framework-Rural-Elderly-China；未存储密码、cookie、token 或会话。</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
@@ -472,7 +465,7 @@
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">健康老龄化评估的元学习框架：具有人群泛化能力的注意力神经过程</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Neural Networks (Further revision required: NEUNET-D-26-01296R1; decision 2026-09-16; deadline 2026-10-28)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Editorial Manager / Neural Networks；原稿号 NEUNET-D-26-01296；修回稿号 NEUNET-D-26-01296R1；当前需修订。2026-09-16 12:19:47 Asia/Shanghai 收到 Your Submission: NEUNET-D-26-01296R1（Gmail messageId 1a0a87155e00a1c6；原始日期 Wed, 16 Sep 2026 04:19:47 +0000），正文明确 needs to be revised and reconsidered，并要求通过 Submissions Needing Revision 提交逐点修改/反驳，截止 2026-10-28。本轮英文题名为 Meta-Learning Framework for Healthy Aging Assessment: Attentive Neural Processes with Cross-Region Generalization within CHARLS。编辑认为先前修订未回应全部意见；Reviewer 3 六项主要涉及 CHARLS/HRS 跨人群验证和选择偏倚、现代及公平基线/计算预算/SOTA 对比、ECE 与 Coverage 分箱敏感性、R3.6 未充分回应，以及概念/算法创新不足。2026-05-23 00:22:39 Asia/Shanghai 的 R1 收稿确认（messageId 19e507f0f7a3f4cb）早于本轮返修，不能视作本轮完成。2026-10-04 经 wenquan6328@gmail.com 的本机 gmailDirect MCP 按 NEUNET-D-26-01296R1、稳定英文题名片段及期刊搜索 in:anywhere（含 Spam/Trash），并核对 focused in:spam，未发现本轮决定之后的有效提交确认；最新远端论文仓库仍仅记录先前 R1/Under Review，故当前需修订。 历史账号信息（本次未重新访问门户）：用户名 QuanWen_USM；显示名 Quan Wen；注册邮箱 wenquan@student.usm.my；ORCID 0009-0005-3975-8104；未存储密码、cookie、token 或会话。</td>
+<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Neural Networks (Further revision required: NEUNET-D-26-01296R1; decision 2026-09-16; deadline 2026-10-28; extended to 2026-11-11)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">2026-10-28 编辑 Tongliang Liu 回信 Extended and cheers.，批准延期两周，修回截止日约为 2026-11-11。 Editorial Manager / Neural Networks；原稿号 NEUNET-D-26-01296；修回稿号 NEUNET-D-26-01296R1；当前需修订。2026-09-16 12:19:47 Asia/Shanghai 收到 Your Submission: NEUNET-D-26-01296R1（Gmail messageId 1a0a87155e00a1c6；原始日期 Wed, 16 Sep 2026 04:19:47 +0000），正文明确 needs to be revised and reconsidered，并要求通过 Submissions Needing Revision 提交逐点修改/反驳，截止 2026-10-28。本轮英文题名为 Meta-Learning Framework for Healthy Aging Assessment: Attentive Neural Processes with Cross-Region Generalization within CHARLS。编辑认为先前修订未回应全部意见；Reviewer 3 六项主要涉及 CHARLS/HRS 跨人群验证和选择偏倚、现代及公平基线/计算预算/SOTA 对比、ECE 与 Coverage 分箱敏感性、R3.6 未充分回应，以及概念/算法创新不足。2026-05-23 00:22:39 Asia/Shanghai 的 R1 收稿确认（messageId 19e507f0f7a3f4cb）早于本轮返修，不能视作本轮完成。2026-10-04 经 wenquan6328@gmail.com 的本机 gmailDirect MCP 按 NEUNET-D-26-01296R1、稳定英文题名片段及期刊搜索 in:anywhere（含 Spam/Trash），并核对 focused in:spam，未发现本轮决定之后的有效提交确认；最新远端论文仓库仍仅记录先前 R1/Under Review，故当前需修订。 历史账号信息（本次未重新访问门户）：用户名 QuanWen_USM；显示名 Quan Wen；注册邮箱 wenquan@student.usm.my；ORCID 0009-0005-3975-8104；未存储密码、cookie、token 或会话。</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">0</td>
@@ -494,15 +487,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">1</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Energy and Buildings (Rejected: ENB-D-26-01660) → Energy (Rejected: EGY-D-26-10505) → Journal of Building Engineering (Rejected: JBE-D-26-07821) → Solar Energy (R1 submitted: SEJ-D-26-02432R1; 2026-06-12; R2 approved: SEJ-D-26-02432R2; 2026-08-08; R3 submitted: SEJ-D-26-02432R3; 2026-10-01)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier Editorial Manager / Solar Energy；当前稿号：SEJ-D-26-02432R3（原稿 SEJ-D-26-02432；R1：SEJ-D-26-02432R1；R2：SEJ-D-26-02432R2）；2026-10-01 00:11:35 +08:00 收到 Submission Confirmation，正文确认 revised manuscript received for reconsideration；当前阶段按收稿证据记为内审中；投稿系统用户名：QWen-485；显示名：Quan Wen；注册邮箱：wenquan@hngm.edu.cn；ORCID：上次账户核验字段为空、未绑定、未认证（orcidAuthenticated=False），本次未重新绑定；投稿系统作者（以 portal 为准）：Ruili Liu（第一作者，Arch-liuruili@haut.edu.cn）；Quan Wen（第二作者、sole corresponding author，wenquan@hngm.edu.cn）；Dr. Mazran Ismail（第三作者，mazran@usm.my）；与本轮提交的 LaTeX 作者顺序一致，无作者不一致；论文仓库稿件归档 commit：f053e3b；最新提交记录 commit：2d12c47；已归档 R3 稿件、图件、源 ZIP、清洁/标记稿件和数据目录，数据未作为 Editorial Manager 单独补充材料上传；收稿证据：Gmail Spam message 1a0f31628a7fa6da；核对时间：2026-10-01；未存储密码、cookie 或会话。</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">3</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -588,8 +572,17 @@
 
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">面向文化主题公共建筑老年用户的空间意义感知量表开发：因子分析研究设计</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Frontiers in Psychology (1871578; under review; reviewer report submitted 2026-10-29)</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Frontiers in Psychology；Submission ID：1871578；2026-10-31 用户确认仍在审。2026-10-26 收到 A reviewer has been granted an extension；2026-10-29 收到 Independent Review Report Submitted - 1871578（Developing the Spatial Meaning Perception Scale for Older Users of Culturally Themed Public Buildings）。此前 2026-10-04 的“已拒稿”判断作废，改为外审中。</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">0</td>
+</tr>
+
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">双层级注意力增强迁移学习用于居家适老环境评估中的点云语义分割</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Journal of Big Data (Administrative resubmission received: f71f3b8a-a098-4596-ba7f-a02dcf6cf86e; v.4.0; 2026-10-11; Peer review - in progress)</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Springer Nature SNAPP / Journal of Big Data；Submission ID f71f3b8a-a098-4596-ba7f-a02dcf6cf86e；v.4.0；2026-10-11 已提交，Peer review - in progress。账号显示名 QUAN WEN；未显示独立用户名；注册邮箱 wenquan6328@gmail.com；Google 绑定同一邮箱；ORCID 未绑定（显示 Link）。门户作者：Quan Wen（主要通讯，wenquan@hngm.edu.cn）、Dr. Mazran Ismail（通讯，mazran@usm.my）、Dr. Muhammad Hafeez Abdul Nasir（hafeeznasir@usm.my）、Yanting Wu（15093362768@163.com）；作者身份、顺序和通讯角色与稿件一致。未存储密码。</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Journal of Big Data (Administrative resubmission received: f71f3b8a-a098-4596-ba7f-a02dcf6cf86e; v.4.0; 2026-10-11; Peer review - in progress)</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">2026-10-04 收到 Journal of Big Data Decision: minor revision（deadline 18 Oct 2026）；2026-10-08 编辑 Sam Thanga Daniel 说明稿件被误退回并要求重投；2026-10-11 以 v4.0 重投，Peer review - in progress。 Springer Nature SNAPP / Journal of Big Data；Submission ID f71f3b8a-a098-4596-ba7f-a02dcf6cf86e；v.4.0；2026-10-11 已提交，Peer review - in progress。账号显示名 QUAN WEN；未显示独立用户名；注册邮箱 wenquan6328@gmail.com；Google 绑定同一邮箱；ORCID 未绑定（显示 Link）。门户作者：Quan Wen（主要通讯，wenquan@hngm.edu.cn）、Dr. Mazran Ismail（通讯，mazran@usm.my）、Dr. Muhammad Hafeez Abdul Nasir（hafeeznasir@usm.my）、Yanting Wu（15093362768@163.com）；作者身份、顺序和通讯角色与稿件一致。未存储密码。</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">0</td>
@@ -598,7 +591,7 @@
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">香港高层社区老年居民火灾韧性的循证评估框架</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Humanities and Social Sciences Communications (v.6.0; Submission received 2026-10-26; Peer review - in progress; Submission ID: cfb4556c-32fb-44dc-bd9a-194025fff018)</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Springer Nature SNAPP；Submission ID：cfb4556c-32fb-44dc-bd9a-194025fff018；draft ecdf96e9-a278-4b72-8a7d-b90ae98b709a；2026-10-26 成功页显示 Submission received，详情页显示 We&#39;ve received your revised submission，版本 v.6.0，当前 Peer review - in progress。投稿系统未显示独立用户名；账号显示名 QUAN WEN；投稿系统注册邮箱 wenquan6328@gmail.com；Google 已链接 wenquan6328@gmail.com；ORCID 未绑定（Linked accounts 显示 Link）。投稿系统作者（以 SNAPP Authors/Review 为准）：QUAN WEN（Primary corresponding author）；Dr. Mazran Ismail（Corresponding author）；Dr. Muhammad Hafeez Abdul Nasir（Corresponding author）。reviewer LaTeX 使用 blinded 占位，未记录实质作者不一致。v.6.0 上传包、复现材料和门户生成 31 页 reviewer PDF 已归档于论文仓库 commit 47c5d08；数据仓库：https://github.com/WENQUAN0816/paper-15-Fire-Resilience-Assessment-Elderly-Hong-Kong-High-Rise-data；未存储密码、cookie、token 或浏览器会话。</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Humanities and Social Sciences Communications (Decision 2026-10-22, revision due 2026-10-25; v.6.0; Submission received 2026-10-26; Peer review - in progress; Submission ID: cfb4556c-32fb-44dc-bd9a-194025fff018)</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">2026-10-22 收到 HSSC Decision on your manuscript（Submission ID cfb4556c-32fb-44dc-bd9a-194025fff018，Deadline 2026-10-25）；2026-10-26 提交 v6.0 并收到 Submission received / Peer review - in progress。 Springer Nature SNAPP；Submission ID：cfb4556c-32fb-44dc-bd9a-194025fff018；draft ecdf96e9-a278-4b72-8a7d-b90ae98b709a；2026-10-26 成功页显示 Submission received，详情页显示 We&#39;ve received your revised submission，版本 v.6.0，当前 Peer review - in progress。投稿系统未显示独立用户名；账号显示名 QUAN WEN；投稿系统注册邮箱 wenquan6328@gmail.com；Google 已链接 wenquan6328@gmail.com；ORCID 未绑定（Linked accounts 显示 Link）。投稿系统作者（以 SNAPP Authors/Review 为准）：QUAN WEN（Primary corresponding author）；Dr. Mazran Ismail（Corresponding author）；Dr. Muhammad Hafeez Abdul Nasir（Corresponding author）。reviewer LaTeX 使用 blinded 占位，未记录实质作者不一致。v.6.0 上传包、复现材料和门户生成 31 页 reviewer PDF 已归档于论文仓库 commit 47c5d08；数据仓库：https://github.com/WENQUAN0816/paper-15-Fire-Resilience-Assessment-Elderly-Hong-Kong-High-Rise-data；未存储密码、cookie、token 或浏览器会话。</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">投稿系统账号：未显示独立用户名；显示名：QUAN WEN；注册邮箱：wenquan6328@gmail.com；ORCID：未绑定（Linked accounts 显示 Link）。门户作者邮箱：wenquan@student.usm.my；mazran@usm.my；hafeeznasir@usm.my。</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">0</td>
@@ -611,6 +604,15 @@
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">0</td>
+</tr>
+
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">用于粮仓全年能源管理的双模式辐射制冷与太阳能供热屋面板系统</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Energy and Buildings (Rejected: ENB-D-26-01660) → Energy (Rejected: EGY-D-26-10505) → Journal of Building Engineering (Rejected: JBE-D-26-07821) → Solar Energy (R1 submitted: SEJ-D-26-02432R1; 2026-06-12; R2 approved: SEJ-D-26-02432R2; 2026-08-08; R3 submitted: SEJ-D-26-02432R3; 2026-10-01; ACCEPTED: 2026-10-26)</td><td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Elsevier Editorial Manager / Solar Energy；稿号 SEJ-D-26-02432R3。2026-10-26 收到两封决定信：Your Submission（A final disposition of &quot;Accept&quot; has been registered）与 Your Submission - Accepted for Publication（Switchable Solar-Radiative Panels for Multi-Story Grain Warehouse Thermal Management）。状态由内审中改为已接受。 Elsevier Editorial Manager / Solar Energy；当前稿号：SEJ-D-26-02432R3（原稿 SEJ-D-26-02432；R1：SEJ-D-26-02432R1；R2：SEJ-D-26-02432R2）；2026-10-01 00:11:35 +08:00 收到 Submission Confirmation，正文确认 revised manuscript received for reconsideration；当前阶段按收稿证据记为内审中；投稿系统用户名：QWen-485；显示名：Quan Wen；注册邮箱：wenquan@hngm.edu.cn；ORCID：上次账户核验字段为空、未绑定、未认证（orcidAuthenticated=False），本次未重新绑定；投稿系统作者（以 portal 为准）：Ruili Liu（第一作者，Arch-liuruili@haut.edu.cn）；Quan Wen（第二作者、sole corresponding author，wenquan@hngm.edu.cn）；Dr. Mazran Ismail（第三作者，mazran@usm.my）；与本轮提交的 LaTeX 作者顺序一致，无作者不一致；论文仓库稿件归档 commit：f053e3b；最新提交记录 commit：2d12c47；已归档 R3 </td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">3</td>
 </tr>
 
 </tbody>
