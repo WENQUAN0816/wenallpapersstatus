@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-10-30
+> **最后更新：** 2026-11-01
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -39,8 +39,8 @@
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>2</td></tr>
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>11</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>4</td></tr>
-<tr bgcolor="#dbeafe" style="background-color:#dbeafe;"><td>&#9989; 已接受</td><td>1</td></tr>
-<tr><td><strong>合计</strong></td><td><strong>60</strong></td></tr>
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;"><td>&#9989; 已接受</td><td>12</td></tr>
+<tr><td><strong>合计</strong></td><td><strong>71</strong></td></tr>
 </table>
 </td>
 <td valign="top" width="66%">
@@ -613,6 +613,105 @@
 <td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">3</td>
+</tr>
+
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">社区老年日间照料中心多模态热舒适的时空深度学习评估与预测</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Energy and Buildings (Accepted: ENB-D-26-04086R3; 2026-09-13 Asia/Shanghai)</td><td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">2026-11-01 复核：已见刊，Energy and Buildings 第 372 卷文章 118266（2026 年 12 月期），DOI 10.1016/j.enbuild.2026.118266，作者 Quan Wen、Dr. Mazran Ismail、Dr. Muhammad Hafeez Abdul Nasir、Yanting Wu；证据：Crossref + ORCID。 Energy &amp; Buildings；稿号/Submission ID：ENB-D-26-04086R3；2026-10-04 核对后状态：已接受。2026-09-13 00:15:33 Asia/Shanghai 收到 Decision on submission to Energy &amp; Buildings（Gmail Spam，messageId 1a09667669e9d1a9），R3 明确 accepted for publication；邮件原始 UTC 日期为 2026-09-12。此前 R2 和之后 R3 为同一原稿 ENB-D-26-04086。 历史门户与账户资料（保留原验证时间，不表示本次已重新核验门户）：Elsevier Editorial Manager / Energy &amp; Buildings；原稿号 ENB-D-26-04086；R1 稿号 ENB-D-26-04086R1；当前修订稿号 ENB-D-26-04086R2。2026-08-13 完成 R2 Approve Revision；2026-08-14 认证门户显示 Revisions Being Processed (1)、Revisions Waiting for Author&#39;s Approval (0)，处理列表中 R2 的提交日期和状态日期均为 Aug 13, 2026，当前状态 With Editor。投稿系统作者（以 portal 为准）：Quan Wen（corresponding author）、Dr. Mazran Ismail、Dr. Muhammad Hafeez Abdul Nasir、Yanting Wu；与最终 LaTeX 作者名单和顺序一致，但 LaTeX 另将 Dr. Mazran Ismail 标为通讯作者，投稿系统只将 Quan Wen 标为通讯作者，角色不一致且以 portal 为准。用户名 QWen-496；显示名 Quan Wen；注册邮箱 wenquan@hngm.edu.cn；ORCID 未绑定/未认证（个人资料页显示 Fetch/Register）；R2 稿件、源文件、回复信和权威系统 PDF 已归档至论文仓库 commit 978066e5135f9f803e6b8e7f908198c0d4835521；核对时间 2026-08-14；未存储密码、cookie 或会话。</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">0</td>
+</tr>
+
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">室内适老环境多维韧性评估框架：基于 Google Gemini Pro 的大模型指标构建</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Humanities and Social Sciences Communications (Accepted: 7875353f-db21-408a-b938-baf0d1ed487f; 2026-09-11)</td><td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">2026-11-01 复核：已见刊，Humanities and Social Sciences Communications 在线发表日期 2026-10-15，DOI 10.1057/s41599-026-09176-7；证据：Crossref + ORCID。 Humanities and Social Sciences Communications；稿号/Submission ID：7875353f-db21-408a-b938-baf0d1ed487f；2026-10-04 核对后状态：已接受。2026-09-11 16:22:00 Asia/Shanghai 收到录用决定（Gmail Spam，messageId 1a08f8f71829545d），明确 accepted for publication。后续 2026-09-23 出版手续通知、2026-09-25 校样提醒和 2026-09-28 出版协议副本与录用状态一致。 历史门户与账户资料（保留原验证时间，不表示本次已重新核验门户）：Springer Nature SNAPP / Humanities and Social Sciences Communications；Submission ID：7875353f-db21-408a-b938-baf0d1ed487f；2026-09-04 完成 v.5.0 修订提交，投稿详情页显示 We&#39;ve received your revised submission、版本 v.5.0、Peer review - in progress，门户稿件文件为 20260904_paper26_anonymous_revision_ed5.pdf。历史修订：2026-08-03 v2.0，2026-08-05 v3.1 技术检查修订。投稿系统未显示独立用户名；账号显示名：QUAN WEN；投稿系统注册邮箱：wenquan6328@gmail.com；Google 已绑定 wenquan6328@gmail.com；ORCID 未绑定（Linked accounts 页面显示 Link）。投稿系统作者以 SNAPP Authors/Review 页为准：Quan Wen（primary corresponding，wenquan@hngm.edu.cn）；Dr. Mazran Ismail（author，mazran@usm.my）；Dr. Muhammad Hafeez Abdul Nasir（author，hafeez@usm.my）。投稿系统作者姓名、顺序、单位和通讯作者标记与 LaTeX 一致；第三作者邮箱不一致，LaTeX 为 hafeeznasir@usm.my。v.5.0 源包：20260904_paper26_anonymous_revision_ed5.zip，SHA-256：4C239D82811ECE3CD7497FAB22CC943F8436A4ECB5698142EFFA6D4233017B50；回复 PDF：response_to_reviewers_final_20260904.pdf，SHA-256：D3AFF0FB334FE1154C6984B189990DCB70A35EDE15CCB72800B272512C81E541；完整数据包仍保留在论文仓库 data_packages/20260803_complete_reproduction_package.zip。未存储密码、Cookie、token 或会话文件。</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">0</td>
+</tr>
+
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">中国老年 HIV 感染者适老居住环境评估的个体中心框架</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">BMC Geriatrics (Accepted: c4ee9984-966a-4c9f-a548-2341676a77aa; 2026-08-04 02:00 Asia/Shanghai; DOI: 10.1186/s12877-026-08090-6)</td><td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">2026-11-01 复核：已见刊，BMC Geriatrics 2026 年第 26 卷，在线发表日期 2026-08-28，DOI 10.1186/s12877-026-08090-6；证据：Crossref + ORCID。 Springer Nature SNAPP / BMC Geriatrics；Submission ID c4ee9984-966a-4c9f-a548-2341676a77aa。2026-08-04 02:00 Asia/Shanghai，腾讯企业邮箱收到 accepted for publication 正式决定，Gmail Spam 同步保存接受邮件；2026-08-06 Gmail 收到 proofs 及 publishing agreement 相关邮件；DOI 10.1186/s12877-026-08090-6。投稿系统作者：Quan Wen（primary corresponding）、Dr. Mazran Ismail（corresponding）、Dr. Muhammad Hafeez Abdul Nasir（corresponding）、Yanting Wu；论文仓库接受状态提交 15d95c34785ed70bc4a0144e93fc0bd1a6ab794d。未存储密码。</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">0</td>
+</tr>
+
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">多模态情绪特征可视化映射与智能交互设计</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Journal of Visualized Experiments (Accepted: JoVE71171R3; 2026-07-15)</td><td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">2026-11-01 复核：已见刊，JoVE 文章 71171，在线发表日期 2026-08-21，DOI 10.3791/71171；作者 Wanbao Ge、Zhenhua Yang、Zhenhu Liu、Qi Liu、Quan Wen、Suraiyati Binti Rahman；证据：Crossref + ORCID。 Editorial Manager / Journal of Visualized Experiments (JoVE)；当前稿号：JoVE71171R3；英文题名：“Visual Mapping of Multimodal Emotion Features for Intelligent Interaction Design”；2026-07-15 03:09:33 Asia/Shanghai 收到正式录用邮件 “Your Manuscript JoVE71171R3 Has Been Accepted!”（Gmail messageId 19f620917a5a1113，仅位于 Gmail Spam），邮件收件人为 Zhenhu Liu，Quan Wen 为 CC，并确认录用于 JoVE Engineering section；旧本地状态目录 E:\GithubRepos\paper-jove71171 当前因 E: 盘未挂载而无法访问，未能同步该目录的状态文本；核对时间：2026-07-18；未存储密码。</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">0</td>
+</tr>
+
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">老年游客对遗产建筑增强现实解说的接受度：扩展技术接受模型</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Applied Sciences (Rejected: applsci-4326225) → Sustainability (Rejected: sustainability-4335606) → Frontiers in Education (Accepted: 1889292; 2026-06-30)</td><td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Frontiers submission portal / My Frontiers；稿号：1889292；2026-06-30 14:43:59 Asia/Shanghai 收到正式录用邮件 “Fantastic news: your article has been accepted”（Gmail messageId 19f1745514421de6），确认稿件已接受并进入 production；英文题名：“Older Visitors&#39; Acceptance of Augmented-Reality Heritage Interpretation: An Extended Technology Acceptance Model for Informal Cultural Heritage Learning”；2026-07-11 收到 proof ready 邮件，2026-07-18 收到 completed proof reminder；投稿系统用户名/显示名：Quan Wen；注册邮箱：wenquan@student.usm.my；ORCID：0009-0005-3975-8104；投稿系统作者：Xuejia Zhu、Suebsiri Saelee、Quan Wen；通讯作者：Suebsiri Saelee；LaTeX/修订稿作者栏为 Xuejia Zhu、Suebsiri Saelee，作者栏不一致已标注；论文仓库状态记录同步于 2026-07-18；未存储密码。</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">2</td>
+</tr>
+
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">中国 HIV 老年人适老居住环境因素因果模型：文本挖掘、模糊 DEMATEL 与区域比较</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Journal of Urban Health → Frontiers in Public Health (Accepted: 1873646; 2026-07-16)</td><td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">2026-11-01 复核：已见刊，Frontiers in Public Health 第 14 卷文章 1873646，在线发表日期 2026-09-22，DOI 10.3389/fpubh.2026.1873646；证据：Crossref + ORCID。 Frontiers submission portal / My Frontiers / Frontiers Review Forum；期刊/栏目：Frontiers in Public Health / Aging and Public Health；稿号：1873646；Version 2 于 2026-07-10 06:31（门户显示时间）提交；2026-07-16 15:09:11 Asia/Shanghai 收到正式录用邮件 “Fantastic news: your article has been accepted”（Gmail messageId 19f69c222aea8e1c），确认稿件已接受并进入 production；录用题名更新为 “Literature-derived criteria and expert-perceived influence structure for age-friendly living environments among older adults living with HIV in China: a text-mining, fuzzy Delphi, and fuzzy DEMATEL study”；2026-07-17 已收到 Frontiers invoice，2026-07-18 已发送 authorship change form 签名请求。账号用户名/显示名：Quan Wen；注册邮箱：wenquan@student.usm.my；ORCID：已绑定/可用于登录 0009-0005-3975-8104。Frontiers portal 当前作者：Quan Wen（corresponding）、Yanting Wu（non-corresponding）；最终 LaTeX 作者：Quan Wen、Dr. Mazran Ismail、Dr. Muhammad Hafeez Abdul Nasir、Yanting Wu，前三位为通讯作者，portal 作者同步仍待处理。最终修订包已推送至 paper repo commit 1acc520e7004c6851544ef8d966d028ecf886733；录用状态提交 3dfda39；未存储密码。</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">1</td>
+</tr>
+
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">挖掘马来西亚商业建筑能源灵活性的基于 LSTM 的模型预测控制方法</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Scientific Reports (Accepted: 93b8c252-e284-4e40-926f-a4b92d907273; published 2026-06-03; Vol. 16, article 25217; DOI: 10.1038/s41598-026-53501-8)</td><td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Springer Nature SNAPP / Scientific Reports；稿号 93b8c252-e284-4e40-926f-a4b92d907273；已正式发表；2026 年第 16 卷文章号 25217；在线发表日期 2026-06-03；DOI 10.1038/s41598-026-53501-8；作者：Quan Wen、Dr. Mazran Ismail、Dr. Muhammad Hafeez Abdul Nasir；证据来源：Crossref 元数据 + ORCID 0009-0005-3975-8104 works 列表（2026-11-01 核对）；未存储密码。</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">0</td>
+</tr>
+
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">粮食储藏仓制冷系统真实世界能效评估：来自中国河南 65 个设施的证据</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Scientific Reports → Energy Reports (Submitted: EGYR-D-26-01996) → Scientific Reports (Accepted: 2a8d0dcd-74c6-4848-86ff-62ad8eb84d62; 2026-09-16)</td><td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">2026-11-01 复核：录用后进入出版流程，校样给出 DOI 10.1038/s41598-026-72539-2（Crossref 暂未检索到该 DOI 记录，按待见刊处理）。 Scientific Reports；稿号/Submission ID：2a8d0dcd-74c6-4848-86ff-62ad8eb84d62；2026-10-04 核对后状态：已接受。2026-09-16 22:31:01 Asia/Shanghai 收到 Scientific Reports: Decision on your manuscript（Gmail Spam，messageId 1a0aaa1176e8ec22），明确 accepted for publication。2026-09-21 校样邮件给出 DOI 10.1038/s41598-026-72539-2。该稿属于论文仓库 srep-revision-20260717 分支，与 main 分支的 Energy Reports 改写稿分别跟踪。 历史门户与账户资料（保留原验证时间，不表示本次已重新核验门户）：Springer Nature SNAPP / Scientific Reports；Submission ID：2a8d0dcd-74c6-4848-86ff-62ad8eb84d62；2026-09-05 完成修订版 v.3.0 最终提交，成功页显示 Submission received，投稿详情页显示 We&#39;ve received your revised submission，当前阶段 Peer review - in progress；投稿详情：https://submission.springernature.com/submission-details/2a8d0dcd-74c6-4848-86ff-62ad8eb84d62；修订仓库分支：srep-revision-20260717；论文仓库 commit：34a297e；修订包 scientific_reports_revision_package_20260905.zip SHA256：35C70308515CCD0816DFBBE024A93F1B9EB2957B9C8226E1F8170173DBD0E1A9；response_to_reviewers.pdf SHA256：12888DCC542644C7B001E6DFDB6112D856618E9FC8D58929458D5C36BB969CC9；门户生成稿件 PDF 36 页，SHA256：5A11F86A7E6970B8051DE497DAA338FB7C7D850F9844375AC3E04D01289CB8E3。账户显示名 QUAN WEN，注册邮箱 wenquan6328@gmail.com，Google 已关联，ORCID 未绑定（Linked accounts 显示 Link）；未存储密码、cookie、token 或会话文件。此前 Energy Reports 记录保留在论文历史中。</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">2</td>
+</tr>
+
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">中国老龄化与低生育背景下闲置农村校舍改造适老设施：基于自然语言处理的评估框架</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">BMC Geriatrics (Accepted; published 2026-01-09; Vol. 26, article 179; DOI: 10.1186/s12877-025-06772-1)</td><td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Springer Nature SNAPP / BMC Geriatrics；已正式发表（Open Access）；2026 年第 26 卷文章号 179；在线发表日期 2026-01-09；DOI 10.1186/s12877-025-06772-1；英文题名：Transforming vacant rural school buildings into age-friendly facilities under China&#39;s aging and low-fertility context: a natural language processing-based evaluation framework；作者：Quan Wen、Dr. Mazran Ismail、Dr. Muhammad Hafeez Abdul Nasir；证据来源：Crossref 元数据 + ORCID works 列表（2026-11-01 核对）；未存储密码。</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">0</td>
+</tr>
+
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">遗产考古遗址博物馆游客对增强现实解说的接受度：修正技术接受模型</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">SAGE Open (Published 2025-05-31; Vol. 15; DOI: 10.1177/21582440251339936)</td><td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">SAGE Publications / SAGE Open；已正式发表（Open Access，SSCI）；2025 年第 15 卷，文章号 21582440251339936；在线发表日期 2025-05-31；DOI 10.1177/21582440251339936；英文题名：Exploring Tourists&#39; Intentions to Adopt Augmented Reality in Cultural Heritage Museums: Insights From a Modified Technology Acceptance Model；作者：Wenjing Xu、Dr. Mazran Ismail、Syafizal Shahruddin、Wen Quan、Yingrui Li（Quan Wen 署名 Wen Quan，第四作者）；证据来源：Crossref 元数据 + ORCID works 列表（2026-11-01 核对）；未存储密码。</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">0</td>
+</tr>
+
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">AFLE-HIV：中国老年 HIV 感染者适老居住环境评估框架</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">BMC Public Health (Published 2026-06-03; Vol. 26, article 2291; DOI: 10.1186/s12889-026-27748-9)</td><td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Springer Nature / BMC Public Health；已正式发表（Open Access）；2026 年第 26 卷文章号 2291；在线发表日期 2026-06-03；DOI 10.1186/s12889-026-27748-9；英文题名：AFLE-HIV: developing an age-friendly living environment assessment framework for elderly HIV-infected individuals in China；作者：Quan Wen、Dr. Mazran Ismail、Dr. Muhammad Hafeez Abdul Nasir、Yanting Wu、Chaojiang Hu；与本面板 BMC Geriatrics 篇（10.1186/s12877-026-08090-6）为两篇不同论文；证据来源：Crossref 元数据 + ORCID works 列表（2026-11-01 核对）；未存储密码。</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">0</td>
 </tr>
 
 </tbody>
