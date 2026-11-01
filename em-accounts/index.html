@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>EM 期刊账号登记</title>
+<style>
+:root{--bg:#0f1115;--card:#171a21;--line:#262b36;--txt:#e6e9ef;--dim:#9aa4b2;--acc:#4f8cff;}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--txt);font:14px/1.6 -apple-system,"Segoe UI","Microsoft YaHei",sans-serif}
+header{padding:18px 22px;border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;gap:14px;align-items:baseline}
+h1{font-size:18px;margin:0}
+.count{color:var(--acc);font-weight:600}
+.dim{color:var(--dim);font-size:13px}
+.notice{margin:0 0 16px;padding:9px 14px;border-left:3px solid var(--acc);background:#141c2b;border-radius:0 8px 8px 0;color:#c7d6f0;font-size:13px}
+main{padding:18px 22px 40px}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 16px}
+.chip{background:var(--card);border:1px solid var(--line);border-radius:999px;padding:4px 12px;font-size:12.5px;color:var(--dim)}
+.chip b{color:var(--txt);font-weight:600}
+input[type=search]{width:100%;max-width:380px;padding:9px 12px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--txt);outline:none;margin-bottom:14px}
+input[type=search]:focus{border-color:var(--acc)}
+table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+th,td{padding:9px 12px;text-align:left;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:12.5px;color:var(--dim);font-weight:600;background:#141821}
+tr:last-child td{border-bottom:none}
+tr:hover td{background:#1b1f27}
+td.j{font-weight:600}
+td.u{font-family:ui-monospace,Consolas,monospace;font-size:13px;color:#cfe0ff}
+td.s{color:#57d18c}
+footer{padding:14px 22px;border-top:1px solid var(--line);color:var(--dim);font-size:12px}
+</style>
+</head>
+<body>
+<header>
+  <h1>EM 期刊账号登记</h1>
+  <span class="dim">Editorial Manager 注册记录 · 共 <span class="count" id="total">—</span> 本期刊</span>
+  <span class="dim">只登记「哪本刊已有账号」，不含任何登录链接或凭据</span>
+</header>
+
+<main>
+  <p class="notice">本页只登记账号归属，不保存任何密码或设密链接。</p>
+  <div class="chips" id="chips"></div>
+  <input type="search" id="q" placeholder="搜索期刊名 / 出版社 / 用户名…">
+  <table>
+    <thead>
+      <tr><th>期刊名</th><th>出版社</th><th>用户名</th><th>注册日期</th><th>状态</th></tr>
+    </thead>
+    <tbody id="tb"><tr><td colspan="5" class="dim">加载中…</td></tr></tbody>
+  </table>
+</main>
+
+<footer>数据来源：Gmail 里的 Editorial Manager 注册通知邮件（41 封 → 35 本期刊）。本页仅展示登记状态。</footer>
+
+<script>
+const fmt = v => (v === undefined || v === null || v === '') ? '—' : String(v);
+let DATA = [];
+
+function render(rows){
+  const tb = document.getElementById('tb');
+  if(!rows.length){ tb.innerHTML = '<tr><td colspan="5" class="dim">没有匹配的记录</td></tr>'; return; }
+  tb.innerHTML = rows.map(r => '<tr>' +
+    '<td class="j">' + fmt(r.journal) + '</td>' +
+    '<td>' + fmt(r.publisher) + '</td>' +
+    '<td class="u">' + fmt(r.username) + '</td>' +
+    '<td>' + fmt(r.registered_at) + '</td>' +
+    '<td class="s">' + fmt(r.status) + '</td>' +
+    '</tr>').join('');
+}
+
+function chips(rows){
+  const m = new Map();
+  rows.forEach(r => m.set(r.publisher, (m.get(r.publisher)||0)+1));
+  const el = document.getElementById('chips');
+  el.innerHTML = [...m.entries()].sort((a,b)=>b[1]-a[1])
+    .map(([k,v]) => '<span class="chip">' + k + ' <b>' + v + '</b></span>').join('');
+}
+
+fetch('accounts.public.json', {cache:'no-store'})
+  .then(r => r.json())
+  .then(d => {
+    DATA = Array.isArray(d) ? d : [];
+    document.getElementById('total').textContent = DATA.length;
+    chips(DATA); render(DATA);
+  })
+  .catch(() => {
+    document.getElementById('tb').innerHTML = '<tr><td colspan="5" class="dim">数据文件未加载（accounts.public.json）</td></tr>';
+  });
+
+document.getElementById('q').addEventListener('input', e => {
+  const q = e.target.value.trim().toLowerCase();
+  if(!q){ render(DATA); return; }
+  render(DATA.filter(r => [r.journal,r.publisher,r.username].join(' ').toLowerCase().includes(q)));
+});
+</script>
+</body>
+</html>
