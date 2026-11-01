@@ -27,6 +27,7 @@ tr:hover td{background:#1b1f27}
 td.j{font-weight:600}
 td.u{font-family:ui-monospace,Consolas,monospace;font-size:13px;color:#cfe0ff}
 td.s{color:#57d18c}
+td.e{font-size:12.5px;color:#a8b6cc}
 footer{padding:14px 22px;border-top:1px solid var(--line);color:var(--dim);font-size:12px}
 </style>
 </head>
@@ -38,14 +39,14 @@ footer{padding:14px 22px;border-top:1px solid var(--line);color:var(--dim);font-
 </header>
 
 <main>
-  <p class="notice">本页只登记账号归属，不保存任何密码或设密链接。</p>
+  <p class="notice">本页只登记账号归属，不保存任何密码或设密链接。邮箱一栏为收到注册通知 / 投稿邮件的邮箱。</p>
   <div class="chips" id="chips"></div>
-  <input type="search" id="q" placeholder="搜索期刊名 / 出版社 / 用户名…">
+  <input type="search" id="q" placeholder="搜索期刊名 / 出版社 / 用户名 / 邮箱…">
   <table>
     <thead>
-      <tr><th>期刊名</th><th>出版社</th><th>用户名</th><th>注册日期</th><th>状态</th></tr>
+      <tr><th>期刊名</th><th>出版社</th><th>用户名</th><th>邮箱</th><th>注册日期</th><th>状态</th></tr>
     </thead>
-    <tbody id="tb"><tr><td colspan="5" class="dim">加载中…</td></tr></tbody>
+    <tbody id="tb"><tr><td colspan="6" class="dim">加载中…</td></tr></tbody>
   </table>
 </main>
 
@@ -57,11 +58,12 @@ let DATA = [];
 
 function render(rows){
   const tb = document.getElementById('tb');
-  if(!rows.length){ tb.innerHTML = '<tr><td colspan="5" class="dim">没有匹配的记录</td></tr>'; return; }
+  if(!rows.length){ tb.innerHTML = '<tr><td colspan="6" class="dim">没有匹配的记录</td></tr>'; return; }
   tb.innerHTML = rows.map(r => '<tr>' +
     '<td class="j">' + fmt(r.journal) + '</td>' +
     '<td>' + fmt(r.publisher) + '</td>' +
     '<td class="u">' + fmt(r.username) + '</td>' +
+    '<td class="e">' + fmt(r.email) + '</td>' +
     '<td>' + fmt(r.registered_at) + '</td>' +
     '<td class="s">' + fmt(r.status) + '</td>' +
     '</tr>').join('');
@@ -83,13 +85,13 @@ fetch('accounts.public.json', {cache:'no-store'})
     chips(DATA); render(DATA);
   })
   .catch(() => {
-    document.getElementById('tb').innerHTML = '<tr><td colspan="5" class="dim">数据文件未加载（accounts.public.json）</td></tr>';
+    document.getElementById('tb').innerHTML = '<tr><td colspan="6" class="dim">数据文件未加载（accounts.public.json）</td></tr>';
   });
 
 document.getElementById('q').addEventListener('input', e => {
   const q = e.target.value.trim().toLowerCase();
   if(!q){ render(DATA); return; }
-  render(DATA.filter(r => [r.journal,r.publisher,r.username].join(' ').toLowerCase().includes(q)));
+  render(DATA.filter(r => [r.journal,r.publisher,r.username,r.email].join(' ').toLowerCase().includes(q)));
 });
 </script>
 </body>
