@@ -435,15 +435,6 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">1</td>
 </tr>
 
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Work-role participation and healthy-ageing transitions across harmonized ageing cohorts</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">BMC Medicine (Rejected: 34b8a99b-c845-4dd8-921f-0808d0a65882; user confirmation 2026-10-04) → Nature Communications (Submitted: NCOMMS-26-091824; 2026-11-01)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">内审中（2026-11-01 正式提交 Nature Communications）。英文题名：Work-role participation and healthy-ageing transitions across harmonized ageing cohorts。2026-11-01 Asia/Shanghai 通过 Nature Communications MTS 提交成功，稿号 NCOMMS-26-091824（MTS 内部 ms_id 789687）；门户确认页原文 “Thank you for your submission. (NCOMMS-26-091824).”，提交后作者首页由 Continue Partial Submission 变为 Live Manuscripts (1)。上传文件 nc04_manuscript.pdf：21 页，476,729 B，作者 5 人（Quan Wen 通讯；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Nurdiana Zainol Abidin；Yanting Wu 开封市中心医院·开封市临床医学重点实验室），摘要 158 词；声明：无利益冲突、非临床试验、single-anonymised、未申请 APC 减免、In Review 未参加。通讯作者邮箱 wenquan@hngm.edu.cn 已收到收稿确认邮件（用户 2026-11-01 确认，本次未代读）。历史：BMC Medicine 拒稿（Submission ID 34b8a99b-c845-4dd8-921f-0808d0a65882，用户 2026-10-04 确认）。</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">1</td>
-</tr>
-
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">被遗忘之外：中国农村独居老人的低成本智能安全韧性框架</td>
@@ -469,6 +460,15 @@
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">0</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Work-role participation and healthy-ageing transitions across harmonized ageing cohorts</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">BMC Medicine (Rejected: 34b8a99b-c845-4dd8-921f-0808d0a65882; user confirmation 2026-10-04) → Nature Communications (Submitted: NCOMMS-26-091824; 2026-11-01)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">内审中（2026-11-01 正式提交 Nature Communications）。英文题名：Work-role participation and healthy-ageing transitions across harmonized ageing cohorts。2026-11-01 Asia/Shanghai 通过 Nature Communications MTS 提交成功，稿号 NCOMMS-26-091824（MTS 内部 ms_id 789687）；门户确认页原文 “Thank you for your submission. (NCOMMS-26-091824).”，提交后作者首页由 Continue Partial Submission 变为 Live Manuscripts (1)。上传文件 nc04_manuscript.pdf：21 页，476,729 B，作者 5 人（Quan Wen 通讯；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Nurdiana Zainol Abidin；Yanting Wu 开封市中心医院&#183;开封市临床医学重点实验室），摘要 158 词；声明：无利益冲突、非临床试验、single-anonymised、未申请 APC 减免、In Review 未参加。通讯作者邮箱 wenquan@hngm.edu.cn 已收到收稿确认邮件（用户 2026-11-01 确认，本次未代读）。历史：BMC Medicine 拒稿（Submission ID 34b8a99b-c845-4dd8-921f-0808d0a65882，用户 2026-10-04 确认）。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">1</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
