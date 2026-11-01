@@ -38,8 +38,8 @@
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>41</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>2</td></tr>
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>12</td></tr>
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>4</td></tr>
-<tr bgcolor="#dbeafe" style="background-color:#dbeafe;"><td>&#9989; 已接受</td><td>12</td></tr>
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>2</td></tr>
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;"><td>&#9989; 已接受</td><td>14</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>71</strong></td></tr>
 </table>
 </td>
@@ -581,29 +581,29 @@
 
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">双层级注意力增强迁移学习用于居家适老环境评估中的点云语义分割</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Journal of Big Data (Administrative resubmission received: f71f3b8a-a098-4596-ba7f-a02dcf6cf86e; v.4.0; 2026-10-11; Peer review - in progress)</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">2026-10-04 收到 Journal of Big Data Decision: minor revision（deadline 18 Oct 2026）；2026-10-08 编辑 Sam Thanga Daniel 说明稿件被误退回并要求重投；2026-10-11 以 v4.0 重投，Peer review - in progress。 Springer Nature SNAPP / Journal of Big Data；Submission ID f71f3b8a-a098-4596-ba7f-a02dcf6cf86e；v.4.0；2026-10-11 已提交，Peer review - in progress。账号显示名 QUAN WEN；未显示独立用户名；注册邮箱 wenquan6328@gmail.com；Google 绑定同一邮箱；ORCID 未绑定（显示 Link）。门户作者：Quan Wen（主要通讯，wenquan@hngm.edu.cn）、Dr. Mazran Ismail（通讯，mazran@usm.my）、Dr. Muhammad Hafeez Abdul Nasir（hafeeznasir@usm.my）、Yanting Wu（15093362768@163.com）；作者身份、顺序和通讯角色与稿件一致。未存储密码。</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">0</td>
-</tr>
-
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">香港高层社区老年居民火灾韧性的循证评估框架</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Humanities and Social Sciences Communications (Decision 2026-10-22, revision due 2026-10-25; v.6.0; Submission received 2026-10-26; Peer review - in progress; Submission ID: cfb4556c-32fb-44dc-bd9a-194025fff018)</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">2026-10-22 收到 HSSC Decision on your manuscript（Submission ID cfb4556c-32fb-44dc-bd9a-194025fff018，Deadline 2026-10-25）；2026-10-26 提交 v6.0 并收到 Submission received / Peer review - in progress。 Springer Nature SNAPP；Submission ID：cfb4556c-32fb-44dc-bd9a-194025fff018；draft ecdf96e9-a278-4b72-8a7d-b90ae98b709a；2026-10-26 成功页显示 Submission received，详情页显示 We&#39;ve received your revised submission，版本 v.6.0，当前 Peer review - in progress。投稿系统未显示独立用户名；账号显示名 QUAN WEN；投稿系统注册邮箱 wenquan6328@gmail.com；Google 已链接 wenquan6328@gmail.com；ORCID 未绑定（Linked accounts 显示 Link）。投稿系统作者（以 SNAPP Authors/Review 为准）：QUAN WEN（Primary corresponding author）；Dr. Mazran Ismail（Corresponding author）；Dr. Muhammad Hafeez Abdul Nasir（Corresponding author）。reviewer LaTeX 使用 blinded 占位，未记录实质作者不一致。v.6.0 上传包、复现材料和门户生成 31 页 reviewer PDF 已归档于论文仓库 commit 47c5d08；数据仓库：https://github.com/WENQUAN0816/paper-15-Fire-Resilience-Assessment-Elderly-Hong-Kong-High-Rise-data；未存储密码、cookie、token 或浏览器会话。</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">投稿系统账号：未显示独立用户名；显示名：QUAN WEN；注册邮箱：wenquan6328@gmail.com；ORCID：未绑定（Linked accounts 显示 Link）。门户作者邮箱：wenquan@student.usm.my；mazran@usm.my；hafeeznasir@usm.my。</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">0</td>
-</tr>
-
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">后疫情时代中国适老社区韧性建设：循证多准则评估框架</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Journal of Health, Population and Nutrition</td><td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">0</td>
+</tr>
+
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">双层级注意力增强迁移学习用于居家适老环境评估中的点云语义分割</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Journal of Big Data (Accepted; user confirmation 2026-11-01; Submission ID f71f3b8a-a098-4596-ba7f-a02dcf6cf86e)</td><td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">2026-11-01 用户口头确认本稿已被 Journal of Big Data 接收。核对情况：Gmail（含 Spam）与 Outlook「投稿专栏文件夹」按 Submission ID f71f3b8a-a098-4596-ba7f-a02dcf6cf86e 与期刊名检索，目前可见的最新决定仍是 2026-10-04 的 Decision: minor revision（deadline 18 Oct 2026），以及 2026-10-08 编辑 Sam Thanga Daniel 说明稿件被误退回、2026-10-11 以 v4.0 重投；尚未检索到正式 accept 决定邮件，因此本条状态依据用户确认，正式录用邮件/门户状态待补证后再更新。 2026-10-04 收到 Journal of Big Data Decision: minor revision（deadline 18 Oct 2026）；2026-10-08 编辑 Sam Thanga Daniel 说明稿件被误退回并要求重投；2026-10-11 以 v4.0 重投，Peer review - in progress。 Springer Nature SNAPP / Journal of Big Data；Submission ID f71f3b8a-a098-4596-ba7f-a02dcf6cf86e；v.4.0；2026-10-11 已提交，Peer review - in progress。账号显示名 QUAN WEN；未显示独立用户名；注册邮箱 wenquan6328@gmail.com；Google 绑定同一邮箱；ORCID 未绑定（显示 Link）。门户作者：Quan Wen（主要通讯，wenquan@hngm.edu.cn）、Dr. Mazran Ismail（通讯，mazran@usm.my）、Dr. Muhammad Hafeez Abdul Nasir（hafeeznasir@usm.my）、Yanting Wu（15093362768@163.com）；作者身份、顺序和通讯角色与稿件一致。未存储密码。</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">0</td>
+</tr>
+
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">香港高层社区老年居民火灾韧性的循证评估框架</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Humanities and Social Sciences Communications (Accepted: cfb4556c-32fb-44dc-bd9a-194025fff018; 2026-10-31 14:39 Asia/Shanghai)</td><td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">2026-10-31 14:39（Asia/Shanghai）腾讯企业邮箱「投稿专栏文件夹」收到 HSSC Decision on your manuscript，正文明确 &quot;We&#39;re delighted to let you know that your manuscript has been accepted for publication in Humanities and Social Sciences Communications&quot;；投稿稿件英文题名：Governing fire resilience for older residents in Hong Kong high-rise communities: an evidence-based assessment framework；此后由 production 团队做格式核对并发出校样。此前 2026-10-22 收到 revision 决定（deadline 2026-10-25），2026-10-26 提交 v6.0 并被记录为 Peer review - in progress，该 10-31 录用决定覆盖此前的在审记录。 2026-10-22 收到 HSSC Decision on your manuscript（Submission ID cfb4556c-32fb-44dc-bd9a-194025fff018，Deadline 2026-10-25）；2026-10-26 提交 v6.0 并收到 Submission received / Peer review - in progress。 Springer Nature SNAPP；Submission ID：cfb4556c-32fb-44dc-bd9a-194025fff018；draft ecdf96e9-a278-4b72-8a7d-b90ae98b709a；2026-10-26 成功页显示 Submission received，详情页显示 We&#39;ve received your revised submission，版本 v.6.0，当前 Peer review - in progress。投稿系统未显示独立用户名；账号显示名 QUAN WEN；投稿系统注册邮箱 wenquan6328@gmail.com；Google 已链接 wenquan6328@gmail.com；ORCID 未绑定（Linked accounts 显示 Link）。投稿系统作者（以 SNAPP Authors/Review 为准）：QUAN WEN（Primary corresponding author）；Dr. Mazran Ismail（Corresponding author）；Dr. Muhammad Hafeez Abdul Nasir（Corresponding author）。reviewer LaTeX 使用 blinded 占位，未记录实质作者不一致。v.6.0 上传包、复现材料和门户生成 31 页 reviewer PDF 已归档于论文仓库 commit 47c5d08；数据仓库：https://github.com/WENQUAN0816/paper-15-Fire-Resilience-Assessment-Elderly-Hong-Kong-High-Rise-data；未存储密码、cookie、token 或浏览器会话。</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">投稿系统账号：未显示独立用户名；显示名：QUAN WEN；注册邮箱：wenquan6328@gmail.com；ORCID：未绑定（Linked accounts 显示 Link）。门户作者邮箱：wenquan@student.usm.my；mazran@usm.my；hafeeznasir@usm.my。</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">0</td>
 </tr>
 
 <tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
