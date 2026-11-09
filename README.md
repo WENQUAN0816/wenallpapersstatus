@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-11-01
+> **最后更新：** 2026-11-09
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -35,9 +35,9 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>41</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>40</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>2</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>12</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>13</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>2</td></tr>
 <tr bgcolor="#dbeafe" style="background-color:#dbeafe;"><td>&#9989; 已接受</td><td>14</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>71</strong></td></tr>
@@ -373,15 +373,6 @@
 
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Reversibility of frailty across six international ageing cohorts: a longitudinal multi-cohort study</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Nature Communications (Rejected without external review: NCOMMS-26-050520) → The Lancet Healthy Longevity (Rejected: THELANCETHEALTHYLONGEVITY-D-26-00751 / THELANCETHEALTHYLONGEVITY-S-26-00967; decision 2026-06-29) → BMC Medicine (Rejected after desk/technical editorial assessment; SNAPP id 46cd20af-e62d-4038-b983-5c2a0d1eff6d) → Age and Ageing (ScholarOne draft/upload preparation only; not final submitted; 2026-07-05) → npj Digital Medicine (Historical amended submission: 75c3370b-7b4e-4953-b837-767f53406a80; 2026-08-12) → npj Aging (Rejected: 536d3f2f-d37c-4d89-bd0e-2035b36f03ae; 2026-09-11 Asia/Shanghai)</td><td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">npj Aging；稿号/Submission ID：536d3f2f-d37c-4d89-bd0e-2035b36f03ae；2026-10-04 核对后状态：待投稿。2026-09-11 01:15:10 Asia/Shanghai 收到 npj Aging 拒稿决定（Gmail Spam，messageId 1a08c513d7caf0f4；原始 UTC 日期 2026-09-10），明确 rejected for publication，未在正文提供具体审稿意见或拒稿理由。同日转投推荐不是有效新投稿。按完整英文题名、Submission ID、状态仓库和论文仓库检索，未发现之后有效收稿确认。此前 npj Digital Medicine v.1.1 记录属于历史；现有证据不足以确认其具体结束时间或到 npj Aging 的提交时间，不编造缺失日期。 历史门户与账户资料（保留原验证时间，不表示本次已重新核验门户）：Springer Nature SNAPP / npj Digital Medicine；Submission ID：75c3370b-7b4e-4953-b837-767f53406a80；technical-check draft ID：7ef702e8-21ff-401d-a4cb-a56b24a1c820；版本 v.1.1；2026-08-12 amended submission 成功页显示 Submission received，详情页显示 We&#39;ve received your amended submission and are now running technical checks，当前 Technical check - in progress。ED.1 已明确 Tables 1-3 正文引用位置，ED.2 已明确 Figures 1-4 正文引用位置，并移除 reviewer-facing 行号激活项。替换 ZIP：NC02_NPJDM_latex_source_package_technical_fix.zip，SHA256：5FECDCF5E238F17D8D6E9D4FF7690EC34FED2BC49503C668719A93D425004045；35 页门户 reviewer PDF SHA256：90594FA1200C7959AA659E534689F01B014C2E0258466BED64974BB4233E9296。投稿系统用户名：未显示独立 username 字段；账号显示名：QUAN WEN；投稿系统注册邮箱：wenquan6328@gmail.com；Google 已绑定至 wenquan6328@gmail.com；ORCID 未绑定（Linked accounts 页面显示 Link，无 ORCID iD）。投稿系统作者（以门户为准）：Quan Wen（primary corresponding，wenquan@hngm.edu.cn）、Mazran Ismail（corresponding，mazran@usm.my）、Muhammad Hafeez Abdul Nasir（corresponding，hafeez.abdnasir@usm.my）、Nurdiana Zainol Abidin（non-corresponding，nurdianaabidin@usm.my）；门户与 LaTeX 作者身份、顺序和通讯角色一致，无实质性不一致；门户不显示 Dr. 仅属格式差异。账户注册邮箱与论文作者邮箱分开记录。论文仓库：https://github.com/WENQUAN0816/NC02-Frailty-intrinsic-capacity-reversibility-trajectories，v1.1 归档 commit：c3d5850d5b9f717c49da5692fe67a2037ae9d37b；公共复现仓库 commit：3bb3d05。投稿详情：https://submission.springernature.com/submission-details/75c3370b-7b4e-4953-b837-767f53406a80；专用 CDP 端口 9228 已关闭；未存储密码、cookie、token 或会话文件。</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">6</td>
-</tr>
-
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">粮食储藏制冷资产的同类归一化检查队列：12个月研究中的权重与阈值敏感性</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Energy Reports (Rejected: EGYR-D-26-01996R1; 2026-09-07)</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Energy Reports；稿号/Submission ID：EGYR-D-26-01996R1；2026-10-04 核对后状态：待投稿。2026-09-07 10:14:30 Asia/Shanghai 收到 Energy Reports 拒稿决定（Gmail messageId 1a079a567b07305a；Gmail Spam 副本 1a079a58b6347f95）。明确原因是未经授权的作者变更（Unauthorized authorship changes），不符合 Elsevier 作者伦理政策；邮件说明此类出版政策拒稿不受理申诉。随后作者发出的延期请求不是重新提交成功证据。按稿号、英文题名、状态仓库和论文仓库 main 分支检索，未发现拒稿之后有效新投稿确认。Scientific Reports 分支是另一个独立跟踪的版本，不能作为本稿 Energy Reports 拒稿后的重投证据。 历史门户与账户资料（保留原验证时间，不表示本次已重新核验门户）：Elsevier Editorial Manager / Energy Reports；稿号：EGYR-D-26-01996R1；2026-09-04 修订稿完成提交，2026-09-05 门户显示 Revisions Being Processed / With Editor。投稿系统用户名：EMIdentity_a1c9f4a8-1d8d-4cd5-ba94-92bf38e8b5d4；显示名：wen quan；投稿系统注册邮箱：wenquan@hngm.edu.cn；wenquan@student.usm.my；ORCID：已认证绑定 0009-0005-3975-8104。投稿系统作者清单在本次验证会话未显示，不能以 LaTeX 作者替代或判定两者一致性；LaTeX 作者为 Quan Wen、Dr. Mazran Ismail、Dr. Muhammad Hafeez Abdul Nasir、Ruili Liu，前三位为通讯作者。论文仓库已归档 R1 源包、clean/marked TeX、编译 PDF、回复文件、图件、截图和 SHA-256 清单；未存储密码、Cookie、token 或会话文件。</td>
@@ -460,6 +451,15 @@
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">0</td>
+</tr>
+
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Reversibility of frailty across six international ageing cohorts: a longitudinal multi-cohort study</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Nature Communications (Rejected without external review: NCOMMS-26-050520) → The Lancet Healthy Longevity (Rejected: THELANCETHEALTHYLONGEVITY-D-26-00751 / THELANCETHEALTHYLONGEVITY-S-26-00967; decision 2026-06-29) → BMC Medicine (Rejected after desk/technical editorial assessment; SNAPP id 46cd20af-e62d-4038-b983-5c2a0d1eff6d) → Age and Ageing (ScholarOne draft/upload preparation only; not final submitted; 2026-07-05) → npj Digital Medicine (Historical amended submission: 75c3370b-7b4e-4953-b837-767f53406a80; 2026-08-12) → npj Aging (Rejected: 536d3f2f-d37c-4d89-bd0e-2035b36f03ae; 2026-09-11 Asia/Shanghai) → Journal of Advanced Research (JARE-S-26-12834; submitted 2026-11-09 21:21 GMT+8; Pending Technical Assessment)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">npj Aging；稿号/Submission ID：536d3f2f-d37c-4d89-bd0e-2035b36f03ae；2026-10-04 核对后状态：待投稿。2026-09-11 01:15:10 Asia/Shanghai 收到 npj Aging 拒稿决定（Gmail Spam，messageId 1a08c513d7caf0f4；原始 UTC 日期 2026-09-10），明确 rejected for publication，未在正文提供具体审稿意见或拒稿理由。同日转投推荐不是有效新投稿。按完整英文题名、Submission ID、状态仓库和论文仓库检索，未发现之后有效收稿确认。此前 npj Digital Medicine v.1.1 记录属于历史；现有证据不足以确认其具体结束时间或到 npj Aging 的提交时间，不编造缺失日期。 历史门户与账户资料（保留原验证时间，不表示本次已重新核验门户）：Springer Nature SNAPP / npj Digital Medicine；Submission ID：75c3370b-7b4e-4953-b837-767f53406a80；technical-check draft ID：7ef702e8-21ff-401d-a4cb-a56b24a1c820；版本 v.1.1；2026-08-12 amended submission 成功页显示 Submission received，详情页显示 We&#39;ve received your amended submission and are now running technical checks，当前 Technical check - in progress。ED.1 已明确 Tables 1-3 正文引用位置，ED.2 已明确 Figures 1-4 正文引用位置，并移除 reviewer-facing 行号激活项。替换 ZIP：NC02_NPJDM_latex_source_package_technical_fix.zip，SHA256：5FECDCF5E238F17D8D6E9D4FF7690EC34FED2BC49503C668719A93D425004045；35 页门户 reviewer PDF SHA256：90594FA1200C7959AA659E534689F01B014C2E0258466BED64974BB4233E9296。投稿系统用户名：未显示独立 username 字段；账号显示名：QUAN WEN；投稿系统注册邮箱：wenquan6328@gmail.com；Google 已绑定至 wenquan6328@gmail.com；ORCID 未绑定（Linked accounts 页面显示 Link，无 ORCID iD）。投稿系统作者（以门户为准）：Quan Wen（primary corresponding，wenquan@hngm.edu.cn）、Mazran Ismail（corresponding，mazran@usm.my）、Muhammad Hafeez Abdul Nasir（corresponding，hafeez.abdnasir@usm.my）、Nurdiana Zainol Abidin（non-corresponding，nurdianaabidin@usm.my）；门户与 LaTeX 作者身份、顺序和通讯角色一致，无实质性不一致；门户不显示 Dr. 仅属格式差异。账户注册邮箱与论文作者邮箱分开记录。论文仓库：https://github.com/WENQUAN0816/NC02-Frailty-intrinsic-capacity-reversibility-trajectories，v1.1 归档 commit：c3d5850d5b9f717c49da5692fe67a2037ae9d37b；公共复现仓库 commit：3bb3d05。投稿详情：https://submission.springernature.com/submission-details/75c3370b-7b4e-4953-b837-767f53406a80；专用 CDP 端口 9228 已关闭；未存储密码、cookie、token 或会话文件。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">6</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
