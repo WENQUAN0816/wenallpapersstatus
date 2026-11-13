@@ -717,7 +717,7 @@ def apc_text(row, ledger, prices):
     text = f"官网价 {price.get('currency','')} {float(amount):,.0f}"
     if cny_text:
         text += f" ≈ {cny_text}"
-    text += "（未付）"
+    text += "（无付款记录）"
     return text
 
 
