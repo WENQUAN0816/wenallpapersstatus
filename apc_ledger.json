@@ -1,0 +1,80 @@
+{
+  "中国老龄化与低生育背景下闲置农村校舍改造适老设施：基于自然语言处理的评估框架": {
+    "listPriceText": "原价 EUR 2,259.90 ≈ ¥16,664",
+    "selfPaidText": "自付 是 ¥16,664",
+    "claimText": "USM 补助 已申请 RM 8,000（¥13,058）",
+    "selfCny": 16664.05,
+    "claimCny": 13058.2,
+    "currency": "EUR",
+    "listAmount": 2259.9,
+    "note": "BMC Geriatrics 10.1186/s12877-025-06772-1"
+  },
+  "中国老年 HIV 感染者适老居住环境评估的个体中心框架": {
+    "listPriceText": "原价 EUR 2,340.90 ≈ ¥17,261",
+    "selfPaidText": "自付 是 ¥17,261",
+    "claimText": "USM 补助 已申请 RM 8,000（¥13,058）",
+    "selfCny": 17261.33,
+    "claimCny": 13058.2,
+    "currency": "EUR",
+    "listAmount": 2340.9,
+    "note": "BMC Geriatrics 10.1186/s12877-026-08090-6"
+  },
+  "室内适老环境多维韧性评估框架：基于 Google Gemini Pro 的大模型指标构建": {
+    "listPriceText": "原价 EUR 1,717.20 ≈ ¥12,662",
+    "selfPaidText": "自付 是 ¥12,662",
+    "claimText": "USM 补助 已申请 RM 8,000（¥13,058）",
+    "selfCny": 12662.29,
+    "claimCny": 13058.2,
+    "currency": "EUR",
+    "listAmount": 1717.2,
+    "note": "HSSC 10.1057/s41599-026-09176-7"
+  },
+  "AFLE-HIV：中国老年 HIV 感染者适老居住环境评估框架": {
+    "listPriceText": "原价 EUR 2,551.50 ≈ ¥18,814",
+    "selfPaidText": "自付 是 ¥18,814",
+    "claimText": "USM 补助 已申请 RM 8,000（¥13,058）",
+    "selfCny": 18814.25,
+    "claimCny": 13058.2,
+    "currency": "EUR",
+    "listAmount": 2551.5,
+    "note": "BMC Public Health 10.1186/s12889-026-27748-9"
+  },
+  "挖掘马来西亚商业建筑能源灵活性的基于 LSTM 的模型预测控制方法": {
+    "listPriceText": "原价 EUR 2,689.20 ≈ ¥19,830",
+    "selfPaidText": "自付 是 ¥19,830",
+    "claimText": "未申请补助",
+    "selfCny": 19829.62,
+    "claimCny": 0,
+    "currency": "EUR",
+    "listAmount": 2689.2,
+    "note": "Scientific Reports 10.1038/s41598-026-53501-8"
+  },
+  "老年游客对遗产建筑增强现实解说的接受度：扩展技术接受模型": {
+    "listPriceText": "原价 CHF 1,426.75 ≈ ¥11,354",
+    "selfPaidText": "自付 否（他人付款）",
+    "claimText": "未申请补助",
+    "selfCny": 0,
+    "claimCny": 0,
+    "currency": "CHF",
+    "listAmount": 1426.75,
+    "note": "Frontiers in Education 1889292，他人付款"
+  },
+  "中国 HIV 老年人适老居住环境因素因果模型：文本挖掘、模糊 DEMATEL 与区域比较": {
+    "listPriceText": "原价 CHF 2,047.50 ≈ ¥16,294",
+    "selfPaidText": "自付 否（他人付款）",
+    "claimText": "未申请补助",
+    "selfCny": 0,
+    "claimCny": 0,
+    "currency": "CHF",
+    "listAmount": 2047.5,
+    "note": "Frontiers in Public Health 1873646，他人付款"
+  },
+  "@extras": [
+    {
+      "name": "Frontiers in Public Health 2025（应急韧性，自付）",
+      "selfCny": 18000.0,
+      "claimCny": 0,
+      "text": "Frontiers in Public Health 2025 篇，自付 ¥18,000（口头确认，无邮件凭证）"
+    }
+  ]
+}

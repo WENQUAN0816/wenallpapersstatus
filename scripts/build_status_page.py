@@ -674,7 +674,75 @@ def enrich_rows(rows):
         row["rejectionIndex"] = rejection_index(row["journalTrack"])
         row["situation"] = situation_by_title.get(row["title"], "")
         row["impactSort"] = float(row["impactFactor"]) if re.fullmatch(r"\d+(\.\d+)?", row["impactFactor"] or "") else -1
+    ledger, prices = load_apc_assets()
+    for row in rows:
+        row["apc"] = apc_text(row, ledger, prices)
     return rows
+
+
+def load_apc_assets():
+    ledger_path = ROOT / "apc_ledger.json"
+    prices_path = ROOT / "journal_apc_prices.json"
+    ledger = json.loads(ledger_path.read_text(encoding="utf-8")) if ledger_path.exists() else {}
+    prices = {}
+    if prices_path.exists():
+        for item in json.loads(prices_path.read_text(encoding="utf-8")):
+            key = str(item.get("journal", "")).strip().upper()
+            if key:
+                prices[key] = item
+    return ledger, prices
+
+
+def _yuan(value):
+    try:
+        return f"¥{float(value):,.0f}"
+    except (TypeError, ValueError):
+        return ""
+
+
+def apc_text(row, ledger, prices):
+    entry = ledger.get(row["title"])
+    if entry:
+        parts = [entry.get(key, "") for key in ("listPriceText", "selfPaidText", "claimText")]
+        return "｜".join(part for part in parts if part)
+    price = prices.get(str(row.get("currentJournal", "")).strip().upper())
+    if not price:
+        return ""
+    amount = price.get("apc_amount")
+    cny = price.get("apc_cny")
+    if amount in (None, "", "NOT_FOUND"):
+        note = price.get("model") or ""
+        return f"官网未公布 APC（{note}）" if note else ""
+    cny_text = _yuan(cny) if cny not in (None, "") else ""
+    text = f"官网价 {price.get('currency','')} {float(amount):,.0f}"
+    if cny_text:
+        text += f" ≈ {cny_text}"
+    text += "（未付）"
+    return text
+
+
+def apc_summary(rows):
+    ledger, _ = load_apc_assets()
+    paid = claim = 0.0
+    for row in rows:
+        entry = ledger.get(row["title"]) or {}
+        paid += float(entry.get("selfCny") or 0)
+        claim += float(entry.get("claimCny") or 0)
+    for extra in ledger.get("@extras", []):
+        paid += float(extra.get("selfCny") or 0)
+        claim += float(extra.get("claimCny") or 0)
+    return paid, claim, paid - claim
+
+
+def apc_extras_note():
+    ledger, _ = load_apc_assets()
+    extras = ledger.get("@extras", [])
+    if not extras:
+        return ""
+    parts = [f'{item.get("name","")} {_yuan(item.get("selfCny"))}' for item in extras if item.get("selfCny")]
+    if not parts:
+        return ""
+    return "表外自付（未在本表列示的已发表论文）：" + "；".join(parts) + "。数字为作者确认口径，未附付款凭证。"
 
 
 def render(rows):
@@ -691,6 +759,13 @@ def render(rows):
         f'<article class="stat-card" style="--accent:{meta["color"]}"><span class="dot">{dot}</span><div><strong>{counts.get(meta["label"], 0)}</strong><span>{meta["label"]}</span></div></article>'
         for dot, meta in SUMMARY_STATUS_META.items()
     )
+    apc_paid, apc_claim, apc_net = apc_summary(rows)
+    apc_cards = "\n      ".join([
+        f'<article class="stat-card" style="--accent:#0ea5e9"><span class="dot">💳</span><div><strong>{_yuan(apc_paid) or "—"}</strong><span>APC 自己实付合计（人民币）</span></div></article>',
+        f'<article class="stat-card" style="--accent:#22c55e"><span class="dot">🏛️</span><div><strong>{_yuan(apc_claim) or "—"}</strong><span>USM 补助已申请合计</span></div></article>',
+        f'<article class="stat-card" style="--accent:#f97316"><span class="dot">📉</span><div><strong>{_yuan(apc_net) or "—"}</strong><span>扣除补助后净付出</span></div></article>',
+    ]) if (apc_paid or apc_claim) else ""
+    apc_note = apc_extras_note()
     return f"""<!doctype html>
 <html lang="zh-CN">
 <head>
@@ -724,6 +799,7 @@ def render(rows):
     .legend-panel td:first-child {{ width:42px; font-size:24px; line-height:1; }}
     .legend-panel td:last-child {{ text-align:right; font-size:20px; font-weight:800; }}
     .risk-note {{ margin:0 0 18px; padding:10px 12px; border:1px solid #ef4444; border-radius:6px; background:#fff1f2; color:#991b1b; font-size:13px; font-weight:700; }}
+    .apc-note {{ margin:-8px 0 16px; color:var(--muted); font-size:12px; }}
     .controls {{ display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin:0 0 12px; }}
     .controls button {{ border:1px solid var(--line); background:#fff; color:var(--text); border-radius:6px; padding:8px 10px; cursor:pointer; font-weight:700; }}
     .controls button.active {{ border-color:#2563eb; color:#1d4ed8; background:#eff6ff; }}
@@ -746,6 +822,7 @@ def render(rows):
     table.paper-status-table td[data-key="journalTrack"], table.paper-status-table td[data-key="recommendedJournals"], table.paper-status-table td[data-key="situation"], table.paper-status-table td[data-key="submissionSystemInfo"], table.paper-status-table td[data-key="loginInfo"], table.paper-status-table td[data-key="codexCode"] {{ min-width:320px; }}
     table.paper-status-table td[data-key="casXr"] {{ min-width:180px; }}
     table.paper-status-table td[data-key="authors"] {{ min-width:260px; }}
+    table.paper-status-table td[data-key="apc"] {{ min-width:280px; }}
     .corresponding-author {{ color:#dc2626; font-weight:800; }}
     .empty {{ color:#94a3b8; }}
     @media (max-width:900px) {{ main{{padding:16px;}} header{{display:block;}} .header-actions{{align-items:flex-start;margin-top:8px;}} .updated{{display:block;}} .dashboard{{grid-template-columns:1fr;}} }}
@@ -763,6 +840,10 @@ def render(rows):
     <section class="summary">
       {summary_cards}
     </section>
+    <section class="summary">
+      {apc_cards}
+    </section>
+    <p class="apc-note">{apc_note}</p>
     <section class="dashboard">
       <div class="panel chart-panel"><img src="status_bar_chart.svg" alt="论文状态统计饼图"></div>
       <aside class="panel legend-panel"><h2>颜色图例</h2><table><tbody>{legend_rows}</tbody></table></aside>
@@ -803,6 +884,7 @@ def render(rows):
       ["jcr", "JCR分区"],
       ["impactFactor", "IF"],
       ["indexType", "收录类型"],
+      ["apc", "APC（人民币）"],
       ["recommendedJournals", "推荐期刊"],
       ["authors", "论文作者"],
       ["updatedAt", "状态更新时间"],
