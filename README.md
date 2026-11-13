@@ -582,8 +582,8 @@
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">中国健康老龄化社区评估：基于自然语言处理的多准则框架</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Journal of Health, Population and Nutrition（Submission ID 972b9083；v.3.0 修订稿 2026-11-13 已提交，Peer review）</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Springer Nature SNAPP / Journal of Health, Population and Nutrition；Submission ID：972b9083-6160-4ad9-9489-b80cdc8de744；修订稿 draft ID：89b4f176-2798-434b-9909-8644cdb1e7c0；2026-11-13 修订提交后状态 Peer review。投稿系统账号：无独立用户名（账户以显示名与邮箱标识）；显示名 QUAN WEN；注册邮箱 wenquan6328@gmail.com；仅 1 个登录邮箱；Google 已绑定；ORCID 未绑定（Linked accounts 显示 Link）。投稿系统作者：QUAN WEN（primary corresponding，wenquan@hngm.edu.cn）、Mazran Ismail（corresponding，mazran@usm.my）、Muhammad Hafeez Abdul Nasir（corresponding，hafeeznasir@usm.my）、Yanting Wu（非通讯，15093362768@163.com）；与 LaTeX 名单顺序一致，通讯标记以 portal 为准（portal 标 1–3，LaTeX 仅标 Quan Wen），此处仅标注不擅改；稿件中的 wenquan@hngm.edu.cn 是通讯联系邮箱，非系统登录邮箱。未存储密码、cookie、token 或会话文件。</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Journal of Health, Population and Nutrition(Submission ID 972b9083;v.3.0 2026-11-13,Peer review)</td>
+<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;"></td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">投稿系统：Springer Nature SNAPP / Journal of Health, Population and Nutrition；用户名：无独立用户名（账户以显示名与邮箱标识）；显示名：QUAN WEN；注册邮箱：wenquan6328@gmail.com（账户仅此 1 个登录邮箱）；Google：已绑定 wenquan6328@gmail.com；ORCID：未绑定（Linked accounts 页 ORCID 行显示 Link）；账户页：https://my-profile.springernature.com/manage-your-account；核对时间：2026-11-13；未存储密码、cookie、token 或会话文件。</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">0</td>
