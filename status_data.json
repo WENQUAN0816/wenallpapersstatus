@@ -1904,7 +1904,7 @@
     "cas": "",
     "xr": "",
     "jcr": "Q1",
-    "impactFactor": "3.8",
+    "impactFactor": "4.5",
     "indexType": "SCIE&SSCI",
     "recommendedJournals": "",
     "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
@@ -1914,7 +1914,7 @@
       "Muhammad Hafeez Abdul Nasir"
     ],
     "situation": "已接受。英文题名为 “An Older HIV-Infected Individual-Centric Framework for Age-Friendly Living Environment Assessment in China: Integrating Topic Modeling, Delphi Consensus, and Hierarchical Needs Analysis”。Submission ID c4ee9984-966a-4c9f-a548-2341676a77aa。2026-08-04 02:00 Asia/Shanghai，腾讯企业邮箱正式接受邮件写明 manuscript has been accepted for publication in BMC Geriatrics；Gmail Spam 有同一接受决定。2026-08-06 Gmail 收到 proofs，并有签署 publishing agreement 的邮件；DOI 为 10.1186/s12877-026-08090-6。论文仓库已同步接受状态，commit 15d95c34785ed70bc4a0144e93fc0bd1a6ab794d。",
-    "impactSort": 3.8,
+    "impactSort": 4.5,
     "apc": "原价 EUR 2,340.90 ≈ ¥17,261｜自付 是 ¥17,261｜USM 补助 已申请 RM 8,000（¥13,058）"
   },
   {
@@ -1996,7 +1996,7 @@
     "cas": "",
     "xr": "",
     "jcr": "Q1",
-    "impactFactor": "3.4",
+    "impactFactor": "4.1",
     "indexType": "SCIE&SSCI",
     "recommendedJournals": "",
     "authors": "Quan Wen；Yanting Wu；Frontiers portal 名单如前；最终 LaTeX 不一致：Quan Wen、Dr. Mazran Ismail、Dr. Muhammad Hafeez Abdul Nasir、Yanting Wu，前三位为通讯作者，portal 作者同步请求待处理",
@@ -2004,7 +2004,7 @@
       "Quan Wen"
     ],
     "situation": "已接受。Frontiers in Public Health / Aging and Public Health 稿号 1873646，最终英文题名为 “Literature-derived criteria and expert-perceived influence structure for age-friendly living environments among older adults living with HIV in China: a text-mining, fuzzy Delphi, and fuzzy DEMATEL study”。2026-05-06 正式投稿；2026-07-10 06:31 Review Forum 显示 Version 2 提交成功。Version 2 删除因果表述和不受支持的 affiliation-based regional EWM，替换不受支持引用，补充完整 43 项 FDM 表与敏感性分析，并按标准零对角线重算 FDEMATEL。2026-07-16 15:09:11 Asia/Shanghai 收到正式录用邮件 “Fantastic news: your article has been accepted”（Gmail messageId 19f69c222aea8e1c），确认稿件已接受并进入 production；同日收到 Frontiers invoice，2026-07-18 已发送 authorship change form 签名请求。Frontiers portal 当前作者为 Quan Wen（corresponding）、Yanting Wu（non-corresponding）；最终 LaTeX 作者为 Quan Wen、Dr. Mazran Ismail、Dr. Muhammad Hafeez Abdul Nasir、Yanting Wu，前三位为通讯作者，portal 同步仍待处理。最终修订记录在论文仓库 commit 1acc520，录用状态记录在 commit 3dfda39。",
-    "impactSort": 3.4,
+    "impactSort": 4.1,
     "apc": "原价 CHF 2,047.50 ≈ ¥16,294｜自付 否（他人付款）｜未申请补助"
   },
   {
@@ -2089,7 +2089,7 @@
     "cas": "",
     "xr": "",
     "jcr": "Q1",
-    "impactFactor": "3.8",
+    "impactFactor": "4.5",
     "indexType": "SCIE&SSCI",
     "recommendedJournals": "",
     "authors": "Quan Wen；Dr. Mazran Ismail；Dr. Muhammad Hafeez Abdul Nasir",
@@ -2099,7 +2099,7 @@
       "Dr. Muhammad Hafeez Abdul Nasir"
     ],
     "situation": "",
-    "impactSort": 3.8,
+    "impactSort": 4.5,
     "apc": "原价 EUR 2,259.90 ≈ ¥16,664｜自付 是 ¥16,664｜USM 补助 已申请 RM 8,000（¥13,058）"
   },
   {
@@ -2121,7 +2121,7 @@
     "cas": "",
     "xr": "",
     "jcr": "Q1",
-    "impactFactor": "2.0",
+    "impactFactor": "2.4",
     "indexType": "SSCI",
     "recommendedJournals": "",
     "authors": "Wenjing Xu；Dr. Mazran Ismail；Syafizal Shahruddin；Wen Quan；Yingrui Li",
@@ -2129,7 +2129,7 @@
       "Wenjing Xu"
     ],
     "situation": "",
-    "impactSort": 2.0,
+    "impactSort": 2.4,
     "apc": "官网价 USD 2,400 ≈ ¥16,013（无付款记录）"
   },
   {
