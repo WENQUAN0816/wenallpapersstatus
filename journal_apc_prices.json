@@ -1,0 +1,272 @@
+[
+  {
+    "journal": "BMC Geriatrics",
+    "apc_amount": 3290.0,
+    "currency": "USD",
+    "apc_cny": 21950.55,
+    "model": "open access(纯OA)",
+    "source_url": "https://link.springer.com/journal/12877/how-to-publish-with-us",
+    "captured_date": "2026-11-14",
+    "notes": "官网标价三币种：GBP 2490 / USD 3290 / EUR 2890，取USD；不含VAT；参与Springer Nature国家分层定价试点，低收入国家可低于此价"
+  },
+  {
+    "journal": "BMC Public Health",
+    "apc_amount": 3450.0,
+    "currency": "USD",
+    "apc_cny": 23018.06,
+    "model": "open access(纯OA)",
+    "source_url": "https://link.springer.com/journal/12889/how-to-publish-with-us",
+    "captured_date": "2026-11-14",
+    "notes": "官网标价三币种：GBP 2690 / USD 3450 / EUR 3150，取USD；不含VAT；参与国家分层定价试点，试点价优先于低收入国家豁免政策"
+  },
+  {
+    "journal": "Biomedical Signal Processing and Control",
+    "apc_amount": 3470.0,
+    "currency": "USD",
+    "apc_cny": 23151.49,
+    "model": "hybrid(OA可选)",
+    "source_url": "https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control",
+    "captured_date": "2026-11-14",
+    "notes": "Elsevier官网Article publishing options：OA为USD 3470(不含税)，订阅模式不收版面费；机构协议可能减免"
+  },
+  {
+    "journal": "Egyptian Informatics Journal",
+    "apc_amount": 1200.0,
+    "currency": "USD",
+    "apc_cny": 8006.28,
+    "model": "open access(纯OA)",
+    "source_url": "https://www.sciencedirect.com/journal/egyptian-informatics-journal",
+    "captured_date": "2026-11-14",
+    "notes": "Elsevier官网：纯OA刊，APC USD 1200(不含税)；开罗大学主办，无订阅选项"
+  },
+  {
+    "journal": "Energy and Buildings",
+    "apc_amount": 4150.0,
+    "currency": "USD",
+    "apc_cny": 27688.39,
+    "model": "hybrid(OA可选)",
+    "source_url": "https://www.sciencedirect.com/journal/energy-and-buildings",
+    "captured_date": "2026-11-14",
+    "notes": "Elsevier官网：OA选项USD 4150(不含税)，订阅路径免费；官网提示实际APC可因作者情况而异"
+  },
+  {
+    "journal": "Frontiers in Education",
+    "apc_amount": 2195.0,
+    "currency": "CHF",
+    "apc_cny": 17467.59,
+    "model": "open access(纯OA)",
+    "source_url": "https://www.frontiersin.org/journals/education/for-authors/publishing-fees",
+    "captured_date": "2026-11-14",
+    "notes": "Frontiers官网A类文章(Original Research/Review等)CHF 2195；B类CHF 1750；C类0；官网仅以CHF计价，无USD等价标价"
+  },
+  {
+    "journal": "Frontiers in Psychology",
+    "apc_amount": 3150.0,
+    "currency": "CHF",
+    "apc_cny": 25067.39,
+    "model": "open access(纯OA)",
+    "source_url": "https://www.frontiersin.org/journals/psychology/for-authors/publishing-fees",
+    "captured_date": "2026-11-14",
+    "notes": "Frontiers官网A类文章CHF 3150；B类CHF 2500；C类0；官网仅以CHF计价"
+  },
+  {
+    "journal": "Frontiers in Public Health",
+    "apc_amount": 3150.0,
+    "currency": "CHF",
+    "apc_cny": 25067.39,
+    "model": "open access(纯OA)",
+    "source_url": "https://www.frontiersin.org/journals/public-health/for-authors/publishing-fees",
+    "captured_date": "2026-11-14",
+    "notes": "Frontiers官网A类文章CHF 3150；B类CHF 2500；C类0；官网仅以CHF计价"
+  },
+  {
+    "journal": "HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS",
+    "apc_amount": 1990.0,
+    "currency": "USD",
+    "apc_cny": 13277.08,
+    "model": "open access(纯OA)",
+    "source_url": "https://www.nature.com/palcomms/open-access",
+    "captured_date": "2026-11-14",
+    "notes": "Nature官网标价：GBP 1390 / USD 1990 / EUR 1590，取USD；不含VAT；低收入国家豁免另计"
+  },
+  {
+    "journal": "IEEE Transactions on Instrumentation and Measurement",
+    "apc_amount": 2800.0,
+    "currency": "USD",
+    "apc_cny": 18681.32,
+    "model": "hybrid(OA可选)",
+    "source_url": "https://ieee-ims.org/publication/ieee-tim/information-authors",
+    "captured_date": "2026-11-14",
+    "notes": "IEEE IMS官网：2026年投稿OA价USD 2800(不含地方税)；2025年为2645、2024年为2495；IEEE会员95折、IMS会员8折(不可叠加)；默认订阅模式免费"
+  },
+  {
+    "journal": "Indoor and Built Environment",
+    "apc_amount": 4710.0,
+    "currency": "USD",
+    "apc_cny": 31424.65,
+    "model": "hybrid(OA可选)",
+    "source_url": "https://www.sagepub.com/docs/default-source/rp-pages/info-for-authors/hybrid-oa-sage-choice/sage-choice-price-list-2026---external.xlsx",
+    "captured_date": "2026-11-14",
+    "notes": "Sage Choice 2026官方价目表(期刊代码L877)：USD 4710 / GBP 3453.84，取USD；期刊投稿页明确订阅模式无任何费用，OA为可选Sage Choice，价格需向Sage申请"
+  },
+  {
+    "journal": "International Journal of Human-Computer Interaction",
+    "apc_amount": 4977.0,
+    "currency": "USD",
+    "apc_cny": 33206.05,
+    "model": "hybrid(OA可选)",
+    "source_url": "https://authorservices.taylorandfrancis.com/choose-open/publishing-open-access/open-access-cost-finder/",
+    "captured_date": "2026-11-14",
+    "notes": "T&F官方APC查询器(期刊代码HIHC/Open Select/Research Article/付款地US)：USD 4977；GBP报价3685；按付款国与币种浮动；投稿说明明确无投稿费与版面费，订阅路径免费"
+  },
+  {
+    "journal": "International Journal of Information and Computer Security",
+    "apc_amount": 2200.0,
+    "currency": "EUR",
+    "apc_cny": 16222.36,
+    "model": "hybrid(OA可选)",
+    "source_url": "https://www.inderscience.com/mobile/inauthors/index.php?pid=75",
+    "captured_date": "2026-11-14",
+    "notes": "Inderscience官网：所有刊可选Gold OA，2026年优惠价EUR 2200/篇(正常价EUR 3300)；订阅模式不收费；若期刊主页Submitting articles另标价则以该价为准，本刊未见另标"
+  },
+  {
+    "journal": "JOURNAL OF SUPERCOMPUTING",
+    "apc_amount": 3490.0,
+    "currency": "USD",
+    "apc_cny": 23284.93,
+    "model": "hybrid(OA可选)",
+    "source_url": "https://link.springer.com/journal/11227/how-to-publish-with-us",
+    "captured_date": "2026-11-14",
+    "notes": "Springer官网标价：GBP 2590 / USD 3490 / EUR 2890，取USD；不含VAT；订阅模式无APC"
+  },
+  {
+    "journal": "Journal of Advanced Research",
+    "apc_amount": 4400.0,
+    "currency": "USD",
+    "apc_cny": 29356.36,
+    "model": "open access(纯OA)",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-advanced-research",
+    "captured_date": "2026-11-14",
+    "notes": "Elsevier官网：纯OA刊，APC USD 4400(不含税)；开罗大学主办"
+  },
+  {
+    "journal": "Journal of Big Data",
+    "apc_amount": 2290.0,
+    "currency": "USD",
+    "apc_cny": 15278.65,
+    "model": "open access(纯OA)",
+    "source_url": "https://link.springer.com/journal/40537/how-to-publish-with-us",
+    "captured_date": "2026-11-14",
+    "notes": "SpringerOpen官网标价：GBP 1440 / USD 2290 / EUR 1990，取USD；不含VAT"
+  },
+  {
+    "journal": "Journal of Health, Population and Nutrition",
+    "apc_amount": 2990.0,
+    "currency": "USD",
+    "apc_cny": 19948.98,
+    "model": "open access(纯OA)",
+    "source_url": "https://link.springer.com/journal/41043/how-to-publish-with-us",
+    "captured_date": "2026-11-14",
+    "notes": "BMC官网标价：GBP 2290 / USD 2990 / EUR 2590，取USD；不含VAT"
+  },
+  {
+    "journal": "Jove-Journal of Visualized Experiments",
+    "apc_amount": 4200.0,
+    "currency": "USD",
+    "apc_cny": 28021.98,
+    "model": "hybrid(OA可选)",
+    "source_url": "https://www.jove.com/authors/publication",
+    "captured_date": "2026-11-14",
+    "notes": "JoVE官网FAQ：基础出版费USD 2400(标准/订阅访问)，选全文OA另加USD 1800，OA合计USD 4200；本行按OA总价登记；另有国家豁免名单；视频制作不额外收费"
+  },
+  {
+    "journal": "Nature Communications",
+    "apc_amount": 7350.0,
+    "currency": "USD",
+    "apc_cny": 49038.47,
+    "model": "open access(纯OA)",
+    "source_url": "https://www.nature.com/ncomms/open-access",
+    "captured_date": "2026-11-14",
+    "notes": "Nature官网标价：GBP 5490 / USD 7350 / EUR 6150，取USD；不含VAT"
+  },
+  {
+    "journal": "Neural Networks",
+    "apc_amount": 2760.0,
+    "currency": "USD",
+    "apc_cny": 18414.44,
+    "model": "hybrid(OA可选)",
+    "source_url": "https://www.sciencedirect.com/journal/neural-networks",
+    "captured_date": "2026-11-14",
+    "notes": "Elsevier官网：OA选项USD 2760(不含税)，订阅免费；INNS/APNNS/JNNS会员资格含订阅但不影响APC"
+  },
+  {
+    "journal": "Physics of Fluids",
+    "apc_amount": 3800.0,
+    "currency": "USD",
+    "apc_cny": 25353.22,
+    "model": "hybrid(OA可选)",
+    "source_url": "https://publishing.aip.org/resources/researchers/open-science/open-access/",
+    "captured_date": "2026-11-14",
+    "notes": "AIP Publishing官网：Author Select OA统一价USD 3800；Physics of Fluids为混合刊(不在Gold OA名单)，订阅模式不收费；低收入国家Group A全免、Group B减至1500"
+  },
+  {
+    "journal": "SAGE Open",
+    "apc_amount": 2400.0,
+    "currency": "USD",
+    "apc_cny": 16012.56,
+    "model": "open access(纯OA)",
+    "source_url": "https://journals.sagepub.com/author-instructions/SGO",
+    "captured_date": "2026-11-14",
+    "notes": "SAGE官网投稿页：纯OA刊，APC USD 2400(不含税)；按初次投稿日期定价；机构协议可减免"
+  },
+  {
+    "journal": "Scientific Reports",
+    "apc_amount": 2850.0,
+    "currency": "USD",
+    "apc_cny": 19014.92,
+    "model": "open access(纯OA)",
+    "source_url": "https://www.nature.com/srep/open-access",
+    "captured_date": "2026-11-14",
+    "notes": "Nature官网标价：GBP 2290 / USD 2850 / EUR 2490，取USD；不含VAT"
+  },
+  {
+    "journal": "Solar Energy",
+    "apc_amount": 4390.0,
+    "currency": "USD",
+    "apc_cny": 29289.64,
+    "model": "hybrid(OA可选)",
+    "source_url": "https://www.sciencedirect.com/journal/solar-energy",
+    "captured_date": "2026-11-14",
+    "notes": "Elsevier官网：OA选项USD 4390(不含税)，订阅免费；ISES会刊"
+  },
+  {
+    "journal": "Universal Access in the Information Society",
+    "apc_amount": 3390.0,
+    "currency": "USD",
+    "apc_cny": 22617.74,
+    "model": "hybrid(OA可选)",
+    "source_url": "https://link.springer.com/journal/10209/how-to-publish-with-us",
+    "captured_date": "2026-11-14",
+    "notes": "Springer官网标价：GBP 2390 / USD 3390 / EUR 2790，取USD；不含VAT；订阅模式无APC"
+  },
+  {
+    "journal": "eClinicalMedicine",
+    "apc_amount": 6810.0,
+    "currency": "USD",
+    "apc_cny": 45435.64,
+    "model": "open access(纯OA)",
+    "source_url": "https://www.thelancet.com/open-access",
+    "captured_date": "2026-11-14",
+    "notes": "Lancet官网价目表(2026-01-01起)：USD 6810；属Elsevier GPOA地理定价计划，按全体作者国别GNI分档，中国档实际报价可能低于此list price"
+  },
+  {
+    "journal": "npj Digital Medicine",
+    "apc_amount": 4290.0,
+    "currency": "USD",
+    "apc_cny": 28622.45,
+    "model": "open access(纯OA)",
+    "source_url": "https://www.nature.com/npjdigitalmed/open-access",
+    "captured_date": "2026-11-14",
+    "notes": "Nature官网：Original Research USD 4290(GBP 3090/EUR 3390)；Comments/Brief Communications/Perspective/Review为USD 1735；此处取研究论文标准价"
+  }
+]
