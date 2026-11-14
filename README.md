@@ -472,13 +472,14 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">1</td>
 </tr>
 
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Multidomain ageing-burden trajectories define healthy-ageing transitions across harmonized cohorts</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Nature Aging (Rejected: NATAGING-A14708) → eClinicalMedicine (Submitted: eclinm-D-26-03968; 2026-07-22)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier Editorial Manager / eClinicalMedicine；稿号：eclinm-D-26-03968（temporary submission number：eclinm-S-26-04999；docID：45103）；2026-07-22 正式提交，2026-07-23 门户复核显示 Submissions Waiting for Author&#39;s Approval (0)、Submissions Being Processed (1)、Submitted to Journal。投稿系统显示名：QUAN WEN；用户名：wenquan0817；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已认证绑定 0009-0005-3975-8104。投稿系统作者（以 portal 为准）：QUAN WEN, Ph.D（corresponding）；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；与 eClinicalMedicine LaTeX 作者顺序及通讯作者一致，无作者不一致。当前系统 PDF 为 61 页，已确认 Quan Wen 与 Yanting Wu 为底层数据直接访问及核验者；论文仓库提交：e4ddda0；未存储密码、Cookie 或会话文件。</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">1</td>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Multidomain ageing-burden trajectories define healthy-ageing transitions across harmonized cohorts</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Nature Aging (Rejected: NATAGING-A14708) → eClinicalMedicine (Rejected: eclinm-D-26-03968; 2026-09-12)</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Elsevier Editorial Manager / eClinicalMedicine；稿号：eclinm-D-26-03968；temporary submission number：eclinm-S-26-04999；docID：45103；2026-07-22 正式提交，2026-07-23 门户状态为 Submitted to Journal / Submissions Being Processed (1)，且 Submissions Waiting for Author&#x27;s Approval (0)。投稿系统用户名：wenquan0817；显示名：QUAN WEN；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已认证绑定 0009-0005-3975-8104。投稿系统作者（以 portal 为准）：QUAN WEN, Ph.D（corresponding）；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；与 eClinicalMedicine LaTeX 作者顺序及通讯作者一致。当前系统 PDF：61 页，SHA256 061F2411F71D444A00241D2436081358B521AA2B17A909E7ED013552CF697014；论文仓库提交：e4ddda0；未存储密码、Cookie 或会话文件。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">2</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -491,57 +492,63 @@
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">代码漏洞检测深度学习模型的系统评估：具有多种表示策略的模块化框架</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">International Journal of Information and Computer Security (Submitted: IJICS-336943; previous IJICS-332808 withdrawn for correction)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Inderscience Submissions / International Journal of Information and Computer Security；用户名：WENQUAN0817；个人资料名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；备用邮箱：wenquan6328@gmail.com；ORCID：未绑定，个人资料 ORCID 字段为空；核对时间：2026-05-23；来源：Inderscience Edit your profile 页面。未存储密码。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">International Journal of Information and Computer Security (Under Review: IJICS-336943; previous IJICS-332808 withdrawn for correction; portal 2026-11-15)</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Inderscience Submissions / International Journal of Information and Computer Security；用户名：WENQUAN0817；个人资料名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；备用邮箱：wenquan6328@gmail.com；ORCID：未绑定，个人资料 ORCID 字段为空；核对时间：2026-05-23；来源：Inderscience Edit your profile 页面。未存储密码。</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">投稿系统：Inderscience Submissions / International Journal of Information and Computer Security；投稿系统账号：WENQUAN0817；投稿邮箱：wenquan@student.usm.my；备用邮箱：wenquan6328@gmail.com；投稿系统网址：https://indersciencesubmissions.com/；个人资料名：Quan Wen。未存储密码。</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">01a01717-398a-70c3-b411-f1736601a234</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">0</td>
 </tr>
 
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">AccessStairNet：面向老年居家环境无障碍评估的台阶与门槛深度学习检测</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">International Journal of Human-Computer Interaction (Resubmitted: 263362300)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Taylor & Francis Research Portal / My Account；用户名/显示名：Quan Wen；投稿系统注册邮箱：wenquan@student.usm.my；ORCID：已绑定 0009-0005-3975-8104；未存储密码。</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">0</td>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">AccessStairNet：面向老年居家环境无障碍评估的台阶与门槛深度学习检测</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">International Journal of Human-Computer Interaction (Rejected: 263362300; 2026-06-12)</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Taylor &amp; Francis Research Portal + IJHCI ScholarOne（mc.manuscriptcentral.com/hihc，仅邀请投稿）；投稿系统注册邮箱 wenquan@student.usm.my；显示名 QUAN WEN；ORCID 0009-0005-3975-8104；稿号 263362300；2026-06-12 决定 Reject（out of scope）；门户 T&amp;F Research Portal 密码复核未通过，状态以邮件为准；核对时间 2026-11-15。未存储密码。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">1</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">FRSGraph：面向老年居家环境的语义图 Transformer 跌倒风险空间预测</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Supercomputing (Revised submission received: 0af186dd-57f3-4056-8e24-63dd732a3810)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Supercomputing (Revised submission received: 0af186dd-57f3-4056-8e24-63dd732a3810; With editor, portal 2026-11-15)</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">0</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">GridMamba-Risk：基于网格状态空间模型的整屋三维点云跌倒风险空间预测</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Supercomputing (Revised submission received: c1ee17a9-69a9-4b82-90c4-597d7950f181)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Journal of Supercomputing (Revised submission received: c1ee17a9-69a9-4b82-90c4-597d7950f181; With editor, portal 2026-11-15)</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">0</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">AccessGeometry：面向老年住宅无障碍合规评估的点云自动参数化建模</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Indoor and Built Environment</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">0</td>
 </tr>
 
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">元学习增强的少样本居家安全等级分类框架</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">IEEE Transactions on Instrumentation and Measurement</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">0</td>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">AccessGeometry：面向老年住宅无障碍合规评估的点云自动参数化建模</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Indoor and Built Environment (Rejected: IBE-26-0405; 2026-05-16)</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Indoor and Built Environment / ScholarOne Manuscripts；https://mc.manuscriptcentral.com/ibe；用户名 wenquan@student.usm.my；显示名 QUAN WEN；稿号 IBE-26-0405；2026-05-08 提交，2026-05-16 决定 “Reject - Inappropriate”（ADM: Yu, Chuck）；核对时间 2026-11-15；来源 Author Dashboard → Manuscripts with Decisions。未存储密码。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">1</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">元学习增强的少样本居家安全等级分类框架</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">IEEE Transactions on Instrumentation and Measurement (Rejected: TIM-26-05228; 2026-05-14)</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">IEEE Editorial Manager / IEEE Transactions on Instrumentation &amp; Measurement；用户名 wenquan0817；显示名 QUAN WEN；注册邮箱 wenquan@student.usm.my；稿号 TIM-26-05228；2026-05-06 08:57 提交，2026-05-14 11:59 状态 Completed Reject；核对时间 2026-11-15；来源 EM Author Login → Submissions with a Decision。未存储密码。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">1</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -562,13 +569,14 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">0</td>
 </tr>
 
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">相变材料赋能的多层粮仓自适应多温区控制：实验与数值结合研究</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Applied Energy → Applied Thermal Engineering → Physics of Fluids</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">2</td>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">相变材料赋能的多层粮仓自适应多温区控制：实验与数值结合研究</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Applied Energy (Rejected: APEN-D-26-04841) → Applied Thermal Engineering (Rejected: ATE-D-26-03583) → Physics of Fluids (Rejected: POF26-AR-07216; 2026-05-11)</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">AIP Publishing PeerX / Physics of Fluids；https://pof.peerx-press.org/cgi-bin/main.plex；用户名 wenquan@hngm.edu.cn；稿号 POF26-AR-07216（ms_id 2118694）；2026-05-06 02:27 提交，2026-05-11 13:36 决定信发出，Current Stage “Decision Sent to Author”；核对时间 2026-11-15；来源 Author Tasks → Post Decision Manuscripts → Check Status。未存储密码。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">3</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
