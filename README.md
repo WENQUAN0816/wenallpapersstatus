@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-11-14
+> **最后更新：** 2026-11-15
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -36,8 +36,8 @@
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>40</td></tr>
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>2</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>14</td></tr>
+<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>15</td></tr>
 <tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>2</td></tr>
 <tr bgcolor="#dbeafe" style="background-color:#dbeafe;"><td>&#9989; 已接受</td><td>14</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>72</strong></td></tr>
@@ -444,13 +444,13 @@
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">0</td>
 </tr>
 
-<tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">健康老龄化评估的元学习框架：具有人群泛化能力的注意力神经过程</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">Neural Networks (Further revision required: NEUNET-D-26-01296R1; decision 2026-09-16; deadline 2026-10-28; extended to 2026-11-11)</td><td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">2026-10-28 编辑 Tongliang Liu 回信 Extended and cheers.，批准延期两周，修回截止日约为 2026-11-11。 Editorial Manager / Neural Networks；原稿号 NEUNET-D-26-01296；修回稿号 NEUNET-D-26-01296R1；当前需修订。2026-09-16 12:19:47 Asia/Shanghai 收到 Your Submission: NEUNET-D-26-01296R1（Gmail messageId 1a0a87155e00a1c6；原始日期 Wed, 16 Sep 2026 04:19:47 +0000），正文明确 needs to be revised and reconsidered，并要求通过 Submissions Needing Revision 提交逐点修改/反驳，截止 2026-10-28。本轮英文题名为 Meta-Learning Framework for Healthy Aging Assessment: Attentive Neural Processes with Cross-Region Generalization within CHARLS。编辑认为先前修订未回应全部意见；Reviewer 3 六项主要涉及 CHARLS/HRS 跨人群验证和选择偏倚、现代及公平基线/计算预算/SOTA 对比、ECE 与 Coverage 分箱敏感性、R3.6 未充分回应，以及概念/算法创新不足。2026-05-23 00:22:39 Asia/Shanghai 的 R1 收稿确认（messageId 19e507f0f7a3f4cb）早于本轮返修，不能视作本轮完成。2026-10-04 经 wenquan6328@gmail.com 的本机 gmailDirect MCP 按 NEUNET-D-26-01296R1、稳定英文题名片段及期刊搜索 in:anywhere（含 Spam/Trash），并核对 focused in:spam，未发现本轮决定之后的有效提交确认；最新远端论文仓库仍仅记录先前 R1/Under Review，故当前需修订。 历史账号信息（本次未重新访问门户）：用户名 QuanWen_USM；显示名 Quan Wen；注册邮箱 wenquan@student.usm.my；ORCID 0009-0005-3975-8104；未存储密码、cookie、token 或会话。</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">0</td>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">健康老龄化评估的元学习框架：具有人群泛化能力的注意力神经过程</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Neural Networks (R2 submitted 2026-11-11; original NEUNET-D-26-01296 / R1 NEUNET-D-26-01296R1; decision 2026-09-16; deadline 2026-10-28 extended to 2026-11-11)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">2026-11-11 已完成 R2 修回提交（用户 2026-11-15 确认；本机 C:\Users\Administrator\.agent-browser\neunet-submit-20261111.target 指向 editorialmanager.com/neunet，文件名即为该次提交日期）。当前按「内审中」记录：提交后处于技术检查/编辑评估，R2 稿号待门户核实（R1 号为 NEUNET-D-26-01296R1）。 历史记录：2026-09-16 12:19:47 Asia/Shanghai 收到决定信 Your Submission: NEUNET-D-26-01296R1（Gmail messageId 1a0a87155e00a1c6），正文明确 needs to be revised and reconsidered，要求通过 Submissions Needing Revision 提交逐点修改/反驳，原截止 2026-10-28；2026-10-27 申请延期，2026-10-28 编辑回信 Extended and cheers.，截止延至 2026-11-11。英文题名：Meta-Learning Framework for Healthy Aging Assessment: Attentive Neural Processes with Cross-Region Generalization within CHARLS。Reviewer 3 六项意见：CHARLS/HRS 跨人群验证与选择偏倚、现代及公平基线/计算预算/SOTA 对比、ECE 与 Coverage 分箱敏感性、R3.6 未充分回应、概念与算法创新不足。2026-10-04 的 Gmail 复核（未发现当时提交确认）为历史结论，不适用于当前状态。 账号：用户名 QuanWen_USM；显示名 Quan Wen；注册邮箱 wenquan@student.usm.my；ORCID 0009-0005-3975-8104；未存储密码、cookie、token 或会话。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">0</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
