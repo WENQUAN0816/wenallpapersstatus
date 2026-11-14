@@ -1,6 +1,6 @@
 # 全部论文投稿状态
 
-> **最后更新：** 2026-11-14
+> **最后更新：** 2026-11-15
 
 > 前端显示仅保留中文内容；期刊名称保持英文；GitHub 仓库链接不在前端表格显示。
 
@@ -447,7 +447,7 @@
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">健康老龄化评估的元学习框架：具有人群泛化能力的注意力神经过程</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Neural Networks (R2 submitted 2026-11-11; original NEUNET-D-26-01296 / R1 NEUNET-D-26-01296R1; decision 2026-09-16; deadline 2026-10-28 extended to 2026-11-11)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">2026-11-11 已完成 R2 修回提交（用户 2026-11-15 确认；本机 C:\Users\Administrator\.agent-browser\neunet-submit-20261111.target 指向 editorialmanager.com/neunet，文件名即为该次提交日期）。当前按「内审中」记录：提交后处于技术检查/编辑评估，R2 稿号待门户核实（R1 号为 NEUNET-D-26-01296R1）。 历史记录：2026-09-16 12:19:47 Asia/Shanghai 收到决定信 Your Submission: NEUNET-D-26-01296R1（Gmail messageId 1a0a87155e00a1c6），正文明确 needs to be revised and reconsidered，要求通过 Submissions Needing Revision 提交逐点修改/反驳，原截止 2026-10-28；2026-10-27 申请延期，2026-10-28 编辑回信 Extended and cheers.，截止延至 2026-11-11。英文题名：Meta-Learning Framework for Healthy Aging Assessment: Attentive Neural Processes with Cross-Region Generalization within CHARLS。Reviewer 3 六项意见：CHARLS/HRS 跨人群验证与选择偏倚、现代及公平基线/计算预算/SOTA 对比、ECE 与 Coverage 分箱敏感性、R3.6 未充分回应、概念与算法创新不足。2026-10-04 的 Gmail 复核（未发现当时提交确认）为历史结论，不适用于当前状态。 账号：用户名 QuanWen_USM；显示名 Quan Wen；注册邮箱 wenquan@student.usm.my；ORCID 0009-0005-3975-8104；未存储密码、cookie、token 或会话。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Neural Networks (R2 submitted: NEUNET-D-26-01296R2; portal status date 2026-11-11)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Editorial Manager / Neural Networks；稿号NEUNET-D-26-01296R2；2026-11-12核实Revision Submitted to Journal。用户名QuanWen_USM；显示名Quan Wen。注册邮箱wenquan@student.usm.my、ORCID 0009-0005-3975-8104沿用历史账户记录，个人资料页本轮未复核。未存储密码。</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">0</td>
