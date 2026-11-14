@@ -1,4 +1,4 @@
-﻿Set-StrictMode -Version Latest
+Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
 
 $RepoRoot = Split-Path -Parent $PSScriptRoot
@@ -57,6 +57,19 @@ $LegacyStatus = @{
     "Accepted" = "已接受"
 }
 
+# 学术不端（剽窃）认定的稿子：整行固定红色，不受投稿状态色影响。
+$QualityRiskPath = Join-Path $RepoRoot "quality_risk_overrides.json"
+$PlagiarismTitles = @{}
+if (Test-Path $QualityRiskPath) {
+    $QualityRisk = Get-Content -Raw -Encoding UTF8 $QualityRiskPath | ConvertFrom-Json
+    foreach ($Property in $QualityRisk.PSObject.Properties) {
+        if ([string]$Property.Value -match '剽窃|plagiarism') {
+            $PlagiarismTitles[$Property.Name] = $true
+        }
+    }
+}
+$PlagiarismFill = "#dc2626"
+
 function Get-NormalizedStatus {
     param([string]$Status)
 
@@ -74,10 +87,14 @@ function Normalize-StatusRow {
     )
 
     $Meta = $StatusByName[$Status].Meta
+    $Fill = $Meta.Fill
+    if ($PlagiarismTitles.ContainsKey((Get-RowTitle $Row))) {
+        $Fill = $PlagiarismFill
+    }
     $Row = [regex]::Replace(
         $Row,
         'bgcolor="#[0-9A-Fa-f]{6}" style="background-color:#[0-9A-Fa-f]{6}',
-        "bgcolor=""$($Meta.Fill)"" style=""background-color:$($Meta.Fill)"
+        "bgcolor=""$Fill"" style=""background-color:$Fill"
     )
     $Row = [regex]::Replace(
         $Row,

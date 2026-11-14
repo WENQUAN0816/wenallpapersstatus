@@ -21,6 +21,9 @@ STATUS_META = {
 SUMMARY_STATUS_META = {
     dot: meta for dot, meta in STATUS_META.items() if not meta.get("excludeFromStats")
 }
+# 学术不端（剽窃）认定：整行红色，独立于投稿状态色。
+PLAGIARISM_BG = "#dc2626"
+PLAGIARISM_LABEL = "IEEE Access 判定剽窃"
 
 
 ALIASES = {
@@ -455,6 +458,7 @@ def parse_rows():
                     "codexCode": row.get("codexCode", ""),
                     "rejectionIndex": row.get("rejectionIndex", 0),
                     "bg": row.get("bg") or STATUS_META[dot]["bg"],
+                    "plagiarism": bool(row.get("plagiarism")),
                     "updatedAt": row.get("updatedAt", ""),
                 })
             return rows
@@ -673,6 +677,9 @@ def enrich_rows(rows):
         row["codexCode"] = row_override.get("codexCode", row.get("codexCode", ""))
         row["rejectionIndex"] = rejection_index(row["journalTrack"])
         row["situation"] = situation_by_title.get(row["title"], "")
+        row["plagiarism"] = bool(row.get("plagiarism")) or row["qualityRisk"] == PLAGIARISM_LABEL
+        if row["plagiarism"]:
+            row["bg"] = PLAGIARISM_BG
         row["impactSort"] = float(row["impactFactor"]) if re.fullmatch(r"\d+(\.\d+)?", row["impactFactor"] or "") else -1
     ledger, prices = load_apc_assets()
     for row in rows:
@@ -818,6 +825,10 @@ def render(rows):
     table.paper-status-table td.similarity-mid {{ color:#d97706; }}
     table.paper-status-table td.similarity-high {{ color:#dc2626; font-weight:800; }}
     .quality-risk-high {{ display:inline-block; padding:4px 7px; border:1px solid #ef4444; border-radius:5px; background:#fee2e2; color:#991b1b; font-weight:800; }}
+    .plagiarism-flag {{ display:inline-block; padding:4px 7px; border:1px solid #7f1d1d; border-radius:5px; background:#7f1d1d; color:#fff; font-weight:800; }}
+    table.paper-status-table tr.row-plagiarism td {{ color:#fff; font-weight:700; }}
+    table.paper-status-table tr.row-plagiarism td .plagiarism-note {{ color:#fff; font-weight:800; }}
+    .plagiarism-banner {{ margin:0 0 14px; padding:10px 12px; border:2px solid #7f1d1d; border-radius:6px; background:#fee2e2; color:#7f1d1d; font-size:13px; font-weight:800; }}
     table.paper-status-table td[data-key="currentJournal"] {{ min-width:230px; }}
     table.paper-status-table td[data-key="journalTrack"], table.paper-status-table td[data-key="recommendedJournals"], table.paper-status-table td[data-key="situation"], table.paper-status-table td[data-key="submissionSystemInfo"], table.paper-status-table td[data-key="loginInfo"], table.paper-status-table td[data-key="codexCode"] {{ min-width:320px; }}
     table.paper-status-table td[data-key="casXr"] {{ min-width:180px; }}
@@ -849,6 +860,7 @@ def render(rows):
       <aside class="panel legend-panel"><h2>颜色图例</h2><table><tbody>{legend_rows}</tbody></table></aside>
     </section>
     <p class="risk-note"><span class="quality-risk-high">⚠ 低质量高风险</span> 表示编辑决定或版本审计显示存在严重原创性或文本重叠风险。</p>
+    <p class="plagiarism-banner">🚫 整行红色 + 「IEEE Access 判定剽窃」：该稿已被 IEEE Access 认定 Level Two plagiarism（学术不端/抄袭，2026-11-06 最终决定），禁止再投任何期刊。</p>
     <section class="panel table-panel">
       <h2>全部论文状态总表</h2>
       <div class="controls">
@@ -923,8 +935,11 @@ def render(rows):
       }}).join("；");
     }}
 
-    function qualityRiskMarkup(value) {{
-      return value ? `<span class="quality-risk-high">⚠ ${{cell(value)}}</span>` : '<span class="empty"></span>';
+    function qualityRiskMarkup(value, row) {{
+      if (!value) return '<span class="empty"></span>';
+      const cls = row && row.plagiarism ? "plagiarism-flag" : "quality-risk-high";
+      const icon = row && row.plagiarism ? "🚫" : "⚠";
+      return `<span class="${{cls}}">${{icon}} ${{cell(value)}}</span>`;
     }}
 
     function similarityClass(value) {{
@@ -975,12 +990,14 @@ def render(rows):
       const cols = shownColumns();
       document.getElementById("tableHead").innerHTML = cols.map(([key, label]) => `<th data-key="${{key}}">${{label}}</th>`).join("");
       document.getElementById("tableBody").innerHTML = sortedRows().map(row => {{
-        return `<tr style="background-color:${{row.bg}};">${{cols.map(([key]) => {{
+        const rowClass = row.plagiarism ? ' class="row-plagiarism"' : "";
+        const flag = row.plagiarism ? `<div class="plagiarism-flag">🚫 IEEE Access 判定剽窃</div>` : "";
+        return `<tr${{rowClass}} style="background-color:${{row.bg}};">${{cols.map(([key]) => {{
           const value = key === "status" ? row.statusDot : row[key];
-          const htmlValue = key === "authors" ? formatAuthors(row) : key === "qualityRisk" ? qualityRiskMarkup(value) : cell(value);
+          const htmlValue = key === "authors" ? formatAuthors(row) : key === "qualityRisk" ? qualityRiskMarkup(value, row) : cell(value);
           const extraClass = key === "similarity" ? similarityClass(value) : "";
           const classAttr = extraClass ? ` class="${{extraClass}}"` : "";
-          return `<td data-key="${{key}}"${{classAttr}} style="background-color:${{row.bg}};">${{htmlValue}}</td>`;
+          return `<td data-key="${{key}}"${{classAttr}} style="background-color:${{row.bg}};">${{htmlValue}}${{key === "title" ? flag : ""}}</td>`;
         }}).join("")}}</tr>`;
       }}).join("");
     }}
