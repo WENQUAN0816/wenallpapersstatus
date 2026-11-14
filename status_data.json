@@ -1699,14 +1699,14 @@
     "statusOrder": 0,
     "title": "相变材料赋能的多层粮仓自适应多温区控制：实验与数值结合研究",
     "qualityRisk": "",
-    "journalTrack": "Applied Energy (Rejected: APEN-D-26-04841) → Applied Thermal Engineering (Rejected: ATE-D-26-03583) → Physics of Fluids (Rejected: POF26-AR-07216; 2026-05-11)",
-    "submissionSystemInfo": "AIP Publishing PeerX / Physics of Fluids；https://pof.peerx-press.org/cgi-bin/main.plex；用户名 wenquan@hngm.edu.cn；稿号 POF26-AR-07216（ms_id 2118694）；2026-05-06 02:27 提交，2026-05-11 13:36 决定信发出，Current Stage “Decision Sent to Author”；核对时间 2026-11-15；来源 Author Tasks → Post Decision Manuscripts → Check Status。未存储密码。",
+    "journalTrack": "Applied Energy (Rejected: APEN-D-26-04841) → Applied Thermal Engineering (Rejected: ATE-D-26-03583) → Physics of Fluids (Rejected: POF26-AR-07216; 2026-05-12 01:36 +08:00)",
+    "submissionSystemInfo": "AIP Publishing PeerX / Physics of Fluids；https://pof.peerx-press.org/cgi-bin/main.plex；用户名 wenquan@hngm.edu.cn；稿号 POF26-AR-07216（ms_id 2118694）；2026-05-06 02:27（EDT）提交；决定信 2026-05-11 13:36 EDT = 2026-05-12 01:36 Asia/Shanghai，Current Stage “Decision Sent to Author”；核对时间 2026-11-15；来源 Author Tasks → Post Decision Manuscripts → Check Status。门户时间均按美东时区显示。未存储密码。",
     "loginInfo": "",
     "codexCode": "",
     "rejectionIndex": 3,
     "bg": "#f2f2f2",
     "plagiarism": false,
-    "updatedAt": "2026-05-11",
+    "updatedAt": "2026-05-12",
     "currentJournal": "",
     "similarity": "9.6%",
     "casXr": "",
@@ -1720,7 +1720,7 @@
     "correspondingAuthors": [
       "Quan Wen"
     ],
-    "situation": "待投稿。2026-11-15 登录 Physics of Fluids / PeerX（用户名 wenquan@hngm.edu.cn）复核 Post Decision Manuscripts → Check Status：POF26-AR-07216 “Adaptive Multi-Zone Temperature Control for Multi-Story Grain Warehouses Enabled by Phase-Change Materials: A Combined Experimental and Numerical Study”，Submission Date 06-May-2026 02:27:24，Current Stage “Decision Sent to Author”（Days in Folder 187），Decision Letter dated 11-May-2026 13:36:21。主编 Savvas G Hatzikiriakos 函件：稿件 “falls outside of the journal’s current scope”，建议转投 AIP Advances（门户转投链接已显示 Link Not Available）。2026-05-14 与 2026-05-16 收到 AIP 转投提醒邮件，未见作者接受转投的记录。此前 2026-05-08 初始质检修订提交（定义 PCM 与 COMSOL）转为历史记录。当前无该稿在投证据，回到待投稿。",
+    "situation": "待投稿。2026-11-15 登录 Physics of Fluids / PeerX（用户名 wenquan@hngm.edu.cn）复核 Post Decision Manuscripts → Check Status：POF26-AR-07216 “Adaptive Multi-Zone Temperature Control for Multi-Story Grain Warehouses Enabled by Phase-Change Materials: A Combined Experimental and Numerical Study”，Submission Date 06-May-2026 02:27:24（门户为美东时间），Current Stage “Decision Sent to Author”（Days in Folder 187）；Decision Letter 门户时间 11-May-2026 13:36:21（EDT），即 2026-05-12 01:36:21 Asia/Shanghai。主编 Savvas G Hatzikiriakos 函件：稿件 “falls outside of the journal’s current scope”，建议转投 AIP Advances（门户转投链接已显示 Link Not Available）。2026-05-14 与 2026-05-16 收到 AIP 转投提醒邮件，未见作者接受转投的记录。此前 2026-05-08 初始质检修订提交（定义 PCM 与 COMSOL）转为历史记录。当前无该稿在投证据，回到待投稿。",
     "impactSort": -1,
     "apc": ""
   },

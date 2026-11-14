@@ -572,8 +572,8 @@
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">相变材料赋能的多层粮仓自适应多温区控制：实验与数值结合研究</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Applied Energy (Rejected: APEN-D-26-04841) → Applied Thermal Engineering (Rejected: ATE-D-26-03583) → Physics of Fluids (Rejected: POF26-AR-07216; 2026-05-11)</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">AIP Publishing PeerX / Physics of Fluids；https://pof.peerx-press.org/cgi-bin/main.plex；用户名 wenquan@hngm.edu.cn；稿号 POF26-AR-07216（ms_id 2118694）；2026-05-06 02:27 提交，2026-05-11 13:36 决定信发出，Current Stage “Decision Sent to Author”；核对时间 2026-11-15；来源 Author Tasks → Post Decision Manuscripts → Check Status。未存储密码。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Applied Energy (Rejected: APEN-D-26-04841) → Applied Thermal Engineering (Rejected: ATE-D-26-03583) → Physics of Fluids (Rejected: POF26-AR-07216; 2026-05-12 01:36 +08:00)</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">AIP Publishing PeerX / Physics of Fluids；https://pof.peerx-press.org/cgi-bin/main.plex；用户名 wenquan@hngm.edu.cn；稿号 POF26-AR-07216（ms_id 2118694）；2026-05-06 02:27（EDT）提交；决定信 2026-05-11 13:36 EDT = 2026-05-12 01:36 Asia/Shanghai，Current Stage “Decision Sent to Author”；核对时间 2026-11-15；来源 Author Tasks → Post Decision Manuscripts → Check Status。门户时间均按美东时区显示。未存储密码。</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">3</td>
