@@ -715,6 +715,16 @@
 <td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">0</td>
 </tr>
 
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">马来西亚监狱老年服刑人员住区适老化环境评估：指标工具与 AHP 优先结构</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Cities (With Editor: JCIT-D-26-08628)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Elsevier 新投稿系统 submit.elsevier.com / 期刊代码 JCIT / Cities；稿号 JCIT-D-26-08628；Article type: Full Length Article；提交 2026-11-14 05:45 Asia/Shanghai（门户侧 Nov 13 2026 4:46:26 PM US Eastern）；确认页原文首句 &quot;Your manuscript has now been submitted&quot;；当前状态 With Editor；论文仓库 WENQUAN0816/paper-72-Age-Responsive-Environmental-Assessment-Older-Prisoners-Malaysia；未存储密码。</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">submit.elsevier.com；用户名 QuanWenUSM；显示名 Quan Wen；注册邮箱 wenquan@student.usm.my</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">0</td>
+</tr>
+
+
 </tbody>
 
 </table>
