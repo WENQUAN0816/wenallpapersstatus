@@ -359,7 +359,7 @@ function Write-IndexPage {
     foreach ($Status in $ActiveStatuses) {
         $Total += $Counts[$Status.Name]
     }
-    $Today = Get-Date -Format 'yyyy-MM-dd'
+    $Today = [datetime]::UtcNow.AddHours(8).ToString('yyyy-MM-dd')  # Asia/Shanghai (UTC+8, no DST); keeps CI (UTC runner) on Beijing date
 
     $SummaryCards = ($ActiveStatuses | ForEach-Object {
         $Count = $Counts[$_.Name]
@@ -616,7 +616,7 @@ $PaperTable
 }
 
 $Readme = [System.IO.File]::ReadAllText($ReadmePath, $Utf8NoBom)
-$Today = Get-Date -Format 'yyyy-MM-dd'
+$Today = [datetime]::UtcNow.AddHours(8).ToString('yyyy-MM-dd')  # Asia/Shanghai (UTC+8, no DST); keeps CI (UTC runner) on Beijing date
 $Readme = [regex]::Replace($Readme, '(?m)^> \*\*最后更新：\*\* \d{4}-\d{2}-\d{2}', "> **最后更新：** $Today", 1)
 $Readme = [regex]::Replace($Readme, '(?s)\s*<style>.*?</style>\s*', "$NewLine$NewLine", 1)
 $Readme = $Readme.Replace(
