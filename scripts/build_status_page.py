@@ -991,13 +991,12 @@ def render(rows):
       document.getElementById("tableHead").innerHTML = cols.map(([key, label]) => `<th data-key="${{key}}">${{label}}</th>`).join("");
       document.getElementById("tableBody").innerHTML = sortedRows().map(row => {{
         const rowClass = row.plagiarism ? ' class="row-plagiarism"' : "";
-        const flag = row.plagiarism ? `<div class="plagiarism-flag">🚫 IEEE Access 判定剽窃</div>` : "";
         return `<tr${{rowClass}} style="background-color:${{row.bg}};">${{cols.map(([key]) => {{
           const value = key === "status" ? row.statusDot : row[key];
           const htmlValue = key === "authors" ? formatAuthors(row) : key === "qualityRisk" ? qualityRiskMarkup(value, row) : cell(value);
           const extraClass = key === "similarity" ? similarityClass(value) : "";
           const classAttr = extraClass ? ` class="${{extraClass}}"` : "";
-          return `<td data-key="${{key}}"${{classAttr}} style="background-color:${{row.bg}};">${{htmlValue}}${{key === "title" ? flag : ""}}</td>`;
+          return `<td data-key="${{key}}"${{classAttr}} style="background-color:${{row.bg}};">${{htmlValue}}</td>`;
         }}).join("")}}</tr>`;
       }}).join("");
     }}
