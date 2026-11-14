@@ -11,6 +11,11 @@ ROOT = Path(__file__).resolve().parents[1]
 HOME = Path.home()
 
 
+def beijing_today():
+    """Dashboard date in Asia/Shanghai (UTC+8). CI runs on UTC, so date.today() would lag a day."""
+    return (dt.datetime.utcnow() + dt.timedelta(hours=8)).date().isoformat()
+
+
 STATUS_META = {
     "⚪": {"label": "待投稿", "order": 0, "color": "#64748b", "bg": "#f2f2f2"},
     "💖": {"label": "需修订", "order": 1, "color": "#f43f5e", "bg": "#ffd9ec"},
@@ -643,7 +648,7 @@ def enrich_rows(rows):
     quality_risk_by_title = parse_quality_risk_info()
     row_overrides_by_title = parse_row_overrides()
     existing_updated_at = existing_updated_at_by_title()
-    today = dt.date.today().isoformat()
+    today = beijing_today()
     for row in rows:
         row_override = row_overrides_by_title.get(row["title"], {})
         if row_override:
@@ -756,7 +761,7 @@ def render(rows):
     counts = {meta["label"]: 0 for meta in STATUS_META.values()}
     for row in rows:
         counts[row["status"]] = counts.get(row["status"], 0) + 1
-    today = dt.date.today().isoformat()
+    today = beijing_today()
     rows_json = json.dumps(rows, ensure_ascii=False)
     legend_rows = "\n".join(
         f'<tr><td>{dot}</td><td>{meta["label"]}</td><td>{counts.get(meta["label"], 0)}</td></tr>'
