@@ -499,7 +499,7 @@
 <tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Work-role participation and healthy-ageing transitions across harmonized ageing cohorts</td>
-<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">BMC Medicine (Rejected: 34b8a99b-c845-4dd8-921f-0808d0a65882; SNAPP 2026-08-22) → Nature Communications (2026-11-01 MTS upload ms_id 789687 halted; NCOMMS-26-091824 absent from account)</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">BMC Medicine (Rejected: 34b8a99b-c845-4dd8-921f-0808d0a65882; SNAPP 2026-08-22) → Nature Communications (2026-11-01 MTS ms_id 789687 uploaded; NCOMMS-26-091824 not present in account, pending confirmation)</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Nature Communications MTS；https://mts-ncomms.nature.com/cgi-bin/main.plex；作者 WENQUAN0817（Dr QUAN WEN，覆盖 wenquan@student.usm.my 与 wenquan@hngm.edu.cn）；2026-11-15 核对：Post Decision 仅 3 篇（NCOMMS-26-049136 / 050520 / 053023），Live Manuscripts 为空，ms_id 789687 页面不存在；NCOMMS-26-091824 无门户记录、无确认邮件。未存储密码。</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>

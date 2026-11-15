@@ -1433,7 +1433,7 @@
       "Mazran Ismail",
       "Muhammad Hafeez Abdul Nasir"
     ],
-    "situation": "待投稿。2026-11-15 登录 Journal of Advanced Research / Editorial Manager（Elsevier SSO）复核 Submissions with a Decision：JARE-D-26-08998 “Frailty is not a one-way path: reversible transitions across six international ageing cohorts”，Initial Date Submitted Nov 9 2026 8:21AM（站点 -05:00），Status Date Nov 12 2026 1:57AM，Current Status “Completed - Reject”，Final Disposition “Reject”。投稿时系统返回的 temporary submission number 为 JARE-S-26-12834（docID 115809），正式稿号为 JARE-D-26-08998，二者为同一稿。决定信 2026-11-12 01:57（站点时间）由 Editor in Chief Hussein Khaled（khaledh@cu.edu.eg）署名，原文：“we are unable to review your manuscript for publication in Journal of Advanced Research … your manuscript will undergo no further review”，即预筛（suitability / novelty / impact / broad readership / presentation）阶段直接拒稿，未送外审；并注明该刊决定为最终决定、被拒稿件不再复审。此前 2026-11-09 投稿确认与 Pending Technical Assessment 转为历史记录。当前无该稿在投证据，回到待投稿。",
+    "situation": "待投稿。2026-11-15 登录 Journal of Advanced Research / Editorial Manager（Elsevier SSO，账号 wenquan@student.usm.my）复核 Submissions with a Decision：JARE-D-26-08998 “Frailty is not a one-way path: reversible transitions across six international ageing cohorts”，Initial Date Submitted Nov 9 2026 8:21AM（站点 -05:00，即 2026-11-09 21:21 +08:00），Status Date Nov 12 2026 1:57AM（站点 -05:00，即 2026-11-12 14:57 +08:00），Current Status “Completed - Reject”，Final Disposition “Reject”。此前记录的 temporary submission number JARE-S-26-12834（docID 115809）与正式稿号 JARE-D-26-08998 为同一稿（题名与投稿时间完全一致）。决定信由 Editor in Chief Hussein Khaled（khaledh@cu.edu.eg）署名，原文：“we are unable to review your manuscript for publication in Journal of Advanced Research … your manuscript will undergo no further review”，即编辑部预筛（suitability for the journal / novelty / impact / broad readership / quality of presentation）阶段直接拒稿，未送外审；并注明该刊决定为最终决定、被该刊拒过的稿件不再复审。此前 2026-11-09 投稿确认与 Pending Technical Assessment 转为历史记录。当前无该稿在投证据，回到待投稿。",
     "plagiarism": false,
     "impactSort": -1,
     "apc": ""
@@ -1443,7 +1443,7 @@
     "status": "待投稿",
     "statusOrder": 0,
     "title": "Work-role participation and healthy-ageing transitions across harmonized ageing cohorts",
-    "journalTrack": "BMC Medicine (Rejected: 34b8a99b-c845-4dd8-921f-0808d0a65882; SNAPP 2026-08-22) → Nature Communications (2026-11-01 MTS upload ms_id 789687 halted; NCOMMS-26-091824 absent from account)",
+    "journalTrack": "BMC Medicine (Rejected: 34b8a99b-c845-4dd8-921f-0808d0a65882; SNAPP 2026-08-22) → Nature Communications (2026-11-01 MTS ms_id 789687 uploaded; NCOMMS-26-091824 not present in account, pending confirmation)",
     "submissionSystemInfo": "Nature Communications MTS；https://mts-ncomms.nature.com/cgi-bin/main.plex；作者 WENQUAN0817（Dr QUAN WEN，覆盖 wenquan@student.usm.my 与 wenquan@hngm.edu.cn）；2026-11-15 核对：Post Decision 仅 3 篇（NCOMMS-26-049136 / 050520 / 053023），Live Manuscripts 为空，ms_id 789687 页面不存在；NCOMMS-26-091824 无门户记录、无确认邮件。未存储密码。",
     "loginInfo": "",
     "codexCode": "",
@@ -1466,7 +1466,7 @@
       "Mazran Ismail",
       "Nurdiana Zainol Abidin"
     ],
-    "situation": "待投稿（门户未落地，需重投）。英文题名 “Work-role participation and healthy-ageing transitions across harmonized ageing cohorts”。2026-11-15 登录 Nature Communications MTS（mts-ncomms.nature.com，账号 WENQUAN0817 / Dr QUAN WEN，同时覆盖 wenquan@student.usm.my 与 wenquan@hngm.edu.cn）逐项核对：（1）Post Decision Manuscripts 仅 3 篇——NCOMMS-26-049136（Digital-social connectedness，Decision sent to author）、NCOMMS-26-050520（Reversible proxy frailty transitions，Decision sent to author）、NCOMMS-26-053023（Beyond retirement: work-role states…，Decision sent to author）；（2）Live Manuscripts 目录返回 “Please press HOME to continue.  There are no manuscripts pending.”，账户内无在审稿件；（3）直接访问 ms_id=789687 的 view_ms / apprv_ms 均返回 “Sorry, that page isn't available!”；（4）Springer Nature Researcher Home（53 条）无任何 Nature Communications 记录（该 hub 不覆盖 MTS 期刊，仅作旁证）；（5）Gmail 全库含垃圾箱检索 NCOMMS-26-091824 / 789687 均 0 条，从未收到收稿确认邮件。浏览器历史显示 2026-11-01 08:46–09:04 多次 upload.plex?ms_id=789687 上传，09:32 打开 view_ms，09:33 走 continue_halted_submission，09:34 打开 apprv_ms，09:35 返回 main.plex 首页，即该次投稿停在“批准生成 PDF”之后，未在账户内形成可查稿件。结论：此前记录的 NCOMMS-26-091824 与“内审中”缺少门户与邮件证据，无法确认已成功提交；按现有证据回到待投稿，需重新提交并留存确认页稿号截图。历史：BMC Medicine 拒稿（34b8a99b-c845-4dd8-921f-0808d0a65882，SNAPP 显示 Submission has been rejected 22 August 2026）。",
+    "situation": "待核实（门户无记录，暂按待投稿处理）。英文题名 “Work-role participation and healthy-ageing transitions across harmonized ageing cohorts”。2026-11-15 登录 Nature Communications MTS（mts-ncomms.nature.com，账号 WENQUAN0817 / Dr QUAN WEN，覆盖 wenquan@student.usm.my 与 wenquan@hngm.edu.cn）核对：（1）Author Tasks 只有 “Submit Manuscript” 与 “Post Decision Manuscripts (3)”，没有 Live Manuscripts 入口；（2）Post Decision 三篇为 NCOMMS-26-049136（Digital-social connectedness）、NCOMMS-26-050520（Reversible proxy frailty transitions）、NCOMMS-26-053023（Beyond retirement: work-role states…），均 Decision sent to author，不含本稿；（3）Live Manuscripts 目录返回 “Please press HOME to continue.  There are no manuscripts pending.”；（4）直接访问 ms_id=789687 的 view_ms 与 apprv_ms 均返回 “Sorry, that page isn't available!”。但另有两项反向证据，尚不能据此断言“从未提交”：（a）本机 Chrome 历史显示 2026-11-01 06:46–09:04 有 10 次 upload.plex?ms_id=789687 上传，09:32 view_ms、09:33 continue_halted_submission、09:34 apprv_ms，说明当时确已走到“批准生成 PDF”；（b）论文仓库 2026-11-04 提交 e9a99ce，“Add frozen LaTeX source snapshot for NCOMMS-26-091824 R1 (2026-11-04)”，说明当时按 R1 修回在准备材料。邮件侧未能独立复核：该稿收稿确认按 2026-11-01 记录发往通讯作者 wenquan@hngm.edu.cn（腾讯企业邮箱），本机 Gmail MCP 只覆盖 wenquan6328@gmail.com，该邮箱检索 NCOMMS-26-091824 / 789687 为 0 条只代表 Gmail 侧。结论：门户（本账号）内查不到该稿的任何在审或已决记录，但存在上传历史与 R1 快照两项反向证据，需用户确认是否另有账号或已被编辑部删除记录。在确认前按待投稿处理，并在重投时留存确认页稿号截图。历史：BMC Medicine 拒稿（34b8a99b-c845-4dd8-921f-0808d0a65882，SNAPP 显示 Submission has been rejected 22 August 2026）。",
     "plagiarism": false,
     "impactSort": -1,
     "apc": ""
@@ -1995,7 +1995,7 @@
     "cas": "",
     "xr": "",
     "jcr": "Q1",
-    "impactFactor": "4.5",
+    "impactFactor": "3.8",
     "indexType": "SCIE&SSCI",
     "recommendedJournals": "",
     "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
@@ -2006,7 +2006,7 @@
     ],
     "situation": "已接受。英文题名为 “An Older HIV-Infected Individual-Centric Framework for Age-Friendly Living Environment Assessment in China: Integrating Topic Modeling, Delphi Consensus, and Hierarchical Needs Analysis”。Submission ID c4ee9984-966a-4c9f-a548-2341676a77aa。2026-08-04 02:00 Asia/Shanghai，腾讯企业邮箱正式接受邮件写明 manuscript has been accepted for publication in BMC Geriatrics；Gmail Spam 有同一接受决定。2026-08-06 Gmail 收到 proofs，并有签署 publishing agreement 的邮件；DOI 为 10.1186/s12877-026-08090-6。论文仓库已同步接受状态，commit 15d95c34785ed70bc4a0144e93fc0bd1a6ab794d。",
     "plagiarism": false,
-    "impactSort": 4.5,
+    "impactSort": 3.8,
     "apc": "原价 EUR 2,340.90 ≈ ¥17,261｜自付 是 ¥17,261｜USM 补助 已申请 RM 8,000（¥13,058）"
   },
   {
@@ -2090,7 +2090,7 @@
     "cas": "",
     "xr": "",
     "jcr": "Q1",
-    "impactFactor": "4.1",
+    "impactFactor": "3.4",
     "indexType": "SCIE&SSCI",
     "recommendedJournals": "",
     "authors": "Quan Wen；Yanting Wu；Frontiers portal 名单如前；最终 LaTeX 不一致：Quan Wen、Dr. Mazran Ismail、Dr. Muhammad Hafeez Abdul Nasir、Yanting Wu，前三位为通讯作者，portal 作者同步请求待处理",
@@ -2099,7 +2099,7 @@
     ],
     "situation": "已接受。Frontiers in Public Health / Aging and Public Health 稿号 1873646，最终英文题名为 “Literature-derived criteria and expert-perceived influence structure for age-friendly living environments among older adults living with HIV in China: a text-mining, fuzzy Delphi, and fuzzy DEMATEL study”。2026-05-06 正式投稿；2026-07-10 06:31 Review Forum 显示 Version 2 提交成功。Version 2 删除因果表述和不受支持的 affiliation-based regional EWM，替换不受支持引用，补充完整 43 项 FDM 表与敏感性分析，并按标准零对角线重算 FDEMATEL。2026-07-16 15:09:11 Asia/Shanghai 收到正式录用邮件 “Fantastic news: your article has been accepted”（Gmail messageId 19f69c222aea8e1c），确认稿件已接受并进入 production；同日收到 Frontiers invoice，2026-07-18 已发送 authorship change form 签名请求。Frontiers portal 当前作者为 Quan Wen（corresponding）、Yanting Wu（non-corresponding）；最终 LaTeX 作者为 Quan Wen、Dr. Mazran Ismail、Dr. Muhammad Hafeez Abdul Nasir、Yanting Wu，前三位为通讯作者，portal 同步仍待处理。最终修订记录在论文仓库 commit 1acc520，录用状态记录在 commit 3dfda39。",
     "plagiarism": false,
-    "impactSort": 4.1,
+    "impactSort": 3.4,
     "apc": "原价 CHF 2,047.50 ≈ ¥16,294｜自付 否（他人付款）｜未申请补助"
   },
   {
@@ -2186,7 +2186,7 @@
     "cas": "",
     "xr": "",
     "jcr": "Q1",
-    "impactFactor": "4.5",
+    "impactFactor": "3.8",
     "indexType": "SCIE&SSCI",
     "recommendedJournals": "",
     "authors": "Quan Wen；Dr. Mazran Ismail；Dr. Muhammad Hafeez Abdul Nasir",
@@ -2197,7 +2197,7 @@
     ],
     "situation": "",
     "plagiarism": false,
-    "impactSort": 4.5,
+    "impactSort": 3.8,
     "apc": "原价 EUR 2,259.90 ≈ ¥16,664｜自付 是 ¥16,664｜USM 补助 已申请 RM 8,000（¥13,058）"
   },
   {
@@ -2219,7 +2219,7 @@
     "cas": "",
     "xr": "",
     "jcr": "Q1",
-    "impactFactor": "2.4",
+    "impactFactor": "2.0",
     "indexType": "SSCI",
     "recommendedJournals": "",
     "authors": "Wenjing Xu；Dr. Mazran Ismail；Syafizal Shahruddin；Wen Quan；Yingrui Li",
@@ -2228,7 +2228,7 @@
     ],
     "situation": "",
     "plagiarism": false,
-    "impactSort": 2.4,
+    "impactSort": 2.0,
     "apc": "官网价 USD 2,400 ≈ ¥16,013（无付款记录）"
   },
   {
