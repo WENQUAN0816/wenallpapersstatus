@@ -36,11 +36,11 @@
 <td valign="top" width="34%">
 <table width="100%">
 <tr><th>状态</th><th>数量</th></tr>
-<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>45</td></tr>
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;"><td>&#9898; 待投稿</td><td>47</td></tr>
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;"><td>&#128150; 需修订</td><td>1</td></tr>
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>10</td></tr>
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>2</td></tr>
-<tr bgcolor="#dbeafe" style="background-color:#dbeafe;"><td>&#9989; 已接受</td><td>14</td></tr>
+<tr bgcolor="#fff8d9" style="background-color:#fff8d9;"><td>&#128993; 内审中</td><td>8</td></tr>
+<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;"><td>&#128994; 外审中</td><td>1</td></tr>
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;"><td>&#9989; 已接受</td><td>15</td></tr>
 <tr><td><strong>合计</strong></td><td><strong>72</strong></td></tr>
 </table>
 </td>
@@ -486,6 +486,26 @@
 <td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">3</td>
 </tr>
 
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Reversibility of frailty across six international ageing cohorts: a longitudinal multi-cohort study</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Nature Communications (Rejected without external review: NCOMMS-26-050520) → The Lancet Healthy Longevity (Rejected: THELANCETHEALTHYLONGEVITY-D-26-00751 / THELANCETHEALTHYLONGEVITY-S-26-00967; decision 2026-06-29) → BMC Medicine (Rejected after desk/technical editorial assessment; SNAPP id 46cd20af-e62d-4038-b983-5c2a0d1eff6d) → Age and Ageing (ScholarOne draft/upload preparation only; not final submitted; 2026-07-05) → npj Digital Medicine (Historical amended submission: 75c3370b-7b4e-4953-b837-767f53406a80; 2026-08-12) → npj Aging (Rejected: 536d3f2f-d37c-4d89-bd0e-2035b36f03ae; 2026-09-11 Asia/Shanghai) → Journal of Advanced Research (Rejected: JARE-D-26-08998; 2026-11-12)</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Elsevier Editorial Manager / Journal of Advanced Research；https://www.editorialmanager.com/jare/（Elsevier SSO 登录）；稿号 JARE-D-26-08998（投稿时 temporary no. JARE-S-26-12834；docID 115809）；2026-11-09 08:21（-05:00）提交，2026-11-12 01:57（-05:00）Completed - Reject；核对时间 2026-11-15；来源 Author Main Menu → Submissions with a Decision → View Decision Letter。未存储密码。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">7</td>
+</tr>
+
+<tr bgcolor="#f2f2f2" style="background-color:#f2f2f2;">
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top; white-space: nowrap;">&#9898;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Work-role participation and healthy-ageing transitions across harmonized ageing cohorts</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">BMC Medicine (Rejected: 34b8a99b-c845-4dd8-921f-0808d0a65882; SNAPP 2026-08-22) → Nature Communications (2026-11-01 MTS upload ms_id 789687 halted; NCOMMS-26-091824 absent from account)</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">Nature Communications MTS；https://mts-ncomms.nature.com/cgi-bin/main.plex；作者 WENQUAN0817（Dr QUAN WEN，覆盖 wenquan@student.usm.my 与 wenquan@hngm.edu.cn）；2026-11-15 核对：Post Decision 仅 3 篇（NCOMMS-26-049136 / 050520 / 053023），Live Manuscripts 为空，ms_id 789687 页面不存在；NCOMMS-26-091824 无门户记录、无确认邮件。未存储密码。</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#f2f2f2" style="background-color:#f2f2f2; vertical-align: top;">1</td>
+</tr>
+
 <tr bgcolor="#ffd9ec" style="background-color:#ffd9ec;">
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top; white-space: nowrap;">&#128150;</td>
 <td bgcolor="#ffd9ec" style="background-color:#ffd9ec; vertical-align: top;">智慧养老系统中智能情绪监测与干预的双通道注意力机制</td>
@@ -502,24 +522,6 @@
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
 <td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">0</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Reversibility of frailty across six international ageing cohorts: a longitudinal multi-cohort study</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Nature Communications (Rejected without external review: NCOMMS-26-050520) → The Lancet Healthy Longevity (Rejected: THELANCETHEALTHYLONGEVITY-D-26-00751 / THELANCETHEALTHYLONGEVITY-S-26-00967; decision 2026-06-29) → BMC Medicine (Rejected after desk/technical editorial assessment; SNAPP id 46cd20af-e62d-4038-b983-5c2a0d1eff6d) → Age and Ageing (ScholarOne draft/upload preparation only; not final submitted; 2026-07-05) → npj Digital Medicine (Historical amended submission: 75c3370b-7b4e-4953-b837-767f53406a80; 2026-08-12) → npj Aging (Rejected: 536d3f2f-d37c-4d89-bd0e-2035b36f03ae; 2026-09-11 Asia/Shanghai) → Journal of Advanced Research (JARE-S-26-12834; submitted 2026-11-09 21:21 GMT+8; Pending Technical Assessment)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">npj Aging；稿号/Submission ID：536d3f2f-d37c-4d89-bd0e-2035b36f03ae；2026-10-04 核对后状态：待投稿。2026-09-11 01:15:10 Asia/Shanghai 收到 npj Aging 拒稿决定（Gmail Spam，messageId 1a08c513d7caf0f4；原始 UTC 日期 2026-09-10），明确 rejected for publication，未在正文提供具体审稿意见或拒稿理由。同日转投推荐不是有效新投稿。按完整英文题名、Submission ID、状态仓库和论文仓库检索，未发现之后有效收稿确认。此前 npj Digital Medicine v.1.1 记录属于历史；现有证据不足以确认其具体结束时间或到 npj Aging 的提交时间，不编造缺失日期。 历史门户与账户资料（保留原验证时间，不表示本次已重新核验门户）：Springer Nature SNAPP / npj Digital Medicine；Submission ID：75c3370b-7b4e-4953-b837-767f53406a80；technical-check draft ID：7ef702e8-21ff-401d-a4cb-a56b24a1c820；版本 v.1.1；2026-08-12 amended submission 成功页显示 Submission received，详情页显示 We&#39;ve received your amended submission and are now running technical checks，当前 Technical check - in progress。ED.1 已明确 Tables 1-3 正文引用位置，ED.2 已明确 Figures 1-4 正文引用位置，并移除 reviewer-facing 行号激活项。替换 ZIP：NC02_NPJDM_latex_source_package_technical_fix.zip，SHA256：5FECDCF5E238F17D8D6E9D4FF7690EC34FED2BC49503C668719A93D425004045；35 页门户 reviewer PDF SHA256：90594FA1200C7959AA659E534689F01B014C2E0258466BED64974BB4233E9296。投稿系统用户名：未显示独立 username 字段；账号显示名：QUAN WEN；投稿系统注册邮箱：wenquan6328@gmail.com；Google 已绑定至 wenquan6328@gmail.com；ORCID 未绑定（Linked accounts 页面显示 Link，无 ORCID iD）。投稿系统作者（以门户为准）：Quan Wen（primary corresponding，wenquan@hngm.edu.cn）、Mazran Ismail（corresponding，mazran@usm.my）、Muhammad Hafeez Abdul Nasir（corresponding，hafeez.abdnasir@usm.my）、Nurdiana Zainol Abidin（non-corresponding，nurdianaabidin@usm.my）；门户与 LaTeX 作者身份、顺序和通讯角色一致，无实质性不一致；门户不显示 Dr. 仅属格式差异。账户注册邮箱与论文作者邮箱分开记录。论文仓库：https://github.com/WENQUAN0816/NC02-Frailty-intrinsic-capacity-reversibility-trajectories，v1.1 归档 commit：c3d5850d5b9f717c49da5692fe67a2037ae9d37b；公共复现仓库 commit：3bb3d05。投稿详情：https://submission.springernature.com/submission-details/75c3370b-7b4e-4953-b837-767f53406a80；专用 CDP 端口 9228 已关闭；未存储密码、cookie、token 或会话文件。</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">6</td>
-</tr>
-
-<tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top; white-space: nowrap;">&#128993;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">Work-role participation and healthy-ageing transitions across harmonized ageing cohorts</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">BMC Medicine (Rejected: 34b8a99b-c845-4dd8-921f-0808d0a65882; user confirmation 2026-10-04) → Nature Communications (Submitted: NCOMMS-26-091824; 2026-11-01)</td><td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">内审中（2026-11-01 正式提交 Nature Communications）。英文题名：Work-role participation and healthy-ageing transitions across harmonized ageing cohorts。2026-11-01 Asia/Shanghai 通过 Nature Communications MTS 提交成功，稿号 NCOMMS-26-091824（MTS 内部 ms_id 789687）；门户确认页原文 “Thank you for your submission. (NCOMMS-26-091824).”，提交后作者首页由 Continue Partial Submission 变为 Live Manuscripts (1)。上传文件 nc04_manuscript.pdf：21 页，476,729 B，作者 5 人（Quan Wen 通讯；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Nurdiana Zainol Abidin；Yanting Wu 开封市中心医院&#183;开封市临床医学重点实验室），摘要 158 词；声明：无利益冲突、非临床试验、single-anonymised、未申请 APC 减免、In Review 未参加。通讯作者邮箱 wenquan@hngm.edu.cn 已收到收稿确认邮件（用户 2026-11-01 确认，本次未代读）。历史：BMC Medicine 拒稿（Submission ID 34b8a99b-c845-4dd8-921f-0808d0a65882，用户 2026-10-04 确认）。</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#fff8d9" style="background-color:#fff8d9; vertical-align: top;">1</td>
 </tr>
 
 <tr bgcolor="#fff8d9" style="background-color:#fff8d9;">
@@ -597,14 +599,14 @@
 <td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">0</td>
 </tr>
 
-<tr bgcolor="#e8f9ee" style="background-color:#e8f9ee;">
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top; white-space: nowrap;">&#128994;</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">中国健康老龄化社区评估：基于自然语言处理的多准则框架</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">Journal of Health, Population and Nutrition(Submission ID 972b9083;v.3.0 2026-11-13,Peer review)</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;"></td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">投稿系统：Springer Nature SNAPP / Journal of Health, Population and Nutrition；用户名：无独立用户名（账户以显示名与邮箱标识）；显示名：QUAN WEN；注册邮箱：wenquan6328@gmail.com（账户仅此 1 个登录邮箱）；Google：已绑定 wenquan6328@gmail.com；ORCID：未绑定（Linked accounts 页 ORCID 行显示 Link）；账户页：https://my-profile.springernature.com/manage-your-account；核对时间：2026-11-13；未存储密码、cookie、token 或会话文件。</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">&nbsp;</td>
-<td bgcolor="#e8f9ee" style="background-color:#e8f9ee; vertical-align: top;">0</td>
+<tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top; white-space: nowrap;">&#9989;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">中国健康老龄化社区评估：基于自然语言处理的多准则框架</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Journal of Health, Population and Nutrition (Accepted: 972b9083-6160-4ad9-9489-b80cdc8de744; 2026-11-15)</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">Springer Nature SNAPP / Journal of Health, Population and Nutrition；Submission ID 972b9083-6160-4ad9-9489-b80cdc8de744（v.3.0）；通讯作者 QUAN WEN / wenquan@hngm.edu.cn；2026-11-14 accepted、2026-11-15 门户 Last update，Publishing and rights in progress；核对时间 2026-11-15；来源 link.springernature.com/home/submissions 与 submission-details 页。未存储密码。</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">投稿系统：Springer Nature SNAPP / Journal of Health, Population and Nutrition；用户名：无独立用户名（账户以显示名与邮箱标识）；显示名：QUAN WEN；注册邮箱：wenquan6328@gmail.com（账户仅此 1 个登录邮箱）；Google：已绑定 wenquan6328@gmail.com；ORCID：未绑定（Linked accounts 页 ORCID 行显示 Link）；账户页：https://my-profile.springernature.com/manage-your-account；核对时间：2026-11-13；未存储密码、cookie、token 或会话文件。</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">&nbsp;</td>
+<td bgcolor="#dbeafe" style="background-color:#dbeafe; vertical-align: top;">0</td>
 </tr>
 
 <tr bgcolor="#dbeafe" style="background-color:#dbeafe;">
